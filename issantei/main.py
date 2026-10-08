@@ -45,6 +45,16 @@ def save(path: Path, data):
     path.write_text(json.dumps(data, ensure_ascii=False, indent=1), "utf-8")
 
 
+def post_prob(now: datetime, st: dict) -> float:
+    """前回の起動から間が空いたぶん、呟く確率を上げる（GitHub側の遅れや取りこぼしを埋める）。"""
+    try:
+        gap = (now - datetime.fromisoformat(st["last_tick"])).total_seconds() / 60
+    except (KeyError, TypeError, ValueError):
+        gap = 15
+    gap = max(5.0, min(gap, 60.0))
+    return 1 - (1 - POST_PROB) ** (gap / 15)
+
+
 def decide_scene(now: datetime, st: dict, rng: random.Random) -> str | None:
     h, m = now.hour, now.minute
     if h >= SLEEP or h < WAKE:                                  # 就寝中
@@ -57,7 +67,7 @@ def decide_scene(now: datetime, st: dict, rng: random.Random) -> str | None:
         return "morning"
     if h == SLEEP - 1 and m >= 40 and not st["goodnight_done"]:
         return "goodnight"
-    if rng.random() > POST_PROB:
+    if rng.random() > post_prob(now, st):
         return None
     if now.weekday() == 4 and h >= 19 and rng.random() < 0.5:  # 金曜の夜はバー
         return "bar"
@@ -102,6 +112,7 @@ def tick(now: datetime, llm, fixtures: Path | None = None, force: bool = False) 
         st["mood"] = {k: round(v * 0.5 + DEFAULT_STATE["mood"][k] * 0.5, 3) for k, v in st["mood"].items()}
 
     scene = decide_scene(now, st, rng)
+    st["last_tick"] = now.isoformat()
     if scene is None and force and WAKE <= now.hour < SLEEP:
         scene = "regular"
     if scene is None:

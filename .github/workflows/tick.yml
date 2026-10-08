@@ -2,7 +2,8 @@ name: 一傘亭
 
 on:
   schedule:
-    - cron: "*/15 * * * *"   # 15分ごと（GitHubの都合で数分〜十数分遅れることがある）
+    # 15分ごと。GitHubは毎時0分前後が混み、遅れたり取りこぼしたりするので、4分ずらしてある
+    - cron: "4,19,34,49 * * * *"
   workflow_dispatch:          # 手動でも動かせる
 
 permissions:
