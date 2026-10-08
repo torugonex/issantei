@@ -8,6 +8,7 @@ from __future__ import annotations
 
 import argparse
 import json
+import os
 import random
 from datetime import datetime, timedelta
 from pathlib import Path
@@ -162,7 +163,9 @@ def main():
     ap.add_argument("--force", action="store_true", help="確率に関係なく呟かせる（起きている時間のみ）")
     a = ap.parse_args()
     now = datetime.fromisoformat(a.now).replace(tzinfo=JST) if a.now else datetime.now(JST)
-    rec = tick(now, FakeLLM() if a.dry_run else ClaudeLLM(), a.fixtures, a.force)
+    # GitHubの「Run workflow」で手動実行したときは、確かめやすいよう必ず呟かせる
+    force = a.force or os.environ.get("GITHUB_EVENT_NAME") == "workflow_dispatch"
+    rec = tick(now, FakeLLM() if a.dry_run else ClaudeLLM(), a.fixtures, force)
     print(json.dumps(rec, ensure_ascii=False) if rec else f"{now:%H:%M} 今回は呟かない")
 
 
