@@ -169,5 +169,30 @@ def main():
     print(json.dumps(rec, ensure_ascii=False) if rec else f"{now:%H:%M} 今回は呟かない")
 
 
+def _explain(ex: Exception) -> str:
+    """失敗の理由を、GitHubの画面で読める日本語にする（キーの中身は出さない）。"""
+    import urllib.error
+    if isinstance(ex, KeyError) and "ANTHROPIC_API_KEY" in str(ex):
+        return "APIキーが見つかりません。Secretsに ANTHROPIC_API_KEY という名前で登録されているか確かめてください。"
+    if isinstance(ex, urllib.error.HTTPError) and "anthropic" in (ex.url or ""):
+        try:
+            detail = json.loads(ex.read()).get("error", {}).get("message", "")
+        except Exception:
+            detail = ""
+        hint = {401: "APIキーが正しくないか、無効になっています。",
+                400: "リクエストが受け付けられませんでした（残高不足やモデル名の誤りのことがあります）。",
+                403: "このキーでは使えない操作です。",
+                404: "モデル名が見つかりません。",
+                429: "利用の上限に達しました。少し待つか、上限を確かめてください。",
+                529: "Anthropic側が混み合っています。次の回で動くはずです。"}.get(ex.code, "")
+        return f"Claude APIがエラー {ex.code} を返しました。{hint} {detail}".strip()
+    return f"{type(ex).__name__}: {ex}"
+
+
 if __name__ == "__main__":
-    main()
+    try:
+        main()
+    except Exception as ex:
+        msg = _explain(ex)
+        print(f"::error title=一傘亭::{msg}")
+        raise
