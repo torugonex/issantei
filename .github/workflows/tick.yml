@@ -2,9 +2,14 @@ name: 一傘亭
 
 on:
   schedule:
-    # 15分ごと。GitHubは毎時0分前後が混み、遅れたり取りこぼしたりするので、4分ずらしてある
+    # 予備の定時実行。GitHub側でしばしば取りこぼされるので、主役は外部の時計（README参照）
     - cron: "4,19,34,49 * * * *"
-  workflow_dispatch:          # 手動でも動かせる
+  workflow_dispatch:          # 手動、または外部の時計（cron-job.org）から起こす
+    inputs:
+      force:
+        description: "確率に関係なく必ず呟かせる（確認用）"
+        type: boolean
+        default: false
 
 permissions:
   contents: write
@@ -28,6 +33,7 @@ jobs:
         env:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
           ISSANTEI_MODEL: ${{ vars.ISSANTEI_MODEL }}
+          ISSANTEI_FORCE: ${{ inputs.force }}
         run: python -m issantei.main
 
       - name: 結果を保存

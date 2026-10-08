@@ -174,8 +174,9 @@ def main():
     ap.add_argument("--force", action="store_true", help="確率に関係なく呟かせる（起きている時間のみ）")
     a = ap.parse_args()
     now = datetime.fromisoformat(a.now).replace(tzinfo=JST) if a.now else datetime.now(JST)
-    # GitHubの「Run workflow」で手動実行したときは、確かめやすいよう必ず呟かせる
-    force = a.force or os.environ.get("GITHUB_EVENT_NAME") == "workflow_dispatch"
+    # 「Run workflow」で force にチェックを入れたときだけ必ず呟かせる。
+    # 外部の時計（cron-job.org）からの起動は、ふだんどおり確率で呟く
+    force = a.force or os.environ.get("ISSANTEI_FORCE", "").lower() == "true"
     rec = tick(now, FakeLLM() if a.dry_run else ClaudeLLM(), a.fixtures, force)
     print(json.dumps(rec, ensure_ascii=False) if rec else f"{now:%H:%M} 今回は呟かない")
 

@@ -48,6 +48,28 @@ Pythonの標準ライブラリだけで動きます（追加のインストー�
 
 あとは15分ごとに自動で動きます。GitHubの混み具合で、実行が数分から十数分遅れることがあります。
 
+## 外部の時計から起こす（推奨）
+
+GitHubの定時実行は取りこぼしが多く、15分ごとの指定でも半日に一度しか動かないことがあります。そこで、無料の [cron-job.org](https://cron-job.org/) から15分ごとに一傘亭を起こします。GitHubの定時実行は予備として残してあります。
+
+1. **GitHubの合鍵（トークン）を作る**　GitHubの Settings › Developer settings › Personal access tokens › Fine-grained tokens › Generate new token。
+   - Repository access：Only select repositories → `issantei`
+   - Permissions：Actions を **Read and write**（ほかは不要）
+   - 有効期限：任意（切れたら作り直して登録し直す）
+   - 表示された文字列をコピーする（二度と表示されない）
+2. **cron-job.org に登録する**　アカウントを作り、Create cronjob で次のように設定する。
+   - URL：`https://api.github.com/repos/torugonex/issantei/actions/workflows/tick.yml/dispatches`
+   - 実行間隔：15分ごと（Every 15 minutes）
+   - Advanced › Request method：**POST**
+   - Advanced › Headers：
+     - `Authorization`：`Bearer （1の文字列）`
+     - `Accept`：`application/vnd.github+json`
+     - `User-Agent`：`issantei`
+   - Advanced › Request body：`{"ref":"main"}`
+3. **確かめる**　cron-job.org の実行履歴で、応答が **204** なら成功です（GitHubの Actions タブに実行が並びます）。401 はトークンの誤り、404 はURLか権限の誤りです。
+
+確認のため必ず呟かせたいときは、Actions タブの Run workflow で「force」にチェックを入れて実行します。
+
 ## 調整のしかた
 
 - **口調・作法を変える**：`issantei/persona.py` の文章を書き換えます。
