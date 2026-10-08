@@ -1,0 +1,13 @@
+{
+ "mood": {
+  "valence": 0.25,
+  "arousal": -0.125
+ },
+ "since_sarcasm": 5,
+ "day": "2026-10-08",
+ "morning_done": true,
+ "goodnight_done": false,
+ "sleeptalk_night": "",
+ "commented": {},
+ "last_quake_check": ""
+}
