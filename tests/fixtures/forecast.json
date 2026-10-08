@@ -1,0 +1,1 @@
+[{"timeSeries": [{"areas": [{"area": {"name": "北部", "code": "080010"}, "weatherCodes": ["101"], "weathers": ["晴れ　時々　くもり"]}, {"area": {"name": "南部", "code": "080020"}, "weatherCodes": ["100"], "weathers": ["晴れ"]}]}]}]

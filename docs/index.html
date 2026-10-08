@@ -1,0 +1,169 @@
+<!doctype html>
+<html lang="ja">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>一傘亭</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Shippori+Mincho:wght@500;700&family=Zen+Kaku+Gothic+New:wght@400;500&display=swap">
+<style>
+/* 一本の縦長の巻物：上に今の顔と吹き出し、下に呟きの帳面 */
+:root {
+  --bg: #EDF0EC; --paper: #FAFAF7; --ink: #22262A; --sub: #59615E; --line: #D3D9D3;
+  --accent: #2F5D50; --bubble: #FFFFFF;
+  --f-display: "Shippori Mincho", "Hiragino Mincho ProN", "Yu Mincho", serif;
+  --f-body: "Zen Kaku Gothic New", "Hiragino Sans", "Yu Gothic", sans-serif;
+  color-scheme: light;
+}
+@media (prefers-color-scheme: dark) { :root:not([data-theme="light"]) {
+  --bg: #161A1C; --paper: #1E2326; --ink: #E6E8E4; --sub: #A3ABA7; --line: #333B3E;
+  --accent: #8CC1AE; --bubble: #262C30; color-scheme: dark } }
+:root[data-theme="dark"] {
+  --bg: #161A1C; --paper: #1E2326; --ink: #E6E8E4; --sub: #A3ABA7; --line: #333B3E;
+  --accent: #8CC1AE; --bubble: #262C30; color-scheme: dark }
+
+body { margin: 0; background: var(--bg); color: var(--ink); font-family: var(--f-body); }
+.wrap { max-width: 600px; margin: 0 auto; padding-inline: 16px; padding-block: 32px 56px; display: flex; flex-direction: column; gap: 32px; }
+header { display: flex; align-items: baseline; justify-content: space-between; gap: 12px; flex-wrap: wrap; }
+h1 { margin: 0; font-family: var(--f-display); font-weight: 700; font-size: 2.2rem; letter-spacing: .12em; color: var(--accent); }
+.status { font-size: .85rem; color: var(--sub); letter-spacing: .04em; }
+
+.now { display: flex; flex-direction: column; align-items: center; gap: 14px; }
+.face { width: min(260px, 70vw); aspect-ratio: 200 / 220; max-width: 100%; }
+.face svg { width: 100%; height: 100%; display: block; }
+.bubble { position: relative; background: var(--bubble); border: 1px solid var(--line); border-radius: 14px;
+  padding: 18px 22px; font-family: var(--f-display); font-size: 1.35rem; line-height: 1.7; text-wrap: balance;
+  text-align: center; max-width: 100%; box-sizing: border-box; }
+.bubble::before { content: ""; position: absolute; top: -9px; left: 50%; width: 16px; height: 16px; margin-left: -8px;
+  background: var(--bubble); border-left: 1px solid var(--line); border-top: 1px solid var(--line); transform: rotate(45deg); }
+.meta { font-size: .8rem; color: var(--sub); display: flex; gap: 10px; flex-wrap: wrap; justify-content: center; font-variant-numeric: tabular-nums; }
+.chip { border: 1px solid var(--line); border-radius: 999px; padding: 1px 10px; }
+
+.log { background: var(--paper); border: 1px solid var(--line); border-radius: 12px; padding: 8px 20px 16px; }
+.log h2 { font-family: var(--f-display); font-size: 1.05rem; margin: 18px 0 6px; color: var(--accent); letter-spacing: .06em; }
+.log ol { list-style: none; margin: 0; padding: 0; }
+.log li { display: grid; grid-template-columns: 3.2em minmax(0, 1fr); gap: 4px 12px; padding: 10px 0; border-top: 1px solid var(--line); }
+.log li:first-child { border-top: 0; }
+.t { font-size: .8rem; color: var(--sub); font-variant-numeric: tabular-nums; padding-top: .2em; }
+.txt { font-family: var(--f-display); font-size: 1.02rem; line-height: 1.65; }
+.small { grid-column: 2; font-size: .75rem; color: var(--sub); display: flex; gap: 8px; flex-wrap: wrap; }
+.small a { color: var(--sub); }
+.small a:hover, .small a:focus-visible { color: var(--accent); }
+.empty { color: var(--sub); padding: 16px 0; }
+footer { font-size: .75rem; color: var(--sub); line-height: 1.7; }
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header>
+    <h1>一傘亭</h1>
+    <div class="status" id="status"></div>
+  </header>
+  <section class="now" aria-live="polite">
+    <div class="face" id="face"></div>
+    <div class="bubble" id="bubble">……</div>
+    <div class="meta" id="meta"></div>
+  </section>
+  <section class="log" aria-label="これまでの呟き">
+    <div id="log"><p class="empty">呟きを読み込んでいます。</p></div>
+  </section>
+  <footer>一傘亭は、ネットに流れる出来事を世の中の空気として受け取り、ひとこと漏らす架空の人物です。23時から6時までは眠っています。呟きは生成AIが作っています。</footer>
+</div>
+
+<script>
+const JST_OFFSET = 9 * 60;
+const HAIR = "#A7ADB1", KIMONO = "#34404C";
+const mirror = d => { let i = 0; return d.replace(/-?\d+(\.\d+)?/g, n => (i++ % 2 === 0 ? String(200 - parseFloat(n)) : n)); };
+const BASE = { eye: "M70 112 Q80 103 90 112 Q80 118 70 112 Z", lid: "M68 112 Q80 101 92 111", px: 80, py: 111, pr: 4.5, hl: 1.4, mouthFill: "none", blush: 0, mark: "" };
+const FACES = {
+  "微笑": { brow: "M68 98 Q80 93 92 97", eye: "M70 112 Q80 105 90 112 Q80 116 70 112 Z", lid: "M68 112 Q80 103 92 111", pr: 4, mouth: "M91 151 Q100 156 109 151", blush: .25 },
+  "愉快な笑い": { brow: "M68 94 Q80 88 92 93", eye: "", lid: "M70 113 Q80 104 90 113", pr: 0, hl: 0, mouth: "M89 149 Q100 163 111 149 Q100 152 89 149 Z", mouthFill: "#7A3B33", blush: .4, mark: "♪" },
+  "片眉を上げる": { brow: "M66 92 Q78 83 92 93", browR: "M134 101 L108 99", eyeR: "M130 112 Q120 108 110 112 Q120 115 130 112 Z", lidR: "M132 111 L108 110", px: 84, pxR: 124, py: 112, mouth: "M92 151 Q104 152 111 146" },
+  "思案": { brow: "M68 97 Q80 92 92 96", browR: "M132 99 Q120 97 108 99", px: 83, pxR: 123, py: 108.5, pr: 4.2, mouth: "M95 151 L106 150", mark: "…" },
+  "驚き": { brow: "M68 89 Q80 81 92 88", eye: "M69 112 Q80 98 91 112 Q80 120 69 112 Z", lid: "M67 111 Q80 96 93 110", pr: 3.4, mouth: "M96 152 Q100 145 104 152 Q100 159 96 152 Z", mouthFill: "#7A3B33", mark: "！" },
+  "呆れのため息": { brow: "M68 100 Q80 96 92 98", eye: "M70 112 Q80 109 90 112 Q80 117 70 112 Z", lid: "M68 110 L92 110", pr: 3.6, py: 113, hl: 1, mouth: "M92 151 Q96 149 100 151 Q104 153 108 151", mark: "ふう" },
+  "憂い": { brow: "M68 100 Q80 98 92 93", eye: "M70 113 Q80 106 90 113 Q80 117 70 113 Z", lid: "M68 112 Q80 106 92 113", pr: 3.8, py: 114, hl: 1.1, mouth: "M92 153 Q100 149 108 153" },
+  "寝顔": { brow: "M68 99 Q80 95 92 98", eye: "", lid: "M70 111 Q80 118 90 111", pr: 0, hl: 0, mouth: "M97 151 Q100 154 103 151", blush: .15, mark: "Zz" }
+};
+
+function faceSVG(name) {
+  const x = FACES[name] || FACES["微笑"], f = Object.assign({}, BASE, x);
+  const pxR = x.pxR !== undefined ? x.pxR : 200 - f.px;
+  const eyeR = x.eyeR !== undefined ? x.eyeR : (f.eye ? mirror(f.eye) : "");
+  const p = (d, a) => d ? `<path d="${d}" ${a}></path>` : "";
+  return `<svg viewBox="0 0 200 220" role="img" aria-label="一傘亭の表情：${name}">
+<path d="M28 220 Q38 176 100 170 Q162 176 172 220 Z" fill="${KIMONO}"></path>
+<path d="M86 166 L100 198 L114 166 Z" fill="#EFCFB8"></path>
+<path d="M84 166 L90 166 L112 210 L106 212 Z" fill="#F2F0EA"></path>
+<path d="M78 168 L84 166 L106 212 L100 215 Z" fill="#14181C" opacity="0.38"></path>
+<path d="M122 168 L100 215 L100 220 L172 220 Q166 188 140 175 Z" fill="${KIMONO}"></path>
+<path d="M116 166 L110 166 L88 210 L94 212 Z" fill="#F2F0EA"></path>
+<path d="M122 168 L116 166 L94 212 L100 215 Z" fill="#14181C" opacity="0.38"></path>
+<rect x="88" y="148" width="24" height="28" fill="#EFCFB8"></rect>
+<ellipse cx="55" cy="118" rx="8" ry="12" fill="#F6DCC8" stroke="#D9B39A" stroke-width="1.2"></ellipse>
+<ellipse cx="145" cy="118" rx="8" ry="12" fill="#F6DCC8" stroke="#D9B39A" stroke-width="1.2"></ellipse>
+<path d="M56 95 Q56 60 100 58 Q144 60 144 95 L144 124 Q142 158 100 168 Q58 158 56 124 Z" fill="#F6DCC8" stroke="#D9B39A" stroke-width="1.2"></path>
+<path d="M53 106 Q47 64 72 48 Q100 32 130 46 Q154 62 147 106 Q145 86 135 78 Q120 68 100 71 Q79 68 65 79 Q55 88 53 106 Z" fill="${HAIR}" stroke="#7D858A" stroke-width="1.5"></path>
+<path d="M70 57 Q90 50 112 55 M82 47 Q102 41 124 51 M62 73 Q67 64 76 60" fill="none" stroke="#D3D7D9" stroke-width="1.5" stroke-linecap="round"></path>
+<path d="M62 120 Q60 126 64 130 M138 120 Q140 126 136 130" fill="none" stroke="#DDBBA4" stroke-width="1.2" stroke-linecap="round"></path>
+<ellipse cx="70" cy="130" rx="9" ry="4.5" fill="#E9967A" opacity="${f.blush}"></ellipse>
+<ellipse cx="130" cy="130" rx="9" ry="4.5" fill="#E9967A" opacity="${f.blush}"></ellipse>
+<path d="${f.brow} ${x.browR || mirror(f.brow)}" fill="none" stroke="#6B7378" stroke-width="4.5" stroke-linecap="round"></path>
+${p(f.eye, 'fill="#FFFFFF"')}${p(eyeR, 'fill="#FFFFFF"')}
+<circle cx="${f.px}" cy="${f.py}" r="${f.pr}" fill="#3B4A54"></circle><circle cx="${pxR}" cy="${f.py}" r="${f.pr}" fill="#3B4A54"></circle>
+<circle cx="${f.px + 1.5}" cy="${f.py - 1.6}" r="${f.hl}" fill="#FFFFFF"></circle><circle cx="${pxR + 1.5}" cy="${f.py - 1.6}" r="${f.hl}" fill="#FFFFFF"></circle>
+<path d="${f.lid} ${x.lidR || mirror(f.lid)}" fill="none" stroke="#2B2F33" stroke-width="2.6" stroke-linecap="round"></path>
+<path d="M100 118 Q97 130 101 133" fill="none" stroke="#C99A80" stroke-width="1.8" stroke-linecap="round"></path>
+<path d="${f.mouth}" fill="${f.mouthFill}" stroke="#8A4B3E" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"></path>
+<path d="M82 143 Q91 135 100 140 Q109 135 118 143 Q109 147 100 144 Q91 147 82 143 Z" fill="${HAIR}" stroke="#7D858A" stroke-width="1.3"></path>
+<text x="160" y="58" font-size="20" font-family="Shippori Mincho, serif" fill="var(--accent)">${f.mark}</text>
+</svg>`;
+}
+
+const esc = s => String(s ?? "").replace(/[&<>"']/g, c => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c]));
+// 呟きの時刻（+09:00つきのISO）を、日本時間の「日付」「時:分」に
+const jst = iso => { const d = new Date(iso); const j = new Date(d.getTime() + (JST_OFFSET + d.getTimezoneOffset()) * 60000); return j; };
+const nowJst = () => jst(new Date().toISOString());
+const dayLabel = j => `${j.getMonth() + 1}月${j.getDate()}日（${"日月火水木金土"[j.getDay()]}）`;
+const hm = j => `${String(j.getHours()).padStart(2, "0")}:${String(j.getMinutes()).padStart(2, "0")}`;
+
+function render(tweets) {
+  const now = nowJst(), h = now.getHours(), asleep = h >= 23 || h < 6;
+  const last = tweets[tweets.length - 1];
+  document.getElementById("status").textContent = asleep ? "お休み中（23時〜6時）" : "起きています";
+  let expr = last ? last.expression : "微笑", text = last ? last.text : "まだ何も呟いていない。";
+  if (asleep && (!last || last.scene !== "sleeptalk" || now - jst(last.at) > 8 * 3600e3)) {
+    expr = "寝顔"; text = "……";
+  }
+  document.getElementById("face").innerHTML = faceSVG(expr);
+  document.getElementById("bubble").textContent = text;
+  document.getElementById("meta").innerHTML = last
+    ? `<span>${dayLabel(jst(last.at))} ${hm(jst(last.at))}</span><span class="chip">${esc(expr)}</span>` : "";
+
+  const log = document.getElementById("log");
+  if (!tweets.length) { log.innerHTML = '<p class="empty">まだ呟きはありません。最初の呟きは朝6時ごろです。</p>'; return; }
+  let html = "", cur = "";
+  [...tweets].reverse().slice(0, 120).forEach(t => {
+    const j = jst(t.at), d = dayLabel(j);
+    if (d !== cur) { html += (cur ? "</ol>" : "") + `<h2>${d}</h2><ol>`; cur = d; }
+    const links = (t.links || []).map(l => `<a href="${esc(l.url)}" target="_blank" rel="noopener">${esc(l.source)}</a>`).join("、");
+    html += `<li><span class="t">${hm(j)}</span><span class="txt">${esc(t.text)}</span>
+      <span class="small"><span>${esc(t.expression)}</span>${links ? `<span>出典：${links}</span>` : ""}</span></li>`;
+  });
+  log.innerHTML = html + "</ol>";
+}
+
+async function load() {
+  try {
+    const r = await fetch("data/tweets.json", { cache: "no-store" });
+    if (!r.ok) throw new Error(r.status);
+    render(await r.json());
+  } catch (e) {
+    render(window.SAMPLE_TWEETS || []);
+  }
+}
+load();
+setInterval(load, 5 * 60 * 1000);
+</script>
+</body>
+</html>
