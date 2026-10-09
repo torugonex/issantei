@@ -443,5 +443,25 @@
   "lang": "en",
   "topic": null,
   "links": []
+ },
+ {
+  "at": "2026-10-09T20:45+09:00",
+  "text": "才ある人も門前で待たされる世か。グラスの氷だけが気楽に溶けるなり。",
+  "expression": "思案",
+  "scene": "bar",
+  "lang": "ja",
+  "topic": "高度技能外国人労働者の永住権、マイクロソフトとアドビからの申請受け付けを停止 米・バンス副大統領が発表",
+  "links": [
+   {
+    "source": "Yahoo!ニュース",
+    "title": "高度技能外国人労働者の永住権、マイクロソフトとアドビからの申請受け付けを停止 米・バンス副大統領が発表",
+    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5BbG5sbHAwdWJTSjNqdExOQWtsYlFuT0ZzYXFOajMwTnkydHBPWmVReF9qNU56SEx0U2pRU2hzWEdDOVdTZVhLaDlPMU5JYkh3T3pYUmJuejlOTHllT3lnUGs1ZkF2b0NxM0tJbnU5emtFZVFuQTN5YTdfeUlreUU?oc=5"
+   },
+   {
+    "source": "NHK",
+    "title": "トランプ政権 マイクロソフトなどの永住権手続き受け付け停止",
+    "url": "https://news.web.nhk/newsweb/na/nd-20261009de56951"
+   }
+  ]
  }
 ]
