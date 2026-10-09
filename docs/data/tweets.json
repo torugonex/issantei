@@ -385,5 +385,25 @@
     "url": "https://news.web.nhk/newsweb/na/nd-20261009de57425"
    }
   ]
+ },
+ {
+  "at": "2026-10-09T19:45+09:00",
+  "text": "Three lives lost at an airport, of all places. I lower my glass, and say nothing clever.",
+  "expression": "憂い",
+  "scene": "bar",
+  "lang": "en",
+  "topic": "Three Saudi nationals killed in Houthi attacks on Riyadh airport",
+  "links": [
+   {
+    "source": "BBC",
+    "title": "Three Saudi nationals killed in Houthi attacks on Riyadh airport",
+    "url": "https://www.bbc.co.uk/news/articles/cmz7xe37g5wro?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "source": "Guardian",
+    "title": "Three Saudis killed in Riyadh airport attack claimed by Houthis",
+    "url": "https://www.theguardian.com/world/2026/oct/09/riyadh-airport-flights-suspended-houthis-claim-attack"
+   }
+  ]
  }
 ]
