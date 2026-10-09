@@ -558,5 +558,30 @@
   "lang": "ja",
   "topic": null,
   "links": []
+ },
+ {
+  "at": "2026-10-10T06:09+09:00",
+  "text": "A Nobel for upholding international law. Rather like praising someone for remembering to lock the door. Kinmokusei is scenting the morning mist.",
+  "expression": "微笑",
+  "scene": "regular",
+  "lang": "en",
+  "topic": "Navi Pillay, former UN human rights chief, wins Nobel Peace Prize",
+  "links": [
+   {
+    "source": "BBC",
+    "title": "Navi Pillay, former UN human rights chief, wins Nobel Peace Prize",
+    "url": "https://www.bbc.co.uk/news/articles/cm9wz5kng0x1o?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "source": "Guardian",
+    "title": "ICJ judge Navi Pillay wins Nobel peace prize for promoting international law",
+    "url": "https://www.theguardian.com/world/2026/oct/09/navanethem-navi-pillay-wins-nobel-peace-prize"
+   },
+   {
+    "source": "Sky News",
+    "title": "Former UN human rights chief Navi Pillay wins the Nobel Peace Prize",
+    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQOF9vQWJzS0hfdHZNLTBpV01ITkVFSHlvdWh2V2ZrVHNZSGszT3JROEJxajI1ZkVkcERRZEdFR2xib2RGU1JSVmMtMzFGNUwxSHMwM3BXSVNIYW5pZDVoc2ExWVE2M2ZJWVdZemVPNE5iUlExeW9Tb09qWlJGb2k4RUtVNzQ2Vzh5bEsyZFhXbmVkTms2OXY4WjJrX3VUVEdDNWtsMzVn?oc=5"
+   }
+  ]
  }
 ]
