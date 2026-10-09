@@ -63,5 +63,25 @@
   "scene": "life",
   "topic": null,
   "links": []
+ },
+ {
+  "at": "2026-10-09T12:23+09:00",
+  "text": "A consulate that stays open, though most diplomats are asked to leave. Quite the British compromise. Kinmokusei outside, meanwhile, minds its own business.",
+  "expression": "片眉を上げる",
+  "scene": "regular",
+  "lang": "en",
+  "topic": "Most UK diplomats to leave East Jerusalem consulate, Israel says, as Miliband says 'vital services' to remain",
+  "links": [
+   {
+    "source": "BBC",
+    "title": "Most UK diplomats to leave East Jerusalem consulate, Israel says, as Miliband says 'vital services' to remain",
+    "url": "https://www.bbc.co.uk/news/articles/cw33xd6vegnno?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "source": "Guardian",
+    "title": "British consulate in East Jerusalem will stay open as UK mission, says Ed Miliband",
+    "url": "https://www.theguardian.com/politics/2026/oct/08/uk-consulate-east-jerusalem-remain-open-uk-mission-ed-miliband"
+   }
+  ]
  }
 ]
