@@ -1,0 +1,17 @@
+{
+  "id": "/issantei/",
+  "name": "一傘亭 ― 令和の荷風翁",
+  "short_name": "一傘亭",
+  "description": "世の中の空気を受け取り、ひとこと呟く架空の老紳士。",
+  "lang": "ja",
+  "start_url": "/issantei/",
+  "scope": "/issantei/",
+  "display": "standalone",
+  "background_color": "#EDF0EC",
+  "theme_color": "#2F5D50",
+  "icons": [
+    {"src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any"},
+    {"src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any"},
+    {"src": "icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable"}
+  ]
+}
