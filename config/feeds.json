@@ -1,14 +1,92 @@
 {
-  "_note": "使うRSSの一覧。enabled を false にすると読まなくなる。各社の利用条件を確認のうえで有効にすること。",
+  "_note": "使うRSSの一覧。lang は ja（日本語の呟き用）か en（英語の呟き用）。enabled を false にすると読まなくなる。各社の利用条件を確認のうえで有効にすること。",
   "feeds": [
-    {"name": "Googleニュース（主要）", "url": "https://news.google.com/rss?hl=ja&gl=JP&ceid=JP:ja", "enabled": true, "aggregator": true},
-    {"name": "NHK 主要", "url": "https://www.nhk.or.jp/rss/news/cat0.xml", "enabled": true},
-    {"name": "NHK 科学・文化", "url": "https://www.nhk.or.jp/rss/news/cat3.xml", "enabled": true},
-    {"name": "NHK 政治", "url": "https://www.nhk.or.jp/rss/news/cat4.xml", "enabled": true},
-    {"name": "NHK 経済", "url": "https://www.nhk.or.jp/rss/news/cat5.xml", "enabled": true},
-    {"name": "NHK 国際", "url": "https://www.nhk.or.jp/rss/news/cat6.xml", "enabled": true},
-    {"name": "Yahoo!ニュース 主要", "url": "https://news.yahoo.co.jp/rss/topics/top-picks.xml", "enabled": false},
-    {"name": "Yahoo!ニュース 科学", "url": "https://news.yahoo.co.jp/rss/topics/science.xml", "enabled": false}
+    {
+      "name": "Googleニュース（主要）",
+      "url": "https://news.google.com/rss?hl=ja&gl=JP&ceid=JP:ja",
+      "enabled": true,
+      "aggregator": true,
+      "lang": "ja"
+    },
+    {
+      "name": "NHK 主要",
+      "url": "https://www.nhk.or.jp/rss/news/cat0.xml",
+      "enabled": true,
+      "lang": "ja"
+    },
+    {
+      "name": "NHK 科学・文化",
+      "url": "https://www.nhk.or.jp/rss/news/cat3.xml",
+      "enabled": true,
+      "lang": "ja"
+    },
+    {
+      "name": "NHK 政治",
+      "url": "https://www.nhk.or.jp/rss/news/cat4.xml",
+      "enabled": true,
+      "lang": "ja"
+    },
+    {
+      "name": "NHK 経済",
+      "url": "https://www.nhk.or.jp/rss/news/cat5.xml",
+      "enabled": true,
+      "lang": "ja"
+    },
+    {
+      "name": "NHK 国際",
+      "url": "https://www.nhk.or.jp/rss/news/cat6.xml",
+      "enabled": true,
+      "lang": "ja"
+    },
+    {
+      "name": "Yahoo!ニュース 主要",
+      "url": "https://news.yahoo.co.jp/rss/topics/top-picks.xml",
+      "enabled": false,
+      "lang": "ja"
+    },
+    {
+      "name": "Yahoo!ニュース 科学",
+      "url": "https://news.yahoo.co.jp/rss/topics/science.xml",
+      "enabled": false,
+      "lang": "ja"
+    },
+    {
+      "name": "BBC World",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "enabled": true,
+      "lang": "en"
+    },
+    {
+      "name": "BBC Science",
+      "url": "https://feeds.bbci.co.uk/news/science_and_environment/rss.xml",
+      "enabled": true,
+      "lang": "en"
+    },
+    {
+      "name": "BBC Business",
+      "url": "https://feeds.bbci.co.uk/news/business/rss.xml",
+      "enabled": true,
+      "lang": "en"
+    },
+    {
+      "name": "Guardian World",
+      "url": "https://www.theguardian.com/world/rss",
+      "enabled": true,
+      "lang": "en"
+    },
+    {
+      "name": "Guardian Science",
+      "url": "https://www.theguardian.com/science/rss",
+      "enabled": true,
+      "lang": "en"
+    },
+    {
+      "name": "Google News (UK)",
+      "url": "https://news.google.com/rss?hl=en-GB&gl=GB&ceid=GB:en",
+      "enabled": true,
+      "aggregator": true,
+      "lang": "en"
+    }
   ],
   "weather": {
     "_note": "気象庁の府県予報。080000 = 茨城県。area は予報区の名前（北部／南部）。",

@@ -6,7 +6,7 @@ import os
 import re
 import urllib.request
 
-from .persona import EXPRESSIONS, SCENES, SYSTEM
+from .persona import ENGLISH, EXPRESSIONS, SCENES, SYSTEM
 
 API_URL = "https://api.anthropic.com/v1/messages"
 DEFAULT_MODEL = "claude-sonnet-5-5"
@@ -36,6 +36,8 @@ def build_prompt(ctx: dict) -> str:
         lines.append("\n## 最近の地震")
         for q in ctx["quakes"]:
             lines.append(f"- {q['at']:%-d日%H時%M分} {q['area']} M{q['mag']} 最大震度{q['maxi']}")
+    if ctx.get("lang") == "en":
+        lines.append("\n" + ENGLISH)
     if ctx.get("recent"):
         lines.append("\n## 直近の自分の呟き（繰り返さない）")
         for r in ctx["recent"]:
@@ -66,7 +68,12 @@ def _parse(text: str) -> dict:
 def check(d: dict, ctx: dict) -> str | None:
     """作法に反していれば理由を返す。"""
     n = len(d["text"])
-    limit = (8, 24) if ctx["scene"] == "sleeptalk" else (14, 36)
+    if ctx.get("lang") == "en":
+        limit = (30, 120)
+        if not d["text"].isascii() and any("\u3040" <= c <= "\u9fff" for c in d["text"]):
+            return "英語だけで書く（日本語を混ぜない）"
+    else:
+        limit = (8, 24) if ctx["scene"] == "sleeptalk" else (14, 36)
     if not limit[0] <= n <= limit[1]:
         return f"長さが{n}字。{limit[0]}〜{limit[1]}字に収める"
     if d["expression"] == "片眉を上げる" and not ctx["sarcasm_allowed"]:
@@ -109,6 +116,8 @@ class FakeLLM:
             return json.dumps({"text": f"{ch}。さて、夜のうちに世の中は何をしでかしたかな", "expression": "微笑", "valence": 0.3, "arousal": 0, "severity": 0}, ensure_ascii=False)
         if "就寝前" in scene:
             return json.dumps({"text": "そろそろ寝る。世の中の続きは、また明日拝見しよう", "expression": "微笑", "valence": 0.2, "arousal": -0.4, "severity": 0}, ensure_ascii=False)
+        if "今回は英語で呟く" in user:
+            return json.dumps({"text": "(dry run) One reads the papers so the papers need not read one.", "expression": "片眉を上げる" if "皮肉の顔を使わない" not in user else "思案", "valence": 0, "arousal": 0, "severity": 0})
         if topic:
             head = topic.group(1)[:14]
             grave = "深刻" in user

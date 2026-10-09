@@ -25,12 +25,14 @@ CONFIG = ROOT / "config" / "feeds.json"
 
 POST_PROB = 0.85        # 起きている間、一刻み（15分）ごとに呟く確率。1時間で3〜4回
 SARCASM_GAP = 4         # 皮肉のあと、これだけ呟くまでは次の皮肉を控える（5回に1回程度）
+ENGLISH_EVERY = (3, 5)  # 英語で呟く間隔。3〜5回に1回
 WAKE, SLEEP = 6, 23     # 6時に起き、23時に寝る
 KEEP = 400              # tweets.json に残す件数
 
 DEFAULT_STATE = {"mood": {"valence": 0.2, "arousal": -0.1}, "since_sarcasm": SARCASM_GAP,
                  "day": "", "morning_done": False, "goodnight_done": False,
-                 "sleeptalk_night": "", "commented": {}, "last_quake_check": ""}
+                 "sleeptalk_night": "", "commented": {}, "last_quake_check": "",
+                 "since_english": 0, "next_english": 4}
 
 
 def load(path: Path, default):
@@ -79,9 +81,11 @@ def topic_payload(t: topics.Topic) -> dict:
             "headlines": sorted({i.title for i in t.items}, key=len)[:4], "links": t.links()}
 
 
-def pick_topic(now, st, items, quakes, rng):
-    """話題を選ぶ。新しい地震 → 大きな話題 → 小さな話題 → 暮らし の順に、重みをつけて。"""
-    for q in quakes:
+def pick_topic(now, st, items, quakes, rng, lang="ja"):
+    """話題を選ぶ。新しい地震 → 大きな話題 → 小さな話題 → 暮らし の順に、重みをつけて。
+    英語の回は英語のRSSから選ぶ（地震は日本語の回で扱う）。"""
+    items = [i for i in items if i.lang == lang]
+    for q in (quakes if lang == "ja" else []):
         key = f"quake-{q['at']:%Y%m%d%H%M}"
         if key not in st["commented"]:
             grave = collect.intensity_rank(q["maxi"]) >= collect.intensity_rank("6-")
@@ -119,8 +123,12 @@ def tick(now: datetime, llm, fixtures: Path | None = None, force: bool = False) 
         save(STATE, st)
         return None
 
+    # 英語で呟くか。朝の第一声（天気の一字）と寝言は日本語のまま
+    lang = "en" if (scene in ("regular", "bar", "life", "goodnight")
+                    and st["since_english"] + 1 >= st["next_english"]) else "ja"
+
     cfg = load(CONFIG, {})
-    ctx = {"now": now, "scene": scene, "season": season.season_info(now), "mood": st["mood"],
+    ctx = {"now": now, "scene": scene, "lang": lang, "season": season.season_info(now), "mood": st["mood"],
            "sarcasm_allowed": st["since_sarcasm"] >= SARCASM_GAP,
            "recent": [t["text"] for t in tweets[-8:]]}
 
@@ -132,7 +140,7 @@ def tick(now: datetime, llm, fixtures: Path | None = None, force: bool = False) 
         quakes = collect.fetch_quakes(since, fixtures)
         items, errors = collect.fetch_news(cfg, fixtures)
         st["last_quake_check"] = now.isoformat()
-        ctx["topic"] = pick_topic(now, st, items, quakes, rng)
+        ctx["topic"] = pick_topic(now, st, items, quakes, rng, lang)
         if scene == "regular" and ctx["topic"] is None:
             ctx["scene"] = scene = "life"
         if errors:
@@ -150,6 +158,11 @@ def tick(now: datetime, llm, fixtures: Path | None = None, force: bool = False) 
     st["mood"] = {"valence": round(st["mood"]["valence"] * (1 - w) + d["valence"] * w, 3),
                   "arousal": round(st["mood"]["arousal"] * (1 - w) + d["arousal"] * w, 3)}
     st["since_sarcasm"] = 0 if d["expression"] == "片眉を上げる" else st["since_sarcasm"] + 1
+    if lang == "en":
+        st["since_english"] = 0
+        st["next_english"] = rng.randint(*ENGLISH_EVERY)
+    elif scene != "sleeptalk":
+        st["since_english"] += 1
     if scene == "morning":
         st["morning_done"] = True
     elif scene == "goodnight":
@@ -163,7 +176,7 @@ def tick(now: datetime, llm, fixtures: Path | None = None, force: bool = False) 
     st["commented"] = {k: v for k, v in st["commented"].items() if v > cutoff}
 
     rec = {"at": now.isoformat(timespec="minutes"), "text": d["text"], "expression": d["expression"],
-           "scene": scene, "topic": topic["title"] if topic else None,
+           "scene": scene, "lang": lang, "topic": topic["title"] if topic else None,
            "links": topic["links"] if topic else []}
     tweets.append(rec)
     save(TWEETS, tweets[-KEEP:])

@@ -25,6 +25,7 @@ class Item:
     published: datetime | None
     source: str          # 報じた媒体（NHK、朝日新聞…）。話題の大小を数える単位
     feed: str            # どのRSSから来たか
+    lang: str = "ja"     # ja / en
     extra: dict = field(default_factory=dict)
 
 
@@ -67,7 +68,7 @@ def parse_feed(raw: bytes, feed: dict) -> list[Item]:
         if isinstance(el.tag, str) and "}" in el.tag:
             el.tag = el.tag.split("}", 1)[1]
     entries = root.findall(".//item") or root.findall(".//entry")
-    default_source = feed["name"].split()[0]
+    default_source = feed["name"].split()[0] if feed.get("lang", "ja") == "ja" else feed["name"].rsplit(" ", 1)[0]
     items = []
     for e in entries:
         title = _text(e, "title")
@@ -87,7 +88,7 @@ def parse_feed(raw: bytes, feed: dict) -> list[Item]:
                 source = src or m.group(1).strip()
             elif src:
                 source = src
-        items.append(Item(title, link, published, source, feed["name"]))
+        items.append(Item(title, link, published, source, feed["name"], feed.get("lang", "ja")))
     return items
 
 
