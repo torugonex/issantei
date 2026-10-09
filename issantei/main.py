@@ -138,7 +138,12 @@ def tick(now: datetime, llm, fixtures: Path | None = None, force: bool = False) 
         if errors:
             print("RSS取得の失敗:", *errors, sep="\n  ")
 
-    d = generate(llm, ctx)
+    try:
+        d = generate(llm, ctx)
+    except (ValueError, json.JSONDecodeError):
+        print("::warning title=一傘亭::呟きの返事を読み取れなかったので、今回は見送ります。")
+        save(STATE, st)
+        return None
 
     # 気分は少しずつしか動かない（慣性）
     w = 0.25 if d["severity"] < 3 else 0.5

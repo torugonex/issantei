@@ -120,13 +120,21 @@ class FakeLLM:
 def generate(llm, ctx: dict) -> dict:
     """生成し、作法に反していれば一度だけ言い直させる。それでも駄目なら手直しして使う。"""
     prompt = build_prompt(ctx)
-    d = _parse(llm.complete(prompt))
+    try:
+        d = _parse(llm.complete(prompt))
+    except (ValueError, json.JSONDecodeError):
+        # まれにJSON以外の返事が来る。一度だけ念を押して頼み直す
+        d = _parse(llm.complete(prompt + "\n\n※説明は書かず、指定のJSONだけを一行で出力すること。"))
     problem = check(d, ctx)
     if problem:
-        d2 = _parse(llm.complete(prompt + f"\n\n※前回の案「{d['text']}」（{d['expression']}）は不可：{problem}。作り直すこと。"))
-        if not check(d2, ctx):
+        try:
+            d2 = _parse(llm.complete(prompt + f"\n\n※前回の案「{d['text']}」（{d['expression']}）は不可：{problem}。作り直すこと。"))
+        except (ValueError, json.JSONDecodeError):
+            d2 = None
+        if d2 and not check(d2, ctx):
             return d2
-        d = d2
+        if d2:
+            d = d2
     # 最後の手直し
     if ctx["scene"] == "sleeptalk":
         d["expression"] = "寝顔"
