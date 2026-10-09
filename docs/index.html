@@ -3,7 +3,7 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
-<title>一傘亭</title>
+<title>一傘亭 ― 令和の荷風翁</title>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@1,500&family=Shippori+Mincho:wght@500;700&family=Zen+Kaku+Gothic+New:wght@400;500&display=swap">
 <style>
@@ -26,6 +26,8 @@ body { margin: 0; background: var(--bg); color: var(--ink); font-family: var(--f
 .wrap { max-width: 600px; margin: 0 auto; padding-inline: 16px; padding-block: 32px 56px; display: flex; flex-direction: column; gap: 32px; }
 header { display: flex; align-items: baseline; justify-content: space-between; gap: 12px; flex-wrap: wrap; }
 h1 { margin: 0; font-family: var(--f-display); font-weight: 700; font-size: 2.2rem; letter-spacing: .12em; color: var(--accent); }
+.name { display: flex; align-items: baseline; gap: 14px; flex-wrap: wrap; }
+.epithet { margin: 0; font-family: var(--f-display); font-size: 1rem; color: var(--sub); letter-spacing: .14em; }
 .status { font-size: .85rem; color: var(--sub); letter-spacing: .04em; }
 
 .now { display: flex; flex-direction: column; align-items: center; gap: 14px; }
@@ -57,7 +59,10 @@ footer { font-size: .75rem; color: var(--sub); line-height: 1.7; }
 <body>
 <div class="wrap">
   <header>
-    <h1>一傘亭</h1>
+    <div class="name">
+      <h1>一傘亭</h1>
+      <p class="epithet">令和の荷風翁</p>
+    </div>
     <div class="status" id="status"></div>
   </header>
   <section class="now" aria-live="polite">
