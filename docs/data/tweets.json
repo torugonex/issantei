@@ -414,5 +414,25 @@
   "lang": "ja",
   "topic": null,
   "links": []
+ },
+ {
+  "at": "2026-10-09T20:15+09:00",
+  "text": "紅白の司会は四人とな。旧友よ、今年も炬燵で文句を言う支度をしようか。",
+  "expression": "微笑",
+  "scene": "bar",
+  "lang": "ja",
+  "topic": "ＮＨＫ「紅白歌合戦」司会者に俳優の芦田愛菜さんら４人、堺雅人さんとともに初司会",
+  "links": [
+   {
+    "source": "読売新聞",
+    "title": "ＮＨＫ「紅白歌合戦」司会者に俳優の芦田愛菜さんら４人、堺雅人さんとともに初司会",
+    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1LQVI0NER3VloxNEhBQWFCQkRZUWJmbmd5YjcyUHMxelRhNHNWbGw1c2hqT1JiMzdxRjlET1RzUWFLb3FRdFMxUW1wODlJS0J6THo2MDEwQTNhYXJnVTFmdkVVUlc?oc=5"
+   },
+   {
+    "source": "NHK",
+    "title": "紅白歌合戦 司会に芦田愛菜さん 堺雅人さん 二宮和也さん",
+    "url": "https://news.web.nhk/newsweb/na/nd-20261008de56895"
+   }
+  ]
  }
 ]
