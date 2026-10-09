@@ -22,5 +22,24 @@
   "scene": "life",
   "topic": null,
   "links": []
+ },
+ {
+  "at": "2026-10-09T11:27+09:00",
+  "text": "紅白の司会も顔ぶれが改まるそうな。大晦日の風物は変わらぬ顔をして変わる。",
+  "expression": "微笑",
+  "scene": "regular",
+  "topic": "「第７７回紅白歌合戦」、俳優の芦田愛菜さんと堺雅人さんが初めて司会に…鈴木奈穂子アナは昨年に続き３回目",
+  "links": [
+   {
+    "source": "読売新聞",
+    "title": "「第７７回紅白歌合戦」、俳優の芦田愛菜さんと堺雅人さんが初めて司会に…鈴木奈穂子アナは昨年に続き３回目",
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5wWlpQcVN6Sk42Q2p6RjNGRkZoWlpLMVEzOVVucEtrNXp0MnNGRmhxYlZ1aXp2T2V3TW9FaDBmdmFBeXVxajVINmRPWTBpTWpjcEZNZ1paWTVydHNETU1zSEpxcmRxZXJu?oc=5"
+   },
+   {
+    "source": "NHK",
+    "title": "紅白歌合戦 司会に芦田愛菜さん 堺雅人さん 二宮和也さん",
+    "url": "https://news.web.nhk/newsweb/na/nd-20261008de56895"
+   }
+  ]
  }
 ]
