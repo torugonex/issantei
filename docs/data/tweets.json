@@ -607,5 +607,25 @@
   "lang": "ja",
   "topic": null,
   "links": []
+ },
+ {
+  "at": "2026-10-10T06:45+09:00",
+  "text": "預けた名や住所が、知らぬ間に遠くへ。便利の代金は、後から請求が来るものなり。",
+  "expression": "憂い",
+  "scene": "regular",
+  "lang": "ja",
+  "topic": "不正アクセス、個人情報の流出被害止まらず…ＪＲ東グループでは６００万件か・デジタル相「深刻に受け止めている」",
+  "links": [
+   {
+    "source": "読売新聞",
+    "title": "不正アクセス、個人情報の流出被害止まらず…ＪＲ東グループでは６００万件か・デジタル相「深刻に受け止めている」",
+    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5maE1HTFpScy1aVmJzUXM1WUZqLWVZTm9IaTNjMHVCNTFucTVRaXQyTm9KRThvSkhlaHZwdUFtVVZpN3ktMEdYZmt6dl9CYjZZRWlVMENPUGx3eDZjVnZ6VWZJOVhfdw?oc=5"
+   },
+   {
+    "source": "NHK",
+    "title": "「スカイチケット」に不正アクセス 1400万件超 個人情報流出か",
+    "url": "https://news.web.nhk/newsweb/na/nd-20261009de57103"
+   }
+  ]
  }
 ]
