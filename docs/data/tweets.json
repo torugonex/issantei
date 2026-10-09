@@ -682,5 +682,25 @@
     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE90M3VlckgwRFBEOHMyM2hDc25hcjZuS3NNR3NqVW54V21IemdreF9LSWVCSnBGMzVid09neFNaa1l5R0kyc0FIVlVJLVo1MlprNkZibFlRNmdmWE83eDJqQ2FnemJhbE55YlZzdmJSYVlqaUdFajNNNFFrODgtbjQ?oc=5"
    }
   ]
+ },
+ {
+  "at": "2026-10-10T08:00+09:00",
+  "text": "遠い国の大地が揺れたとな。海は少しばかり身じろぎしただけ。何事もなく済むのは有難いことなり。",
+  "expression": "思案",
+  "scene": "regular",
+  "lang": "ja",
+  "topic": "中米 パナマでM7.6の地震 日本では津波被害の心配なし（M8.0から更新）",
+  "links": [
+   {
+    "source": "ウェザーニュース",
+    "title": "中米 パナマでM7.6の地震 日本では津波被害の心配なし（M8.0から更新）",
+    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5qdHB3X29SemI2SHprTFdEc1FkUmlwUWlod0ZSNnVUbDhDenJpaV82Y0xRTi1EdGxteEVMQ3p2UlZJcExsYXVSWUpKSDBNNk5EeG9UQg?oc=5"
+   },
+   {
+    "source": "NHK",
+    "title": "パナマでM7.6の地震 日本で若干の海面変動も被害の心配なし",
+    "url": "https://news.web.nhk/newsweb/na/nd-20261010de57543"
+   }
+  ]
  }
 ]
