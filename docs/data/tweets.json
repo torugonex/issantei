@@ -112,5 +112,25 @@
     "url": "https://news.web.nhk/newsweb/na/nd-20261009de56946"
    }
   ]
+ },
+ {
+  "at": "2026-10-09T13:15+09:00",
+  "text": "A passenger jet destroyed on the ground. One hopes it was empty. Travellers will think twice.",
+  "expression": "憂い",
+  "scene": "regular",
+  "lang": "en",
+  "topic": "Houthis claim attack on Riyadh airport as airlines suspend flights to Saudi capital",
+  "links": [
+   {
+    "source": "Guardian",
+    "title": "Houthis claim attack on Riyadh airport as airlines suspend flights to Saudi capital",
+    "url": "https://www.theguardian.com/world/2026/oct/09/riyadh-airport-flights-suspended-houthis-claim-attack"
+   },
+   {
+    "source": "The Telegraph",
+    "title": "Houthis destroy passenger jet at Riyadh airport",
+    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOTUlObklXbF9FbGIzaVhzdmJyNno3N0Z3R3lxLU43ZkFxQ3Zrdk1LTEVhVjVNRVdxUDRHeDhIT2pQSmVhRERUTmFjSGhGOHJpblJjaGJmZWp3d2lOelNaLVlVcjNCVnVIMkdVaXZ0RHp2VHpocjk3bjNSUTlOX1VmX2w1a2FoanQ5VjMzbjBiRzdOS1JBVFhGSkJDYw?oc=5"
+   }
+  ]
  }
 ]
