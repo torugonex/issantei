@@ -702,5 +702,25 @@
     "url": "https://news.web.nhk/newsweb/na/nd-20261010de57543"
    }
   ]
+ },
+ {
+  "at": "2026-10-10T08:15+09:00",
+  "text": "民の暮らす場所へ矢を向けるのは、苦しさの表れとか。いずれにせよ、傷つくのはいつも市井の人なり。",
+  "expression": "憂い",
+  "scene": "regular",
+  "lang": "ja",
+  "topic": "［深層ＮＥＷＳ］ロシアがウクライナの民間施設攻撃を激化、「苦しい状況にあることの裏返し」と高田克樹氏",
+  "links": [
+   {
+    "source": "読売新聞",
+    "title": "［深層ＮＥＷＳ］ロシアがウクライナの民間施設攻撃を激化、「苦しい状況にあることの裏返し」と高田克樹氏",
+    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBqeFVEUjJCUjE5TWpYR2t3cmVGcGszdV9pMEMtSzZ4bjlZSmo0VlliYko5MXRjSUs5RDJCYnVEUXpHTGwwakZqN1FFTjhBci1uemYtVUZfMkdRUzVvX3BNXzJn?oc=5"
+   },
+   {
+    "source": "NHK",
+    "title": "【詳細】ロシア ウクライナに軍事侵攻（10月9日の動き）",
+    "url": "https://news.web.nhk/newsweb/na/nd-20260930de53298"
+   }
+  ]
  }
 ]
