@@ -199,5 +199,25 @@
   "lang": "ja",
   "topic": null,
   "links": []
+ },
+ {
+  "at": "2026-10-09T15:00+09:00",
+  "text": "A shooting, and a child reportedly in the car. No quip today. One hopes all will mend.",
+  "expression": "憂い",
+  "scene": "regular",
+  "lang": "en",
+  "topic": "ICE agent shoots man in New York City",
+  "links": [
+   {
+    "source": "BBC",
+    "title": "ICE agent shoots man in New York City",
+    "url": "https://www.bbc.co.uk/news/articles/c59vzk9yypn3o?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "source": "Guardian",
+    "title": "ICE agent shoots man in New York City with five-year-old reportedly in car",
+    "url": "https://www.theguardian.com/us-news/2026/oct/08/nyc-shooting-federal-agent"
+   }
+  ]
  }
 ]
