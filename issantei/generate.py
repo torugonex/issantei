@@ -69,7 +69,7 @@ def check(d: dict, ctx: dict) -> str | None:
     """作法に反していれば理由を返す。"""
     n = len(d["text"])
     if ctx.get("lang") == "en":
-        limit = (30, 120)
+        limit = (25, 100)
         if not d["text"].isascii() and any("\u3040" <= c <= "\u9fff" for c in d["text"]):
             return "英語だけで書く（日本語を混ぜない）"
     else:
