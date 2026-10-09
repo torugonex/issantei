@@ -321,5 +321,25 @@
     "url": "https://www.bbc.co.uk/news/articles/cdr7n610rmzo?at_medium=RSS&at_campaign=rss"
    }
   ]
+ },
+ {
+  "at": "2026-10-09T18:00+09:00",
+  "text": "裁く側が追われる側へ回る。世の理屈も、ずいぶん忙しゅうなったものなり。",
+  "expression": "思案",
+  "scene": "regular",
+  "lang": "ja",
+  "topic": "政府「遺憾」ロシアのICC赤根所長ら引き渡し要請",
+  "links": [
+   {
+    "source": "テレ朝NEWS",
+    "title": "政府「遺憾」ロシアのICC赤根所長ら引き渡し要請",
+    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9BU2JrYlg3WHZlY3RRVmszb1BkbFZxODVfei1tbXhPWU5BWlp4bVZvaERKTmpSWlVFbjVmamo1VlNBeHJMb19DeHhNMnV0dXpZSHFiV3FlQjNuY0JQdE9fRzk2MmJ1R2VxNW1UZVp3SnZxdGs?oc=5"
+   },
+   {
+    "source": "NHK",
+    "title": "ロシア ICC赤根所長らの身柄引き渡しをオランダなどに要請",
+    "url": "https://news.web.nhk/newsweb/na/nd-20261009de56946"
+   }
+  ]
  }
 ]
