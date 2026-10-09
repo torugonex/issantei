@@ -128,7 +128,11 @@ def tick(now: datetime, llm, fixtures: Path | None = None, force: bool = False) 
                     and st["since_english"] + 1 >= st["next_english"]) else "ja"
 
     cfg = load(CONFIG, {})
-    ctx = {"now": now, "scene": scene, "lang": lang, "season": season.season_info(now), "mood": st["mood"],
+    sinfo = season.season_info(now)
+    recent_text = " ".join(t["text"] for t in tweets[-15:])
+    fresh_flora = [f for f in sinfo["flora"] if f not in recent_text] or sinfo["flora"]
+    season_hint = rng.choice(fresh_flora) if scene in ("morning", "goodnight") and rng.random() < 0.5 else None
+    ctx = {"now": now, "scene": scene, "lang": lang, "season_hint": season_hint, "season": sinfo, "mood": st["mood"],
            "sarcasm_allowed": st["since_sarcasm"] >= SARCASM_GAP,
            "recent": [t["text"] for t in tweets[-8:]]}
 
@@ -143,6 +147,8 @@ def tick(now: datetime, llm, fixtures: Path | None = None, force: bool = False) 
         ctx["topic"] = pick_topic(now, st, items, quakes, rng, lang)
         if scene == "regular" and ctx["topic"] is None:
             ctx["scene"] = scene = "life"
+            if rng.random() < 0.5:   # 暮らしの呟きでも、季節に触れるのは二回に一回
+                ctx["season_hint"] = rng.choice(fresh_flora)
         if errors:
             print("RSS取得の失敗:", *errors, sep="\n  ")
 

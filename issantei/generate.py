@@ -17,8 +17,12 @@ def build_prompt(ctx: dict) -> str:
     now = ctx["now"]
     lines = [f"いまは {now:%Y年%-m月%-d日}（{WEEKDAYS[now.weekday()]}）{now:%H:%M}。"]
     s = ctx["season"]
-    lines.append(f"季節：{s['sekki']}の頃" + (f"。今日は{s['sekki_today']}の入り" if s["sekki_today"] else "")
-                 + f"。いま見ごろの草花：{s['flora']}。")
+    line = f"季節：{s['sekki']}の頃" + (f"。今日は{s['sekki_today']}の入り" if s["sekki_today"] else "") + "。"
+    if ctx.get("season_hint"):
+        line += f"季節の手がかり（使っても使わなくてもよい）：{ctx['season_hint']}。"
+    else:
+        line += "今回は草花や季節の風物に触れない。"
+    lines.append(line)
     if ctx.get("weather"):
         w = ctx["weather"]
         lines.append(f"{w['place']}の今日の天気：{w['text']}。")
