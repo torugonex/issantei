@@ -370,5 +370,20 @@
   "lang": "ja",
   "topic": null,
   "links": []
+ },
+ {
+  "at": "2026-10-09T19:15+09:00",
+  "text": "珍味は国境を越えても、病までは連れてこぬがよろしい。検疫とは地味な番人なり。",
+  "expression": "思案",
+  "scene": "regular",
+  "lang": "ja",
+  "topic": "輸入禁止の肉製品販売した店に動物検疫所が初の立ち入り検査",
+  "links": [
+   {
+    "source": "NHK",
+    "title": "輸入禁止の肉製品販売した店に動物検疫所が初の立ち入り検査",
+    "url": "https://news.web.nhk/newsweb/na/nd-20261009de57425"
+   }
+  ]
  }
 ]
