@@ -341,5 +341,25 @@
     "url": "https://news.web.nhk/newsweb/na/nd-20261009de56946"
    }
   ]
+ },
+ {
+  "at": "2026-10-09T18:30+09:00",
+  "text": "信用を預かる商いが、その信用を損のうたとか。重い三月なり。",
+  "expression": "思案",
+  "scene": "regular",
+  "lang": "ja",
+  "topic": "金融庁、プルデンシャル生命に業務停止命令 金銭詐取問題で3カ月",
+  "links": [
+   {
+    "source": "日本経済新聞",
+    "title": "金融庁、プルデンシャル生命に業務停止命令 金銭詐取問題で3カ月",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE40MllHNU1xb1FXSEViWGZMZmVNbkVUMlVBSl9pM3VtUkI5cnZLUmFYdkRzbVJIdGJKNDVpdlV0S2NyeS1VbjFBZ0FSS3Izcmh4aWl0eGxCQ29yN2t0VFFrYXBCejNuY3VFVGhWSg?oc=5"
+   },
+   {
+    "source": "NHK",
+    "title": "金融庁がプルデンシャル生命に一部業務停止命令",
+    "url": "https://news.web.nhk/newsweb/na/nd-20261009de57195"
+   }
+  ]
  }
 ]
