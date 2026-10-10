@@ -776,5 +776,25 @@
     "url": "https://www.bbc.co.uk/news/articles/c6vg98lw017po?at_medium=RSS&at_campaign=rss"
    }
   ]
+ },
+ {
+  "at": "2026-10-10T09:30+09:00",
+  "text": "裁く場所に、裁かれ得る側が圧をかけるとな。天秤の置き所は難しい。",
+  "expression": "思案",
+  "scene": "regular",
+  "lang": "ja",
+  "topic": "トランプ政権 ICC本体を制裁対象 ノーベル平和賞発表後に圧力",
+  "links": [
+   {
+    "source": "テレ朝NEWS",
+    "title": "トランプ政権 ICC本体を制裁対象 ノーベル平和賞発表後に圧力",
+    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1zam5LTVU1VGVqLUpqRmY2ekd2UjdZWDdxQ3lCU2c5YVR5Zllrd0xQa21YUWlKVkgtZzNCWExXWllsTTc0S3lBaDhWRGdobkxQY2ZFdnFxSTdQS2swVGxuTzVKUjNCdUdDVjQ5ZXFTWmg2UWYtTVEyYjZn?oc=5"
+   },
+   {
+    "source": "NHK",
+    "title": "【詳しく】米トランプ政権 ICC＝国際刑事裁判所を制裁対象に",
+    "url": "https://news.web.nhk/newsweb/na/nd-20261009de57527"
+   }
+  ]
  }
 ]
