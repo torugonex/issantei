@@ -871,5 +871,25 @@
     "url": "https://news.web.nhk/newsweb/na/nd-20260930de53274"
    }
   ]
+ },
+ {
+  "at": "2026-10-10T10:30+09:00",
+  "text": "他国の油で国内の値札を宥める。選挙の前には、背に腹を替えるらしい。",
+  "expression": "片眉を上げる",
+  "scene": "regular",
+  "lang": "ja",
+  "topic": "ロシアが軽油３０万トン供給 トランプ、プーチン氏が合意―米中間選挙控え価格抑制狙う",
+  "links": [
+   {
+    "source": "時事ドットコム",
+    "title": "ロシアが軽油３０万トン供給 トランプ、プーチン氏が合意―米中間選挙控え価格抑制狙う",
+    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9lQ1VhbVo2Z1h2RFlCaG84Ty1waWpSZnVYLVRmajgxQkhzbGh0aXJtTjk5TGwtU01Sb1k3VjdqSk9sS2owa3pndHNjbk5QTEdvUXpwTWFwM1F2Qm5rVUI3TlFpQQ?oc=5"
+   },
+   {
+    "source": "NHK",
+    "title": "トランプ大統領“ロシアから軽油供給 プーチン大統領に感謝”",
+    "url": "https://news.web.nhk/newsweb/na/nd-20261010de57567"
+   }
+  ]
  }
 ]
