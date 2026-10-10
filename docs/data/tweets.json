@@ -1618,5 +1618,25 @@
   "lang": "en",
   "topic": null,
   "links": []
+ },
+ {
+  "at": "2026-10-11T08:00+09:00",
+  "text": "名前は奇抜でも、集う若者の不満は本物だろう。拘束で冷めるものかどうか。",
+  "expression": "思案",
+  "scene": "regular",
+  "lang": "ja",
+  "topic": "インド当局、「ゴキブリ人民党」創設者を拘束 若者のデモ拡大を警戒",
+  "links": [
+   {
+    "source": "日本経済新聞",
+    "title": "インド当局、「ゴキブリ人民党」創設者を拘束 若者のデモ拡大を警戒",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBXdTlUUEViZ0dOLVJrcXNkVnh3UHNkZG9oQ2ZmekpzaExIYU1Kc1haRzRtWVRXU1NtcjNoTHlFSi1MOGF4N3NWTkR2WVJqQWJDUXFLdllxYktXX3ExMlNBTHFEcS1IcUlDSHQtYQ?oc=5"
+   },
+   {
+    "source": "NHK",
+    "title": "インド“ゴキブリ人民党”創設者　抗議活動前に拘束",
+    "url": "https://news.web.nhk/newsweb/na/nd-20261010de57783"
+   }
+  ]
  }
 ]
