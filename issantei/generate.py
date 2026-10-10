@@ -42,6 +42,8 @@ def build_prompt(ctx: dict) -> str:
             lines.append(f"- {q['at']:%-d日%H時%M分} {q['area']} M{q['mag']} 最大震度{q['maxi']}")
     if ctx.get("lang") == "en":
         lines.append("\n" + ENGLISH)
+    if ctx.get("avoid_endings"):
+        lines.append("\n## 今回使わない言い回し（最近続いたため）\n" + "、".join(f"「{w}」" for w in ctx["avoid_endings"]))
     if ctx.get("recent"):
         lines.append("\n## 直近の自分の呟き（繰り返さない）")
         for r in ctx["recent"]:
@@ -80,6 +82,9 @@ def check(d: dict, ctx: dict) -> str | None:
         limit = (8, 24) if ctx["scene"] == "sleeptalk" else (14, 36)
     if not limit[0] <= n <= limit[1]:
         return f"長さが{n}字。{limit[0]}〜{limit[1]}字に収める"
+    used = [w for w in ctx.get("avoid_endings", []) if w in d["text"]]
+    if used:
+        return "最近続いた言い回し " + "、".join(used) + " を使わない"
     if d["expression"] == "片眉を上げる" and not ctx["sarcasm_allowed"]:
         return "今回は皮肉の顔を使わない"
     if ctx.get("topic") and ctx["topic"]["grave"] and d["expression"] not in ("憂い", "思案"):

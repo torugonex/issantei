@@ -26,6 +26,9 @@ CONFIG = ROOT / "config" / "feeds.json"
 POST_PROB = 0.85        # 起きている間、一刻み（15分）ごとに呟く確率。1時間で3〜4回
 SARCASM_GAP = 4         # 皮肉のあと、これだけ呟くまでは次の皮肉を控える（5回に1回程度）
 ENGLISH_EVERY = (3, 5)  # 英語で呟く間隔。3〜5回に1回
+# 古風な決まり文句。直近の日本語の呟きで使ったものは、しばらく使わせない
+MANNERISMS = ["とな", "なり", "そうな", "よろしい", "けり", "ものだ"]
+MANNERISM_WINDOW = 4
 WAKE, SLEEP = 6, 23     # 6時に起き、23時に寝る
 KEEP = 400              # tweets.json に残す件数
 
@@ -132,7 +135,9 @@ def tick(now: datetime, llm, fixtures: Path | None = None, force: bool = False) 
     recent_text = " ".join(t["text"] for t in tweets[-15:])
     fresh_flora = [f for f in sinfo["flora"] if f not in recent_text] or sinfo["flora"]
     season_hint = rng.choice(fresh_flora) if scene in ("morning", "goodnight") and rng.random() < 0.5 else None
-    ctx = {"now": now, "scene": scene, "lang": lang, "season_hint": season_hint, "season": sinfo, "mood": st["mood"],
+    recent_ja = [t["text"] for t in tweets if t.get("lang", "ja") == "ja"][-MANNERISM_WINDOW:]
+    avoid_endings = [w for w in MANNERISMS if any(w in t for t in recent_ja)] if lang == "ja" else []
+    ctx = {"now": now, "scene": scene, "lang": lang, "season_hint": season_hint, "avoid_endings": avoid_endings, "season": sinfo, "mood": st["mood"],
            "sarcasm_allowed": st["since_sarcasm"] >= SARCASM_GAP,
            "recent": [t["text"] for t in tweets[-8:]]}
 
