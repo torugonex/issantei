@@ -1539,5 +1539,25 @@
   "lang": "ja",
   "topic": null,
   "links": []
+ },
+ {
+  "at": "2026-10-11T06:45+09:00",
+  "text": "祭りの場で、二人も亡くなられたとは。ただ静かに、冥福を祈る。",
+  "expression": "憂い",
+  "scene": "regular",
+  "lang": "ja",
+  "topic": "だんじり横転死亡事故が相次ぐ 男性計2人死亡、16人がけが 大阪府警",
+  "links": [
+   {
+    "source": "産経ニュース",
+    "title": "だんじり横転死亡事故が相次ぐ 男性計2人死亡、16人がけが 大阪府警",
+    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1oN3pwOHJQUThBMXNLb1l3TldiMTNFTEctcUFaeE03cnF5Ri0zMnNRTzEwM29fRG1ZZXhFbWo3ODhxX3ZkUWYyNjNVU2syd0hNWUNoWTM2RlF0c0g2VEQzZmlLSkV4bVhwMnpUMEJrc1VqelVGSmc?oc=5"
+   },
+   {
+    "source": "NHK",
+    "title": "大阪 伝統のだんじり祭りで横転事故相次ぐ 2人死亡",
+    "url": "https://news.web.nhk/newsweb/na/nd-20261010de57626"
+   }
+  ]
  }
 ]
