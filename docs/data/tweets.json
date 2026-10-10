@@ -900,5 +900,25 @@
   "lang": "en",
   "topic": null,
   "links": []
+ },
+ {
+  "at": "2026-10-10T11:00+09:00",
+  "text": "職員の方が亡くなったと聞く。静かに悼む。省の備えが杞憂で終わるよう願う。",
+  "expression": "憂い",
+  "scene": "regular",
+  "lang": "ja",
+  "topic": "外務省が「ペスト連絡室」設置、ロシアの研究所職員死亡受け…茂木外相「緊張感を持って状況を注視する」",
+  "links": [
+   {
+    "source": "読売新聞",
+    "title": "外務省が「ペスト連絡室」設置、ロシアの研究所職員死亡受け…茂木外相「緊張感を持って状況を注視する」",
+    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9Bb2JpY1N3bFRIaDViS21FeDhEVTczVE1xZ1NOempfd0w0QWdZelRRVmJ3VkZZckNqRTU1R0w3SEplcUJGNExCMTdvQkNUYXRUYUdNNEl0OTM1R19wY0ZtUWZ2T1AyZw?oc=5"
+   },
+   {
+    "source": "NHK",
+    "title": "茂木外相 ロシアのペスト対策研究所の職員死亡で現地対策本部",
+    "url": "https://news.web.nhk/newsweb/na/nd-20261009de57475"
+   }
+  ]
  }
 ]
