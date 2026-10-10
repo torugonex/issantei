@@ -1321,5 +1321,25 @@
   "lang": "en",
   "topic": null,
   "links": []
+ },
+ {
+  "at": "2026-10-10T19:45+09:00",
+  "text": "島は身構え、大国には大国の理屈がある。肩の力の抜けぬ世だ。",
+  "expression": "思案",
+  "scene": "regular",
+  "lang": "ja",
+  "topic": "台湾総統「中国が現状変更」 防衛力強化強調し連携呼びかけ",
+  "links": [
+   {
+    "source": "NHKニュース",
+    "title": "台湾総統「中国が現状変更」 防衛力強化強調し連携呼びかけ",
+    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1TT3E2X0tMWFVBWUIxUWFwWUk0TzBxZEZWaF9BZ25fZl9BS3ZxXzZfQnNwalFQeFdsazQ1Sl9tWmpyTDdZaXRYRm53MUJxaVZXZ2hpckVVd3NjTWFhRXZJ?oc=5"
+   },
+   {
+    "source": "NHK",
+    "title": "台湾総統「中国が現状変更」 防衛力強化強調し連携呼びかけ",
+    "url": "https://news.web.nhk/newsweb/na/nd-20261010de57680"
+   }
+  ]
  }
 ]
