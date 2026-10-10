@@ -1149,5 +1149,25 @@
   "lang": "ja",
   "topic": null,
   "links": []
+ },
+ {
+  "at": "2026-10-10T16:30+09:00",
+  "text": "祭りの最中に命が失われたとの報。ただ静かに、お悔やみ申し上げる。",
+  "expression": "憂い",
+  "scene": "regular",
+  "lang": "ja",
+  "topic": "だんじり横転 複数下敷き1人死亡",
+  "links": [
+   {
+    "source": "Yahoo!ニュース",
+    "title": "だんじり横転 複数下敷き1人死亡",
+    "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBfc0l6Z052dGZKWE15Ukh2enBVdVBwYlQwX2lwZm4zTVowejM2cTQ2ZVRwUG5KQ3BMY01vWXBPS3VGWVAtRDB5MWNqOHk0eVJL?oc=5"
+   },
+   {
+    "source": "NHK",
+    "title": "大阪 泉佐野のだんじり祭りで事故 １人死亡 複数人けがの情報",
+    "url": "https://news.web.nhk/newsweb/na/nd-20261010de57626"
+   }
+  ]
  }
 ]
