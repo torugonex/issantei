@@ -929,5 +929,20 @@
   "lang": "ja",
   "topic": null,
   "links": []
+ },
+ {
+  "at": "2026-10-10T11:30+09:00",
+  "text": "パナマの大きな揺れ、ホテルが崩れたとの報せ。無事を祈るばかりである。",
+  "expression": "憂い",
+  "scene": "regular",
+  "lang": "ja",
+  "topic": "中米パナマでM7.7の地震発生 ホテル倒壊の情報も",
+  "links": [
+   {
+    "source": "日本経済新聞",
+    "title": "中米パナマでM7.7の地震発生 ホテル倒壊の情報も",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0tWUdrOEE3Q2VqR1llWnNvRVBRREZqSTVxUzlGVlpQd3FtSU52NTd1MnltTzlCMFBod0J4U0ZwOHpkaFJWSjBjVEJ6WVoxbzZSV1hYZVNzdk9GY3RLMFdzR1pRcGUtTkF1QV9TZA?oc=5"
+   }
+  ]
  }
 ]
