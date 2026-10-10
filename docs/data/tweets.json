@@ -1169,5 +1169,30 @@
     "url": "https://news.web.nhk/newsweb/na/nd-20261010de57626"
    }
   ]
+ },
+ {
+  "at": "2026-10-10T17:00+09:00",
+  "text": "A 7.7 quake in Panama, and buildings damaged. One hopes the people are safe.",
+  "expression": "憂い",
+  "scene": "regular",
+  "lang": "en",
+  "topic": "Powerful magnitude 7.7 earthquake hits Panama, damaging buildings",
+  "links": [
+   {
+    "source": "BBC",
+    "title": "Powerful magnitude 7.7 earthquake hits Panama, damaging buildings",
+    "url": "https://www.bbc.co.uk/news/articles/c620r39zdp9wo?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "source": "Guardian",
+    "title": "Powerful 7.7-magnitude earthquake strikes Panama and triggers panic in capital",
+    "url": "https://www.theguardian.com/world/2026/oct/09/panama-earthquake"
+   },
+   {
+    "source": "Euronews.com",
+    "title": "Powerful 7.7-magnitude earthquake strikes Panama, damaging buildings",
+    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOcWtSbHZaRjhhU3VlRTdxVkluZVN3cGN1NXROR0x1blBkMC04Ukp3azdfUzBGY1lHYWlIT09GMEJoc01yOEUtdk1qSzBRNThnNkJPMDdCUEtab3o4U2ZZRWZKcGRnWm80NXZNRnJfNFRDUF9ka3U5NHJPV3dXOUNFMklFYThzVmhKU0Z2ajMwY0tKdVB2LUlqTzFhSW8wTDZGbnl1QTZkekk?oc=5"
+   }
+  ]
  }
 ]
