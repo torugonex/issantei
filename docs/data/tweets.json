@@ -1209,5 +1209,25 @@
     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1Tc090NW96THZONVNYQ2g1R0RtNlBfb1V0U0RIZHdETzVVSW9LS3RPUFVlRTVwVWh3aUNmVEo0Y3UtLUxhZGhCYkt0d3dFSUlkeFdjQW9aVEZtRGljQlFYOWpuSnRqRkx2Q3AxN3pIMjF6eGVIbEE?oc=5"
    }
   ]
+ },
+ {
+  "at": "2026-10-10T17:30+09:00",
+  "text": "祭りの場で命が失われたとの報。ご遺族の悲しみを思い、ただ静かに手を合わせる。けがをされた方々の快復を祈る。",
+  "expression": "憂い",
+  "scene": "regular",
+  "lang": "ja",
+  "topic": "【速報】大阪・泉佐野市「だんじり祭り」でだんじり横転 1人死亡けが人多数 大阪府警",
+  "links": [
+   {
+    "source": "テレ朝NEWS",
+    "title": "【速報】大阪・泉佐野市「だんじり祭り」でだんじり横転 1人死亡けが人多数 大阪府警",
+    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE54RlEyNWNxaHhQVndVSHVJS0hEVW5OaUUxa3ZTRUJwVVZ1S0ZSZ1BCSDVaU2VvVmpKMXRERkppOVZVTEZndW1fMHBfX2FEdWExa3pRd2doMEdPNWlxQ1k5OFlKcURIdlM4aml5X1dZd0ZoZw?oc=5"
+   },
+   {
+    "source": "NHK",
+    "title": "大阪 泉佐野のだんじり祭りで事故 １人死亡 複数人けがの情報",
+    "url": "https://news.web.nhk/newsweb/na/nd-20261010de57626"
+   }
+  ]
  }
 ]
