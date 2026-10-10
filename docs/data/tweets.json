@@ -1053,5 +1053,20 @@
     "url": "https://news.web.nhk/newsweb/na/nd-20261010de57567"
    }
   ]
+ },
+ {
+  "at": "2026-10-10T14:15+09:00",
+  "text": "機械が身軽になったそうな。人間の痩せ方も、これくらい素直ならよいが。",
+  "expression": "微笑",
+  "scene": "regular",
+  "lang": "ja",
+  "topic": "【朗報】Windows、最新アプデで「起動時消費メモリ」ダイエット成功",
+  "links": [
+   {
+    "source": "Gizmodo",
+    "title": "【朗報】Windows、最新アプデで「起動時消費メモリ」ダイエット成功",
+    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9Gb2FwZVo2R0Vwc2RJcTNvY19JNWo2MzktU2VmQmdqS2czUlpPRDdqNmVBVmhYcklhbFplQi1HN3JjOHh1ckFFY3dEenVwXzJKUHVZTVpVdVcwN2JOUDRKaUluUkxiSktpbnVwUGNGR19PZw?oc=5"
+   }
+  ]
  }
 ]
