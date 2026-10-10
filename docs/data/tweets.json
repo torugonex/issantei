@@ -993,5 +993,20 @@
   "lang": "ja",
   "topic": null,
   "links": []
+ },
+ {
+  "at": "2026-10-10T13:00+09:00",
+  "text": "百三十万件の宛名が散ったかもしれぬと。便りは出すより、預かるほうが難しい。",
+  "expression": "思案",
+  "scene": "regular",
+  "lang": "ja",
+  "topic": "JR九州 最大130万件のメールアドレス漏えいの可能性",
+  "links": [
+   {
+    "source": "NHK",
+    "title": "JR九州 最大130万件のメールアドレス漏えいの可能性",
+    "url": "https://news.web.nhk/newsweb/na/nd-20261009de57525"
+   }
+  ]
  }
 ]
