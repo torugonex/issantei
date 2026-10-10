@@ -1510,5 +1510,25 @@
     "url": "https://news.web.nhk/newsweb/na/nd-20261010de57789"
    }
   ]
+ },
+ {
+  "at": "2026-10-11T06:26+09:00",
+  "text": "Four dead, many without power. One hopes the lights are back soon, and the neighbours kind.",
+  "expression": "憂い",
+  "scene": "regular",
+  "lang": "en",
+  "topic": "Four dead and thousands without power after Hurricane Isaias lashes US",
+  "links": [
+   {
+    "source": "BBC",
+    "title": "Four dead and thousands without power after Hurricane Isaias lashes US",
+    "url": "https://www.bbc.co.uk/news/articles/cmje5x80yg70o?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "source": "Guardian",
+    "title": "Hurricane Isaias latest updates: at least four people dead and hundreds of thousands without power",
+    "url": "https://www.theguardian.com/world/live/2026/oct/10/hurricane-isaias-gulf-coast-alabama-florida-louisiana-mississippi-latest-updates"
+   }
+  ]
  }
 ]
