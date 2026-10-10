@@ -1374,5 +1374,20 @@
   "lang": "ja",
   "topic": null,
   "links": []
+ },
+ {
+  "at": "2026-10-10T20:45+09:00",
+  "text": "Asbestos on a beloved beach. One does wonder what the tide was hiding, and for how long.",
+  "expression": "思案",
+  "scene": "regular",
+  "lang": "en",
+  "topic": "Asbestos mystery leaves beloved beach closed",
+  "links": [
+   {
+    "source": "BBC",
+    "title": "Asbestos mystery leaves beloved beach closed",
+    "url": "https://www.bbc.co.uk/news/articles/c574p9rdk2mko?at_medium=RSS&at_campaign=rss"
+   }
+  ]
  }
 ]
