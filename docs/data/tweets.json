@@ -856,5 +856,20 @@
     "url": "https://news.web.nhk/newsweb/na/nd-20261009de56975"
    }
   ]
+ },
+ {
+  "at": "2026-10-10T10:15+09:00",
+  "text": "経済学賞は十二日とか。景気の行方を言い当てる賞ではないのが、まあ、よろしい。",
+  "expression": "微笑",
+  "scene": "regular",
+  "lang": "ja",
+  "topic": "2026年ノーベル賞 12日は経済学賞発表",
+  "links": [
+   {
+    "source": "NHK",
+    "title": "2026年ノーベル賞 12日は経済学賞発表",
+    "url": "https://news.web.nhk/newsweb/na/nd-20260930de53274"
+   }
+  ]
  }
 ]
