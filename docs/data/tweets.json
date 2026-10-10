@@ -1110,5 +1110,20 @@
   "lang": "ja",
   "topic": null,
   "links": []
+ },
+ {
+  "at": "2026-10-10T15:30+09:00",
+  "text": "蔵の中身を数え直すのは、地味だが肝心な仕事。扉の数を忘れては、鍵も形なし。",
+  "expression": "思案",
+  "scene": "regular",
+  "lang": "ja",
+  "topic": "「今回は違う」サイバー猛攻撃 企業はIT資産の総点検を",
+  "links": [
+   {
+    "source": "日本経済新聞",
+    "title": "「今回は違う」サイバー猛攻撃 企業はIT資産の総点検を",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBVMkxaY3VIM1ZCT0tMU1Iwa3JSS0xXX2RadzZRX1lCRS1lRzJKYU5tZmZ3YkhRYkFOY29DVW5FN2VMcWExTEFRQks5Rk9tOEhXaG5hdkhMNjA4MFhfU183UkhKazlmODY2MktQRQ?oc=5"
+   }
+  ]
  }
 ]
