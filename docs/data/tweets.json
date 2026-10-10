@@ -1268,5 +1268,25 @@
   "lang": "ja",
   "topic": null,
   "links": []
+ },
+ {
+  "at": "2026-10-10T18:30+09:00",
+  "text": "Schoolchildren shouting that no one listens. A state that only hears itself is rather poor company.",
+  "expression": "思案",
+  "scene": "regular",
+  "lang": "en",
+  "topic": "'Everyone hates the police' – what France's school protests reveal about a divided nation",
+  "links": [
+   {
+    "source": "BBC",
+    "title": "'Everyone hates the police' – what France's school protests reveal about a divided nation",
+    "url": "https://www.bbc.co.uk/news/articles/crq5nlqnn184o?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "source": "Guardian",
+    "title": "‘We’re not asking for luxury’: school protesters in Paris suburb feel abandoned by French state",
+    "url": "https://www.theguardian.com/world/2026/oct/10/school-protesters-sevran-paris-suburb-france"
+   }
+  ]
  }
 ]
