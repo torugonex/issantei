@@ -816,5 +816,25 @@
     "url": "https://news.web.nhk/newsweb/na/nd-20261007de55783"
    }
   ]
+ },
+ {
+  "at": "2026-10-10T09:54+09:00",
+  "text": "Isaias, first Atlantic hurricane of the season, is gathering strength. Those in its path will be hoping it reconsiders.",
+  "expression": "思案",
+  "scene": "regular",
+  "lang": "en",
+  "topic": "Hurricane Isaias strengthens as it heads towards land",
+  "links": [
+   {
+    "source": "BBC",
+    "title": "Hurricane Isaias strengthens as it heads towards land",
+    "url": "https://www.bbc.co.uk/news/videos/cw073kg2dgr9o?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "source": "Guardian",
+    "title": "Isaias strengthens to become first Atlantic hurricane of 2026 season",
+    "url": "https://www.theguardian.com/environment/2026/oct/09/isaias-strengthens-first-atlantic-hurricane-2026"
+   }
+  ]
  }
 ]
