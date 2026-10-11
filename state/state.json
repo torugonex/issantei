@@ -1,9 +1,9 @@
 {
  "mood": {
-  "valence": 0.102,
-  "arousal": -0.279
+  "valence": 0.026,
+  "arousal": -0.234
  },
- "since_sarcasm": 12,
+ "since_sarcasm": 0,
  "day": "2026-10-12",
  "morning_done": true,
  "goodnight_done": false,
@@ -94,7 +94,8 @@
   "05f8ab2192fa": "2026-10-11T21:15:18.870505+09:00",
   "91c9b08a1e7a": "2026-10-11T21:45:17.032243+09:00",
   "9b6f6cdae07d": "2026-10-11T22:02:36.282465+09:00",
-  "29e49033d8da": "2026-10-11T22:30:26.583213+09:00"
+  "29e49033d8da": "2026-10-11T22:30:26.583213+09:00",
+  "2c0ed7ad0829": "2026-10-12T06:45:16.864223+09:00"
  },
  "commented_titles": [
   {
@@ -208,12 +209,16 @@
   {
    "title": "サウジ首都空港をフーシ攻撃か、米国含む１２人死亡・３００人超負傷…トランプ氏はフーシ報復「検討」",
    "at": "2026-10-11T22:30:26.583213+09:00"
+  },
+  {
+   "title": "Zack Polanski signals Green party overhaul after row over Zionism vote",
+   "at": "2026-10-12T06:45:16.864223+09:00"
   }
  ],
- "last_quake_check": "2026-10-12T06:30:28.006610+09:00",
- "since_english": 4,
- "next_english": 5,
- "last_tick": "2026-10-12T06:30:28.006610+09:00",
+ "last_quake_check": "2026-10-12T06:45:16.864223+09:00",
+ "since_english": 1,
+ "next_english": 3,
+ "last_tick": "2026-10-12T06:45:16.864223+09:00",
  "french_day": "2026-10-12",
  "french_done": false,
  "french_after": 1146
