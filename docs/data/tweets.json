@@ -1812,5 +1812,25 @@
   "lang": "en",
   "topic": null,
   "links": []
+ },
+ {
+  "at": "2026-10-11T12:15+09:00",
+  "text": "空港で多くの命が奪われた。傷を負った方々の快復を、ただ静かに祈る。",
+  "expression": "憂い",
+  "scene": "regular",
+  "lang": "ja",
+  "topic": "【速報】サウジ空港攻撃で12人死亡、309人負傷",
+  "links": [
+   {
+    "source": "47NEWS",
+    "title": "【速報】サウジ空港攻撃で12人死亡、309人負傷",
+    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1YUlNSczNaQVVvZG1TTE5KUHI1czRGdlRKZF9PM3Q5bGZRdVZCVk9jRFlrLUQ2NzRLZEdoSEZLVEc5bmNrcmE2RFYwQQ?oc=5"
+   },
+   {
+    "source": "NHK",
+    "title": "サウジ首都空港に攻撃 12人死亡 米国務長官は攻撃を強く非難",
+    "url": "https://news.web.nhk/newsweb/na/nd-20261011de57816"
+   }
+  ]
  }
 ]
