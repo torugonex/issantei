@@ -1708,5 +1708,30 @@
     "url": "https://news.web.nhk/newsweb/na/nd-20261010de57789"
    }
   ]
+ },
+ {
+  "at": "2026-10-11T10:30+09:00",
+  "text": "Choosing another nation's leader is rather delicate work. One hopes the gardener has asked the household first.",
+  "expression": "憂い",
+  "scene": "regular",
+  "lang": "en",
+  "topic": "'Time for Ukraine to get new president,' says Trump after Zelensky condemns diesel deal",
+  "links": [
+   {
+    "source": "BBC",
+    "title": "'Time for Ukraine to get new president,' says Trump after Zelensky condemns diesel deal",
+    "url": "https://www.bbc.co.uk/news/articles/cqe8r5l7n92jo?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "source": "Guardian",
+    "title": "Trump says Ukraine needs a new leader after diesel deal with Russia",
+    "url": "https://www.theguardian.com/world/2026/oct/10/ukraine-russia-strikes-war-trump-diesel-deal-zelenskyy"
+   },
+   {
+    "source": "Euronews.com",
+    "title": "Trump says it is time for Ukraine to replace Zelenskyy as leader",
+    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQYjNZS0tReXlIazNiY0piTTZfWXFtSF84b1pMUlVUdWFNYWxXUTNxc1FRUG44dGxubjZxeXRSeVl6RHhwN3NBN213Zkx1VlgwZ0h6RlVlUVV2UHpQM3FxUHU2ejM4UDVoYndJOWlqdlNLR3RYa2ZnRXNPaE1JajgxNUJobTVQdTRabG80QzVwQi1wT1owQWh3MmhEaDVQNnNkRmpLcEtuMVdWXzlJUUtKblREd2hUMkU?oc=5"
+   }
+  ]
  }
 ]
