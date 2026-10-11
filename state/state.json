@@ -1,9 +1,9 @@
 {
  "mood": {
-  "valence": -0.244,
-  "arousal": -0.061
+  "valence": -0.233,
+  "arousal": -0.071
  },
- "since_sarcasm": 0,
+ "since_sarcasm": 1,
  "day": "2026-10-11",
  "morning_done": true,
  "goodnight_done": false,
@@ -91,7 +91,8 @@
   "18d8f3475a6c": "2026-10-11T15:00:36.078770+09:00",
   "3f1058bdad2d": "2026-10-11T15:15:18.274192+09:00",
   "f7377acbdffe": "2026-10-11T15:16:26.187668+09:00",
-  "b9306d8f64d9": "2026-10-11T15:45:17.550565+09:00"
+  "b9306d8f64d9": "2026-10-11T15:45:17.550565+09:00",
+  "a3dae2a2ccee": "2026-10-11T16:00:37.803025+09:00"
  },
  "commented_titles": [
   {
@@ -133,12 +134,16 @@
   {
    "title": "‘You have a meeting’: the calendar phishing scam growing exponentially",
    "at": "2026-10-11T15:45:17.550565+09:00"
+  },
+  {
+   "title": "なぜ軽油？日本への影響は トランプ氏「プーチン氏に感謝」ロシア産軽油を世界供給へ",
+   "at": "2026-10-11T16:00:37.803025+09:00"
   }
  ],
- "last_quake_check": "2026-10-11T15:45:17.550565+09:00",
- "since_english": 1,
+ "last_quake_check": "2026-10-11T16:00:37.803025+09:00",
+ "since_english": 2,
  "next_english": 4,
- "last_tick": "2026-10-11T15:45:17.550565+09:00",
+ "last_tick": "2026-10-11T16:00:37.803025+09:00",
  "french_day": "2026-10-11",
  "french_done": false,
  "french_after": 1149
