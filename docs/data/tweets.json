@@ -2060,5 +2060,25 @@
     "url": "https://news.web.nhk/newsweb/na/nd-20261010de57783"
    }
   ]
+ },
+ {
+  "at": "2026-10-11T16:30+09:00",
+  "text": "Four dead in Florida as the storm weakens. Weaker, yes, but not harmless. Rest in peace.",
+  "expression": "憂い",
+  "scene": "regular",
+  "lang": "en",
+  "topic": "Four dead as Isaias weakens to post-tropical cyclone after striking Florida panhandle",
+  "links": [
+   {
+    "source": "Guardian",
+    "title": "Four dead as Isaias weakens to post-tropical cyclone after striking Florida panhandle",
+    "url": "https://www.theguardian.com/world/2026/oct/10/isaias-weakens-to-post-tropical-cyclone"
+   },
+   {
+    "source": "The Guardian",
+    "title": "Four dead as Isaias weakens to post-tropical cyclone after striking Florida panhandle",
+    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNakQxb1RFSW40T1hoaDRLeXFGeTFHUTg5d0lSQTh6NE0za1RSVXk2dzlnTTlZZGJrT2tQcFh2QzEtNThSVzlfV0tnVjdtNG9FNEpSVVl5Nm1mWDctMWstOUUwMko3ZHJTb2NpMXMwS0I3Wkhhb3pTRllaZUNmSGM0cFAyaGJQSXFlRVd3dWRR?oc=5"
+   }
+  ]
  }
 ]

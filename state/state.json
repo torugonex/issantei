@@ -1,15 +1,14 @@
 {
  "mood": {
-  "valence": -0.25,
-  "arousal": -0.028
+  "valence": -0.425,
+  "arousal": -0.114
  },
- "since_sarcasm": 2,
+ "since_sarcasm": 3,
  "day": "2026-10-11",
  "morning_done": true,
  "goodnight_done": false,
  "sleeptalk_night": "2026-10-10",
  "commented": {
-  "8aaa0f41b21c": "2026-10-09T16:15:20.973847+09:00",
   "3bbf83f39ebb": "2026-10-09T16:30:30.503174+09:00",
   "69e65bf837e6": "2026-10-09T17:30:26.164071+09:00",
   "1b4885f35b84": "2026-10-09T18:00:38.451302+09:00",
@@ -92,7 +91,8 @@
   "f7377acbdffe": "2026-10-11T15:16:26.187668+09:00",
   "b9306d8f64d9": "2026-10-11T15:45:17.550565+09:00",
   "a3dae2a2ccee": "2026-10-11T16:00:37.803025+09:00",
-  "e883b22e5471": "2026-10-11T16:15:18.538374+09:00"
+  "e883b22e5471": "2026-10-11T16:15:18.538374+09:00",
+  "f83bbe4eb415": "2026-10-11T16:30:27.961229+09:00"
  },
  "commented_titles": [
   {
@@ -142,12 +142,16 @@
   {
    "title": "インド当局、「ゴキブリ人民党」創設者ら拘束 若者のデモ拡大を警戒",
    "at": "2026-10-11T16:15:18.538374+09:00"
+  },
+  {
+   "title": "Four dead as Isaias weakens to post-tropical cyclone after striking Florida panhandle",
+   "at": "2026-10-11T16:30:27.961229+09:00"
   }
  ],
- "last_quake_check": "2026-10-11T16:15:18.538374+09:00",
- "since_english": 3,
- "next_english": 4,
- "last_tick": "2026-10-11T16:15:18.538374+09:00",
+ "last_quake_check": "2026-10-11T16:30:27.961229+09:00",
+ "since_english": 1,
+ "next_english": 3,
+ "last_tick": "2026-10-11T16:30:27.961229+09:00",
  "french_day": "2026-10-11",
  "french_done": false,
  "french_after": 1149
