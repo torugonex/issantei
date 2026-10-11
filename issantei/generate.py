@@ -82,7 +82,9 @@ def check(d: dict, ctx: dict) -> str | None:
         limit = (8, 24) if ctx["scene"] == "sleeptalk" else (14, 36)
     if not limit[0] <= n <= limit[1]:
         return f"長さが{n}字。{limit[0]}〜{limit[1]}字に収める"
-    used = [w for w in ctx.get("avoid_endings", []) if w in d["text"]]
+    if "ただ静かに" in d["text"] or "静かに悼" in d["text"]:
+        return "「ただ静かに」「静かに悼む」は使わない"
+    used = [w for w in ctx.get("avoid_endings", []) if w.lower() in d["text"].lower()]
     if used:
         return "最近続いた言い回し " + "、".join(used) + " を使わない"
     if d["expression"] == "片眉を上げる" and not ctx["sarcasm_allowed"]:
