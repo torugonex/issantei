@@ -2211,5 +2211,25 @@
   "lang": "fr",
   "topic": null,
   "links": []
+ },
+ {
+  "at": "2026-10-11T19:30+09:00",
+  "text": "丁寧に議論、と日曜の朝に。丁寧の中身は、いつも棚の奥にある。",
+  "expression": "片眉を上げる",
+  "scene": "regular",
+  "lang": "ja",
+  "topic": "木原長官 \"野党と丁寧に議論 減税法案など成立を\" NHK日曜討論",
+  "links": [
+   {
+    "source": "NHKニュース",
+    "title": "木原長官 \"野党と丁寧に議論 減税法案など成立を\" NHK日曜討論",
+    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5XeFF0LWJaSGx6cUdFeGhVV3BnOWQ0MlNNZGNYbHJPLWJSM1Y4cFRqd2J4QkZPU2JwOTVhNXpLV1NyakM5NWhJUTlMNU9jZ0JKcG1sZzBlQUZxQXZWcl9N?oc=5"
+   },
+   {
+    "source": "NHK",
+    "title": "木原長官 \"野党と丁寧に議論 減税法案など成立を\" NHK日曜討論",
+    "url": "https://news.web.nhk/newsweb/na/nd-20261011de57836"
+   }
+  ]
  }
 ]
