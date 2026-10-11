@@ -30,7 +30,8 @@ ENGLISH_EVERY = (3, 5)  # 英語で呟く間隔。3〜5回に1回
 MANNERISMS = ["とな", "なり", "そうな", "よろしい", "けり", "ものだ"]
 MANNERISM_WINDOW = 4
 # 弔意の言葉。直近3回の「憂い」の呟きで使ったものは、次に使わせない
-CONDOLENCES = ["黙祷", "安らかなれ", "言葉もない", "冥福", "合掌", "Rest in peace"]
+CONDOLENCES = ["黙祷", "安らかなれ", "言葉もない", "冥福", "合掌",
+               "Rest in peace", "Requiescat", "Paix à", "Repose en paix"]
 CONDOLENCE_WINDOW = 3
 WAKE, SLEEP = 6, 23     # 6時に起き、23時に寝る
 KEEP = 400              # tweets.json に残す件数
