@@ -6,7 +6,7 @@ import os
 import re
 import urllib.request
 
-from .persona import ENGLISH, EXPRESSIONS, SCENES, SYSTEM
+from .persona import ENGLISH, EXPRESSIONS, FRENCH, SCENES, SYSTEM
 
 API_URL = "https://api.anthropic.com/v1/messages"
 DEFAULT_MODEL = "claude-sonnet-5-5"
@@ -42,6 +42,8 @@ def build_prompt(ctx: dict) -> str:
             lines.append(f"- {q['at']:%-d日%H時%M分} {q['area']} M{q['mag']} 最大震度{q['maxi']}")
     if ctx.get("lang") == "en":
         lines.append("\n" + ENGLISH)
+    elif ctx.get("lang") == "fr":
+        lines.append("\n" + FRENCH)
     if ctx.get("avoid_endings"):
         lines.append("\n## 今回使わない言い回し（最近続いたため）\n" + "、".join(f"「{w}」" for w in ctx["avoid_endings"]))
     if ctx.get("recent"):
@@ -74,7 +76,7 @@ def _parse(text: str) -> dict:
 def check(d: dict, ctx: dict) -> str | None:
     """作法に反していれば理由を返す。"""
     n = len(d["text"])
-    if ctx.get("lang") == "en":
+    if ctx.get("lang") in ("en", "fr"):
         limit = (25, 100)
         if not d["text"].isascii() and any("\u3040" <= c <= "\u9fff" for c in d["text"]):
             return "英語だけで書く（日本語を混ぜない）"
@@ -127,6 +129,8 @@ class FakeLLM:
             return json.dumps({"text": f"{ch}。さて、夜のうちに世の中は何をしでかしたかな", "expression": "微笑", "valence": 0.3, "arousal": 0, "severity": 0}, ensure_ascii=False)
         if "就寝前" in scene:
             return json.dumps({"text": "そろそろ寝る。世の中の続きは、また明日拝見しよう", "expression": "微笑", "valence": 0.2, "arousal": -0.4, "severity": 0}, ensure_ascii=False)
+        if "今回はフランス語で呟く" in user:
+            return json.dumps({"text": "(essai) Un café, un journal, et le monde peut bien attendre.", "expression": "微笑", "valence": 0.2, "arousal": 0, "severity": 0}, ensure_ascii=False)
         if "今回は英語で呟く" in user:
             return json.dumps({"text": "(dry run) One reads the papers so the papers need not read one.", "expression": "片眉を上げる" if "皮肉の顔を使わない" not in user else "思案", "valence": 0, "arousal": 0, "severity": 0})
         if topic:

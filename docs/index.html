@@ -53,7 +53,7 @@ h1 { margin: 0; font-family: var(--f-display); font-weight: 700; font-size: 2.2r
 .log li:first-child { border-top: 0; }
 .t { font-size: .8rem; color: var(--sub); font-variant-numeric: tabular-nums; padding-top: .2em; }
 .txt { font-family: var(--f-display); font-size: 1.02rem; line-height: 1.65; }
-[lang="en"] { font-family: "Cormorant Garamond", var(--f-display); font-style: italic; }
+[lang="en"], [lang="fr"] { font-family: "Cormorant Garamond", var(--f-display); font-style: italic; }
 .small { grid-column: 2; font-size: .75rem; color: var(--sub); display: flex; gap: 8px; flex-wrap: wrap; }
 .small a { color: var(--sub); }
 .small a:hover, .small a:focus-visible { color: var(--accent); }
@@ -149,7 +149,7 @@ function render(tweets) {
   document.getElementById("face").innerHTML = faceSVG(expr);
   const bubble = document.getElementById("bubble");
   bubble.textContent = text;
-  if (last && last.lang === "en" && text === last.text) bubble.setAttribute("lang", "en"); else bubble.removeAttribute("lang");
+  if (last && (last.lang === "en" || last.lang === "fr") && text === last.text) bubble.setAttribute("lang", last.lang); else bubble.removeAttribute("lang");
   document.getElementById("meta").innerHTML = last
     ? `<span>${dayLabel(jst(last.at))} ${hm(jst(last.at))}</span><span class="chip">${esc(expr)}</span>` : "";
 
@@ -160,7 +160,7 @@ function render(tweets) {
     const j = jst(t.at), d = dayLabel(j);
     if (d !== cur) { html += (cur ? "</ol>" : "") + `<h2>${d}</h2><ol>`; cur = d; }
     const links = (t.links || []).map(l => `<a href="${esc(l.url)}" target="_blank" rel="noopener">${esc(l.source)}</a>`).join("、");
-    html += `<li><span class="t">${hm(j)}</span><span class="txt"${t.lang === "en" ? ' lang="en"' : ""}>${esc(t.text)}</span>
+    html += `<li><span class="t">${hm(j)}</span><span class="txt"${t.lang === "en" || t.lang === "fr" ? ` lang="${t.lang}"` : ""}>${esc(t.text)}</span>
       <span class="small"><span>${esc(t.expression)}</span>${links ? `<span>出典：${links}</span>` : ""}</span></li>`;
   });
   log.innerHTML = html + "</ol>";

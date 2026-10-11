@@ -91,7 +91,10 @@ def topic_payload(t: topics.Topic) -> dict:
 def pick_topic(now, st, items, quakes, rng, lang="ja"):
     """話題を選ぶ。新しい地震 → 大きな話題 → 小さな話題 → 暮らし の順に、重みをつけて。
     英語の回は英語のRSSから選ぶ（地震は日本語の回で扱う）。"""
-    items = [i for i in items if i.lang == lang]
+    pool = [i for i in items if i.lang == lang]
+    if lang == "fr" and not pool:      # フランス語の記事が取れないときは英語の記事から
+        pool = [i for i in items if i.lang == "en"]
+    items = pool
     for q in (quakes if lang == "ja" else []):
         key = f"quake-{q['at']:%Y%m%d%H%M}"
         if key not in st["commented"]:
@@ -136,6 +139,13 @@ def tick(now: datetime, llm, fixtures: Path | None = None, force: bool = False) 
     # 英語で呟くか。朝の第一声（天気の一字）と寝言は日本語のまま
     lang = "en" if (scene in ("regular", "bar", "life", "goodnight")
                     and st["since_english"] + 1 >= st["next_english"]) else "ja"
+    # フランス語は一日に一度。その日の呟く時刻を朝に決め、過ぎたら最初の機会に
+    if st.get("french_day") != today:
+        st["french_day"], st["french_done"] = today, False
+        st["french_after"] = rng.randint(10 * 60, 20 * 60)          # 10時〜20時のどこか（分）
+    if (not st["french_done"] and scene in ("regular", "bar", "life")
+            and now.hour * 60 + now.minute >= st["french_after"]):
+        lang = "fr"
 
     cfg = load(CONFIG, {})
     sinfo = season.season_info(now)
@@ -178,9 +188,11 @@ def tick(now: datetime, llm, fixtures: Path | None = None, force: bool = False) 
     st["mood"] = {"valence": round(st["mood"]["valence"] * (1 - w) + d["valence"] * w, 3),
                   "arousal": round(st["mood"]["arousal"] * (1 - w) + d["arousal"] * w, 3)}
     st["since_sarcasm"] = 0 if d["expression"] == "片眉を上げる" else st["since_sarcasm"] + 1
-    if lang == "en":
+    if lang in ("en", "fr"):
         st["since_english"] = 0
         st["next_english"] = rng.randint(*ENGLISH_EVERY)
+    if lang == "fr":
+        st["french_done"] = True
     elif scene != "sleeptalk":
         st["since_english"] += 1
     if scene == "morning":

@@ -8,25 +8,27 @@ from dataclasses import dataclass, field
 
 from .collect import Item
 
+_CJK = re.compile(r"[\u3040-\u30ff\u3400-\u9fff]")
 _STRIP = re.compile(r"[【\[（(].*?[】\]）)]|[「」『』“”\"'、。・：:！!？?\s　…|｜]")
 
 # 見出しに出たら「深刻」とみなす語。茶化さず、憂いの顔で静かに触れる対象。
 GRAVE_WORDS = ["死亡", "死者", "犠牲", "殺害", "殺人", "遺体", "行方不明", "墜落",
                "津波警報", "大津波", "特別警報", "震度6", "震度7", "テロ", "銃撃", "空爆", "戦死",
                "killed", "dead", "dies", "death toll", "massacre", "shooting", "murder", "stabbing",
-               "missing", "earthquake kills", "airstrike", "terror", "crash kills"]
+               "missing", "earthquake kills", "airstrike", "terror", "crash kills",
+               "morts", "tués", "tué", "mort ", "victimes", "attentat", "fusillade", "meurtre", "disparus"]
 
 
 def _norm(title: str) -> str:
     t = unicodedata.normalize("NFKC", title)
-    if t.isascii():
+    if not _CJK.search(t):
         return re.sub(r"\s+", " ", t).strip()
     return _STRIP.sub("", t)
 
 
 def _grams(t: str) -> set[str]:
-    if t.isascii():   # 英語は単語で比べる
-        words = [w for w in re.findall(r"[a-z0-9]+", t.lower()) if len(w) > 2]
+    if not _CJK.search(t):   # 英語・フランス語は単語で比べる
+        words = [w for w in re.findall(r"[^\W_]+", t.lower()) if len(w) > 2]
         return set(words) or {t}
     return {t[i:i + 2] for i in range(len(t) - 1)} or {t}
 

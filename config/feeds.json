@@ -1,5 +1,5 @@
 {
-  "_note": "使うRSSの一覧。lang は ja（日本語の呟き用）か en（英語の呟き用）。enabled を false にすると読まなくなる。各社の利用条件を確認のうえで有効にすること。",
+  "_note": "使うRSSの一覧。lang は ja（日本語の呟き用）、en（英語の呟き用）、fr（フランス語の呟き用）。enabled を false にすると読まなくなる。各社の利用条件を確認のうえで有効にすること。",
   "feeds": [
     {
       "name": "Googleニュース（主要）",
@@ -86,6 +86,18 @@
       "enabled": true,
       "aggregator": true,
       "lang": "en"
+    },
+    {
+      "name": "Le Monde",
+      "url": "https://www.lemonde.fr/rss/une.xml",
+      "enabled": true,
+      "lang": "fr"
+    },
+    {
+      "name": "France 24",
+      "url": "https://www.france24.com/fr/rss",
+      "enabled": true,
+      "lang": "fr"
     }
   ],
   "weather": {
