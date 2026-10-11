@@ -2290,5 +2290,25 @@
     "url": "https://news.web.nhk/newsweb/na/nd-20261011de57816"
    }
   ]
+ },
+ {
+  "at": "2026-10-11T21:00+09:00",
+  "text": "Photo ID at the polls: one side sees a safeguard, the other a barrier. Both quote figures rather fondly.",
+  "expression": "片眉を上げる",
+  "scene": "regular",
+  "lang": "en",
+  "topic": "Burnham faces questions over push to scrap photo ID voting requirement",
+  "links": [
+   {
+    "source": "Guardian",
+    "title": "Burnham faces questions over push to scrap photo ID voting requirement",
+    "url": "https://www.theguardian.com/politics/2026/oct/11/andy-burnham-faces-questions-electoral-system-changes-photo-id-voting"
+   },
+   {
+    "source": "The Guardian",
+    "title": "Burnham faces questions over push to scrap photo ID voting requirement",
+    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOTmlsbjhHTkNKTVF1MGY4WmRuN3Rmd1Q0UTlSUmhaWEtNVnl5UjBDX2FRTzRDV3JTVTRXMUtoX0ZMbkkzN1pJZ3JpSi1qNmdfX04yTGFJMWlnVXllb0Y2T2tFN0VTdjQ0dWRnN0hpVVU4TjI1U1ZjTVJVMFR2ckI2THRMTEdPVHZQQWlnSEFlaElqY3RNQXFSQ1N3dnZlRWhuTzh0RElVOXV2Ym5hbGdRTU9mbHBBNEF3Unc?oc=5"
+   }
+  ]
  }
 ]
