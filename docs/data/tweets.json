@@ -2532,5 +2532,20 @@
     "url": "https://news.web.nhk/newsweb/na/nd-20261011de58043"
    }
   ]
+ },
+ {
+  "at": "2026-10-12T08:15+09:00",
+  "text": "A man accused of plotting against a prime minister is detained. Allegations are not verdicts; one waits.",
+  "expression": "思案",
+  "scene": "regular",
+  "lang": "en",
+  "topic": "Donald Tusk says man accused of plotting to kill him detained",
+  "links": [
+   {
+    "source": "Guardian",
+    "title": "Donald Tusk says man accused of plotting to kill him detained",
+    "url": "https://www.theguardian.com/world/2026/oct/11/poland-possible-plot-attack-prime-minister-donald-tusk"
+   }
+  ]
  }
 ]
