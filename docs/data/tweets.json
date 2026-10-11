@@ -1876,5 +1876,25 @@
     "url": "https://news.web.nhk/newsweb/na/nd-20261011de57843"
    }
   ]
+ },
+ {
+  "at": "2026-10-11T13:15+09:00",
+  "text": "The northern lights over Britain, and not a single complaint about the weather. Remarkable.",
+  "expression": "微笑",
+  "scene": "regular",
+  "lang": "en",
+  "topic": "Skies across the UK illuminated by the northern lights",
+  "links": [
+   {
+    "source": "Guardian",
+    "title": "Skies across the UK illuminated by the northern lights",
+    "url": "https://www.theguardian.com/science/2026/oct/10/skies-across-the-uk-illuminated-by-the-northern-lights"
+   },
+   {
+    "source": "The Guardian",
+    "title": "Skies across the UK illuminated by the northern lights",
+    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxON2RCZ09YdGJCU2g2YXhELUlhV0lUOXVOQjZmWW53eXFSeWFYYU45eVktMDJGbXM3bTYyLXpQNnNtNTFwc3M3TFJHVWFtaUFoUWJrVG5rQ25SV05WY05KZTdKVURVUHZhM1dtOXdqNDhhTTItQlRkcTN0MGxqUG1aS3U1UGt2U1EyenJCYzZibmRVMmQ4ZGtOTUFhTGtfaC1fbnVaZw?oc=5"
+   }
+  ]
  }
 ]
