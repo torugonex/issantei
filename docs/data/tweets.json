@@ -2497,5 +2497,25 @@
     "url": "https://www.theguardian.com/us-news/2026/oct/11/trump-russia-diesel-deal-putin-little-impact-prices"
    }
   ]
+ },
+ {
+  "at": "2026-10-12T07:30+09:00",
+  "text": "一方が宣言し、一方は初耳と言い、もう一方は沈黙。停戦とは、まず言った者勝ちの催しらしい。",
+  "expression": "思案",
+  "scene": "regular",
+  "lang": "ja",
+  "topic": "トランプ氏「露とウクライナでエネルギー停戦」、互いに施設攻撃せず…ゼレンスキー氏「初耳」・露対応不明",
+  "links": [
+   {
+    "source": "読売新聞",
+    "title": "トランプ氏「露とウクライナでエネルギー停戦」、互いに施設攻撃せず…ゼレンスキー氏「初耳」・露対応不明",
+    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE0yTXpUc2FBeGpXSFEydElweVgxYXl5M0x5bEJ6YmJ6NjRDVVZaOW5CS2plaGNwNm5MTHVycHgtcEw3NS11azI4MnRKbTBjT2ZOZElmWGx1d3FUdnNuYXdQYUZB?oc=5"
+   },
+   {
+    "source": "NHK",
+    "title": "トランプ大統領 ウクライナ ロシア“エネルギー停戦”合意投稿",
+    "url": "https://news.web.nhk/newsweb/na/nd-20261012de58065"
+   }
+  ]
  }
 ]
