@@ -2382,5 +2382,25 @@
   "lang": "en",
   "topic": null,
   "links": []
+ },
+ {
+  "at": "2026-10-11T22:30+09:00",
+  "text": "異国の空港で十二人が命を落とし、三百人超が傷を負ったという。応酬が深まらぬことを願う。黙祷。",
+  "expression": "憂い",
+  "scene": "regular",
+  "lang": "ja",
+  "topic": "サウジ首都空港をフーシ攻撃か、米国含む１２人死亡・３００人超負傷…トランプ氏はフーシ報復「検討」",
+  "links": [
+   {
+    "source": "読売新聞",
+    "title": "サウジ首都空港をフーシ攻撃か、米国含む１２人死亡・３００人超負傷…トランプ氏はフーシ報復「検討」",
+    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFAtQVVCUmJkMmNCLVQ3Y2tsMDlBRURraU9IR3dTYTlYZ3RNSUR4WXdCZ3phYjBzN3BsYmplYWZibmkzbl9tU1puVkdNRklpSF9ibmZyUlRkbkhrNmRZdmhPR2lR?oc=5"
+   },
+   {
+    "source": "NHK",
+    "title": "サウジ首都空港に攻撃 12人死亡 攻撃の応酬激化のおそれ",
+    "url": "https://news.web.nhk/newsweb/na/nd-20261011de57816"
+   }
+  ]
  }
 ]
