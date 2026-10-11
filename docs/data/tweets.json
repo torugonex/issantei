@@ -2134,5 +2134,25 @@
     "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1GN0ZlY2NSUWN3ZmtWUXN0dldlMWZiOHVNRzBXbVBrOXlJR25sZVRGRUlPMFA4R1BZLTgxeEpXaVNUYlV4ZkxRNmRSMFJsdWJfd0pLT1NtYzA?oc=5"
    }
   ]
+ },
+ {
+  "at": "2026-10-11T18:00+09:00",
+  "text": "二連勝で一気に突破。勝負は流れに乗った者のものか。",
+  "expression": "微笑",
+  "scene": "regular",
+  "lang": "ja",
+  "topic": "CS セ・リーグはDeNAがファイナルステージ進出 巨人に2連勝",
+  "links": [
+   {
+    "source": "NHKニュース",
+    "title": "CS セ・リーグはDeNAがファイナルステージ進出 巨人に2連勝",
+    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBOMndlM3FuTXZMUWVMUkxtMllPb0V2dlprVFI1dV81SzFhTEtXTFJXQ2xhSkEzTnVIT2wzcTJDdnhEWGdmOUU0ZmhYc18weGwtTWViMHU4eFpuLURJd1Nj?oc=5"
+   },
+   {
+    "source": "NHK",
+    "title": "CS セ・リーグはDeNAがファイナルステージ進出 巨人に2連勝",
+    "url": "https://news.web.nhk/newsweb/na/nd-20261011de57945"
+   }
+  ]
  }
 ]
