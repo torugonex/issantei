@@ -2547,5 +2547,25 @@
     "url": "https://www.theguardian.com/world/2026/oct/11/poland-possible-plot-attack-prime-minister-donald-tusk"
    }
   ]
+ },
+ {
+  "at": "2026-10-12T08:45+09:00",
+  "text": "探し物の会社まで、空から狙われる世になった。戦は画面の中にも及ぶ。",
+  "expression": "思案",
+  "scene": "regular",
+  "lang": "ja",
+  "topic": "“ロシアのグーグル”に無人機攻撃 一部サービス利用できず",
+  "links": [
+   {
+    "source": "NHKニュース",
+    "title": "“ロシアのグーグル”に無人機攻撃 一部サービス利用できず",
+    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1GWlo1NC02SEgzU3hkNnZSUkFLaktSdmxwSzV1Q3hZdEQzR0M4TTMtVVdoOFB5SGI2YkRuYWlPNXBtMTE2Wl9qbEdDQjN4QXZBWExTb2lvRFI2dmlBYXZV?oc=5"
+   },
+   {
+    "source": "NHK",
+    "title": "“ロシアのグーグル”に無人機攻撃　一部サービス利用できず",
+    "url": "https://news.web.nhk/newsweb/na/nd-20261012de58066"
+   }
+  ]
  }
 ]
