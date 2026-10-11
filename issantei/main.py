@@ -34,7 +34,7 @@ KEEP = 400              # tweets.json に残す件数
 
 DEFAULT_STATE = {"mood": {"valence": 0.2, "arousal": -0.1}, "since_sarcasm": SARCASM_GAP,
                  "day": "", "morning_done": False, "goodnight_done": False,
-                 "sleeptalk_night": "", "commented": {}, "last_quake_check": "",
+                 "sleeptalk_night": "", "commented": {}, "commented_titles": [], "last_quake_check": "",
                  "since_english": 0, "next_english": 4}
 
 
@@ -95,7 +95,10 @@ def pick_topic(now, st, items, quakes, rng, lang="ja"):
             return {"key": key, "title": f"{q['area']}で地震", "weight": 1, "grave": grave,
                     "headlines": [f"{q['area']}で地震、M{q['mag']}、最大震度{q['maxi']}"], "links": []}
     fresh = [i for i in items if i.published is None or now - i.published < timedelta(hours=18)]
-    ts = [t for t in topics.cluster(fresh) if t.key not in st["commented"]]
+    # 見出しの言い回しが変わっただけの同じ出来事（続報）は、一日のうちは繰り返さない
+    seen = [topics.grams_of(x["title"]) for x in st.get("commented_titles", [])]
+    ts = [t for t in topics.cluster(fresh)
+          if t.key not in st["commented"] and not any(topics.similar(t.grams, g) for g in seen)]
     big = [t for t in ts if t.weight >= 2]
     small = [t for t in ts if t.weight == 1]
     r = rng.random()
@@ -183,8 +186,11 @@ def tick(now: datetime, llm, fixtures: Path | None = None, force: bool = False) 
     topic = ctx.get("topic")
     if topic:
         st["commented"][topic["key"]] = now.isoformat()
+        st.setdefault("commented_titles", []).append({"title": topic["title"], "at": now.isoformat()})
     cutoff = (now - timedelta(days=2)).isoformat()
     st["commented"] = {k: v for k, v in st["commented"].items() if v > cutoff}
+    day_ago = (now - timedelta(hours=24)).isoformat()
+    st["commented_titles"] = [x for x in st.get("commented_titles", []) if x["at"] > day_ago][-80:]
 
     rec = {"at": now.isoformat(timespec="minutes"), "text": d["text"], "expression": d["expression"],
            "scene": scene, "lang": lang, "topic": topic["title"] if topic else None,

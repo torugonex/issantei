@@ -84,3 +84,13 @@ def cluster(items: list[Item], threshold: float = 0.33) -> list[Topic]:
             topics.append(Topic(it.title, [it], set(g)))
     topics.sort(key=lambda t: t.weight, reverse=True)
     return topics
+
+
+def grams_of(title: str) -> set[str]:
+    return _grams(_norm(title))
+
+
+def similar(a: set[str], b: set[str], threshold: float = 0.3) -> bool:
+    """続報かどうか。固有名詞などの文字並びが十分重なれば同じ出来事とみなす。"""
+    inter = len(a & b)
+    return max(inter / (len(a | b) or 1), inter / (min(len(a), len(b)) or 1) * 0.8) >= threshold
