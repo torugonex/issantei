@@ -1,15 +1,14 @@
 {
  "mood": {
-  "valence": -0.441,
-  "arousal": -0.112
+  "valence": -0.356,
+  "arousal": -0.134
  },
- "since_sarcasm": 9,
+ "since_sarcasm": 10,
  "day": "2026-10-12",
  "morning_done": true,
  "goodnight_done": false,
  "sleeptalk_night": "2026-10-11",
  "commented": {
-  "1e275a65f5c7": "2026-10-10T13:15:18.123870+09:00",
   "ccc6f173e072": "2026-10-10T13:45:18.029106+09:00",
   "81bb68390216": "2026-10-10T14:15:18.230763+09:00",
   "df1ff6fc25aa": "2026-10-10T15:00:35.590372+09:00",
@@ -96,10 +95,6 @@
   "6f1a08baa857": "2026-10-12T13:00:38.890244+09:00"
  },
  "commented_titles": [
-  {
-   "title": "Skies across the UK illuminated by the northern lights",
-   "at": "2026-10-11T13:15:17.980745+09:00"
-  },
   {
    "title": "VIVANT：第20話あす放送 乃木ら、シャキ城への潜入を決行 別班員が囚われた牢獄までたどり着くが",
    "at": "2026-10-11T13:45:16.162818+09:00"
@@ -277,10 +272,10 @@
    "at": "2026-10-12T13:00:38.890244+09:00"
   }
  ],
- "last_quake_check": "2026-10-12T13:00:38.890244+09:00",
- "since_english": 3,
- "next_english": 4,
- "last_tick": "2026-10-12T13:00:38.890244+09:00",
+ "last_quake_check": "2026-10-12T13:15:18.744055+09:00",
+ "since_english": 1,
+ "next_english": 5,
+ "last_tick": "2026-10-12T13:15:18.744055+09:00",
  "french_day": "2026-10-12",
  "french_done": false,
  "french_after": 1146
