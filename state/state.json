@@ -1,15 +1,14 @@
 {
  "mood": {
-  "valence": -0.075,
-  "arousal": -0.038
+  "valence": -0.438,
+  "arousal": 0.081
  },
- "since_sarcasm": 0,
+ "since_sarcasm": 1,
  "day": "2026-10-12",
  "morning_done": true,
  "goodnight_done": false,
  "sleeptalk_night": "2026-10-11",
  "commented": {
-  "84ab9f2cf045": "2026-10-10T16:30:24.945381+09:00",
   "7611f2bb1e79": "2026-10-10T17:00:35.925356+09:00",
   "fde2866c4472": "2026-10-10T17:15:19.788602+09:00",
   "2a95b7a052d8": "2026-10-10T17:30:27.524790+09:00",
@@ -93,13 +92,10 @@
   "375855838da0": "2026-10-12T14:15:18.162498+09:00",
   "d22edd158913": "2026-10-12T14:30:26.482191+09:00",
   "8c270618c146": "2026-10-12T14:45:18.687151+09:00",
-  "0af85323079e": "2026-10-12T16:15:19.352121+09:00"
+  "0af85323079e": "2026-10-12T16:15:19.352121+09:00",
+  "e00aabd8b923": "2026-10-12T16:30:28.625301+09:00"
  },
  "commented_titles": [
-  {
-   "title": "Four dead as Isaias weakens to post-tropical cyclone after striking Florida panhandle",
-   "at": "2026-10-11T16:30:27.961229+09:00"
-  },
   {
    "title": "原油「今すぐ確保」の買いに拍車 現物が最高値、先物の5割増し",
    "at": "2026-10-11T17:00:35.012481+09:00"
@@ -259,12 +255,16 @@
   {
    "title": "生成AIの安全性評価するシステム開発",
    "at": "2026-10-12T16:15:19.352121+09:00"
+  },
+  {
+   "title": "One killed, 11 injured in second Houthi strike on Riyadh airport in two days",
+   "at": "2026-10-12T16:30:28.625301+09:00"
   }
  ],
- "last_quake_check": "2026-10-12T16:15:19.352121+09:00",
- "since_english": 4,
+ "last_quake_check": "2026-10-12T16:30:28.625301+09:00",
+ "since_english": 1,
  "next_english": 5,
- "last_tick": "2026-10-12T16:15:19.352121+09:00",
+ "last_tick": "2026-10-12T16:30:28.625301+09:00",
  "french_day": "2026-10-12",
  "french_done": false,
  "french_after": 1146
