@@ -3226,5 +3226,25 @@
     "url": "https://news.web.nhk/newsweb/na/nd-20261013de58295"
    }
   ]
+ },
+ {
+  "at": "2026-10-13T08:00+09:00",
+  "text": "丸一日たっても火が消えぬとは。近隣の方々の不安はいかばかりか。早く収まりますよう。",
+  "expression": "憂い",
+  "scene": "regular",
+  "lang": "ja",
+  "topic": "栃木県那珂川町の工場火災 24時間以上経過も鎮火せず",
+  "links": [
+   {
+    "source": "NHKニュース",
+    "title": "栃木県那珂川町の工場火災 24時間以上経過も鎮火せず",
+    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE84dmJpUzRzQlhSNDZUWnhQTkIzWnptaFVlSnNGUW96UnpCMTRiU1g5Z2h3dzF2VlZTcG5ldTlhMFYyRWoxMTdyVEJmbkJ4VTFOT3lfc21USUI0S0lWMjZr?oc=5"
+   },
+   {
+    "source": "NHK",
+    "title": "栃木県那珂川町の工場火災 24時間以上経過も鎮火せず",
+    "url": "https://news.web.nhk/newsweb/na/nd-20261013de58321"
+   }
+  ]
  }
 ]
