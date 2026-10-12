@@ -3181,5 +3181,30 @@
     "url": "https://news.web.nhk/newsweb/na/nd-20261012de58077"
    }
   ]
+ },
+ {
+  "at": "2026-10-13T07:15+09:00",
+  "text": "A congresswoman's front door, a federal warrant, and both sides shouting. One only hopes the paperwork was in better order than the tempers.",
+  "expression": "片眉を上げる",
+  "scene": "regular",
+  "lang": "en",
+  "topic": "Immigration agents search congresswoman Ilhan Omar's home",
+  "links": [
+   {
+    "source": "BBC",
+    "title": "Immigration agents search congresswoman Ilhan Omar's home",
+    "url": "https://www.bbc.co.uk/news/articles/cvp8glg97393o?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "source": "Guardian",
+    "title": "Democrats rebuke federal raid of Ilhan Omar’s home: ‘rogue abuse of power’",
+    "url": "https://www.theguardian.com/us-news/2026/oct/12/democrats-reaction-ilhan-omar-federal-raid-home-trump"
+   },
+   {
+    "source": "Sky News",
+    "title": "Congresswoman insists she will not be 'silenced' after federal agents raid her home",
+    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOX3JzZmxLNmh1ZEs1Zjloc19DNG9RUVlYdkZyUmo0TkdyQnBseWV5aF9seHA3ckJveXp4WUdwMTdNeDRhVVRpYU5sTFNfM3B1SktoVlp6eTBucjM1MDZsZFZPaHMzSlY5RnJvRE9KZUh1X2YxMWRoV3ZOQzd6bVNpdUU4ekYzeFpKMVU0Q0hiZDZnd21ERVBqQjFVX0c2M3ZQTmRUTjVTX2dOdllZbW1ZVW1YMjFaU2E0?oc=5"
+   }
+  ]
  }
 ]
