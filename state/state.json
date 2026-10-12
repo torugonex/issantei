@@ -1,9 +1,9 @@
 {
  "mood": {
-  "valence": -0.105,
-  "arousal": -0.044
+  "valence": -0.054,
+  "arousal": -0.045
  },
- "since_sarcasm": 3,
+ "since_sarcasm": 4,
  "day": "2026-10-12",
  "morning_done": true,
  "goodnight_done": false,
@@ -88,13 +88,10 @@
   "f44fe96b0c5a": "2026-10-12T19:45:19.136354+09:00",
   "09903d37564a": "2026-10-12T20:00:40.339691+09:00",
   "66b4f34f026a": "2026-10-12T20:15:18.514950+09:00",
-  "ac762d58a133": "2026-10-12T20:45:20.644573+09:00"
+  "ac762d58a133": "2026-10-12T20:45:20.644573+09:00",
+  "a2a5c332058f": "2026-10-12T21:00:40.110171+09:00"
  },
  "commented_titles": [
-  {
-   "title": "Burnham faces questions over push to scrap photo ID voting requirement",
-   "at": "2026-10-11T21:00:37.382308+09:00"
-  },
   {
    "title": "巨人、連敗で終戦 ５ゲーム差つけたＤｅＮＡに屈辱の２年連続第１Ｓ惨敗 ナイン呆然 阿部前監督電撃辞任に揺れた１年に幕⋯２戦２得点の貧打に泣く（スポーツ報知）",
    "at": "2026-10-11T21:15:18.870505+09:00"
@@ -234,12 +231,16 @@
   {
    "title": "BBC defends editing out trans rights slogan on Strictly contestant’s T-shirt",
    "at": "2026-10-12T20:45:20.644573+09:00"
+  },
+  {
+   "title": "中国 9月の新車輸出が6割増 ガソリン高もEV需要を後押しか",
+   "at": "2026-10-12T21:00:40.110171+09:00"
   }
  ],
- "last_quake_check": "2026-10-12T20:45:20.644573+09:00",
- "since_english": 1,
+ "last_quake_check": "2026-10-12T21:00:40.110171+09:00",
+ "since_english": 2,
  "next_english": 4,
- "last_tick": "2026-10-12T20:45:20.644573+09:00",
+ "last_tick": "2026-10-12T21:00:40.110171+09:00",
  "french_day": "2026-10-12",
  "french_done": true,
  "french_after": 1146
