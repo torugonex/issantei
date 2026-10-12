@@ -1,9 +1,9 @@
 {
  "mood": {
-  "valence": -0.095,
-  "arousal": 0.027
+  "valence": -0.146,
+  "arousal": 0.02
  },
- "since_sarcasm": 3,
+ "since_sarcasm": 4,
  "day": "2026-10-13",
  "morning_done": true,
  "goodnight_done": false,
@@ -86,7 +86,8 @@
   "6f0d9637036d": "2026-10-13T07:15:18.080961+09:00",
   "680024d3cec2": "2026-10-13T07:45:18.188595+09:00",
   "13bf2d8ced85": "2026-10-13T08:00:38.853666+09:00",
-  "b4932302da1b": "2026-10-13T08:15:17.606586+09:00"
+  "b4932302da1b": "2026-10-13T08:15:17.606586+09:00",
+  "cdae7e450898": "2026-10-13T08:45:18.274315+09:00"
  },
  "commented_titles": [
   {
@@ -224,12 +225,16 @@
   {
    "title": "【速報中】ドジャース×ブルワーズ 山本降板 佐々木がリリーフ",
    "at": "2026-10-13T08:15:17.606586+09:00"
+  },
+  {
+   "title": "Women's billion-dollar boom leaves players behind, says Fifpro",
+   "at": "2026-10-13T08:45:18.274315+09:00"
   }
  ],
- "last_quake_check": "2026-10-13T08:15:17.606586+09:00",
- "since_english": 4,
+ "last_quake_check": "2026-10-13T08:45:18.274315+09:00",
+ "since_english": 1,
  "next_english": 5,
- "last_tick": "2026-10-13T08:30:27.265461+09:00",
+ "last_tick": "2026-10-13T08:45:18.274315+09:00",
  "french_day": "2026-10-13",
  "french_done": false,
  "french_after": 1045
