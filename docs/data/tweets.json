@@ -3010,5 +3010,25 @@
     "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFAwbzFaR2RMUlVPeW83dTVXSmxBR3prR0tQbWdxazNwdkxuLURTRlJfRVEwd29zcHUycVNTVW9udWlCMlNGLV9yTDBqZw?oc=5"
    }
   ]
+ },
+ {
+  "at": "2026-10-12T20:15+09:00",
+  "text": "日本ハムが三年続けてファイナルへ。次の相手は王者、さて見ものだ。",
+  "expression": "微笑",
+  "scene": "regular",
+  "lang": "ja",
+  "topic": "パ・リーグＣＳ、日本ハムが３年連続でファイナルステージ進出…リーグ王者ソフトバンクと日本シリーズ進出かけ対戦へ",
+  "links": [
+   {
+    "source": "読売新聞",
+    "title": "パ・リーグＣＳ、日本ハムが３年連続でファイナルステージ進出…リーグ王者ソフトバンクと日本シリーズ進出かけ対戦へ",
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9FVi1UVW9FOUM1VlRMa00zelQtTm5odklPYzctRFFJMWxyMzJLazdudlNQemMxQVdReW5mRllCM0xpSGdTVXNBQm1fLVlkbkZsNmlGRUpPdWVsTkVUZEQ0a0ZELVZkQzZU?oc=5"
+   },
+   {
+    "source": "NHK",
+    "title": "プロ野球 パ・リーグCS 日本ハムがファイナルステージ進出",
+    "url": "https://news.web.nhk/newsweb/na/nd-20261012de58196"
+   }
+  ]
  }
 ]
