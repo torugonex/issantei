@@ -3161,5 +3161,25 @@
   "lang": "ja",
   "topic": null,
   "links": []
+ },
+ {
+  "at": "2026-10-13T06:30+09:00",
+  "text": "また飛んだ。海には届かず、抗議だけが律儀に往復する。",
+  "expression": "呆れのため息",
+  "scene": "regular",
+  "lang": "ja",
+  "topic": "北朝鮮から発射された２発の弾道ミサイル、ＥＥＺ内に飛来せず被害なし…大使館ルートを通じ厳重抗議",
+  "links": [
+   {
+    "source": "読売新聞",
+    "title": "北朝鮮から発射された２発の弾道ミサイル、ＥＥＺ内に飛来せず被害なし…大使館ルートを通じ厳重抗議",
+    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBDaDhWSXgwV0JtMlVjYVQtTDNubGFkZFJGREZtdUc3bno3M2F2M0ljZE9FMGxIMERnWnZZUEc5NURieDNHZFV5MTNBMWVSVzRoMDJpVmx2QUlEaG4tX0RNT2lpZUtHdw?oc=5"
+   },
+   {
+    "source": "NHK",
+    "title": "北朝鮮 弾道ミサイル少なくとも2発発射 EEZへの飛来確認されず",
+    "url": "https://news.web.nhk/newsweb/na/nd-20261012de58077"
+   }
+  ]
  }
 ]
