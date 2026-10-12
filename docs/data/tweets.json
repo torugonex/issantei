@@ -2784,5 +2784,20 @@
     "url": "https://news.web.nhk/newsweb/na/nd-20261012de58100"
    }
   ]
+ },
+ {
+  "at": "2026-10-12T13:00+09:00",
+  "text": "データセンターが狙われ、タクシーも出前も止まったそうな。戦の矛先は、いまや人の暮らしの裏方にまで及ぶ。",
+  "expression": "憂い",
+  "scene": "regular",
+  "lang": "ja",
+  "topic": "ウクライナがロシアのデータセンター攻撃 タクシーやデリバリーなど市民生活に影響",
+  "links": [
+   {
+    "source": "テレ朝NEWS",
+    "title": "ウクライナがロシアのデータセンター攻撃 タクシーやデリバリーなど市民生活に影響",
+    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9TbHE3SFNUUGh2TXFsOGpCSHFNT0YxcFA1cTAweTVTZkd3LTRVS0llbXNZc1o5eDVOMGdhUmRHMUJBalc5WWhmdk4xVE4yNnR4b2hlTlRMV3FUbm9nSVQzQkpxZzZyRUlmQ1U2aG10NElfUWdoODZUS3B3?oc=5"
+   }
+  ]
  }
 ]
