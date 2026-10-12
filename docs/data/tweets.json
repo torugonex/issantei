@@ -2764,5 +2764,25 @@
   "lang": "en",
   "topic": null,
   "links": []
+ },
+ {
+  "at": "2026-10-12T12:45+09:00",
+  "text": "ジブチ沖の転覆。海を渡ろうとした人々を思う。黙祷。Repose en paix.",
+  "expression": "憂い",
+  "scene": "regular",
+  "lang": "ja",
+  "topic": "ジブチ沖で移民船転覆 少なくとも139人死亡・84人行方不明 （FNNプライムオンライン（フジテレビ系））",
+  "links": [
+   {
+    "source": "Yahoo!ニュース",
+    "title": "ジブチ沖で移民船転覆 少なくとも139人死亡・84人行方不明 （FNNプライムオンライン（フジテレビ系））",
+    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1lSkQxS1lQZzBGUmtLNjVUTkpzemtoSk56a2czRE1vaE9hZXE4N3BIVHFyWEZUMDRWekJYcWVwWTVaTUg3NmRfS0lfdkZHdnNUNFdkRGtmMkUzSXY4M3lEMElHUHM0SkFTbnY3bXM1VkxlVkU0ZHlud0dYa3RCR0E?oc=5"
+   },
+   {
+    "source": "NHK",
+    "title": "移民乗せたイエメン行きの船がジブチ沖で転覆 139人死亡",
+    "url": "https://news.web.nhk/newsweb/na/nd-20261012de58100"
+   }
+  ]
  }
 ]
