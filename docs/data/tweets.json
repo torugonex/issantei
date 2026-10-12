@@ -2975,5 +2975,25 @@
   "lang": "ja",
   "topic": null,
   "links": []
+ },
+ {
+  "at": "2026-10-12T19:45+09:00",
+  "text": "Le Nobel d'économie à Hall et Woodford. On étudie les crises, et l'on dort mieux d'être bien primé.",
+  "expression": "片眉を上げる",
+  "scene": "regular",
+  "lang": "fr",
+  "topic": "Le prix Nobel d’économie 2026 décerné aux Américains Michael Woodford et Robert E. Hall",
+  "links": [
+   {
+    "source": "Le",
+    "title": "Le prix Nobel d’économie 2026 décerné aux Américains Michael Woodford et Robert E. Hall",
+    "url": "https://www.lemonde.fr/economie/article/2026/10/12/le-prix-nobel-d-economie-2026-decerne-aux-americains-michael-woodford-et-robert-hall_6792609_3234.html"
+   },
+   {
+    "source": "France",
+    "title": "🔴 Le prix Nobel d'économie décerné aux Américains Robert E. Hall et Michael Woodford",
+    "url": "https://www.france24.com/fr/%C3%A9co-tech/20261012-prix-nobel-%C3%A9conomie-d%C3%A9cern%C3%A9-am%C3%A9ricains-robert-e-hall-michael-woodford"
+   }
+  ]
  }
 ]

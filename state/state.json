@@ -1,9 +1,9 @@
 {
  "mood": {
-  "valence": -0.354,
-  "arousal": -0.146
+  "valence": -0.24,
+  "arousal": -0.159
  },
- "since_sarcasm": 4,
+ "since_sarcasm": 0,
  "day": "2026-10-12",
  "morning_done": true,
  "goodnight_done": false,
@@ -87,13 +87,10 @@
   "8c270618c146": "2026-10-12T14:45:18.687151+09:00",
   "0af85323079e": "2026-10-12T16:15:19.352121+09:00",
   "e00aabd8b923": "2026-10-12T16:30:28.625301+09:00",
-  "c654311746a4": "2026-10-12T17:45:18.274522+09:00"
+  "c654311746a4": "2026-10-12T17:45:18.274522+09:00",
+  "f44fe96b0c5a": "2026-10-12T19:45:19.136354+09:00"
  },
  "commented_titles": [
-  {
-   "title": "木原長官 \"野党と丁寧に議論 減税法案など成立を\" NHK日曜討論",
-   "at": "2026-10-11T19:30:26.586484+09:00"
-  },
   {
    "title": "Delhi sees more protests as 'cockroach' group's leaders released",
    "at": "2026-10-11T20:00:37.068229+09:00"
@@ -233,13 +230,17 @@
   {
    "title": "“ガザ停戦”から１年経過 イスラエル軍の攻撃で死者相次ぐ",
    "at": "2026-10-12T17:45:18.274522+09:00"
+  },
+  {
+   "title": "Le prix Nobel d’économie 2026 décerné aux Américains Michael Woodford et Robert E. Hall",
+   "at": "2026-10-12T19:45:19.136354+09:00"
   }
  ],
- "last_quake_check": "2026-10-12T19:30:29.054886+09:00",
- "since_english": 4,
- "next_english": 5,
- "last_tick": "2026-10-12T19:30:29.054886+09:00",
+ "last_quake_check": "2026-10-12T19:45:19.136354+09:00",
+ "since_english": 0,
+ "next_english": 3,
+ "last_tick": "2026-10-12T19:45:19.136354+09:00",
  "french_day": "2026-10-12",
- "french_done": false,
+ "french_done": true,
  "french_after": 1146
 }
