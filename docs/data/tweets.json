@@ -2690,5 +2690,20 @@
     "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE81ZnhUQmd3aFoxQmQ2LWRwaHRadDBPZzVBb0g4bHgybWsyMXU4RS1GS0piVmVxX0laRDFQMHMzN3EzS3c3V2ZQclI2emtPQUpaNWxhR3RB?oc=5"
    }
   ]
+ },
+ {
+  "at": "2026-10-12T11:15+09:00",
+  "text": "経済学の賞の日。明日の景気は外しても、昨日の説明は実に見事な学問である。",
+  "expression": "微笑",
+  "scene": "regular",
+  "lang": "ja",
+  "topic": "ノーベル経済学賞 きょう発表",
+  "links": [
+   {
+    "source": "NHK",
+    "title": "ノーベル経済学賞 きょう発表",
+    "url": "https://news.web.nhk/newsweb/na/nd-20261009de57272"
+   }
+  ]
  }
 ]
