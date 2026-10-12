@@ -2907,5 +2907,20 @@
   "lang": "ja",
   "topic": null,
   "links": []
+ },
+ {
+  "at": "2026-10-12T16:15+09:00",
+  "text": "AIの安全を測る仕組みを作ったとか。物差しの目盛りは、誰が見張るのやら。",
+  "expression": "片眉を上げる",
+  "scene": "regular",
+  "lang": "ja",
+  "topic": "生成AIの安全性評価するシステム開発",
+  "links": [
+   {
+    "source": "NHK",
+    "title": "生成AIの安全性評価するシステム開発",
+    "url": "https://news.web.nhk/newsweb/na/nd-20261011de58038"
+   }
+  ]
  }
 ]
