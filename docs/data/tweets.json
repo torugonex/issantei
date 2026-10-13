@@ -3595,5 +3595,25 @@
   "lang": "en",
   "topic": null,
   "links": []
+ },
+ {
+  "at": "2026-10-13T15:15+09:00",
+  "text": "禁じられた場所で開いて、露見してから詫びる。二度とやらぬとは、一度はやったということだ。",
+  "expression": "片眉を上げる",
+  "scene": "regular",
+  "lang": "ja",
+  "topic": "関文科相「二度とやらない」 議員会館で政治資金パーティー開催",
+  "links": [
+   {
+    "source": "毎日新聞",
+    "title": "関文科相「二度とやらない」 議員会館で政治資金パーティー開催",
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE4yWmtLcHhzV0Z0ZExObzlCRHZ0VDdVWFU1UmxNWXgwaTlLaVJ5bjhyTWRKMXVGY3FwVUZiU0RZSWIxdU9xckR1QTZhaWVxQ3E3NXAyeHdMSnFsanZxYjh0OVktcXlqV0J4?oc=5"
+   },
+   {
+    "source": "NHK",
+    "title": "関文科相 禁止の議員会館内で政治資金パーティー開催認め陳謝",
+    "url": "https://news.web.nhk/newsweb/na/nd-20261013de58366"
+   }
+  ]
  }
 ]
