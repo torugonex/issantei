@@ -4063,5 +4063,25 @@
     "url": "https://www.bbc.co.uk/news/articles/cqd089r55vp3o?at_medium=RSS&at_campaign=rss"
    }
   ]
+ },
+ {
+  "at": "2026-10-14T07:00+09:00",
+  "text": "記者の仕事は見て聞いて書くこと。それを疑いの目で見られては、旅人も肩身が狭い。容疑の中身は未だ分からぬが。",
+  "expression": "思案",
+  "scene": "regular",
+  "lang": "ja",
+  "topic": "ロシア当局、北海道新聞記者拘束 サハリンで「スパイ容疑」（共同通信）",
+  "links": [
+   {
+    "source": "Yahoo!ニュース",
+    "title": "ロシア当局、北海道新聞記者拘束 サハリンで「スパイ容疑」（共同通信）",
+    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1XTmJadDlyVllJaTQtU1VFRDMzeW5ybmdOTGo5cVlacXh6VGNwR0JWLWNfUEhnWndMS3ZxSEhtWW5zdjA1X0FWSjNkcWxSM1A0ci1QZHdzMGhvSXF5S2hqZ0pmYXg5Y2FyaGFXOUhuY0ptR1NlSUI0bkZqUEVidjA?oc=5"
+   },
+   {
+    "source": "NHK",
+    "title": "ロシアが北海道新聞記者をスパイ容疑で拘束 治安機関が発表",
+    "url": "https://news.web.nhk/newsweb/na/nd-20261013de58917"
+   }
+  ]
  }
 ]
