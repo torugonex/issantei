@@ -1,9 +1,9 @@
 {
  "mood": {
-  "valence": -0.517,
-  "arousal": -0.247
+  "valence": -0.513,
+  "arousal": -0.235
  },
- "since_sarcasm": 3,
+ "since_sarcasm": 4,
  "day": "2026-10-13",
  "morning_done": true,
  "goodnight_done": false,
@@ -83,7 +83,8 @@
   "1e3bac2d0b9b": "2026-10-13T16:15:18.694171+09:00",
   "e1c99f147062": "2026-10-13T16:30:28.986983+09:00",
   "c3f7376ffd23": "2026-10-13T16:45:19.120001+09:00",
-  "e8e102664163": "2026-10-13T17:15:19.325875+09:00"
+  "e8e102664163": "2026-10-13T17:15:19.325875+09:00",
+  "1b529b55957c": "2026-10-13T17:30:28.942636+09:00"
  },
  "commented_titles": [
   {
@@ -229,13 +230,17 @@
   {
    "title": "「下敷きになって即死」「現場は血まみれに」…2名が死亡《大阪･だんじり祭り》が人命軽視と批判されても“続く理由”",
    "at": "2026-10-13T17:15:19.325875+09:00"
+  },
+  {
+   "title": "Aux Etats-Unis, le recours de Donald Trump au gazole russe, au détriment de l’Ukraine, provoque une vaste controverse",
+   "at": "2026-10-13T17:30:28.942636+09:00"
   }
  ],
- "last_quake_check": "2026-10-13T17:15:19.325875+09:00",
- "since_english": 2,
+ "last_quake_check": "2026-10-13T17:30:28.942636+09:00",
+ "since_english": 0,
  "next_english": 4,
- "last_tick": "2026-10-13T17:15:19.325875+09:00",
+ "last_tick": "2026-10-13T17:30:28.942636+09:00",
  "french_day": "2026-10-13",
- "french_done": false,
+ "french_done": true,
  "french_after": 1045
 }
