@@ -1,15 +1,14 @@
 {
  "mood": {
-  "valence": -0.074,
-  "arousal": -0.122
+  "valence": -0.131,
+  "arousal": -0.067
  },
- "since_sarcasm": 4,
+ "since_sarcasm": 5,
  "day": "2026-10-13",
  "morning_done": true,
  "goodnight_done": false,
  "sleeptalk_night": "2026-10-12",
  "commented": {
-  "8feba22374f1": "2026-10-11T14:00:40.477813+09:00",
   "b4c4809c7da8": "2026-10-11T14:45:17.333194+09:00",
   "18d8f3475a6c": "2026-10-11T15:00:36.078770+09:00",
   "3f1058bdad2d": "2026-10-11T15:15:18.274192+09:00",
@@ -86,7 +85,8 @@
   "8f2b8287b228": "2026-10-13T12:45:18.627921+09:00",
   "297dfa84bad6": "2026-10-13T13:30:26.423259+09:00",
   "53be7590d250": "2026-10-13T13:45:18.835238+09:00",
-  "9e087d2a3353": "2026-10-13T14:00:36.894533+09:00"
+  "9e087d2a3353": "2026-10-13T14:00:36.894533+09:00",
+  "54ce87cd39ea": "2026-10-13T14:15:17.608183+09:00"
  },
  "commented_titles": [
   {
@@ -220,12 +220,16 @@
   {
    "title": "Selma Blair charged with assault of police officer and nurse after allegedly attacking flight attendants",
    "at": "2026-10-13T14:00:36.894533+09:00"
+  },
+  {
+   "title": "米当局、民主党の下院議員宅を捜索 不法移民対策めぐり政権と対立",
+   "at": "2026-10-13T14:15:17.608183+09:00"
   }
  ],
- "last_quake_check": "2026-10-13T14:00:36.894533+09:00",
- "since_english": 1,
+ "last_quake_check": "2026-10-13T14:15:17.608183+09:00",
+ "since_english": 2,
  "next_english": 3,
- "last_tick": "2026-10-13T14:00:36.894533+09:00",
+ "last_tick": "2026-10-13T14:15:17.608183+09:00",
  "french_day": "2026-10-13",
  "french_done": false,
  "french_after": 1045
