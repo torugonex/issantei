@@ -1,16 +1,14 @@
 {
  "mood": {
-  "valence": -0.229,
-  "arousal": -0.105
+  "valence": -0.197,
+  "arousal": -0.116
  },
- "since_sarcasm": 11,
+ "since_sarcasm": 12,
  "day": "2026-10-14",
  "morning_done": true,
  "goodnight_done": false,
  "sleeptalk_night": "2026-10-13",
  "commented": {
-  "9d1296c5ecb3": "2026-10-12T07:15:16.886190+09:00",
-  "4172cef80f0f": "2026-10-12T07:30:26.011878+09:00",
   "1d00c80db353": "2026-10-12T08:00:36.261495+09:00",
   "ab445a13b184": "2026-10-12T08:15:16.788982+09:00",
   "dcd59399c90b": "2026-10-12T08:45:19.988699+09:00",
@@ -88,10 +86,6 @@
   "47cdaa96581e": "2026-10-14T07:00:38.050000+09:00"
  },
  "commented_titles": [
-  {
-   "title": "Immigration agents search congresswoman Ilhan Omar's home",
-   "at": "2026-10-13T07:15:18.080961+09:00"
-  },
   {
    "title": "片山財務相が世界銀行・IMF合同開発委の次期議長に 高市首相",
    "at": "2026-10-13T07:45:18.188595+09:00"
@@ -261,10 +255,10 @@
    "at": "2026-10-14T07:00:38.050000+09:00"
   }
  ],
- "last_quake_check": "2026-10-14T07:00:38.050000+09:00",
- "since_english": 2,
+ "last_quake_check": "2026-10-14T07:30:27.144184+09:00",
+ "since_english": 3,
  "next_english": 5,
- "last_tick": "2026-10-14T07:15:18.468560+09:00",
+ "last_tick": "2026-10-14T07:30:27.144184+09:00",
  "french_day": "2026-10-14",
  "french_done": false,
  "french_after": 1181
