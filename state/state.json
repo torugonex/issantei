@@ -1,9 +1,9 @@
 {
  "mood": {
-  "valence": -0.483,
-  "arousal": -0.15
+  "valence": -0.412,
+  "arousal": -0.087
  },
- "since_sarcasm": 3,
+ "since_sarcasm": 4,
  "day": "2026-10-14",
  "morning_done": true,
  "goodnight_done": false,
@@ -85,7 +85,8 @@
   "5ce99500616b": "2026-10-14T07:45:18.895829+09:00",
   "f0bc06f5ca8b": "2026-10-14T07:48:17.490241+09:00",
   "24a7ab4a0bd0": "2026-10-14T08:15:17.567951+09:00",
-  "46e434dcf77e": "2026-10-14T08:30:25.009574+09:00"
+  "46e434dcf77e": "2026-10-14T08:30:25.009574+09:00",
+  "19bc110da957": "2026-10-14T08:45:16.907063+09:00"
  },
  "commented_titles": [
   {
@@ -259,12 +260,16 @@
   {
    "title": "ゼレンスキー氏｢ミサイル攻撃の警告届かず｣ 米の情報共有中断に懸念",
    "at": "2026-10-14T08:30:25.009574+09:00"
+  },
+  {
+   "title": "BA flight forced to turn back over cracked window",
+   "at": "2026-10-14T08:45:16.907063+09:00"
   }
  ],
- "last_quake_check": "2026-10-14T08:30:25.009574+09:00",
- "since_english": 3,
- "next_english": 4,
- "last_tick": "2026-10-14T08:30:25.009574+09:00",
+ "last_quake_check": "2026-10-14T08:45:16.907063+09:00",
+ "since_english": 1,
+ "next_english": 5,
+ "last_tick": "2026-10-14T08:45:16.907063+09:00",
  "french_day": "2026-10-14",
  "french_done": false,
  "french_after": 1181
