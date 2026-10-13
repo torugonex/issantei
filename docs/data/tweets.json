@@ -3896,5 +3896,20 @@
   "lang": "ja",
   "topic": null,
   "links": []
+ },
+ {
+  "at": "2026-10-13T20:30+09:00",
+  "text": "Data centres drink deeply, I hear. The locals, meanwhile, are asked to be thirsty politely.",
+  "expression": "片眉を上げる",
+  "scene": "regular",
+  "lang": "en",
+  "topic": "The island where locals say data centres are taking their water",
+  "links": [
+   {
+    "source": "BBC",
+    "title": "The island where locals say data centres are taking their water",
+    "url": "https://www.bbc.co.uk/news/articles/cqj6j7wlxd5eo?at_medium=RSS&at_campaign=rss"
+   }
+  ]
  }
 ]
