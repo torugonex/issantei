@@ -1,15 +1,14 @@
 {
  "mood": {
-  "valence": -0.513,
-  "arousal": -0.235
+  "valence": -0.56,
+  "arousal": -0.201
  },
- "since_sarcasm": 4,
+ "since_sarcasm": 5,
  "day": "2026-10-13",
  "morning_done": true,
  "goodnight_done": false,
  "sleeptalk_night": "2026-10-12",
  "commented": {
-  "798e0cd205b3": "2026-10-11T17:45:16.535134+09:00",
   "898899540ba2": "2026-10-11T18:00:37.780984+09:00",
   "ae773ec09a92": "2026-10-11T18:15:17.478627+09:00",
   "6f7c901779ad": "2026-10-11T18:45:17.056650+09:00",
@@ -84,13 +83,10 @@
   "e1c99f147062": "2026-10-13T16:30:28.986983+09:00",
   "c3f7376ffd23": "2026-10-13T16:45:19.120001+09:00",
   "e8e102664163": "2026-10-13T17:15:19.325875+09:00",
-  "1b529b55957c": "2026-10-13T17:30:28.942636+09:00"
+  "1b529b55957c": "2026-10-13T17:30:28.942636+09:00",
+  "dd6b1232c5d8": "2026-10-13T17:45:18.975270+09:00"
  },
  "commented_titles": [
-  {
-   "title": "“ガザ停戦”から１年経過 イスラエル軍の攻撃で死者相次ぐ",
-   "at": "2026-10-12T17:45:18.274522+09:00"
-  },
   {
    "title": "Le prix Nobel d’économie 2026 décerné aux Américains Michael Woodford et Robert E. Hall",
    "at": "2026-10-12T19:45:19.136354+09:00"
@@ -234,12 +230,16 @@
   {
    "title": "Aux Etats-Unis, le recours de Donald Trump au gazole russe, au détriment de l’Ukraine, provoque une vaste controverse",
    "at": "2026-10-13T17:30:28.942636+09:00"
+  },
+  {
+   "title": "韓国・仁川の商業施設で切りつけ事件 8人ケガ、うち1人が心肺停止 60代とみられる男の身柄拘束 日本人の負傷者なし",
+   "at": "2026-10-13T17:45:18.975270+09:00"
   }
  ],
- "last_quake_check": "2026-10-13T17:30:28.942636+09:00",
- "since_english": 0,
+ "last_quake_check": "2026-10-13T17:45:18.975270+09:00",
+ "since_english": 1,
  "next_english": 4,
- "last_tick": "2026-10-13T17:30:28.942636+09:00",
+ "last_tick": "2026-10-13T17:45:18.975270+09:00",
  "french_day": "2026-10-13",
  "french_done": true,
  "french_after": 1045

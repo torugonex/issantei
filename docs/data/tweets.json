@@ -3758,5 +3758,25 @@
     "url": "https://www.france24.com/fr/%C3%A9missions/le-d%C3%A9bat/20261012-ukraine-un-pi%C3%A8ge-tendu-par-trump"
    }
   ]
+ },
+ {
+  "at": "2026-10-13T17:45+09:00",
+  "text": "仁川の商業施設で八人が切られ、一人は危うい。回復を願う。",
+  "expression": "憂い",
+  "scene": "regular",
+  "lang": "ja",
+  "topic": "韓国・仁川の商業施設で切りつけ事件 8人ケガ、うち1人が心肺停止 60代とみられる男の身柄拘束 日本人の負傷者なし",
+  "links": [
+   {
+    "source": "FNNプライムオンライン",
+    "title": "韓国・仁川の商業施設で切りつけ事件 8人ケガ、うち1人が心肺停止 60代とみられる男の身柄拘束 日本人の負傷者なし",
+    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9IcjhpMi1KRHpJMXJOTkxyR2ZqemZMVTFqdmtlendaVWhlQ0pfSFNlbWhEeGp2M0FreWJHRy0tXzhIVGUtcXdMeFNDU2NEUQ?oc=5"
+   },
+   {
+    "source": "NHK",
+    "title": "韓国インチョンで切りつけ事件 8人けが うち1人心肺停止",
+    "url": "https://news.web.nhk/newsweb/na/nd-20261013de58547"
+   }
+  ]
  }
 ]
