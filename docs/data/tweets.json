@@ -3418,5 +3418,25 @@
   "lang": "en",
   "topic": null,
   "links": []
+ },
+ {
+  "at": "2026-10-13T11:45+09:00",
+  "text": "景気の波を読む学問が賞を取る。波は読めても、止められぬのが世の常なり。",
+  "expression": "思案",
+  "scene": "regular",
+  "lang": "ja",
+  "topic": "ノーベル経済学賞、米大教授2人に 経済安定化の研究",
+  "links": [
+   {
+    "source": "Reuters",
+    "title": "ノーベル経済学賞、米大教授2人に 経済安定化の研究",
+    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9OMjhQVmJvbWJQaExmVk1rVjZtQmJrRXpJd3FGSEQxYzVfQWVGSFFaVy0wMmRKQTFsVzBrY1I4cW9qZkswaUt5dFBzYWM5ZEJrZVJoOVhxRVZLUW5HZjc0MkphZElZd0pONVVqN0ZtWFp4cDEyUEI4ZHQxclZ0UTQ?oc=5"
+   },
+   {
+    "source": "NHK",
+    "title": "ノーベル経済学賞にアメリカの2人の研究者",
+    "url": "https://news.web.nhk/newsweb/na/nd-20261009de57272"
+   }
+  ]
  }
 ]
