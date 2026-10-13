@@ -3659,5 +3659,20 @@
   "lang": "ja",
   "topic": null,
   "links": []
+ },
+ {
+  "at": "2026-10-13T16:15+09:00",
+  "text": "声を合わせるというのは、案外むずかしい。中学生が金賞とは、立派なものだ。",
+  "expression": "微笑",
+  "scene": "regular",
+  "lang": "ja",
+  "topic": "NHK全国学校音楽コンクール中学校の部 名古屋 滝ノ水中が金賞",
+  "links": [
+   {
+    "source": "NHK",
+    "title": "NHK全国学校音楽コンクール中学校の部 名古屋 滝ノ水中が金賞",
+    "url": "https://news.web.nhk/newsweb/na/nd-20261012de58270"
+   }
+  ]
  }
 ]
