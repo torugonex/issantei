@@ -1,15 +1,14 @@
 {
  "mood": {
-  "valence": 0.069,
-  "arousal": -0.041
+  "valence": -0.023,
+  "arousal": -0.018
  },
- "since_sarcasm": 4,
+ "since_sarcasm": 0,
  "day": "2026-10-13",
  "morning_done": true,
  "goodnight_done": false,
  "sleeptalk_night": "2026-10-12",
  "commented": {
-  "f83bbe4eb415": "2026-10-11T16:30:27.961229+09:00",
   "59a3aaa5010d": "2026-10-11T17:00:35.012481+09:00",
   "8af60b6295ef": "2026-10-11T17:15:17.954149+09:00",
   "798e0cd205b3": "2026-10-11T17:45:16.535134+09:00",
@@ -83,17 +82,10 @@
   "6bc5ee8f903a": "2026-10-13T15:15:20.259865+09:00",
   "a7326fea2619": "2026-10-13T15:30:29.572382+09:00",
   "aa23e1ac8d26": "2026-10-13T15:45:18.483370+09:00",
-  "1e3bac2d0b9b": "2026-10-13T16:15:18.694171+09:00"
+  "1e3bac2d0b9b": "2026-10-13T16:15:18.694171+09:00",
+  "e1c99f147062": "2026-10-13T16:30:28.986983+09:00"
  },
  "commented_titles": [
-  {
-   "title": "生成AIの安全性評価するシステム開発",
-   "at": "2026-10-12T16:15:19.352121+09:00"
-  },
-  {
-   "title": "One killed, 11 injured in second Houthi strike on Riyadh airport in two days",
-   "at": "2026-10-12T16:30:28.625301+09:00"
-  },
   {
    "title": "“ガザ停戦”から１年経過 イスラエル軍の攻撃で死者相次ぐ",
    "at": "2026-10-12T17:45:18.274522+09:00"
@@ -225,12 +217,16 @@
   {
    "title": "NHK全国学校音楽コンクール中学校の部 名古屋 滝ノ水中が金賞",
    "at": "2026-10-13T16:15:18.694171+09:00"
+  },
+  {
+   "title": "Women ‘more likely to be told autoimmune conditions are psychological’",
+   "at": "2026-10-13T16:30:28.986983+09:00"
   }
  ],
- "last_quake_check": "2026-10-13T16:15:18.694171+09:00",
- "since_english": 4,
- "next_english": 5,
- "last_tick": "2026-10-13T16:15:18.694171+09:00",
+ "last_quake_check": "2026-10-13T16:30:28.986983+09:00",
+ "since_english": 1,
+ "next_english": 3,
+ "last_tick": "2026-10-13T16:30:28.986983+09:00",
  "french_day": "2026-10-13",
  "french_done": false,
  "french_after": 1045
