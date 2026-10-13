@@ -3482,5 +3482,25 @@
     "url": "https://news.web.nhk/newsweb/na/nd-20260930de53274"
    }
   ]
+ },
+ {
+  "at": "2026-10-13T12:45+09:00",
+  "text": "Marching on the Supreme Court to unseat the umpire. Each side trusts the referee until the whistle blows.",
+  "expression": "片眉を上げる",
+  "scene": "regular",
+  "lang": "en",
+  "topic": "Thousands march to Indian Supreme Court to demand election chief resign",
+  "links": [
+   {
+    "source": "BBC",
+    "title": "Thousands march to Indian Supreme Court to demand election chief resign",
+    "url": "https://www.bbc.co.uk/news/articles/cwr5y2lgr4gdo?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "source": "Guardian",
+    "title": "Indian opposition figures lead march to police barricades around supreme court",
+    "url": "https://www.theguardian.com/world/2026/oct/12/india-election-protests-delhi-police-shut-metro-stations-ahead-march"
+   }
+  ]
  }
 ]
