@@ -1,9 +1,9 @@
 {
  "mood": {
-  "valence": -0.023,
-  "arousal": -0.018
+  "valence": -0.412,
+  "arousal": -0.159
  },
- "since_sarcasm": 0,
+ "since_sarcasm": 1,
  "day": "2026-10-13",
  "morning_done": true,
  "goodnight_done": false,
@@ -83,7 +83,8 @@
   "a7326fea2619": "2026-10-13T15:30:29.572382+09:00",
   "aa23e1ac8d26": "2026-10-13T15:45:18.483370+09:00",
   "1e3bac2d0b9b": "2026-10-13T16:15:18.694171+09:00",
-  "e1c99f147062": "2026-10-13T16:30:28.986983+09:00"
+  "e1c99f147062": "2026-10-13T16:30:28.986983+09:00",
+  "c3f7376ffd23": "2026-10-13T16:45:19.120001+09:00"
  },
  "commented_titles": [
   {
@@ -221,12 +222,16 @@
   {
    "title": "Women ‘more likely to be told autoimmune conditions are psychological’",
    "at": "2026-10-13T16:30:28.986983+09:00"
+  },
+  {
+   "title": "４歳男児 ゼリーをのどに詰まらせて心肺停止で搬送 今月に入り死亡 奈良・香芝市の認定こども園",
+   "at": "2026-10-13T16:45:19.120001+09:00"
   }
  ],
- "last_quake_check": "2026-10-13T16:30:28.986983+09:00",
- "since_english": 1,
+ "last_quake_check": "2026-10-13T16:45:19.120001+09:00",
+ "since_english": 2,
  "next_english": 3,
- "last_tick": "2026-10-13T16:30:28.986983+09:00",
+ "last_tick": "2026-10-13T16:45:19.120001+09:00",
  "french_day": "2026-10-13",
  "french_done": false,
  "french_after": 1045
