@@ -1,9 +1,9 @@
 {
  "mood": {
-  "valence": -0.343,
-  "arousal": -0.127
+  "valence": -0.357,
+  "arousal": -0.12
  },
- "since_sarcasm": 3,
+ "since_sarcasm": 4,
  "day": "2026-10-13",
  "morning_done": true,
  "goodnight_done": false,
@@ -84,13 +84,10 @@
   "483cff099a2f": "2026-10-13T20:30:29.033698+09:00",
   "cdf6c127fdac": "2026-10-13T20:45:19.594268+09:00",
   "d4091b7a0646": "2026-10-13T21:30:29.592412+09:00",
-  "95a379b8628f": "2026-10-13T21:45:23.944181+09:00"
+  "95a379b8628f": "2026-10-13T21:45:23.944181+09:00",
+  "27d9d51af95d": "2026-10-13T22:00:41.591412+09:00"
  },
  "commented_titles": [
-  {
-   "title": "「もうひとつの出雲駅伝」 中大・佐藤蓮が14分01秒82でトップ 「勝ち切れたことは自信になる」／出雲市記録会",
-   "at": "2026-10-12T22:00:40.586584+09:00"
-  },
   {
    "title": "Healey faces £35bn Budget challenge to meet spending pledges, says think tank",
    "at": "2026-10-12T22:15:22.853671+09:00"
@@ -250,12 +247,16 @@
   {
    "title": "One dead and several hurt after rollercoaster incident at Six Flags",
    "at": "2026-10-13T21:45:23.944181+09:00"
+  },
+  {
+   "title": "都営地下鉄の保守工事談合で工事会社に排除措置命令へ 公取委",
+   "at": "2026-10-13T22:00:41.591412+09:00"
   }
  ],
- "last_quake_check": "2026-10-13T21:45:23.944181+09:00",
- "since_english": 1,
+ "last_quake_check": "2026-10-13T22:00:41.591412+09:00",
+ "since_english": 2,
  "next_english": 4,
- "last_tick": "2026-10-13T21:45:23.944181+09:00",
+ "last_tick": "2026-10-13T22:00:41.591412+09:00",
  "french_day": "2026-10-13",
  "french_done": true,
  "french_after": 1045
