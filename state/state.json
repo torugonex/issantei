@@ -1,15 +1,14 @@
 {
  "mood": {
-  "valence": 0.016,
-  "arousal": -0.197
+  "valence": -0.138,
+  "arousal": -0.173
  },
- "since_sarcasm": 9,
+ "since_sarcasm": 10,
  "day": "2026-10-14",
  "morning_done": true,
  "goodnight_done": false,
  "sleeptalk_night": "2026-10-13",
  "commented": {
-  "2c0ed7ad0829": "2026-10-12T06:45:16.864223+09:00",
   "ca5d857f7423": "2026-10-12T06:46:27.734964+09:00",
   "9d1296c5ecb3": "2026-10-12T07:15:16.886190+09:00",
   "4172cef80f0f": "2026-10-12T07:30:26.011878+09:00",
@@ -85,13 +84,10 @@
   "95a379b8628f": "2026-10-13T21:45:23.944181+09:00",
   "27d9d51af95d": "2026-10-13T22:00:41.591412+09:00",
   "f234f09ac35c": "2026-10-13T22:15:22.024634+09:00",
-  "2dad92f50fd0": "2026-10-13T22:30:31.277244+09:00"
+  "2dad92f50fd0": "2026-10-13T22:30:31.277244+09:00",
+  "43728ed02928": "2026-10-14T06:45:17.525188+09:00"
  },
  "commented_titles": [
-  {
-   "title": "北朝鮮から発射された２発の弾道ミサイル、ＥＥＺ内に飛来せず被害なし…大使館ルートを通じ厳重抗議",
-   "at": "2026-10-13T06:30:27.084295+09:00"
-  },
   {
    "title": "Immigration agents search congresswoman Ilhan Omar's home",
    "at": "2026-10-13T07:15:18.080961+09:00"
@@ -255,12 +251,16 @@
   {
    "title": "Pope Leo admitted to hospital for operation to remove growth on lung",
    "at": "2026-10-13T22:30:31.277244+09:00"
+  },
+  {
+   "title": "Death threats and isolation - the cost of fighting sexual violence in Iraq",
+   "at": "2026-10-14T06:45:17.525188+09:00"
   }
  ],
- "last_quake_check": "2026-10-14T06:15:20.030548+09:00",
- "since_english": 3,
- "next_english": 4,
- "last_tick": "2026-10-14T06:30:30.744818+09:00",
+ "last_quake_check": "2026-10-14T06:45:17.525188+09:00",
+ "since_english": 1,
+ "next_english": 5,
+ "last_tick": "2026-10-14T06:45:17.525188+09:00",
  "french_day": "2026-10-14",
  "french_done": false,
  "french_after": 1181
