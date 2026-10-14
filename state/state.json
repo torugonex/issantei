@@ -1,9 +1,9 @@
 {
  "mood": {
-  "valence": -0.028,
-  "arousal": -0.11
+  "valence": -0.071,
+  "arousal": -0.108
  },
- "since_sarcasm": 0,
+ "since_sarcasm": 1,
  "day": "2026-10-14",
  "morning_done": true,
  "goodnight_done": false,
@@ -83,17 +83,10 @@
   "653585c24f99": "2026-10-14T16:00:41.698311+09:00",
   "c5efa84eed1d": "2026-10-14T16:15:18.946374+09:00",
   "c2e539a853ac": "2026-10-14T16:45:19.688965+09:00",
-  "de5ed714bdb2": "2026-10-14T17:15:19.025046+09:00"
+  "de5ed714bdb2": "2026-10-14T17:15:19.025046+09:00",
+  "965bac7f44f9": "2026-10-14T17:30:30.424068+09:00"
  },
  "commented_titles": [
-  {
-   "title": "「下敷きになって即死」「現場は血まみれに」…2名が死亡《大阪･だんじり祭り》が人命軽視と批判されても“続く理由”",
-   "at": "2026-10-13T17:15:19.325875+09:00"
-  },
-  {
-   "title": "Aux Etats-Unis, le recours de Donald Trump au gazole russe, au détriment de l’Ukraine, provoque une vaste controverse",
-   "at": "2026-10-13T17:30:28.942636+09:00"
-  },
   {
    "title": "韓国・仁川の商業施設で切りつけ事件 8人ケガ、うち1人が心肺停止 60代とみられる男の身柄拘束 日本人の負傷者なし",
    "at": "2026-10-13T17:45:18.975270+09:00"
@@ -245,12 +238,16 @@
   {
    "title": "Why the lonely in China are hiring 'temporary children'",
    "at": "2026-10-14T17:15:19.025046+09:00"
+  },
+  {
+   "title": "個人情報の流出「不安感じる」77％ NHK世論調査",
+   "at": "2026-10-14T17:30:30.424068+09:00"
   }
  ],
- "last_quake_check": "2026-10-14T17:15:19.025046+09:00",
- "since_english": 1,
+ "last_quake_check": "2026-10-14T17:30:30.424068+09:00",
+ "since_english": 2,
  "next_english": 5,
- "last_tick": "2026-10-14T17:15:19.025046+09:00",
+ "last_tick": "2026-10-14T17:30:30.424068+09:00",
  "french_day": "2026-10-14",
  "french_done": false,
  "french_after": 1181

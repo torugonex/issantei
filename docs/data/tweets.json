@@ -4574,5 +4574,20 @@
     "url": "https://www.bbc.co.uk/news/videos/cm8xkxn8lqkeo?at_medium=RSS&at_campaign=rss"
    }
   ]
+ },
+ {
+  "at": "2026-10-14T17:30+09:00",
+  "text": "不安だと言いながら、皆さん毎日せっせと名前や住所を差し出している。ご用心なさい。",
+  "expression": "思案",
+  "scene": "regular",
+  "lang": "ja",
+  "topic": "個人情報の流出「不安感じる」77％ NHK世論調査",
+  "links": [
+   {
+    "source": "NHK",
+    "title": "個人情報の流出「不安感じる」77％ NHK世論調査",
+    "url": "https://news.web.nhk/newsweb/na/nd-20261013de58351"
+   }
+  ]
  }
 ]
