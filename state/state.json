@@ -1,9 +1,9 @@
 {
  "mood": {
-  "valence": -0.126,
-  "arousal": -0.067
+  "valence": -0.044,
+  "arousal": -0.025
  },
- "since_sarcasm": 4,
+ "since_sarcasm": 5,
  "day": "2026-10-14",
  "morning_done": true,
  "goodnight_done": false,
@@ -85,13 +85,10 @@
   "de5ed714bdb2": "2026-10-14T17:15:19.025046+09:00",
   "965bac7f44f9": "2026-10-14T17:30:30.424068+09:00",
   "e36c3c6cc33a": "2026-10-14T18:15:18.053758+09:00",
-  "8eccfcbebcf0": "2026-10-14T18:45:17.948574+09:00"
+  "8eccfcbebcf0": "2026-10-14T18:45:17.948574+09:00",
+  "89c416d59534": "2026-10-14T19:00:38.970816+09:00"
  },
  "commented_titles": [
-  {
-   "title": "フィジカルAI、防災や工場自動化に挑む デジタル見本市CEATEC開幕",
-   "at": "2026-10-13T18:45:19.969938+09:00"
-  },
   {
    "title": "Fly-tippers face £5k fine in new crackdown",
    "at": "2026-10-13T19:00:39.880457+09:00"
@@ -243,12 +240,16 @@
   {
    "title": "Ukrainian soldiers in combat have access to Starlink satellite internet restricted",
    "at": "2026-10-14T18:45:17.948574+09:00"
+  },
+  {
+   "title": "大谷翔平スタメン落ち示唆から一転、第3戦も出場へ 急転直下の舞台裏で何があったのか？",
+   "at": "2026-10-14T19:00:38.970816+09:00"
   }
  ],
- "last_quake_check": "2026-10-14T18:45:17.948574+09:00",
- "since_english": 1,
+ "last_quake_check": "2026-10-14T19:00:38.970816+09:00",
+ "since_english": 2,
  "next_english": 4,
- "last_tick": "2026-10-14T18:45:17.948574+09:00",
+ "last_tick": "2026-10-14T19:00:38.970816+09:00",
  "french_day": "2026-10-14",
  "french_done": false,
  "french_after": 1181
