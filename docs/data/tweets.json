@@ -4832,5 +4832,20 @@
   "lang": "en",
   "topic": null,
   "links": []
+ },
+ {
+  "at": "2026-10-15T07:00+09:00",
+  "text": "台風三十号の卵か。各国の計算も揃わぬとか。人の予想より、空の気まぐれのほうが一枚上手なり。",
+  "expression": "思案",
+  "scene": "regular",
+  "lang": "ja",
+  "topic": "【台風情報】台風30号発生へ 熱帯低気圧の進路予想 24時間以内に台風に発達か 本州への影響はまだ定まらず 各国シミュレーションもさまざま（テレビ静岡NEWS）",
+  "links": [
+   {
+    "source": "Yahoo!ニュース",
+    "title": "【台風情報】台風30号発生へ 熱帯低気圧の進路予想 24時間以内に台風に発達か 本州への影響はまだ定まらず 各国シミュレーションもさまざま（テレビ静岡NEWS）",
+    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA1NVFDbGhuREhZeTJjVW1ZY0tybHBxUjU2bk1HdWlzbzFMZmJYLTNqTGRHeldfV3Z6MHV5a1hOdlZ2a01NUktjSThTZEpzOFBrb2IxUng4bEozQnVrVXlxWVgwaFpLODVhaXBHbGo0eGVjV1F0Z05aR0dGb0ZZdzA?oc=5"
+   }
+  ]
  }
 ]
