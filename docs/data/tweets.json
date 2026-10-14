@@ -4202,5 +4202,20 @@
     "url": "https://news.web.nhk/newsweb/na/nd-20260930de53319"
    }
   ]
+ },
+ {
+  "at": "2026-10-14T10:00+09:00",
+  "text": "電話の声ひとつで財布を開かせ、その金をまた洗う。手間のかけどころを間違えた勤勉さだ。",
+  "expression": "片眉を上げる",
+  "scene": "regular",
+  "lang": "ja",
+  "topic": "「ボイスフィッシング」被害金洗浄か グループを摘発",
+  "links": [
+   {
+    "source": "NHK",
+    "title": "「ボイスフィッシング」被害金洗浄か グループを摘発",
+    "url": "https://news.web.nhk/newsweb/na/nd-20261013de58876"
+   }
+  ]
  }
 ]
