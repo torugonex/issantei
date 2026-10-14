@@ -1,9 +1,9 @@
 {
  "mood": {
-  "valence": -0.034,
-  "arousal": -0.123
+  "valence": -0.126,
+  "arousal": -0.067
  },
- "since_sarcasm": 3,
+ "since_sarcasm": 4,
  "day": "2026-10-14",
  "morning_done": true,
  "goodnight_done": false,
@@ -84,7 +84,8 @@
   "c2e539a853ac": "2026-10-14T16:45:19.688965+09:00",
   "de5ed714bdb2": "2026-10-14T17:15:19.025046+09:00",
   "965bac7f44f9": "2026-10-14T17:30:30.424068+09:00",
-  "e36c3c6cc33a": "2026-10-14T18:15:18.053758+09:00"
+  "e36c3c6cc33a": "2026-10-14T18:15:18.053758+09:00",
+  "8eccfcbebcf0": "2026-10-14T18:45:17.948574+09:00"
  },
  "commented_titles": [
   {
@@ -238,12 +239,16 @@
   {
    "title": "停止義務ないのに「信号無視」? 警視庁が取り締まりミス63件 [東京都]",
    "at": "2026-10-14T18:15:18.053758+09:00"
+  },
+  {
+   "title": "Ukrainian soldiers in combat have access to Starlink satellite internet restricted",
+   "at": "2026-10-14T18:45:17.948574+09:00"
   }
  ],
- "last_quake_check": "2026-10-14T18:30:31.102004+09:00",
- "since_english": 4,
- "next_english": 5,
- "last_tick": "2026-10-14T18:30:31.102004+09:00",
+ "last_quake_check": "2026-10-14T18:45:17.948574+09:00",
+ "since_english": 1,
+ "next_english": 4,
+ "last_tick": "2026-10-14T18:45:17.948574+09:00",
  "french_day": "2026-10-14",
  "french_done": false,
  "french_after": 1181
