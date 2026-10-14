@@ -1,9 +1,9 @@
 {
  "mood": {
-  "valence": -0.406,
-  "arousal": -0.228
+  "valence": -0.38,
+  "arousal": -0.146
  },
- "since_sarcasm": 3,
+ "since_sarcasm": 4,
  "day": "2026-10-14",
  "morning_done": true,
  "goodnight_done": false,
@@ -80,13 +80,10 @@
   "04b1cf3964b3": "2026-10-14T13:45:18.587569+09:00",
   "487aea8619d9": "2026-10-14T14:15:19.401633+09:00",
   "9c33ccbb8cf5": "2026-10-14T14:30:28.449192+09:00",
-  "efb2fd7ea852": "2026-10-14T15:00:39.456749+09:00"
+  "efb2fd7ea852": "2026-10-14T15:00:39.456749+09:00",
+  "7f1d173be0b9": "2026-10-14T15:30:29.504332+09:00"
  },
  "commented_titles": [
-  {
-   "title": "関文科相「二度とやらない」 議員会館で政治資金パーティー開催",
-   "at": "2026-10-13T15:15:20.259865+09:00"
-  },
   {
    "title": "Threat of AI share crash puts world financial stability at risk, says IMF",
    "at": "2026-10-13T15:30:29.572382+09:00"
@@ -246,12 +243,16 @@
   {
    "title": "What we know about the man who died falling from a Six Flags rollercoaster",
    "at": "2026-10-14T15:00:39.456749+09:00"
+  },
+  {
+   "title": "オープンAI従業員を逮捕 役員会議室に録音機設置か",
+   "at": "2026-10-14T15:30:29.504332+09:00"
   }
  ],
- "last_quake_check": "2026-10-14T15:00:39.456749+09:00",
- "since_english": 1,
+ "last_quake_check": "2026-10-14T15:30:29.504332+09:00",
+ "since_english": 2,
  "next_english": 3,
- "last_tick": "2026-10-14T15:15:20.480244+09:00",
+ "last_tick": "2026-10-14T15:30:29.504332+09:00",
  "french_day": "2026-10-14",
  "french_done": false,
  "french_after": 1181
