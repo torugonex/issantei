@@ -1,15 +1,14 @@
 {
  "mood": {
-  "valence": 0.016,
-  "arousal": -0.131
+  "valence": -0.292,
+  "arousal": -0.215
  },
- "since_sarcasm": 6,
+ "since_sarcasm": 7,
  "day": "2026-10-14",
  "morning_done": true,
  "goodnight_done": false,
  "sleeptalk_night": "2026-10-13",
  "commented": {
-  "22f70f85b88c": "2026-10-12T22:15:22.853671+09:00",
   "667864ac0436": "2026-10-13T06:30:27.084295+09:00",
   "6f0d9637036d": "2026-10-13T07:15:18.080961+09:00",
   "680024d3cec2": "2026-10-13T07:45:18.188595+09:00",
@@ -85,17 +84,10 @@
   "2ffb870e3643": "2026-10-14T20:00:41.739769+09:00",
   "8f4f632ee0ff": "2026-10-14T20:30:29.761063+09:00",
   "3ab66e35786b": "2026-10-14T21:15:20.248630+09:00",
-  "e2a304903dca": "2026-10-14T21:45:20.763484+09:00"
+  "e2a304903dca": "2026-10-14T21:45:20.763484+09:00",
+  "8bf498120f94": "2026-10-14T22:30:32.362461+09:00"
  },
  "commented_titles": [
-  {
-   "title": "JR東海 ECサイトで最大1万5000件 顧客情報を漏えいの可能性",
-   "at": "2026-10-13T22:15:22.024634+09:00"
-  },
-  {
-   "title": "Pope Leo admitted to hospital for operation to remove growth on lung",
-   "at": "2026-10-13T22:30:31.277244+09:00"
-  },
   {
    "title": "Death threats and isolation - the cost of fighting sexual violence in Iraq",
    "at": "2026-10-14T06:45:17.525188+09:00"
@@ -231,12 +223,16 @@
   {
    "title": "ソフトバンク・モイネロがぼう然・・・まさかの３回途中３失点ＫＯ 制球難露呈し逆転許す ２回２／３を６安打４四死球 重要初戦託されたエースが背信投球（デイリースポーツ）",
    "at": "2026-10-14T21:45:20.763484+09:00"
+  },
+  {
+   "title": "Family of man killed by tiger criticise online content after Trump reposts video",
+   "at": "2026-10-14T22:30:32.362461+09:00"
   }
  ],
- "last_quake_check": "2026-10-14T22:00:42.926340+09:00",
- "since_english": 3,
+ "last_quake_check": "2026-10-14T22:30:32.362461+09:00",
+ "since_english": 1,
  "next_english": 4,
- "last_tick": "2026-10-14T22:15:20.739448+09:00",
+ "last_tick": "2026-10-14T22:30:32.362461+09:00",
  "french_day": "2026-10-14",
  "french_done": true,
  "french_after": 1181
