@@ -1,9 +1,9 @@
 {
  "mood": {
-  "valence": -0.033,
-  "arousal": -0.044
+  "valence": -0.075,
+  "arousal": -0.008
  },
- "since_sarcasm": 6,
+ "since_sarcasm": 0,
  "day": "2026-10-14",
  "morning_done": true,
  "goodnight_done": false,
@@ -87,7 +87,8 @@
   "e36c3c6cc33a": "2026-10-14T18:15:18.053758+09:00",
   "8eccfcbebcf0": "2026-10-14T18:45:17.948574+09:00",
   "89c416d59534": "2026-10-14T19:00:38.970816+09:00",
-  "6c5b59b8ed20": "2026-10-14T19:30:30.025875+09:00"
+  "6c5b59b8ed20": "2026-10-14T19:30:30.025875+09:00",
+  "6581f641dcb2": "2026-10-14T19:45:17.704237+09:00"
  },
  "commented_titles": [
   {
@@ -241,13 +242,17 @@
   {
    "title": "中国と北朝鮮を結ぶ橋が15日に開通 両国貿易拡大の可能性も",
    "at": "2026-10-14T19:30:30.025875+09:00"
+  },
+  {
+   "title": "Groenland : Donald Trump annonce qu’une « exploration pétrolière, gazière et minière massive » se prépare",
+   "at": "2026-10-14T19:45:17.704237+09:00"
   }
  ],
- "last_quake_check": "2026-10-14T19:30:30.025875+09:00",
- "since_english": 3,
+ "last_quake_check": "2026-10-14T19:45:17.704237+09:00",
+ "since_english": 0,
  "next_english": 4,
- "last_tick": "2026-10-14T19:30:30.025875+09:00",
+ "last_tick": "2026-10-14T19:45:17.704237+09:00",
  "french_day": "2026-10-14",
- "french_done": false,
+ "french_done": true,
  "french_after": 1181
 }
