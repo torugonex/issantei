@@ -1,9 +1,9 @@
 {
  "mood": {
-  "valence": -0.38,
-  "arousal": -0.146
+  "valence": -0.26,
+  "arousal": -0.134
  },
- "since_sarcasm": 4,
+ "since_sarcasm": 0,
  "day": "2026-10-14",
  "morning_done": true,
  "goodnight_done": false,
@@ -81,17 +81,10 @@
   "487aea8619d9": "2026-10-14T14:15:19.401633+09:00",
   "9c33ccbb8cf5": "2026-10-14T14:30:28.449192+09:00",
   "efb2fd7ea852": "2026-10-14T15:00:39.456749+09:00",
-  "7f1d173be0b9": "2026-10-14T15:30:29.504332+09:00"
+  "7f1d173be0b9": "2026-10-14T15:30:29.504332+09:00",
+  "653585c24f99": "2026-10-14T16:00:41.698311+09:00"
  },
  "commented_titles": [
-  {
-   "title": "Threat of AI share crash puts world financial stability at risk, says IMF",
-   "at": "2026-10-13T15:30:29.572382+09:00"
-  },
-  {
-   "title": "北朝鮮の弾道ミサイル２発、韓国の極超音速ミサイルに対抗か…日本政府は厳重に抗議",
-   "at": "2026-10-13T15:45:18.483370+09:00"
-  },
   {
    "title": "NHK全国学校音楽コンクール中学校の部 名古屋 滝ノ水中が金賞",
    "at": "2026-10-13T16:15:18.694171+09:00"
@@ -247,12 +240,16 @@
   {
    "title": "オープンAI従業員を逮捕 役員会議室に録音機設置か",
    "at": "2026-10-14T15:30:29.504332+09:00"
+  },
+  {
+   "title": "Burnham to host Zelenskyy at No 10 in show of ‘rock-solid’ support",
+   "at": "2026-10-14T16:00:41.698311+09:00"
   }
  ],
- "last_quake_check": "2026-10-14T15:30:29.504332+09:00",
- "since_english": 2,
+ "last_quake_check": "2026-10-14T16:00:41.698311+09:00",
+ "since_english": 1,
  "next_english": 3,
- "last_tick": "2026-10-14T15:45:23.077212+09:00",
+ "last_tick": "2026-10-14T16:00:41.698311+09:00",
  "french_day": "2026-10-14",
  "french_done": false,
  "french_after": 1181
