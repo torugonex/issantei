@@ -1,15 +1,14 @@
 {
  "mood": {
-  "valence": -0.005,
-  "arousal": -0.106
+  "valence": 0.021,
+  "arousal": -0.117
  },
- "since_sarcasm": 6,
+ "since_sarcasm": 7,
  "day": "2026-10-14",
  "morning_done": true,
  "goodnight_done": false,
  "sleeptalk_night": "2026-10-13",
  "commented": {
-  "9f8607e4e5a4": "2026-10-12T12:00:39.623598+09:00",
   "f9663d6d4b5b": "2026-10-12T12:45:20.819923+09:00",
   "6f1a08baa857": "2026-10-12T13:00:38.890244+09:00",
   "5467395a7f0a": "2026-10-12T13:30:27.327678+09:00",
@@ -84,14 +83,6 @@
   "0bb5b1110e9c": "2026-10-14T12:00:39.453455+09:00"
  },
  "commented_titles": [
-  {
-   "title": "ノーベル平和賞のピレイ氏が古巣のＩＣＣを訪問、赤根智子所長「国際司法が重要な役割を果たしている」",
-   "at": "2026-10-13T12:15:18.520533+09:00"
-  },
-  {
-   "title": "2026年ノーベル賞 12日は経済学賞発表",
-   "at": "2026-10-13T12:29:26.367976+09:00"
-  },
   {
    "title": "Thousands march to Indian Supreme Court to demand election chief resign",
    "at": "2026-10-13T12:45:18.627921+09:00"
@@ -249,10 +240,10 @@
    "at": "2026-10-14T12:00:39.453455+09:00"
   }
  ],
- "last_quake_check": "2026-10-14T12:15:20.275283+09:00",
- "since_english": 3,
+ "last_quake_check": "2026-10-14T12:30:28.030236+09:00",
+ "since_english": 4,
  "next_english": 5,
- "last_tick": "2026-10-14T12:15:20.275283+09:00",
+ "last_tick": "2026-10-14T12:30:28.030236+09:00",
  "french_day": "2026-10-14",
  "french_done": false,
  "french_after": 1181
