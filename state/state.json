@@ -1,9 +1,9 @@
 {
  "mood": {
-  "valence": 0.029,
-  "arousal": -0.113
+  "valence": -0.028,
+  "arousal": -0.11
  },
- "since_sarcasm": 4,
+ "since_sarcasm": 0,
  "day": "2026-10-14",
  "morning_done": true,
  "goodnight_done": false,
@@ -82,7 +82,8 @@
   "7f1d173be0b9": "2026-10-14T15:30:29.504332+09:00",
   "653585c24f99": "2026-10-14T16:00:41.698311+09:00",
   "c5efa84eed1d": "2026-10-14T16:15:18.946374+09:00",
-  "c2e539a853ac": "2026-10-14T16:45:19.688965+09:00"
+  "c2e539a853ac": "2026-10-14T16:45:19.688965+09:00",
+  "de5ed714bdb2": "2026-10-14T17:15:19.025046+09:00"
  },
  "commented_titles": [
   {
@@ -240,12 +241,16 @@
   {
    "title": "ドジャース大谷翔平 第3戦先発へ「信じてくれる人のために」",
    "at": "2026-10-14T16:45:19.688965+09:00"
+  },
+  {
+   "title": "Why the lonely in China are hiring 'temporary children'",
+   "at": "2026-10-14T17:15:19.025046+09:00"
   }
  ],
- "last_quake_check": "2026-10-14T17:00:39.855746+09:00",
- "since_english": 3,
- "next_english": 4,
- "last_tick": "2026-10-14T17:00:39.855746+09:00",
+ "last_quake_check": "2026-10-14T17:15:19.025046+09:00",
+ "since_english": 1,
+ "next_english": 5,
+ "last_tick": "2026-10-14T17:15:19.025046+09:00",
  "french_day": "2026-10-14",
  "french_done": false,
  "french_after": 1181
