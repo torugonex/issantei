@@ -1,9 +1,9 @@
 {
  "mood": {
-  "valence": -0.046,
-  "arousal": -0.049
+  "valence": -0.01,
+  "arousal": -0.087
  },
- "since_sarcasm": 1,
+ "since_sarcasm": 2,
  "day": "2026-10-15",
  "morning_done": true,
  "goodnight_done": false,
@@ -87,10 +87,6 @@
   "b84a53b29903": "2026-10-15T08:30:30.182530+09:00"
  },
  "commented_titles": [
-  {
-   "title": "BA flight forced to turn back over cracked window",
-   "at": "2026-10-14T08:45:16.907063+09:00"
-  },
   {
    "title": "【解説】 トランプ氏が主張するロシアとウクライナの「エネルギー停戦」、ロシアはなぜ沈黙したままなのか",
    "at": "2026-10-14T09:00:42.873911+09:00"
@@ -220,10 +216,10 @@
    "at": "2026-10-15T08:30:30.182530+09:00"
   }
  ],
- "last_quake_check": "2026-10-15T08:30:30.182530+09:00",
- "since_english": 2,
+ "last_quake_check": "2026-10-15T08:45:17.354885+09:00",
+ "since_english": 3,
  "next_english": 5,
- "last_tick": "2026-10-15T08:30:30.182530+09:00",
+ "last_tick": "2026-10-15T08:45:17.354885+09:00",
  "french_day": "2026-10-15",
  "french_done": false,
  "french_after": 606
