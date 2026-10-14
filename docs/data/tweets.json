@@ -4182,5 +4182,25 @@
     "url": "https://www.bbc.co.uk/news/articles/cj1dwrxq1wndo?at_medium=RSS&at_campaign=rss"
    }
   ]
+ },
+ {
+  "at": "2026-10-14T09:00+09:00",
+  "text": "停戦を口にするのは易い。黙るのもまた一つの返事なり。",
+  "expression": "思案",
+  "scene": "regular",
+  "lang": "ja",
+  "topic": "【解説】 トランプ氏が主張するロシアとウクライナの「エネルギー停戦」、ロシアはなぜ沈黙したままなのか",
+  "links": [
+   {
+    "source": "BBC",
+    "title": "【解説】 トランプ氏が主張するロシアとウクライナの「エネルギー停戦」、ロシアはなぜ沈黙したままなのか",
+    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE40X0J3d3BRQXFUVkpoeFlfT29TNzhZaDN5eHQzNGFVODZreWF1b0lPTXFCVURvNUthMFBwQmhRdV9CNFlJNFdIX0c3WUladHdVSG41WHJ3U2hZakhuWXZJUNIBZkFVX3lxTE9XQlJkbnE0MzRrTHVaS3hqWXNWRXBCQTFEUmhkSFB3eXhPMXg5YmVKV2NELVAxNFA3SjFUOENtdnAzdGlMUW1mRkZES3VfeDNHT1RsWFhZcVhVMWV2bG92WUpsN3hnUQ?oc=5"
+   },
+   {
+    "source": "NHK",
+    "title": "【随時更新】ロシア ウクライナに軍事侵攻（10月13日の動き）",
+    "url": "https://news.web.nhk/newsweb/na/nd-20260930de53319"
+   }
+  ]
  }
 ]
