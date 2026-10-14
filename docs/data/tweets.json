@@ -4298,5 +4298,25 @@
   "lang": "ja",
   "topic": null,
   "links": []
+ },
+ {
+  "at": "2026-10-14T12:45+09:00",
+  "text": "Nearly thirty years on, a verdict. Justice keeps poor time, but it does arrive. Requiescat in pace.",
+  "expression": "憂い",
+  "scene": "regular",
+  "lang": "en",
+  "topic": "Ex-gang boss sentenced to 40 years for orchestrating Tupac Shakur's murder",
+  "links": [
+   {
+    "source": "BBC",
+    "title": "Ex-gang boss sentenced to 40 years for orchestrating Tupac Shakur's murder",
+    "url": "https://www.bbc.co.uk/news/articles/c60rln2jvv2zo?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "source": "Guardian",
+    "title": "Duane ‘Keffe D’ Davis sentenced to 40 years to life over Tupac Shakur’s murder",
+    "url": "https://www.theguardian.com/music/2026/oct/13/duane-davis-sentencing-tupac-shakur-murder"
+   }
+  ]
  }
 ]
