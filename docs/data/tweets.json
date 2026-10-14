@@ -4338,5 +4338,25 @@
     "url": "https://news.web.nhk/newsweb/na/nd-20261014de58935"
    }
   ]
+ },
+ {
+  "at": "2026-10-14T13:15+09:00",
+  "text": "A journalist detained on suspicion of spying. Allegations are not verdicts; one hopes he keeps well.",
+  "expression": "憂い",
+  "scene": "regular",
+  "lang": "en",
+  "topic": "Russia arrests Japanese journalist on alleged espionage",
+  "links": [
+   {
+    "source": "BBC",
+    "title": "Russia arrests Japanese journalist on alleged espionage",
+    "url": "https://www.bbc.co.uk/news/articles/cwp9g1el7x9zo?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "source": "Guardian",
+    "title": "Russia arrests Japanese journalist on allegations of spying",
+    "url": "https://www.theguardian.com/world/2026/oct/14/russia-detains-japanese-journalist-suspicion-spying"
+   }
+  ]
  }
 ]
