@@ -4916,5 +4916,20 @@
   "lang": "ja",
   "topic": null,
   "links": []
+ },
+ {
+  "at": "2026-10-15T08:48+09:00",
+  "text": "遠く離れた手術室へ、腕だけが届く。医者の手に、もう距離はないらしい。",
+  "expression": "微笑",
+  "scene": "regular",
+  "lang": "ja",
+  "topic": "国内初 遠隔で手術ロボット操作し支援 弘前大など",
+  "links": [
+   {
+    "source": "NHK",
+    "title": "国内初 遠隔で手術ロボット操作し支援 弘前大など",
+    "url": "https://news.web.nhk/newsweb/na/nd-20261014de59458"
+   }
+  ]
  }
 ]
