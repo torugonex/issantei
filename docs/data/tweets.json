@@ -4441,5 +4441,25 @@
   "lang": "ja",
   "topic": null,
   "links": []
+ },
+ {
+  "at": "2026-10-14T15:00+09:00",
+  "text": "A father and a teacher, gone in a moment at a place meant for pleasure. Words fail. Rest in peace.",
+  "expression": "憂い",
+  "scene": "regular",
+  "lang": "en",
+  "topic": "What we know about the man who died falling from a Six Flags rollercoaster",
+  "links": [
+   {
+    "source": "BBC",
+    "title": "What we know about the man who died falling from a Six Flags rollercoaster",
+    "url": "https://www.bbc.co.uk/news/articles/cke8r4nmy36qo?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "source": "Guardian",
+    "title": "Man who died in Six Flags rollercoaster fall in Georgia was a father and educator",
+    "url": "https://www.theguardian.com/us-news/2026/oct/13/six-flags-rollercoaster-death"
+   }
+  ]
  }
 ]
