@@ -4358,5 +4358,25 @@
     "url": "https://www.theguardian.com/world/2026/oct/14/russia-detains-japanese-journalist-suspicion-spying"
    }
   ]
+ },
+ {
+  "at": "2026-10-14T13:45+09:00",
+  "text": "教皇が入院され、手術は成功とのこと。肺に病が見つかったそうな。ご快復を、遠くから願う。",
+  "expression": "憂い",
+  "scene": "regular",
+  "lang": "ja",
+  "topic": "【速報】ローマ教皇が入院",
+  "links": [
+   {
+    "source": "47NEWS",
+    "title": "【速報】ローマ教皇が入院",
+    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9xaUNUc05sbjdtNGNlcnF2QmotUW1NZ2wyQWVXc00wSl92NjRPVm5tU0lyMnB2c0hMUFRleHdwSW1WRXBCVzliMHg5VQ?oc=5"
+   },
+   {
+    "source": "NHK",
+    "title": "ローマ教皇の手術成功 肺腺がん確認",
+    "url": "https://news.web.nhk/newsweb/na/nd-20261014de58969"
+   }
+  ]
  }
 ]
