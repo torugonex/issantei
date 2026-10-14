@@ -1,9 +1,9 @@
 {
  "mood": {
-  "valence": -0.34,
-  "arousal": -0.06
+  "valence": -0.28,
+  "arousal": -0.07
  },
- "since_sarcasm": 11,
+ "since_sarcasm": 12,
  "day": "2026-10-14",
  "morning_done": true,
  "goodnight_done": false,
@@ -83,14 +83,6 @@
   "04b1cf3964b3": "2026-10-14T13:45:18.587569+09:00"
  },
  "commented_titles": [
-  {
-   "title": "原晋監督も思わず苦言「没落の危機です」青学大「出雲駅伝でまさかの11位」のナゼ…それでも“箱根駅伝の優勝候補”からは外せないワケは？（Number Web）",
-   "at": "2026-10-13T13:45:18.835238+09:00"
-  },
-  {
-   "title": "Selma Blair charged with assault of police officer and nurse after allegedly attacking flight attendants",
-   "at": "2026-10-13T14:00:36.894533+09:00"
-  },
   {
    "title": "米当局、民主党の下院議員宅を捜索 不法移民対策めぐり政権と対立",
    "at": "2026-10-13T14:15:17.608183+09:00"
@@ -248,10 +240,10 @@
    "at": "2026-10-14T13:45:18.587569+09:00"
   }
  ],
- "last_quake_check": "2026-10-14T13:45:18.587569+09:00",
- "since_english": 2,
+ "last_quake_check": "2026-10-14T14:00:38.608654+09:00",
+ "since_english": 3,
  "next_english": 5,
- "last_tick": "2026-10-14T13:45:18.587569+09:00",
+ "last_tick": "2026-10-14T14:00:38.608654+09:00",
  "french_day": "2026-10-14",
  "french_done": false,
  "french_after": 1181
