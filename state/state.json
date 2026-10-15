@@ -1,12 +1,12 @@
 {
  "mood": {
-  "valence": 0.023,
-  "arousal": -0.16
+  "valence": 0.055,
+  "arousal": -0.207
  },
- "since_sarcasm": 10,
+ "since_sarcasm": 11,
  "day": "2026-10-15",
  "morning_done": true,
- "goodnight_done": false,
+ "goodnight_done": true,
  "sleeptalk_night": "2026-10-14",
  "commented": {
   "43728ed02928": "2026-10-14T06:45:17.525188+09:00",
@@ -78,10 +78,6 @@
   "fab95d784b59": "2026-10-15T22:30:31.629302+09:00"
  },
  "commented_titles": [
-  {
-   "title": "Family of man killed by tiger criticise online content after Trump reposts video",
-   "at": "2026-10-14T22:30:32.362461+09:00"
-  },
   {
    "title": "【台風情報】台風30号発生へ 熱帯低気圧の進路予想 24時間以内に台風に発達か 本州への影響はまだ定まらず 各国シミュレーションもさまざま（テレビ静岡NEWS）",
    "at": "2026-10-15T07:00:37.234517+09:00"
@@ -212,9 +208,9 @@
   }
  ],
  "last_quake_check": "2026-10-15T22:30:31.629302+09:00",
- "since_english": 4,
- "next_english": 5,
- "last_tick": "2026-10-15T22:30:31.629302+09:00",
+ "since_english": 1,
+ "next_english": 4,
+ "last_tick": "2026-10-15T22:45:22.331896+09:00",
  "french_day": "2026-10-15",
  "french_done": true,
  "french_after": 606
