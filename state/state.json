@@ -1,16 +1,14 @@
 {
  "mood": {
-  "valence": -0.15,
-  "arousal": 0.003
+  "valence": -0.037,
+  "arousal": -0.073
  },
- "since_sarcasm": 2,
+ "since_sarcasm": 3,
  "day": "2026-10-16",
  "morning_done": true,
  "goodnight_done": false,
  "sleeptalk_night": "2026-10-15",
  "commented": {
-  "5ce99500616b": "2026-10-14T07:45:18.895829+09:00",
-  "f0bc06f5ca8b": "2026-10-14T07:48:17.490241+09:00",
   "24a7ab4a0bd0": "2026-10-14T08:15:17.567951+09:00",
   "46e434dcf77e": "2026-10-14T08:30:25.009574+09:00",
   "19bc110da957": "2026-10-14T08:45:16.907063+09:00",
@@ -82,10 +80,6 @@
   "35f412b71b17": "2026-10-16T07:45:16.764840+09:00"
  },
  "commented_titles": [
-  {
-   "title": "ウクライナ軍「スターリンクに通信制限」 無人機など軍事作戦に影響",
-   "at": "2026-10-15T07:45:18.668130+09:00"
-  },
   {
    "title": "Reform UK councillors and candidates filmed making racist and extreme comments",
    "at": "2026-10-15T08:00:41.427285+09:00"
@@ -231,10 +225,10 @@
    "at": "2026-10-16T07:45:16.764840+09:00"
   }
  ],
- "last_quake_check": "2026-10-16T07:45:16.764840+09:00",
- "since_english": 3,
+ "last_quake_check": "2026-10-16T08:00:39.863522+09:00",
+ "since_english": 4,
  "next_english": 5,
- "last_tick": "2026-10-16T07:45:16.764840+09:00",
+ "last_tick": "2026-10-16T08:00:39.863522+09:00",
  "french_day": "2026-10-16",
  "french_done": false,
  "french_after": 1120
