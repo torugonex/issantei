@@ -1,15 +1,14 @@
 {
  "mood": {
-  "valence": 0.077,
-  "arousal": -0.132
+  "valence": 0.133,
+  "arousal": -0.149
  },
- "since_sarcasm": 3,
+ "since_sarcasm": 4,
  "day": "2026-10-15",
  "morning_done": true,
  "goodnight_done": false,
  "sleeptalk_night": "2026-10-14",
  "commented": {
-  "de89310c8419": "2026-10-13T12:15:18.520533+09:00",
   "cedc14b72359": "2026-10-13T12:29:26.367976+09:00",
   "8f2b8287b228": "2026-10-13T12:45:18.627921+09:00",
   "297dfa84bad6": "2026-10-13T13:30:26.423259+09:00",
@@ -86,10 +85,6 @@
   "2efacfa64da2": "2026-10-15T10:53:58.507240+09:00"
  },
  "commented_titles": [
-  {
-   "title": "ニンテンドーミュージアムの新たな施設「スーパーファミリーレストラン」内覧会レポート。開業に先立ち公開された内装や提供メニューを紹介しよう",
-   "at": "2026-10-14T12:00:39.453455+09:00"
-  },
   {
    "title": "Ex-gang boss sentenced to 40 years for orchestrating Tupac Shakur's murder",
    "at": "2026-10-14T12:45:16.837360+09:00"
@@ -227,10 +222,10 @@
    "at": "2026-10-15T10:53:58.507240+09:00"
   }
  ],
- "last_quake_check": "2026-10-15T12:00:38.734668+09:00",
- "since_english": 1,
+ "last_quake_check": "2026-10-15T12:15:19.383539+09:00",
+ "since_english": 2,
  "next_english": 5,
- "last_tick": "2026-10-15T12:00:38.734668+09:00",
+ "last_tick": "2026-10-15T12:15:19.383539+09:00",
  "french_day": "2026-10-15",
  "french_done": true,
  "french_after": 606
