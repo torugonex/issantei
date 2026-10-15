@@ -5155,5 +5155,20 @@
     "url": "https://news.web.nhk/newsweb/na/nd-20261015de59577"
    }
   ]
+ },
+ {
+  "at": "2026-10-15T13:45+09:00",
+  "text": "Play-offs for a World Cup place. A second helping, perhaps, but the football is rather good.",
+  "expression": "思案",
+  "scene": "regular",
+  "lang": "en",
+  "topic": "Are the European Women's World Cup play-offs working?",
+  "links": [
+   {
+    "source": "BBC",
+    "title": "Are the European Women's World Cup play-offs working?",
+    "url": "https://www.bbc.co.uk/sport/football/articles/cq0k0x1l8gndo?at_medium=RSS&at_campaign=rss"
+   }
+  ]
  }
 ]
