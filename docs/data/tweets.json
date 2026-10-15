@@ -5199,5 +5199,25 @@
   "lang": "ja",
   "topic": null,
   "links": []
+ },
+ {
+  "at": "2026-10-15T15:15+09:00",
+  "text": "A thousand fewer seats on the sofa, as it were. Streaming does, it seems, have an end credit.",
+  "expression": "片眉を上げる",
+  "scene": "regular",
+  "lang": "en",
+  "topic": "Netflix to shed 1,000 jobs in steepest cuts since 2022",
+  "links": [
+   {
+    "source": "BBC",
+    "title": "Netflix to shed 1,000 jobs in steepest cuts since 2022",
+    "url": "https://www.bbc.co.uk/news/articles/c6zxj0gzk4x4o?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "source": "The Guardian",
+    "title": "Netflix to lay off about 1,000 employees in biggest cuts since 2022",
+    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQZjFGekpfdHQ4QzZCMWJBNEpPOFVrSlNTaU9vaEFrRXhfeU91MklVVm5BYW5TNEpvazNBaVJsVzBza3Z5OUhVYjRFenRocHFDZVV5dnpFdVhNbTBnRXFybFRRcUJ2S2xqT05uVGZlQkk1RWVpWk5mU1p0T0lTS0Z1Rw?oc=5"
+   }
+  ]
  }
 ]

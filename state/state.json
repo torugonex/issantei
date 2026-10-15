@@ -1,9 +1,9 @@
 {
  "mood": {
-  "valence": -0.426,
-  "arousal": -0.208
+  "valence": -0.395,
+  "arousal": -0.181
  },
- "since_sarcasm": 4,
+ "since_sarcasm": 0,
  "day": "2026-10-15",
  "morning_done": true,
  "goodnight_done": false,
@@ -81,13 +81,10 @@
   "4c12327162bb": "2026-10-15T13:15:17.686673+09:00",
   "e65b88c47b4a": "2026-10-15T13:30:28.491558+09:00",
   "158f10b018b1": "2026-10-15T13:45:18.853333+09:00",
-  "60f8d886127b": "2026-10-15T14:00:38.035183+09:00"
+  "60f8d886127b": "2026-10-15T14:00:38.035183+09:00",
+  "8fac60afbced": "2026-10-15T15:15:19.056530+09:00"
  },
  "commented_titles": [
-  {
-   "title": "What we know about the man who died falling from a Six Flags rollercoaster",
-   "at": "2026-10-14T15:00:39.456749+09:00"
-  },
   {
    "title": "オープンAI従業員を逮捕 役員会議室に録音機設置か",
    "at": "2026-10-14T15:30:29.504332+09:00"
@@ -215,12 +212,16 @@
   {
    "title": "ロシアが狙うウクライナ都市機能 市民生活圧迫、空爆下のキーウルポ",
    "at": "2026-10-15T14:00:38.035183+09:00"
+  },
+  {
+   "title": "Netflix to shed 1,000 jobs in steepest cuts since 2022",
+   "at": "2026-10-15T15:15:19.056530+09:00"
   }
  ],
- "last_quake_check": "2026-10-15T15:00:36.347749+09:00",
- "since_english": 3,
+ "last_quake_check": "2026-10-15T15:15:19.056530+09:00",
+ "since_english": 1,
  "next_english": 4,
- "last_tick": "2026-10-15T15:00:36.347749+09:00",
+ "last_tick": "2026-10-15T15:15:19.056530+09:00",
  "french_day": "2026-10-15",
  "french_done": true,
  "french_after": 606
