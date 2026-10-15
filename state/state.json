@@ -1,15 +1,14 @@
 {
  "mood": {
-  "valence": -0.501,
-  "arousal": -0.177
+  "valence": -0.426,
+  "arousal": -0.208
  },
- "since_sarcasm": 3,
+ "since_sarcasm": 4,
  "day": "2026-10-15",
  "morning_done": true,
  "goodnight_done": false,
  "sleeptalk_night": "2026-10-14",
  "commented": {
-  "54ce87cd39ea": "2026-10-13T14:15:17.608183+09:00",
   "6bc5ee8f903a": "2026-10-13T15:15:20.259865+09:00",
   "a7326fea2619": "2026-10-13T15:30:29.572382+09:00",
   "aa23e1ac8d26": "2026-10-13T15:45:18.483370+09:00",
@@ -85,14 +84,6 @@
   "60f8d886127b": "2026-10-15T14:00:38.035183+09:00"
  },
  "commented_titles": [
-  {
-   "title": "ホワイトハウスの新報道官、初の記者会見は１５分間と前任者の３分の１…手腕に疑問視もトランプ氏は「とてもよかった」",
-   "at": "2026-10-14T14:15:19.401633+09:00"
-  },
-  {
-   "title": "Pope diagnosed with lung cancer but had successful surgery, Vatican says",
-   "at": "2026-10-14T14:30:28.449192+09:00"
-  },
   {
    "title": "What we know about the man who died falling from a Six Flags rollercoaster",
    "at": "2026-10-14T15:00:39.456749+09:00"
@@ -226,10 +217,10 @@
    "at": "2026-10-15T14:00:38.035183+09:00"
   }
  ],
- "last_quake_check": "2026-10-15T14:00:38.035183+09:00",
- "since_english": 2,
+ "last_quake_check": "2026-10-15T15:00:36.347749+09:00",
+ "since_english": 3,
  "next_english": 4,
- "last_tick": "2026-10-15T14:45:18.081948+09:00",
+ "last_tick": "2026-10-15T15:00:36.347749+09:00",
  "french_day": "2026-10-15",
  "french_done": true,
  "french_after": 606
