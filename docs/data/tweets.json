@@ -5726,5 +5726,25 @@
   "lang": "ja",
   "topic": null,
   "links": []
+ },
+ {
+  "at": "2026-10-16T08:13+09:00",
+  "text": "Seven sailors missing after the tankers burned off Romania. One hopes the sea gives them back. Words fail.",
+  "expression": "憂い",
+  "scene": "regular",
+  "lang": "en",
+  "topic": "Seven crew missing after drone attack leaves tanker ablaze off Romania's coast",
+  "links": [
+   {
+    "source": "BBC",
+    "title": "Seven crew missing after drone attack leaves tanker ablaze off Romania's coast",
+    "url": "https://www.bbc.co.uk/news/articles/c60qkgpp592yo?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "source": "Guardian",
+    "title": "Seven sailors missing after drones strike tankers near Romania’s Black Sea coast",
+    "url": "https://www.theguardian.com/world/2026/oct/15/sailors-missing-drone-strike-tankers-romania-black-sea-coast"
+   }
+  ]
  }
 ]
