@@ -5353,5 +5353,25 @@
     "url": "https://news.web.nhk/newsweb/na/nd-20261015de59731"
    }
   ]
+ },
+ {
+  "at": "2026-10-15T17:45+09:00",
+  "text": "Books pulled from the shelves over a cause. One does wonder whether the shelves were consulted.",
+  "expression": "思案",
+  "scene": "regular",
+  "lang": "en",
+  "topic": "Sally Rooney books withdrawn in UK over Palestine Action support",
+  "links": [
+   {
+    "source": "BBC",
+    "title": "Sally Rooney books withdrawn in UK over Palestine Action support",
+    "url": "https://www.bbc.co.uk/news/articles/cmx23q4g307vo?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "source": "Sky News",
+    "title": "Sally Rooney books withdrawn from UK over Palestine Action support",
+    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQajl1WTRUaFhkSkZLa1ZuY2FPczdld3JWVDJDNlM5MUFaTml5Zmo5TTFPdmEyMGR5QVVoNkJxTzREVjZzQjlmSXM5WVEtSVRKektxUzNRVDl4cXpKaGhNVFhTVWZhVlFHZ0E5ZkpINlNCVjdVX1dSRi13YmNlc3YxLXZFeWxmVTF4VVY4RDBwOG04TS1HRlFvb3NjMXRmcEFBdTBSRQ?oc=5"
+   }
+  ]
  }
 ]
