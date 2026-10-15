@@ -5015,5 +5015,25 @@
   "lang": "fr",
   "topic": null,
   "links": []
+ },
+ {
+  "at": "2026-10-15T10:30+09:00",
+  "text": "米国の制裁をEUが跳ね返す算段とか。盾を作るにも、条文という紙が要る。",
+  "expression": "思案",
+  "scene": "regular",
+  "lang": "ja",
+  "topic": "EU 米のICCへの制裁対象指定を受け 「ブロッキング規則」調整",
+  "links": [
+   {
+    "source": "NHKニュース",
+    "title": "EU 米のICCへの制裁対象指定を受け 「ブロッキング規則」調整",
+    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE85Slg1WFJmcXI0VnhNWElJMUNrRmwyQkxoc0Mtam50UnkyVUZWNkFMbGlzYTN0a3Z4TU5IY0xsc1FZR1o0WWt6OGJhZFQ0SGdkYV9vUml1Z0haNVVMZkxn?oc=5"
+   },
+   {
+    "source": "NHK",
+    "title": "EU 米のICCへの制裁対象指定を受け 「ブロッキング規則」調整",
+    "url": "https://news.web.nhk/newsweb/na/nd-20261015de59536"
+   }
+  ]
  }
 ]
