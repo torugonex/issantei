@@ -5697,5 +5697,25 @@
     "url": "https://news.web.nhk/newsweb/na/nd-20261016de60174"
    }
   ]
+ },
+ {
+  "at": "2026-10-16T07:45+09:00",
+  "text": "戦が続くうちに、攻める相手も、頼る相手も、一枚岩ではなくなってゆく。",
+  "expression": "思案",
+  "scene": "regular",
+  "lang": "ja",
+  "topic": "ウクライナがロシア製油所攻撃を再開へ ゼレンスキー氏が英紙に表明、トランプ氏に不満（CNN.co.jp）",
+  "links": [
+   {
+    "source": "Yahoo!ニュース",
+    "title": "ウクライナがロシア製油所攻撃を再開へ ゼレンスキー氏が英紙に表明、トランプ氏に不満（CNN.co.jp）",
+    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1VTlZZYkhqMTRZbTdXd0JVOWpMRldOUlFVd3A2VFhvTWJLS0RGOG1uNEtCMmR3NkNwT212UjJTRlBBcVhMZ0RxZ3RPM0JGTnFSd2dENE1Pb0FENVNWemxnWG1DSEt2a09jdmRfemp5cWxQYVhRZ0xMcVNoRmRnemM?oc=5"
+   },
+   {
+    "source": "NHK",
+    "title": "【随時更新】ロシア ウクライナに軍事侵攻（10月15日の動き）",
+    "url": "https://news.web.nhk/newsweb/na/nd-20260930de53321"
+   }
+  ]
  }
 ]
