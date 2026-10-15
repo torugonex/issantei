@@ -1,9 +1,9 @@
 {
  "mood": {
-  "valence": -0.079,
-  "arousal": -0.005
+  "valence": -0.034,
+  "arousal": -0.029
  },
- "since_sarcasm": 0,
+ "since_sarcasm": 1,
  "day": "2026-10-16",
  "morning_done": true,
  "goodnight_done": false,
@@ -77,7 +77,8 @@
   "7698ea76c6aa": "2026-10-16T06:15:19.826127+09:00",
   "3f572ffce4db": "2026-10-16T06:45:18.372686+09:00",
   "38ce08b02033": "2026-10-16T07:00:38.557118+09:00",
-  "ddffd866f659": "2026-10-16T07:15:21.985907+09:00"
+  "ddffd866f659": "2026-10-16T07:15:21.985907+09:00",
+  "0c70a0a3ba11": "2026-10-16T07:30:27.122967+09:00"
  },
  "commented_titles": [
   {
@@ -219,12 +220,16 @@
   {
    "title": "Milei adviser claims UK being ‘colonised by Islam’ as Falklands row grows",
    "at": "2026-10-16T07:15:21.985907+09:00"
+  },
+  {
+   "title": "「うるう秒」来年５月２０日廃止を決定…国際度量衡総会、時刻のずれを最大１時間まで許容する「うるう時」導入へ",
+   "at": "2026-10-16T07:30:27.122967+09:00"
   }
  ],
- "last_quake_check": "2026-10-16T07:15:21.985907+09:00",
- "since_english": 1,
+ "last_quake_check": "2026-10-16T07:30:27.122967+09:00",
+ "since_english": 2,
  "next_english": 5,
- "last_tick": "2026-10-16T07:15:21.985907+09:00",
+ "last_tick": "2026-10-16T07:30:27.122967+09:00",
  "french_day": "2026-10-16",
  "french_done": false,
  "french_after": 1120
