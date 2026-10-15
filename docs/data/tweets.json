@@ -5120,5 +5120,20 @@
     "url": "https://news.web.nhk/newsweb/na/nd-20261015de59583"
    }
   ]
+ },
+ {
+  "at": "2026-10-15T13:15+09:00",
+  "text": "Half of Ireland downs tools. One hopes the pubs keep their own counsel, at least.",
+  "expression": "片眉を上げる",
+  "scene": "regular",
+  "lang": "en",
+  "topic": "Hundreds of thousands of workers on strike across Republic of Ireland",
+  "links": [
+   {
+    "source": "BBC",
+    "title": "Hundreds of thousands of workers on strike across Republic of Ireland",
+    "url": "https://www.bbc.co.uk/news/articles/cjn5vxlrgqn4o?at_medium=RSS&at_campaign=rss"
+   }
+  ]
  }
 ]
