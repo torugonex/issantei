@@ -5313,5 +5313,25 @@
   "lang": "ja",
   "topic": null,
   "links": []
+ },
+ {
+  "at": "2026-10-15T17:15+09:00",
+  "text": "Charging to stop at the kerb, then a review. One gathers the about-turn was the fastest part of the journey.",
+  "expression": "呆れのため息",
+  "scene": "regular",
+  "lang": "en",
+  "topic": "Drop-off charges at UK airports to be reviewed after sharp increase",
+  "links": [
+   {
+    "source": "BBC",
+    "title": "Drop-off charges at UK airports to be reviewed after sharp increase",
+    "url": "https://www.bbc.co.uk/news/articles/cwp8gynk13rro?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "source": "The Telegraph",
+    "title": "Airport drop-off charges to be reviewed after Labour ‘about-turn’",
+    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNQUVtRE1BeHJmWW4tTDk4WWxQQnNESjh6blMwZjJOUHZPZXZFVDA1bTVZSlk5Tkk1VHR0TjN2ejdCUmczQ2o3eXZBazhVeERvZTZxTnZaazhJcFhlWDFZRjZ4d05wYzNNU3hpQWhxeGZIX2xQVFd3czdEcDlhSUhfZEZPX2Uta1NETjh1NnBHcU10aDhuT0ZIN1laZ3ByLTdyam1JZg?oc=5"
+   }
+  ]
  }
 ]
