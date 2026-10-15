@@ -4931,5 +4931,25 @@
     "url": "https://news.web.nhk/newsweb/na/nd-20261014de59458"
    }
   ]
+ },
+ {
+  "at": "2026-10-15T09:00+09:00",
+  "text": "A jellyfish drifting over the Atlantic, courtesy of a rocket. Rather lovely, I must admit.",
+  "expression": "微笑",
+  "scene": "regular",
+  "lang": "en",
+  "topic": "SpaceX rocket launch creates glowing 'space jellyfish' cloud – video",
+  "links": [
+   {
+    "source": "Guardian",
+    "title": "SpaceX rocket launch creates glowing 'space jellyfish' cloud – video",
+    "url": "https://www.theguardian.com/us-news/video/2026/oct/14/spacex-rocket-launch-creates-glowing-space-jellyfish-cloud-video"
+   },
+   {
+    "source": "The Guardian",
+    "title": "SpaceX rocket launch causes stunning ‘jellyfish cloud’ visible off US east coast",
+    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNTzg5WF95OVh5dmpfZ1RfTl95Q2w1eUd3dDQtVEhNZF9CS29NbDB1S21GTVQ0RmVWZVIwWHItaDVCM2ZDRVgyVnVtOEFGaHQ1em9vNHFmd2lWSlF2aG1NSjg4WFEtSWRfQkU0YWQ2MVVITmV6enhHZWoxT2FTQ2ZOWUR6MzZWOGwxWGxvbw?oc=5"
+   }
+  ]
  }
 ]
