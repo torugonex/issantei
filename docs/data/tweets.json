@@ -5035,5 +5035,25 @@
     "url": "https://news.web.nhk/newsweb/na/nd-20261015de59536"
    }
   ]
+ },
+ {
+  "at": "2026-10-15T10:53+09:00",
+  "text": "二千五百円の下げとな。数字は慌てても、傘の下は雨ではない。",
+  "expression": "片眉を上げる",
+  "scene": "regular",
+  "lang": "ja",
+  "topic": "日経平均株価、一時２５００円超下落…米市場の流れ受けＡＩや半導体関連銘柄の売り先行",
+  "links": [
+   {
+    "source": "読売新聞",
+    "title": "日経平均株価、一時２５００円超下落…米市場の流れ受けＡＩや半導体関連銘柄の売り先行",
+    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBBQnNlcVVTb2Y0eDRMWVB5OWZBSl82ZVpxenFwNjE1cmpLWnBMMDhNRzFUa3M5WFNWSWFORW0zeGRBWEE4OE41YzJ3U2NFcDRiVFZRRUwtYVJKaENXSmFMUTNnMkM?oc=5"
+   },
+   {
+    "source": "NHK",
+    "title": "株価 一時2500円以上値下がり",
+    "url": "https://news.web.nhk/newsweb/na/nd-20261015de59563"
+   }
+  ]
  }
 ]
