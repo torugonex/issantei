@@ -1,14 +1,5 @@
 [
  {
-  "at": "2026-10-09T13:45+09:00",
-  "text": "秋桜が風に身をまかせておる。紅茶を淹れて、午後は縁側で過ごそうか。",
-  "expression": "微笑",
-  "scene": "life",
-  "lang": "ja",
-  "topic": null,
-  "links": []
- },
- {
   "at": "2026-10-09T14:00+09:00",
   "text": "A burst of energy from a galaxy far away. Rather makes one's own small worries seem punctual. Tea, I think.",
   "expression": "思案",
@@ -6154,5 +6145,14 @@
     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1fNjBsWFhqX3ZFTHdFYWFZT2JBV0dLTFZWSzJVQmtXcGV1TVlmT3dpa2QyMEhOUkxHYU9KcTJmZTB4aVA5d1hmaG9RSlNGMjJmcjlaRGZ6MThfdTByVWxJeHdwb29PaHN1dGVtUFlhYzR2YWvSAYcBQVVfeXFMTVZjbVl1SXRfTWF5NjktcThhTkhtSnJTVjlqeEV2VHUzRkE0dHZsTWdlNGFCdV9kLTc0NlE4MmN1enBQQ20yZ2ItTlFrUU16WTd3TDVRX3ZMMlZhRFZFZV9QMzVWN0F5TlBVUVRhaS1LWGRXR0FzaTN4WWtVQV9MdEd6ZWJFQ1dn?oc=5"
    }
   ]
+ },
+ {
+  "at": "2026-10-16T21:45+09:00",
+  "text": "旧友と並んで氷の音を聞く。黙っていても気詰まりにならぬ。古い付き合いの良さだ。",
+  "expression": "微笑",
+  "scene": "bar",
+  "lang": "ja",
+  "topic": null,
+  "links": []
  }
 ]
