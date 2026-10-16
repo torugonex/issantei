@@ -1,9 +1,9 @@
 {
  "mood": {
-  "valence": -0.169,
-  "arousal": -0.041
+  "valence": -0.227,
+  "arousal": -0.018
  },
- "since_sarcasm": 3,
+ "since_sarcasm": 4,
  "day": "2026-10-16",
  "morning_done": true,
  "goodnight_done": false,
@@ -78,7 +78,8 @@
   "1dfa62e52b19": "2026-10-16T09:15:18.490132+09:00",
   "8b803743ac71": "2026-10-16T09:45:17.727827+09:00",
   "0ceccf4cd006": "2026-10-16T10:00:38.186260+09:00",
-  "e53d89b49155": "2026-10-16T10:15:18.108405+09:00"
+  "e53d89b49155": "2026-10-16T10:15:18.108405+09:00",
+  "10d815b27af7": "2026-10-16T10:23:59.270488+09:00"
  },
  "commented_titles": [
   {
@@ -220,12 +221,16 @@
   {
    "title": "ポータブルゲーミングPCをSwitchのようなゲーム機として使うには？「ROG XBOX Ally X20」で試してみた",
    "at": "2026-10-16T10:15:18.108405+09:00"
+  },
+  {
+   "title": "UK HRT shortages: which products are affected and what to do about it",
+   "at": "2026-10-16T10:23:59.270488+09:00"
   }
  ],
- "last_quake_check": "2026-10-16T10:15:18.108405+09:00",
- "since_english": 4,
+ "last_quake_check": "2026-10-16T10:23:59.270488+09:00",
+ "since_english": 1,
  "next_english": 5,
- "last_tick": "2026-10-16T10:15:18.108405+09:00",
+ "last_tick": "2026-10-16T10:23:59.270488+09:00",
  "french_day": "2026-10-16",
  "french_done": false,
  "french_after": 1120
