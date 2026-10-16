@@ -6011,5 +6011,25 @@
   "lang": "ja",
   "topic": null,
   "links": []
+ },
+ {
+  "at": "2026-10-16T14:45+09:00",
+  "text": "M9.9は肝を冷やす数字だが、実際は震度1。機械の早とちりで済んで何よりだ。",
+  "expression": "微笑",
+  "scene": "regular",
+  "lang": "ja",
+  "topic": "カムチャツカ半島付近でM6.9の地震 気象庁は緊急地震速報を取り消し 実際は震度1",
+  "links": [
+   {
+    "source": "ウェザーニュース",
+    "title": "カムチャツカ半島付近でM6.9の地震 気象庁は緊急地震速報を取り消し 実際は震度1",
+    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5BMVl0dkhyVGVuaER3SlMwcEd0ekdMRFFfV1BNRVpEQXZkbmpfQmljRzBRNTUxS3Zna3pxYWsycUI1bFpXUURZeWNSMzBNc3VLRkphQQ?oc=5"
+   },
+   {
+    "source": "NHK",
+    "title": "【速報中】気象庁 緊急地震速報を取り消し“M9.9と過大推定”",
+    "url": "https://news.web.nhk/newsweb/na/nd-20261016de60368"
+   }
+  ]
  }
 ]
