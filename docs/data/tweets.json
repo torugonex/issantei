@@ -1,20 +1,5 @@
 [
  {
-  "at": "2026-10-09T19:15+09:00",
-  "text": "珍味は国境を越えても、病までは連れてこぬがよろしい。検疫とは地味な番人なり。",
-  "expression": "思案",
-  "scene": "regular",
-  "lang": "ja",
-  "topic": "輸入禁止の肉製品販売した店に動物検疫所が初の立ち入り検査",
-  "links": [
-   {
-    "source": "NHK",
-    "title": "輸入禁止の肉製品販売した店に動物検疫所が初の立ち入り検査",
-    "url": "https://news.web.nhk/newsweb/na/nd-20261009de57425"
-   }
-  ]
- },
- {
   "at": "2026-10-09T19:45+09:00",
   "text": "Three lives lost at an airport, of all places. I lower my glass, and say nothing clever.",
   "expression": "憂い",
@@ -6164,6 +6149,26 @@
     "source": "ナタリー",
     "title": "「めおと日和」芳根京子×本田響矢がanan表紙に、時代を超えて巡り合う2人を体現",
     "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1nRXhZaGlWY3NDYkMwZWNGX2hGZmdiMEs3d2pweGNZVXBCczdhYWdvcFRKQnZqemJFWi0ybWhlR2thOEVFX1FGMU9nUQ?oc=5"
+   }
+  ]
+ },
+ {
+  "at": "2026-10-17T08:15+09:00",
+  "text": "警報も、慌てすぎれば狼少年になる。備えの難しさは、機械も人も変わらぬか。",
+  "expression": "思案",
+  "scene": "regular",
+  "lang": "ja",
+  "topic": "緊急地震速報の過大推定 過去の対策が機能せず 気象庁は調査",
+  "links": [
+   {
+    "source": "NHKニュース",
+    "title": "緊急地震速報の過大推定 過去の対策が機能せず 気象庁は調査",
+    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9TUE9CSkRTakwzZ3ltSDFBSnhfQWhhM0dvSDNaZ0pxa1ZfTW9YRS1id05YX0VCSUhXV1Y5TFJvVVd3cHdhQjFYcjFaV1MtNkdUd3pRYjJFcEJidXVXNzFF?oc=5"
+   },
+   {
+    "source": "NHK",
+    "title": "緊急地震速報の過大推定 過去の対策が機能せず 気象庁は調査",
+    "url": "https://news.web.nhk/newsweb/na/nd-20261017de60797"
    }
   ]
  }
