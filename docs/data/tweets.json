@@ -1,25 +1,5 @@
 [
  {
-  "at": "2026-10-09T13:31+09:00",
-  "text": "司会の顔ぶれが揃うたそうな。今年の大晦日も、炬燵で眺めるとしよう。",
-  "expression": "微笑",
-  "scene": "regular",
-  "lang": "ja",
-  "topic": "「紅白歌合戦」、芦田愛菜さんと堺雅人さんが初めて司会に…鈴木奈穂子アナは昨年に続き３回目",
-  "links": [
-   {
-    "source": "読売新聞",
-    "title": "「紅白歌合戦」、芦田愛菜さんと堺雅人さんが初めて司会に…鈴木奈穂子アナは昨年に続き３回目",
-    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5wWlpQcVN6Sk42Q2p6RjNGRkZoWlpLMVEzOVVucEtrNXp0MnNGRmhxYlZ1aXp2T2V3TW9FaDBmdmFBeXVxajVINmRPWTBpTWpjcEZNZ1paWTVydHNETU1zSEpxcmRxZXJu?oc=5"
-   },
-   {
-    "source": "NHK",
-    "title": "紅白歌合戦 司会に芦田愛菜さん 堺雅人さん 二宮和也さん",
-    "url": "https://news.web.nhk/newsweb/na/nd-20261008de56895"
-   }
-  ]
- },
- {
   "at": "2026-10-09T13:45+09:00",
   "text": "秋桜が風に身をまかせておる。紅茶を淹れて、午後は縁側で過ごそうか。",
   "expression": "微笑",
@@ -6159,5 +6139,20 @@
   "lang": "en",
   "topic": null,
   "links": []
+ },
+ {
+  "at": "2026-10-16T21:15+09:00",
+  "text": "一生懸命、とは良い言葉だ。三打差の四位、週末が楽しみだね。",
+  "expression": "微笑",
+  "scene": "bar",
+  "lang": "ja",
+  "topic": "「一生懸命プレーしました」原英莉花3打差4位で週末へ 竹田麗央が並ぶ",
+  "links": [
+   {
+    "source": "GDOゴルフニュース",
+    "title": "「一生懸命プレーしました」原英莉花3打差4位で週末へ 竹田麗央が並ぶ",
+    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1fNjBsWFhqX3ZFTHdFYWFZT2JBV0dLTFZWSzJVQmtXcGV1TVlmT3dpa2QyMEhOUkxHYU9KcTJmZTB4aVA5d1hmaG9RSlNGMjJmcjlaRGZ6MThfdTByVWxJeHdwb29PaHN1dGVtUFlhYzR2YWvSAYcBQVVfeXFMTVZjbVl1SXRfTWF5NjktcThhTkhtSnJTVjlqeEV2VHUzRkE0dHZsTWdlNGFCdV9kLTc0NlE4MmN1enBQQ20yZ2ItTlFrUU16WTd3TDVRX3ZMMlZhRFZFZV9QMzVWN0F5TlBVUVRhaS1LWGRXR0FzaTN4WWtVQV9MdEd6ZWJFQ1dn?oc=5"
+   }
+  ]
  }
 ]
