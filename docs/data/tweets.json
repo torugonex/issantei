@@ -1,14 +1,5 @@
 [
  {
-  "at": "2026-10-09T18:45+09:00",
-  "text": "金木犀の香が、路地の角でふと袖に触れた。秋は黙って来るものなり。",
-  "expression": "思案",
-  "scene": "life",
-  "lang": "ja",
-  "topic": null,
-  "links": []
- },
- {
   "at": "2026-10-09T19:15+09:00",
   "text": "珍味は国境を越えても、病までは連れてこぬがよろしい。検疫とは地味な番人なり。",
   "expression": "思案",
@@ -6158,6 +6149,21 @@
     "source": "BBC",
     "title": "They fled Russia, but the West sent them back",
     "url": "https://www.bbc.co.uk/news/articles/c6x23qpzjklwo?at_medium=RSS&at_campaign=rss"
+   }
+  ]
+ },
+ {
+  "at": "2026-10-17T08:00+09:00",
+  "text": "時を超えて巡り合う二人。縁というものを、人はいつの世も信じたがる。",
+  "expression": "微笑",
+  "scene": "regular",
+  "lang": "ja",
+  "topic": "「めおと日和」芳根京子×本田響矢がanan表紙に、時代を超えて巡り合う2人を体現",
+  "links": [
+   {
+    "source": "ナタリー",
+    "title": "「めおと日和」芳根京子×本田響矢がanan表紙に、時代を超えて巡り合う2人を体現",
+    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1nRXhZaGlWY3NDYkMwZWNGX2hGZmdiMEs3d2pweGNZVXBCczdhYWdvcFRKQnZqemJFWi0ybWhlR2thOEVFX1FGMU9nUQ?oc=5"
    }
   ]
  }
