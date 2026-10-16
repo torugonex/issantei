@@ -1,25 +1,5 @@
 [
  {
-  "at": "2026-10-09T12:23+09:00",
-  "text": "A consulate that stays open, though most diplomats are asked to leave. Quite the British compromise. Kinmokusei outside, meanwhile, minds its own business.",
-  "expression": "片眉を上げる",
-  "scene": "regular",
-  "lang": "en",
-  "topic": "Most UK diplomats to leave East Jerusalem consulate, Israel says, as Miliband says 'vital services' to remain",
-  "links": [
-   {
-    "source": "BBC",
-    "title": "Most UK diplomats to leave East Jerusalem consulate, Israel says, as Miliband says 'vital services' to remain",
-    "url": "https://www.bbc.co.uk/news/articles/cw33xd6vegnno?at_medium=RSS&at_campaign=rss"
-   },
-   {
-    "source": "Guardian",
-    "title": "British consulate in East Jerusalem will stay open as UK mission, says Ed Miliband",
-    "url": "https://www.theguardian.com/politics/2026/oct/08/uk-consulate-east-jerusalem-remain-open-uk-mission-ed-miliband"
-   }
-  ]
- },
- {
   "at": "2026-10-09T12:45+09:00",
   "text": "昼の陽ざしがやわらかい。金木犀の下で、本を一章だけ読むとしよう。",
   "expression": "微笑",
@@ -6157,6 +6137,26 @@
     "source": "NHK",
     "title": "トランプ大統領“死刑執行のライブ配信は中止”",
     "url": "https://news.web.nhk/newsweb/na/nd-20261016de60166"
+   }
+  ]
+ },
+ {
+  "at": "2026-10-16T20:30+09:00",
+  "text": "意識が戻られたとのこと、何よりです。復帰を願う家族の言葉に、こちらまで胸をなでおろしました。",
+  "expression": "微笑",
+  "scene": "regular",
+  "lang": "ja",
+  "topic": "【速報・プロ野球】バット直撃の川上拓斗審判（小千谷市出身）が意識回復、ＮＰＢが明らかに",
+  "links": [
+   {
+    "source": "新潟日報",
+    "title": "【速報・プロ野球】バット直撃の川上拓斗審判（小千谷市出身）が意識回復、ＮＰＢが明らかに",
+    "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9XaWl2ZWt3T1Z0c3JVVzZrY00ydnlFTnp4dzBLTnFwRWFhTXRLMVNDZFJCOHRZTnktaDhTOThiaVZIZUFYS19BYTYyRFd0ZGRmbmlkNlRQUFlzeEhqakE?oc=5"
+   },
+   {
+    "source": "NHK",
+    "title": "頭部にバット直撃の川上審判員が意識回復 家族「復帰めざす」",
+    "url": "https://news.web.nhk/newsweb/na/nd-20261016de60624"
    }
   ]
  }
