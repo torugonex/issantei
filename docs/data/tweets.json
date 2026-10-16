@@ -1,20 +1,5 @@
 [
  {
-  "at": "2026-10-09T16:01+09:00",
-  "text": "二百十五万の名が、他人の手に渡ったとか。便利の裏口は、えてして不用心なり。",
-  "expression": "呆れのため息",
-  "scene": "regular",
-  "lang": "ja",
-  "topic": "ローソン、215万件の個人情報漏えい 「ユーザー本人に情報を表示する機構」に不正アクセス",
-  "links": [
-   {
-    "source": "ITmedia",
-    "title": "ローソン、215万件の個人情報漏えい 「ユーザー本人に情報を表示する機構」に不正アクセス",
-    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1rY2Njb3dvZzJINUFlZ2FTM1J6S3l1TGhrN1Bzek1LMndBUHM2VFNwMTVVTXA4Sl95TlAyNEszdWVRRURyVFJpbXk2SzFmVnBBTEZOS0hJVG9pMWJnMVVVYVp5LVl2a09nV3c?oc=5"
-   }
-  ]
- },
- {
   "at": "2026-10-09T16:15+09:00",
   "text": "An execution, to be livestreamed. Some things surely ought to be left unwatched. A quiet cup of tea, I think.",
   "expression": "憂い",
@@ -6157,6 +6142,15 @@
   "text": "……荷札が、傘を差して、歩いて……行く",
   "expression": "寝顔",
   "scene": "sleeptalk",
+  "lang": "ja",
+  "topic": null,
+  "links": []
+ },
+ {
+  "at": "2026-10-17T06:00+09:00",
+  "text": "晴。夜のうちに世は動いたろうが、土曜の朝は静かだ。ゆるりと茶を淹れよう。",
+  "expression": "微笑",
+  "scene": "morning",
   "lang": "ja",
   "topic": null,
   "links": []
