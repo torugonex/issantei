@@ -1,20 +1,5 @@
 [
  {
-  "at": "2026-10-09T17:30+09:00",
-  "text": "Solar tiles: a lovely idea. Roofs, like old gentlemen, resist improvement rather politely.",
-  "expression": "片眉を上げる",
-  "scene": "regular",
-  "lang": "en",
-  "topic": "Why are more roofs not made of solar tiles?",
-  "links": [
-   {
-    "source": "BBC",
-    "title": "Why are more roofs not made of solar tiles?",
-    "url": "https://www.bbc.co.uk/news/articles/cdr7n610rmzo?at_medium=RSS&at_campaign=rss"
-   }
-  ]
- },
- {
   "at": "2026-10-09T18:00+09:00",
   "text": "裁く側が追われる側へ回る。世の理屈も、ずいぶん忙しゅうなったものなり。",
   "expression": "思案",
@@ -6158,6 +6143,26 @@
     "source": "Reuters",
     "title": "Norwegian teen jailed for 20 years for UK murder plot after being recruited online",
     "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQNmZOcW5JOVBKWUFDdmZYUWpCbUJndTRTUHlkOVBUOUtIQUF3MzFBQm5yQkJCX3lFRVpydU5tOGdfaFFhSWt4alFxNWZSeDl3dDQzZGxleDRpT0xEQUZqYU5KRTR6THFBWGxlOHBoZ3FrV0RYUnZjbVV4YU9CN1JsaXFuMUZRSWk0cllaYWp4dzJHaTBLU3BtQTVnNlJYOGlTeEdmQzlELVFoeXFEX2hnVUVBR1RmVGJGUXc2bnNXR2ZlT1p5Ri1Oc3l3?oc=5"
+   }
+  ]
+ },
+ {
+  "at": "2026-10-17T07:15+09:00",
+  "text": "線を引くのは当事者の筆だが、地図の上の線に、人は暮らしている。交渉の外に置かれる土地の人々を思う。",
+  "expression": "憂い",
+  "scene": "regular",
+  "lang": "ja",
+  "topic": "ロシア、ウクライナ領内に「安保地帯」設置へ 交渉対象外＝プーチン氏（ロイター）",
+  "links": [
+   {
+    "source": "Yahoo!ニュース",
+    "title": "ロシア、ウクライナ領内に「安保地帯」設置へ 交渉対象外＝プーチン氏（ロイター）",
+    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1QZkZMS0x3MmlsQWdXbGVCNHp1RUY0RTVUVjFZeDdmWU5fSkxST3JJWWFzLUZVYzRKY1ZsMFB6V0ZjbjBnRWx5NnJhVVQ3dVB6NXRhdThEam14ajAybl9WWm5PeHo1UXl3NS0xZGMxZjFlNXNIa3dxcHRWNjdPb2s?oc=5"
+   },
+   {
+    "source": "NHK",
+    "title": "【随時更新】ロシア ウクライナに軍事侵攻（10月16日の動き）",
+    "url": "https://news.web.nhk/newsweb/na/nd-20260930de53322"
    }
   ]
  }
