@@ -1,9 +1,9 @@
 {
  "mood": {
-  "valence": -0.3,
-  "arousal": -0.153
+  "valence": -0.35,
+  "arousal": -0.14
  },
- "since_sarcasm": 5,
+ "since_sarcasm": 6,
  "day": "2026-10-17",
  "morning_done": true,
  "goodnight_done": false,
@@ -81,13 +81,10 @@
   "6348da391b88": "2026-10-17T06:58:19.829366+09:00",
   "fa6afbbb80ea": "2026-10-17T07:00:39.536412+09:00",
   "076256a63ac8": "2026-10-17T07:15:18.009806+09:00",
-  "c6429d3eb779": "2026-10-17T07:30:28.672550+09:00"
+  "c6429d3eb779": "2026-10-17T07:30:28.672550+09:00",
+  "99ac533cd06a": "2026-10-17T07:45:17.520131+09:00"
  },
  "commented_titles": [
-  {
-   "title": "ウクライナがロシア製油所攻撃を再開へ ゼレンスキー氏が英紙に表明、トランプ氏に不満（CNN.co.jp）",
-   "at": "2026-10-16T07:45:16.764840+09:00"
-  },
   {
    "title": "Seven crew missing after drone attack leaves tanker ablaze off Romania's coast",
    "at": "2026-10-16T08:13:05.769959+09:00"
@@ -231,12 +228,16 @@
   {
    "title": "日銀植田総裁 今後も利上げ進める 2％の物価安定がより重要",
    "at": "2026-10-17T07:30:28.672550+09:00"
+  },
+  {
+   "title": "They fled Russia, but the West sent them back",
+   "at": "2026-10-17T07:45:17.520131+09:00"
   }
  ],
- "last_quake_check": "2026-10-17T07:30:28.672550+09:00",
- "since_english": 3,
- "next_english": 4,
- "last_tick": "2026-10-17T07:30:28.672550+09:00",
+ "last_quake_check": "2026-10-17T07:45:17.520131+09:00",
+ "since_english": 1,
+ "next_english": 5,
+ "last_tick": "2026-10-17T07:45:17.520131+09:00",
  "french_day": "2026-10-17",
  "french_done": false,
  "french_after": 607

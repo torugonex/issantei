@@ -1,25 +1,5 @@
 [
  {
-  "at": "2026-10-09T18:30+09:00",
-  "text": "信用を預かる商いが、その信用を損のうたとか。重い三月なり。",
-  "expression": "思案",
-  "scene": "regular",
-  "lang": "ja",
-  "topic": "金融庁、プルデンシャル生命に業務停止命令 金銭詐取問題で3カ月",
-  "links": [
-   {
-    "source": "日本経済新聞",
-    "title": "金融庁、プルデンシャル生命に業務停止命令 金銭詐取問題で3カ月",
-    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE40MllHNU1xb1FXSEViWGZMZmVNbkVUMlVBSl9pM3VtUkI5cnZLUmFYdkRzbVJIdGJKNDVpdlV0S2NyeS1VbjFBZ0FSS3Izcmh4aWl0eGxCQ29yN2t0VFFrYXBCejNuY3VFVGhWSg?oc=5"
-   },
-   {
-    "source": "NHK",
-    "title": "金融庁がプルデンシャル生命に一部業務停止命令",
-    "url": "https://news.web.nhk/newsweb/na/nd-20261009de57195"
-   }
-  ]
- },
- {
   "at": "2026-10-09T18:45+09:00",
   "text": "金木犀の香が、路地の角でふと袖に触れた。秋は黙って来るものなり。",
   "expression": "思案",
@@ -6163,6 +6143,21 @@
     "source": "NHK",
     "title": "日銀植田総裁“物価2％超の上昇容認せず” 今後も利上げ進める",
     "url": "https://news.web.nhk/newsweb/na/nd-20261017de60794"
+   }
+  ]
+ },
+ {
+  "at": "2026-10-17T07:45+09:00",
+  "text": "They escaped one tyranny, only to be returned by the next. Rather poor form.",
+  "expression": "呆れのため息",
+  "scene": "regular",
+  "lang": "en",
+  "topic": "They fled Russia, but the West sent them back",
+  "links": [
+   {
+    "source": "BBC",
+    "title": "They fled Russia, but the West sent them back",
+    "url": "https://www.bbc.co.uk/news/articles/c6x23qpzjklwo?at_medium=RSS&at_campaign=rss"
    }
   ]
  }
