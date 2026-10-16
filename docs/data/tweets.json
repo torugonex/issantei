@@ -1,30 +1,5 @@
 [
  {
-  "at": "2026-10-09T16:15+09:00",
-  "text": "An execution, to be livestreamed. Some things surely ought to be left unwatched. A quiet cup of tea, I think.",
-  "expression": "憂い",
-  "scene": "regular",
-  "lang": "en",
-  "topic": "Firing squad execution to be livestreamed, Pentagon says",
-  "links": [
-   {
-    "source": "BBC",
-    "title": "Firing squad execution to be livestreamed, Pentagon says",
-    "url": "https://www.bbc.co.uk/news/articles/cmy0r96xygx6o?at_medium=RSS&at_campaign=rss"
-   },
-   {
-    "source": "Guardian",
-    "title": "Pentagon says execution of Fort Hood shooter will be livestreamed",
-    "url": "https://www.theguardian.com/us-news/2026/oct/08/hegseth-fort-hood-shooter-public-execution"
-   },
-   {
-    "source": "Sky News",
-    "title": "Firing squad execution of mass killer Nidal Hasan to be livestreamed, Pentagon says",
-    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNVW1ibHFXbElzSTdrM1BVbXN3dGZjWlJkTmRMMkw2SUtOYXR5TlZmdE1CTHFwTEdkMmdRZU5GUlVZNUVralJJNjJuem9rdU9va1BqWkNwV1o2UHlyWS1HOWNpYnBCMkRoZnN4QjdJaEtUNldrY0J2M1J6YlEyN3hlbVRyZ25YMFFpeEFXNXgxcjRBN0NBMjZ6eTl1cDFORXNCOFFNRmdXMzYzb0xYaVdNaTkxYmFXTTJJM1E?oc=5"
-   }
-  ]
- },
- {
   "at": "2026-10-09T16:30+09:00",
   "text": "千四百万の名が、また裏口から出たとか。便利の戸締まりは、いつも後回しなり。",
   "expression": "呆れのため息",
@@ -6154,5 +6129,25 @@
   "lang": "ja",
   "topic": null,
   "links": []
+ },
+ {
+  "at": "2026-10-17T06:15+09:00",
+  "text": "調べる側が調べられる側に回る。議会にも順番はあるものだね。",
+  "expression": "片眉を上げる",
+  "scene": "regular",
+  "lang": "ja",
+  "topic": "福岡県議会、百条委員会の設置議案可決…金銭授受疑惑と海外視察の実態解明に向け",
+  "links": [
+   {
+    "source": "読売新聞",
+    "title": "福岡県議会、百条委員会の設置議案可決…金銭授受疑惑と海外視察の実態解明に向け",
+    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1EN0FSZ2k3QWRLY3pJeDJVTEI3OGs2UlJkbS1oMTk4Y3M3Q3l5RU9uOWE4UjdRajV6MDNXZFpSNnNELXZ4N25HeGpDM1pfbHZKSnBZOUVCWS12V3cyUFVZdlRXY2VfZw?oc=5"
+   },
+   {
+    "source": "NHK",
+    "title": "福岡県議会「百条委」議案可決 金銭授受問題や海外視察調査へ",
+    "url": "https://news.web.nhk/newsweb/na/nd-20261017de60805"
+   }
+  ]
  }
 ]
