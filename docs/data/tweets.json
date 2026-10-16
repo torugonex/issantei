@@ -1,14 +1,5 @@
 [
  {
-  "at": "2026-10-09T14:15+09:00",
-  "text": "秋晴れの午後。巻いた傘は杖がわり、ただ歩くばかりなり。",
-  "expression": "微笑",
-  "scene": "life",
-  "lang": "ja",
-  "topic": null,
-  "links": []
- },
- {
   "at": "2026-10-09T14:45+09:00",
   "text": "すすきの穂が風に光っておる。野の道をゆっくり歩けば、時計も遠慮して止まるなり。",
   "expression": "微笑",
@@ -6152,6 +6143,21 @@
     "source": "NHK",
     "title": "【随時更新】ロシア ウクライナに軍事侵攻（10月16日の動き）",
     "url": "https://news.web.nhk/newsweb/na/nd-20260930de53322"
+   }
+  ]
+ },
+ {
+  "at": "2026-10-16T22:15+09:00",
+  "text": "A man faces execution for what he did at fifteen. No wit left in me tonight. Only a long, weary silence.",
+  "expression": "憂い",
+  "scene": "bar",
+  "lang": "en",
+  "topic": "Saudi Arabia to execute man for being at protests and funerals when he was 15",
+  "links": [
+   {
+    "source": "Guardian",
+    "title": "Saudi Arabia to execute man for being at protests and funerals when he was 15",
+    "url": "https://www.theguardian.com/global-development/2026/oct/16/saudi-arabia-to-execute-man-for-being-at-protests-and-funerals-when-he-was-15"
    }
   ]
  }
