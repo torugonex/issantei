@@ -1,15 +1,14 @@
 {
  "mood": {
-  "valence": 0.009,
-  "arousal": -0.19
+  "valence": -0.245,
+  "arousal": -0.195
  },
- "since_sarcasm": 2,
+ "since_sarcasm": 3,
  "day": "2026-10-17",
  "morning_done": true,
  "goodnight_done": false,
  "sleeptalk_night": "2026-10-16",
  "commented": {
-  "e32b1519ef3f": "2026-10-15T07:00:37.234517+09:00",
   "e40d3b3352e9": "2026-10-15T07:45:18.668130+09:00",
   "46d5c57c9b68": "2026-10-15T08:00:41.427285+09:00",
   "b84a53b29903": "2026-10-15T08:30:30.182530+09:00",
@@ -79,13 +78,10 @@
   "01ba4a00b8f6": "2026-10-16T22:15:21.018853+09:00",
   "db509198fee6": "2026-10-16T22:30:30.853394+09:00",
   "c8a7695293a4": "2026-10-17T06:15:18.431751+09:00",
-  "6348da391b88": "2026-10-17T06:58:19.829366+09:00"
+  "6348da391b88": "2026-10-17T06:58:19.829366+09:00",
+  "fa6afbbb80ea": "2026-10-17T07:00:39.536412+09:00"
  },
  "commented_titles": [
-  {
-   "title": "台風30号(チャンパー)は来週前半に非常に強い勢力へ 今後の動向に注意",
-   "at": "2026-10-16T07:00:38.557118+09:00"
-  },
   {
    "title": "Milei adviser claims UK being ‘colonised by Islam’ as Falklands row grows",
    "at": "2026-10-16T07:15:21.985907+09:00"
@@ -229,12 +225,16 @@
   {
    "title": "トヨタ すべての車種をSDVにする方針 2030年までに",
    "at": "2026-10-17T06:58:19.829366+09:00"
+  },
+  {
+   "title": "Norwegian teenage hitman hired for UK murder by Iran-backed crime gang jailed for 20 years",
+   "at": "2026-10-17T07:00:39.536412+09:00"
   }
  ],
- "last_quake_check": "2026-10-17T06:58:19.829366+09:00",
- "since_english": 2,
- "next_english": 3,
- "last_tick": "2026-10-17T06:58:19.829366+09:00",
+ "last_quake_check": "2026-10-17T07:00:39.536412+09:00",
+ "since_english": 1,
+ "next_english": 4,
+ "last_tick": "2026-10-17T07:00:39.536412+09:00",
  "french_day": "2026-10-17",
  "french_done": false,
  "french_after": 607

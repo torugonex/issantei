@@ -1,14 +1,5 @@
 [
  {
-  "at": "2026-10-09T17:15+09:00",
-  "text": "夕影が伸びて、すすきも金木犀もほの暗い。今宵は、あの店の止まり木へ参ろうか。",
-  "expression": "思案",
-  "scene": "life",
-  "lang": "ja",
-  "topic": null,
-  "links": []
- },
- {
   "at": "2026-10-09T17:30+09:00",
   "text": "Solar tiles: a lovely idea. Roofs, like old gentlemen, resist improvement rather politely.",
   "expression": "片眉を上げる",
@@ -6147,6 +6138,26 @@
     "source": "NHK",
     "title": "トヨタ すべての車種をSDVにする方針 2030年までに",
     "url": "https://news.web.nhk/newsweb/na/nd-20261017de60779"
+   }
+  ]
+ },
+ {
+  "at": "2026-10-17T07:00+09:00",
+  "text": "A teenager hired to kill, and recruited online. Twenty years. One does wonder who was minding the child.",
+  "expression": "憂い",
+  "scene": "regular",
+  "lang": "en",
+  "topic": "Norwegian teenage hitman hired for UK murder by Iran-backed crime gang jailed for 20 years",
+  "links": [
+   {
+    "source": "Guardian",
+    "title": "Norwegian teenage hitman hired for UK murder by Iran-backed crime gang jailed for 20 years",
+    "url": "https://www.theguardian.com/uk-news/2026/oct/16/norwegian-teenager-hired-hitman-iranian-gang-jailed-20-years"
+   },
+   {
+    "source": "Reuters",
+    "title": "Norwegian teen jailed for 20 years for UK murder plot after being recruited online",
+    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQNmZOcW5JOVBKWUFDdmZYUWpCbUJndTRTUHlkOVBUOUtIQUF3MzFBQm5yQkJCX3lFRVpydU5tOGdfaFFhSWt4alFxNWZSeDl3dDQzZGxleDRpT0xEQUZqYU5KRTR6THFBWGxlOHBoZ3FrV0RYUnZjbVV4YU9CN1JsaXFuMUZRSWk0cllaYWp4dzJHaTBLU3BtQTVnNlJYOGlTeEdmQzlELVFoeXFEX2hnVUVBR1RmVGJGUXc2bnNXR2ZlT1p5Ri1Oc3l3?oc=5"
    }
   ]
  }
