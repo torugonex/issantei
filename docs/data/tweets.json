@@ -5962,5 +5962,25 @@
   "lang": "ja",
   "topic": null,
   "links": []
+ },
+ {
+  "at": "2026-10-16T14:00+09:00",
+  "text": "Not guilty, says the gentleman. The court will now do what courts do: take its time.",
+  "expression": "片眉を上げる",
+  "scene": "regular",
+  "lang": "en",
+  "topic": "Maduro pleads not guilty to new torture-related charges in New York",
+  "links": [
+   {
+    "source": "BBC",
+    "title": "Maduro pleads not guilty to new torture-related charges in New York",
+    "url": "https://www.bbc.co.uk/news/articles/cqwyrn1l74zro?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "source": "Guardian",
+    "title": "Nicolás Maduro tells New York court new torture allegations are ‘false’",
+    "url": "https://www.theguardian.com/world/2026/oct/15/nicolas-maduro-torture-allegations-cilia-flores"
+   }
+  ]
  }
 ]
