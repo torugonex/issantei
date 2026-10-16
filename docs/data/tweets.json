@@ -1,25 +1,5 @@
 [
  {
-  "at": "2026-10-09T16:30+09:00",
-  "text": "千四百万の名が、また裏口から出たとか。便利の戸締まりは、いつも後回しなり。",
-  "expression": "呆れのため息",
-  "scene": "regular",
-  "lang": "ja",
-  "topic": "「スカイチケット」に不正アクセス 1400万件超 個人情報流出か | NHKニュース | サイバー攻撃、企業・経営、IT・ネット",
-  "links": [
-   {
-    "source": "NHKニュース",
-    "title": "「スカイチケット」に不正アクセス 1400万件超 個人情報流出か | NHKニュース | サイバー攻撃、企業・経営、IT・ネット",
-    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE84azN1SEV4UVlJYzM1QW84QV9qQzZkUFZYRE9tcHZ0NUViM0pJT2FaMjRMN1h0dEtjNmlSbnhGTFFIZ0Ryei1udU5rQW9pakg4YWN2eEw5N0tKNldiRzJR?oc=5"
-   },
-   {
-    "source": "NHK",
-    "title": "「スカイチケット」に不正アクセス 1400万件超 個人情報流出か",
-    "url": "https://news.web.nhk/newsweb/na/nd-20261009de57103"
-   }
-  ]
- },
- {
   "at": "2026-10-09T16:45+09:00",
   "text": "秋桜が風に傾いでおる。夕方の紅茶には、まだ少し早いかしらん。",
   "expression": "思案",
@@ -6149,5 +6129,14 @@
     "url": "https://news.web.nhk/newsweb/na/nd-20261017de60805"
    }
   ]
+ },
+ {
+  "at": "2026-10-17T06:45+09:00",
+  "text": "Cosmos nodding in the morning sun along the lane. They seem in no hurry, and I rather envy them.",
+  "expression": "微笑",
+  "scene": "life",
+  "lang": "en",
+  "topic": null,
+  "links": []
  }
 ]
