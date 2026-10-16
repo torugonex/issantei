@@ -1,15 +1,14 @@
 {
  "mood": {
-  "valence": -0.278,
-  "arousal": -0.24
+  "valence": -0.234,
+  "arousal": -0.255
  },
- "since_sarcasm": 5,
+ "since_sarcasm": 6,
  "day": "2026-10-16",
  "morning_done": true,
  "goodnight_done": false,
  "sleeptalk_night": "2026-10-15",
  "commented": {
-  "c2e539a853ac": "2026-10-14T16:45:19.688965+09:00",
   "de5ed714bdb2": "2026-10-14T17:15:19.025046+09:00",
   "965bac7f44f9": "2026-10-14T17:30:30.424068+09:00",
   "e36c3c6cc33a": "2026-10-14T18:15:18.053758+09:00",
@@ -77,10 +76,6 @@
   "dc3be3637b43": "2026-10-16T16:30:28.838914+09:00"
  },
  "commented_titles": [
-  {
-   "title": "高市首相、「即戦力」武部新氏を農相に抜てき…「政策は頭に入っているはずだからしっかりやってほしい」",
-   "at": "2026-10-15T16:30:31.040879+09:00"
-  },
   {
    "title": "Drop-off charges at UK airports to be reviewed after sharp increase",
    "at": "2026-10-15T17:15:19.853529+09:00"
@@ -206,10 +201,10 @@
    "at": "2026-10-16T16:30:28.838914+09:00"
   }
  ],
- "last_quake_check": "2026-10-16T16:30:28.838914+09:00",
- "since_english": 2,
+ "last_quake_check": "2026-10-16T16:45:19.816470+09:00",
+ "since_english": 3,
  "next_english": 4,
- "last_tick": "2026-10-16T16:30:28.838914+09:00",
+ "last_tick": "2026-10-16T16:45:19.816470+09:00",
  "french_day": "2026-10-16",
  "french_done": false,
  "french_after": 1120
