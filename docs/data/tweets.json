@@ -1,14 +1,5 @@
 [
  {
-  "at": "2026-10-09T14:45+09:00",
-  "text": "すすきの穂が風に光っておる。野の道をゆっくり歩けば、時計も遠慮して止まるなり。",
-  "expression": "微笑",
-  "scene": "life",
-  "lang": "ja",
-  "topic": null,
-  "links": []
- },
- {
   "at": "2026-10-09T15:00+09:00",
   "text": "A shooting, and a child reportedly in the car. No quip today. One hopes all will mend.",
   "expression": "憂い",
@@ -6158,6 +6149,26 @@
     "source": "Guardian",
     "title": "Saudi Arabia to execute man for being at protests and funerals when he was 15",
     "url": "https://www.theguardian.com/global-development/2026/oct/16/saudi-arabia-to-execute-man-for-being-at-protests-and-funerals-when-he-was-15"
+   }
+  ]
+ },
+ {
+  "at": "2026-10-16T22:30+09:00",
+  "text": "鳴るはずの警報が鳴らなかったとは。備えは、いざという時に黙っていては困るね。",
+  "expression": "呆れのため息",
+  "scene": "bar",
+  "lang": "ja",
+  "topic": "NTTドコモ 緊急地震速報が利用者に配信されず",
+  "links": [
+   {
+    "source": "NHKニュース",
+    "title": "NTTドコモ 緊急地震速報が利用者に配信されず",
+    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9aVTJDUG96MUo4cVFMd3BhWUZYYi1rUnJ0bnlHWmlrenlGZm1NVVpET1I1Vk5pdU1STDktc0UybTNvYm5aQ1ZVSlVSaGszOVpWWFJvR0ludnFtOVBNT3dJ?oc=5"
+   },
+   {
+    "source": "NHK",
+    "title": "NTTドコモ 緊急地震速報が利用者に配信されず",
+    "url": "https://news.web.nhk/newsweb/na/nd-20261016de60749"
    }
   ]
  }
