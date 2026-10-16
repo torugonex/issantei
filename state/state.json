@@ -1,9 +1,9 @@
 {
  "mood": {
-  "valence": -0.346,
-  "arousal": -0.1
+  "valence": -0.334,
+  "arousal": -0.125
  },
- "since_sarcasm": 1,
+ "since_sarcasm": 2,
  "day": "2026-10-16",
  "morning_done": true,
  "goodnight_done": false,
@@ -75,17 +75,10 @@
   "136973ca37ce": "2026-10-16T18:00:38.727331+09:00",
   "e307d31c3cdd": "2026-10-16T18:15:18.495113+09:00",
   "c25c747caef9": "2026-10-16T18:30:29.877486+09:00",
-  "cba0bf68d6d1": "2026-10-16T19:00:39.173830+09:00"
+  "cba0bf68d6d1": "2026-10-16T19:00:39.173830+09:00",
+  "bfa8d3c4c529": "2026-10-16T19:30:29.896627+09:00"
  },
  "commented_titles": [
-  {
-   "title": "Musk says US government may be behind slowdown of Ukraine drone speeds",
-   "at": "2026-10-15T19:15:20.085316+09:00"
-  },
-  {
-   "title": "パナソニック、ドラム式洗濯乾燥機６４万台に不具合 発火の恐れ、無償部品交換",
-   "at": "2026-10-15T19:30:29.471349+09:00"
-  },
   {
    "title": "声優の野沢雅子さん “声の生成AI利用”について語る",
    "at": "2026-10-15T20:00:40.344231+09:00"
@@ -213,12 +206,16 @@
   {
    "title": "« Digger », un gouffre financier pour le studio Warner Bros et un échec humiliant pour Tom Cruise",
    "at": "2026-10-16T19:00:39.173830+09:00"
+  },
+  {
+   "title": "大谷翔平はネクストバッターズサークルでPS敗退迎える グラウンドを見つめ静かに去る （2026年10月15日掲載）",
+   "at": "2026-10-16T19:30:29.896627+09:00"
   }
  ],
- "last_quake_check": "2026-10-16T19:15:21.163260+09:00",
- "since_english": 0,
+ "last_quake_check": "2026-10-16T19:30:29.896627+09:00",
+ "since_english": 1,
  "next_english": 4,
- "last_tick": "2026-10-16T19:15:21.163260+09:00",
+ "last_tick": "2026-10-16T19:30:29.896627+09:00",
  "french_day": "2026-10-16",
  "french_done": true,
  "french_after": 1120

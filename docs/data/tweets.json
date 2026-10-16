@@ -1,19 +1,5 @@
 [
  {
-  "at": "2026-10-09T12:00+09:00",
-  "text": "動く表紙とな。紙の上でも静かにしておれぬ世か。まあ華やかでよろしい。",
-  "expression": "微笑",
-  "scene": "regular",
-  "topic": "M!LK、モデルプレス独自企画「今月の動く表紙」スペシャル版に登場",
-  "links": [
-   {
-    "source": "モデルプレス",
-    "title": "M!LK、モデルプレス独自企画「今月の動く表紙」スペシャル版に登場",
-    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBndV96Q0V0VFJOOFpob01iODQtLVlQRVhVMmZVa20zUnVjRHFaSTJFRjlHVThMX3k4QU1NT2dlOHlfMXRxR0FEWlJFa9IBR0FVX3lxTE01bmxHWUZOVDV6Z05iVkd6bWJRZ2g4b3RDWmtJYXVZY3NuNFZTTzZPckFzUFpUUXB6dGRDUTFzUmNSelRxN0pN?oc=5"
-   }
-  ]
- },
- {
   "at": "2026-10-09T12:15+09:00",
   "text": "昼どき、散歩の道にすすきが風に揺れておる。蕎麦でも手繰って帰ろうか。",
   "expression": "微笑",
@@ -6144,6 +6130,21 @@
     "source": "Le",
     "title": "« Digger », un gouffre financier pour le studio Warner Bros et un échec humiliant pour Tom Cruise",
     "url": "https://www.lemonde.fr/culture/article/2026/10/16/le-film-digger-gouffre-financier-pour-la-warner-et-echec-humiliant-pour-tom-cruise_6795463_3246.html"
+   }
+  ]
+ },
+ {
+  "at": "2026-10-16T19:30+09:00",
+  "text": "打席に立てぬまま終わる夜もある。野球の神様は、気まぐれで律儀だ。",
+  "expression": "思案",
+  "scene": "bar",
+  "lang": "ja",
+  "topic": "大谷翔平はネクストバッターズサークルでPS敗退迎える グラウンドを見つめ静かに去る （2026年10月15日掲載）",
+  "links": [
+   {
+    "source": "日テレNEWS NNN",
+    "title": "大谷翔平はネクストバッターズサークルでPS敗退迎える グラウンドを見つめ静かに去る （2026年10月15日掲載）",
+    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBEQ3hPS1NXYTJBVGlLTlBHZnR0enBybjduX1VvR3g1VVdyMjZucjQwTGpOYmh6SzNvZHZFc3NnNTYzR0VudWtpN0sxNTQ5VTY5dFpseG9McHN6M3Nqb19UdURicWxQRXVCNkNUOU1mb0RPdG1na1JNdVlZdw?oc=5"
    }
   ]
  }
