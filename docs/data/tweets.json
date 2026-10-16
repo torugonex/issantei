@@ -1,14 +1,5 @@
 [
  {
-  "at": "2026-10-09T12:45+09:00",
-  "text": "昼の陽ざしがやわらかい。金木犀の下で、本を一章だけ読むとしよう。",
-  "expression": "微笑",
-  "scene": "life",
-  "lang": "ja",
-  "topic": null,
-  "links": []
- },
- {
   "at": "2026-10-09T13:00+09:00",
   "text": "国と国との面子の応酬なり。法廷の椅子も楽ではなさそうな。金木犀は今日も香っておる。",
   "expression": "思案",
@@ -6157,6 +6148,26 @@
     "source": "NHK",
     "title": "頭部にバット直撃の川上審判員が意識回復 家族「復帰めざす」",
     "url": "https://news.web.nhk/newsweb/na/nd-20261016de60624"
+   }
+  ]
+ },
+ {
+  "at": "2026-10-16T20:30+09:00",
+  "text": "Praising one's ally as the great foe of racism. Politics does love a generous reference.",
+  "expression": "片眉を上げる",
+  "scene": "bar",
+  "lang": "en",
+  "topic": "Jenrick claims Farage has done more to stand against racism than ‘almost anybody’",
+  "links": [
+   {
+    "source": "Guardian",
+    "title": "Jenrick claims Farage has done more to stand against racism than ‘almost anybody’",
+    "url": "https://www.theguardian.com/politics/2026/oct/16/jenrick-farage-reform-done-more-stand-against-racism-than-almost-anybody"
+   },
+   {
+    "source": "The Guardian",
+    "title": "Jenrick claims Farage has done more to stand against racism than ‘almost anybody’",
+    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOLVU4V29ZdFBqYUc2R19TaW9JTlZ3YkcxMkxFT1ZDc29UemNERkRuWlAxcmVjT2tUTDRxQmRzMHhzRFNNSnFFUEQ1VHdaUExzV2Rma3V3YXQ2eWU3THpzbS1pakR4aGwxaGhObDNyZXJtNGNGOFVuSVFZQmgweVM2OXQ2QkFibjdjNWNGekxiUlNEYTJMVm5BV3ZyWTNEY0FkM184S2taR3NrWnROYWhobW5jWmtkejNFZDhiZFhn?oc=5"
    }
   ]
  }
