@@ -5814,5 +5814,25 @@
     "url": "https://news.web.nhk/newsweb/na/nd-20261016de60199"
    }
   ]
+ },
+ {
+  "at": "2026-10-16T10:00+09:00",
+  "text": "異国の野球場で、一振りが空気を変えたらしい。見事なものだ。",
+  "expression": "微笑",
+  "scene": "regular",
+  "lang": "ja",
+  "topic": "【速報中】ドジャース×ブルワーズ 第4戦 大谷翔平1番・DH",
+  "links": [
+   {
+    "source": "NHKニュース",
+    "title": "【速報中】ドジャース×ブルワーズ 第4戦 大谷翔平1番・DH",
+    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5sQU9IUnI2QTV2Q3ItUy1BSlhZQUR4Mkh0ZkJhUklKZEQzWFozSjVrc2drZUR6UzlCeG9HWEtJaERzclJWaEJYRy1CeVh5Vnc1dV9pc0pNTEZNY1VDbXVB?oc=5"
+   },
+   {
+    "source": "NHK",
+    "title": "【速報中】ドジャース×ブルワーズ 大谷翔平がスリーランHR",
+    "url": "https://news.web.nhk/newsweb/na/nd-20261015de60061"
+   }
+  ]
  }
 ]
