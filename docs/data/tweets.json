@@ -1,25 +1,5 @@
 [
  {
-  "at": "2026-10-09T14:00+09:00",
-  "text": "A burst of energy from a galaxy far away. Rather makes one's own small worries seem punctual. Tea, I think.",
-  "expression": "思案",
-  "scene": "regular",
-  "lang": "en",
-  "topic": "Astronomers detect mysterious burst of energy from a galaxy far, far away",
-  "links": [
-   {
-    "source": "Guardian",
-    "title": "Astronomers detect mysterious burst of energy from a galaxy far, far away",
-    "url": "https://www.theguardian.com/science/2026/oct/09/astronomy-fast-radio-bursts-frb-radio-waves"
-   },
-   {
-    "source": "The Guardian",
-    "title": "Astronomers detect mysterious burst of energy from a galaxy far, far away",
-    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQWS1qME42d2o4ZkZ4WjdnTE5lbTVITTM5WVRXVENGVkdZVmcwZGp5cEp2c3F3S2RNYl9RVkpmblJPaDVnYWhHakJ6M1JIZjdFOFp1c2hhZlpGV1M2WEcta21WcGlnaGJwY0Y3NWUtMHJVZGVXLW9nTmVGNEVwbnB5WW1SbUhlTVhtMkEySnJSazB1VHU2ZWc?oc=5"
-   }
-  ]
- },
- {
   "at": "2026-10-09T14:15+09:00",
   "text": "秋晴れの午後。巻いた傘は杖がわり、ただ歩くばかりなり。",
   "expression": "微笑",
@@ -6154,5 +6134,25 @@
   "lang": "ja",
   "topic": null,
   "links": []
+ },
+ {
+  "at": "2026-10-16T22:00+09:00",
+  "text": "迎え撃つ盾が尽きかけていると聞く。冬を前に、空を見上げる人々を思う。黙祷。",
+  "expression": "憂い",
+  "scene": "regular",
+  "lang": "ja",
+  "topic": "ウクライナ、迎撃用「パトリオット」ミサイル枯渇か…ロシアからの攻撃に「無防備」状態",
+  "links": [
+   {
+    "source": "読売新聞",
+    "title": "ウクライナ、迎撃用「パトリオット」ミサイル枯渇か…ロシアからの攻撃に「無防備」状態",
+    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5WS01rRi1hSUdQU3VwTFFYY3lLZWtyOVluejFGa0RnSlRyY1B0SS1iaVhVSjNEZDBSUnN3QTRSNkNyM1QxRFdJcDNOMF9ycFZ3cGVTXzAzY2Zzd2Nocmk5NXl3?oc=5"
+   },
+   {
+    "source": "NHK",
+    "title": "【随時更新】ロシア ウクライナに軍事侵攻（10月16日の動き）",
+    "url": "https://news.web.nhk/newsweb/na/nd-20260930de53322"
+   }
+  ]
  }
 ]
