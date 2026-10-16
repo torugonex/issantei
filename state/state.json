@@ -1,9 +1,9 @@
 {
  "mood": {
-  "valence": -0.234,
-  "arousal": -0.255
+  "valence": -0.251,
+  "arousal": -0.216
  },
- "since_sarcasm": 6,
+ "since_sarcasm": 0,
  "day": "2026-10-16",
  "morning_done": true,
  "goodnight_done": false,
@@ -73,7 +73,8 @@
   "d2542d34aed4": "2026-10-16T14:00:38.188746+09:00",
   "348341452328": "2026-10-16T14:15:19.054722+09:00",
   "79da51a11d89": "2026-10-16T14:45:18.728752+09:00",
-  "dc3be3637b43": "2026-10-16T16:30:28.838914+09:00"
+  "dc3be3637b43": "2026-10-16T16:30:28.838914+09:00",
+  "dd27cdb5df8e": "2026-10-16T17:00:36.788785+09:00"
  },
  "commented_titles": [
   {
@@ -199,12 +200,16 @@
   {
    "title": "猪苗代湖ボート死傷事故、禁錮２年の１審・福島地裁判決が確定へ…逆転無罪とした２審判決を最高裁が破棄",
    "at": "2026-10-16T16:30:28.838914+09:00"
+  },
+  {
+   "title": "Trump calls Ukraine’s resumption of strikes on Russian oil refineries a ‘disgrace’",
+   "at": "2026-10-16T17:00:36.788785+09:00"
   }
  ],
- "last_quake_check": "2026-10-16T16:45:19.816470+09:00",
- "since_english": 3,
+ "last_quake_check": "2026-10-16T17:00:36.788785+09:00",
+ "since_english": 1,
  "next_english": 4,
- "last_tick": "2026-10-16T16:45:19.816470+09:00",
+ "last_tick": "2026-10-16T17:00:36.788785+09:00",
  "french_day": "2026-10-16",
  "french_done": false,
  "french_after": 1120
