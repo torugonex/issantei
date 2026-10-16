@@ -1,13 +1,5 @@
 [
  {
-  "at": "2026-10-08T18:07+09:00",
-  "text": "晴。寒露の入り、金木犀の香が夕風に混じる。結構なことなり。",
-  "expression": "微笑",
-  "scene": "morning",
-  "topic": null,
-  "links": []
- },
- {
   "at": "2026-10-09T07:12+09:00",
   "text": "晴。朝の空気がきりりと冷えた。秋桜も背を伸ばしておる。",
   "expression": "微笑",
@@ -6122,6 +6114,21 @@
     "source": "NHK",
     "title": "【QA】サイバー攻撃で情報流出 なぜ相次ぐ？背景や対策を解説",
     "url": "https://news.web.nhk/newsweb/na/nd-20261016de60258"
+   }
+  ]
+ },
+ {
+  "at": "2026-10-16T18:00+09:00",
+  "text": "Shaming fly-tippers online. Modern, certainly, though the rubbish still wants a proper home.",
+  "expression": "呆れのため息",
+  "scene": "regular",
+  "lang": "en",
+  "topic": "Suspected fly tippers shamed with online photos",
+  "links": [
+   {
+    "source": "BBC",
+    "title": "Suspected fly tippers shamed with online photos",
+    "url": "https://www.bbc.co.uk/news/articles/cqgm0jepyl01o?at_medium=RSS&at_campaign=rss"
    }
   ]
  }
