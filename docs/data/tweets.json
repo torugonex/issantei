@@ -5913,5 +5913,25 @@
     "url": "https://news.web.nhk/newsweb/na/nd-20260930de53321"
    }
   ]
+ },
+ {
+  "at": "2026-10-16T12:15+09:00",
+  "text": "Four dead at a primary school, three of them children. Requiescat in pace.",
+  "expression": "憂い",
+  "scene": "regular",
+  "lang": "en",
+  "topic": "Three children and teacher killed by 16-year-old at Oregon primary school",
+  "links": [
+   {
+    "source": "BBC",
+    "title": "Three children and teacher killed by 16-year-old at Oregon primary school",
+    "url": "https://www.bbc.co.uk/news/articles/cm89zp48k4kzo?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "source": "Guardian",
+    "title": "Shooter kills three children and one teacher at Oregon elementary school",
+    "url": "https://www.theguardian.com/us-news/2026/oct/15/oregon-elementary-school-shooting"
+   }
+  ]
  }
 ]
