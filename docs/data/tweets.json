@@ -1,25 +1,5 @@
 [
  {
-  "at": "2026-10-10T07:15+09:00",
-  "text": "宿の名簿が洩れたとな。泊まる身は、ただ預けるほかなし。",
-  "expression": "思案",
-  "scene": "regular",
-  "lang": "ja",
-  "topic": "宿泊予約管理システム「手間いらず」最大445万人情報漏えいか",
-  "links": [
-   {
-    "source": "NHKニュース",
-    "title": "宿泊予約管理システム「手間いらず」最大445万人情報漏えいか",
-    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBXRjNMZjRpeEs1cWE2YTJ3ZDBlZVdSWDhodWRvSENPV1V3TGJqSnRLZEJWYndnUUEwd3VMTUVJd29qY2FGcTRYZEluSUhhY2xtdzlZVmw2MTZzSTlpRzdr?oc=5"
-   },
-   {
-    "source": "NHK",
-    "title": "宿泊予約管理システム「手間いらず」最大445万人情報漏えいか",
-    "url": "https://news.web.nhk/newsweb/na/nd-20261010de57536"
-   }
-  ]
- },
- {
   "at": "2026-10-10T07:30+09:00",
   "text": "ゼロトップとな。点取り屋を置かぬ陣立て、さて吉と出るか。試すにはよい夜なり。",
   "expression": "思案",
@@ -6199,6 +6179,26 @@
     "source": "BBC",
     "title": "What we learned from heated US midterm Senate debates",
     "url": "https://www.bbc.co.uk/news/articles/cqly03y3zg7lo?at_medium=RSS&at_campaign=rss"
+   }
+  ]
+ },
+ {
+  "at": "2026-10-17T13:33+09:00",
+  "text": "攻撃の続く都で、会議は延期になった。一刻も早く静まることを願う。",
+  "expression": "憂い",
+  "scene": "regular",
+  "lang": "ja",
+  "topic": "サウジアラビア首都への攻撃続く 国際会議が延期も",
+  "links": [
+   {
+    "source": "NHKニュース",
+    "title": "サウジアラビア首都への攻撃続く 国際会議が延期も",
+    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB0WXk5cGIyZTFKOWNzYmZnbVFlY2k2aGtzZ2ZnYk1zdG5kVXU5R1dTVWVUWTRVN0Y2c0lkRWx1WlFrYTh0cV9jMS1zNlVoOXRZNkhvZldic0IyUDFlREMw?oc=5"
+   },
+   {
+    "source": "NHK",
+    "title": "サウジアラビア首都への攻撃続く 国際会議が延期も",
+    "url": "https://news.web.nhk/newsweb/na/nd-20261017de60808"
    }
   ]
  }
