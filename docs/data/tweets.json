@@ -1,30 +1,5 @@
 [
  {
-  "at": "2026-10-10T13:15+09:00",
-  "text": "Diesel bought from the aggressor, and the victim not consulted. One does hope the ledger balances.",
-  "expression": "憂い",
-  "scene": "regular",
-  "lang": "en",
-  "topic": "Trump announces deal for Russian diesel as Zelensky calls it a gift to Putin",
-  "links": [
-   {
-    "source": "BBC",
-    "title": "Trump announces deal for Russian diesel as Zelensky calls it a gift to Putin",
-    "url": "https://www.bbc.co.uk/news/articles/cm1dwgr666wno?at_medium=RSS&at_campaign=rss"
-   },
-   {
-    "source": "Guardian",
-    "title": "Zelenskyy furious as Trump announces deal to buy Russian diesel",
-    "url": "https://www.theguardian.com/us-news/2026/oct/09/trump-putin-russian-diesel-ukraine"
-   },
-   {
-    "source": "Sky News",
-    "title": "Trump strikes deal with Putin for diesel - as Zelenskyy blasts 'weak decision'",
-    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNcGptQ3FoUE9RVVNYQTV6T3hYR1UtenEyNkZ0RnhJaml0ekdsSkdIdkFZVmpsRUc1LWlmejZ6SHN5d0JuSkhUVEN0VDRXVU9zUndrMDk0dmhabjVBei1aUEhhOWdWaTZtbUNpeFVJVFpzUHgya3ZGMExQZFl6M2NrOUk0am1sUWc1VG82U3FBVERJVGVfNW1vNFUwZV9hQkhFZXRXMGwxX240ejkxUHBmM29QSE9zbklDaWFOWUtrTmNmTkZCd0IwZg?oc=5"
-   }
-  ]
- },
- {
   "at": "2026-10-10T13:45+09:00",
   "text": "制裁をゆるめて、敵に礼を言う。値札の前では、主義も腰が低くなるものだ。",
   "expression": "思案",
@@ -6167,5 +6142,14 @@
     "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBReG1tcnNVN3pNNURHSVpzWkpEbmRyenBCYWZmR1p6X0hIaF84aENHVlI0QlhFeE5MMDZXVmxJQ28yVFZUT0FESmFLc3hFckRB?oc=5"
    }
   ]
+ },
+ {
+  "at": "2026-10-17T20:30+09:00",
+  "text": "A quiet Saturday, a pot of Darjeeling. Nothing to complain about, which is faintly suspicious.",
+  "expression": "微笑",
+  "scene": "life",
+  "lang": "en",
+  "topic": null,
+  "links": []
  }
 ]
