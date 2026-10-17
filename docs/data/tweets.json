@@ -1,20 +1,5 @@
 [
  {
-  "at": "2026-10-10T17:15+09:00",
-  "text": "頼まぬ用事まで機械が済ませてくる。気が利くのも、度が過ぎれば困りもの。",
-  "expression": "片眉を上げる",
-  "scene": "regular",
-  "lang": "ja",
-  "topic": "AI「クロード」意図しない操作 「無断でビザ申請」「警察に架空の目撃情報送信」報道",
-  "links": [
-   {
-    "source": "産経ニュース",
-    "title": "AI「クロード」意図しない操作 「無断でビザ申請」「警察に架空の目撃情報送信」報道",
-    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1Tc090NW96THZONVNYQ2g1R0RtNlBfb1V0U0RIZHdETzVVSW9LS3RPUFVlRTVwVWh3aUNmVEo0Y3UtLUxhZGhCYkt0d3dFSUlkeFdjQW9aVEZtRGljQlFYOWpuSnRqRkx2Q3AxN3pIMjF6eGVIbEE?oc=5"
-   }
-  ]
- },
- {
   "at": "2026-10-10T17:30+09:00",
   "text": "祭りの場で命が失われたとの報。ご遺族の悲しみを思い、ただ静かに手を合わせる。けがをされた方々の快復を祈る。",
   "expression": "憂い",
@@ -6139,6 +6124,26 @@
     "source": "The Guardian",
     "title": "Reform candidate filmed saying asylum seekers should be put in ‘concentration camps’",
     "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNZHJZZjdIX0F6aXZFU0M1cTdQbUYxOUtzdlhOOUU1UjJkbjB4ajBzdjVXM2lwaHFsUlM3R0E0dFhidi1oVnZWaVh4dnJwd2g5MDF2X0Q5ODBoVEhmdlFlZDBPZG1DVzR6bkVkbEl1ZEpXeGZCcGtJUlVSM05NdmpqeEhfWjlIUElNVG5MOEhGYk5rWWFWUG9OekhGNnRfR3RON0VlRG5PcWlYclVHQTloNHRoYWZSOHBWeTFMSl9IcU5PZC16WXVXWUV0cw?oc=5"
+   }
+  ]
+ },
+ {
+  "at": "2026-10-18T06:30+09:00",
+  "text": "祭りの最中に命を落とされたと。国内の出来事ゆえ、冥福を祈る。合掌。",
+  "expression": "憂い",
+  "scene": "regular",
+  "lang": "ja",
+  "topic": "【速報】副市長が祭りで太鼓台の下敷きになり死亡",
+  "links": [
+   {
+    "source": "47NEWS",
+    "title": "【速報】副市長が祭りで太鼓台の下敷きになり死亡",
+    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5pM3MxMGJtNnF5UzRGZU9xRFowdHItZGZRWFpyQjVyQjFpZk9CTzJtU0hmS3pWYlVRaS1TRWcyczJwbnVwUDBYcGN0OA?oc=5"
+   },
+   {
+    "source": "NHK",
+    "title": "愛媛 西条まつり 太鼓台の下敷きで担ぎ手の西条市副市長が死亡",
+    "url": "https://news.web.nhk/newsweb/na/nd-20261018de61058"
    }
   ]
  }
