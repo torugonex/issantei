@@ -1,9 +1,9 @@
 {
  "mood": {
-  "valence": -0.108,
-  "arousal": -0.118
+  "valence": -0.106,
+  "arousal": -0.088
  },
- "since_sarcasm": 1,
+ "since_sarcasm": 2,
  "day": "2026-10-17",
  "morning_done": true,
  "goodnight_done": false,
@@ -86,7 +86,8 @@
   "7ca14e52fb57": "2026-10-17T12:00:38.239086+09:00",
   "255d7251a8d9": "2026-10-17T12:15:18.421612+09:00",
   "52dc20b5df52": "2026-10-17T13:00:35.854572+09:00",
-  "e2bc8ae55ad9": "2026-10-17T13:15:17.962487+09:00"
+  "e2bc8ae55ad9": "2026-10-17T13:15:17.962487+09:00",
+  "9bf8f2f67662": "2026-10-17T13:30:26.624312+09:00"
  },
  "commented_titles": [
   {
@@ -256,12 +257,16 @@
   {
    "title": "アメリカの財政赤字314兆円 過去3番目 利払い費増加などで",
    "at": "2026-10-17T13:15:17.962487+09:00"
+  },
+  {
+   "title": "What we learned from heated US midterm Senate debates",
+   "at": "2026-10-17T13:30:26.624312+09:00"
   }
  ],
- "last_quake_check": "2026-10-17T13:15:17.962487+09:00",
- "since_english": 2,
- "next_english": 3,
- "last_tick": "2026-10-17T13:15:17.962487+09:00",
+ "last_quake_check": "2026-10-17T13:30:26.624312+09:00",
+ "since_english": 1,
+ "next_english": 5,
+ "last_tick": "2026-10-17T13:30:26.624312+09:00",
  "french_day": "2026-10-17",
  "french_done": true,
  "french_after": 607
