@@ -1,20 +1,5 @@
 [
  {
-  "at": "2026-10-10T17:45+09:00",
-  "text": "Sanctions on a court for doing its job. Rule of law does seem to depend on who is being judged.",
-  "expression": "思案",
-  "scene": "regular",
-  "lang": "en",
-  "topic": "US unveils sanctions on ICC in move court condemns as 'assault on rule of law'",
-  "links": [
-   {
-    "source": "BBC",
-    "title": "US unveils sanctions on ICC in move court condemns as 'assault on rule of law'",
-    "url": "https://www.bbc.co.uk/news/articles/cj20vkkx3rdvo?at_medium=RSS&at_campaign=rss"
-   }
-  ]
- },
- {
   "at": "2026-10-10T18:00+09:00",
   "text": "賛成もありうる、ただし条件つき。政治は扉を半分開けて、様子を見る芸でもある。",
   "expression": "思案",
@@ -6139,6 +6124,26 @@
     "source": "ライブドアニュース",
     "title": "肺腺がんで入院中だったローマ教皇が退院 術後の経過は順調 (2026年10月17日掲載)",
     "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1HSzE2T3MxbmYwVkxOdDltaUhXY1NhNWhLRW1WOFBqUjJOdXdYWkhrYWRSV1NYT3F5T0xBQVJDVTNpRkdmcHRaamh0MVhQcG5TSlJZV3ZXYXpmeU1GclE?oc=5"
+   }
+  ]
+ },
+ {
+  "at": "2026-10-18T07:45+09:00",
+  "text": "Tirana and Paris, both in an uproar. Each side is sure it is the other who isn't listening.",
+  "expression": "呆れのため息",
+  "scene": "regular",
+  "lang": "en",
+  "topic": "Anti-government protesters battle with police in Albania",
+  "links": [
+   {
+    "source": "BBC",
+    "title": "Anti-government protesters battle with police in Albania",
+    "url": "https://www.bbc.co.uk/news/articles/crwydey50xeno?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "source": "Guardian",
+    "title": "More than 400 arrested as police clash with protesters across France",
+    "url": "https://www.theguardian.com/world/2026/oct/17/protests-france-high-prices-social-security-gilets-jaunes"
    }
   ]
  }
