@@ -1,14 +1,5 @@
 [
  {
-  "at": "2026-10-09T22:45+09:00",
-  "text": "すすきの穂が夜風に揺れる頃か。傘を置き、今宵はこれにて。",
-  "expression": "微笑",
-  "scene": "goodnight",
-  "lang": "ja",
-  "topic": null,
-  "links": []
- },
- {
   "at": "2026-10-10T04:00+09:00",
   "text": "……氷が、門前で……傘は、まだ勝って……",
   "expression": "寝顔",
@@ -6181,6 +6172,26 @@
     "source": "BBC",
     "title": "Patients in chains rescued from suspected illegal rehab centre in South Africa",
     "url": "https://www.bbc.co.uk/news/articles/cmwyvxj49gpwo?at_medium=RSS&at_campaign=rss"
+   }
+  ]
+ },
+ {
+  "at": "2026-10-17T11:30+09:00",
+  "text": "沖縄の南で台風が育っているそうな。まだ遠いが、備えは早めがよろしい。",
+  "expression": "思案",
+  "scene": "regular",
+  "lang": "ja",
+  "topic": "台風30号(チャンパー) 来週後半は非常に強い勢力で沖縄の南に達する",
+  "links": [
+   {
+    "source": "ウェザーニュース",
+    "title": "台風30号(チャンパー) 来週後半は非常に強い勢力で沖縄の南に達する",
+    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9US2VNQWJmQ1RiVW1QVURWZ3k2SUVHTVNQYlA2aU5Fc2FTWlNUMUozbk4zZ0VEbFVVbDhiUWtacFZSRDZIbzRYWEZtV3pFczd1WGtieg?oc=5"
+   },
+   {
+    "source": "NHK",
+    "title": "台風30号 非常に強い勢力に発達する見込み 今後の情報に注意",
+    "url": "https://news.web.nhk/newsweb/na/nd-20261017de60802"
    }
   ]
  }

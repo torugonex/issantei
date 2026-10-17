@@ -1,9 +1,9 @@
 {
  "mood": {
-  "valence": -0.137,
-  "arousal": -0.126
+  "valence": -0.153,
+  "arousal": -0.07
  },
- "since_sarcasm": 1,
+ "since_sarcasm": 2,
  "day": "2026-10-17",
  "morning_done": true,
  "goodnight_done": false,
@@ -82,7 +82,8 @@
   "9e0fc67d26d0": "2026-10-17T10:00:38.842887+09:00",
   "742ab2045577": "2026-10-17T10:45:17.076365+09:00",
   "3aaab691fab8": "2026-10-17T11:00:35.495620+09:00",
-  "335cc59cac1c": "2026-10-17T11:15:17.040243+09:00"
+  "335cc59cac1c": "2026-10-17T11:15:17.040243+09:00",
+  "e3369ce6d249": "2026-10-17T11:30:28.302906+09:00"
  },
  "commented_titles": [
   {
@@ -244,12 +245,16 @@
   {
    "title": "Patients in chains rescued from suspected illegal rehab centre in South Africa",
    "at": "2026-10-17T11:15:17.040243+09:00"
+  },
+  {
+   "title": "台風30号(チャンパー) 来週後半は非常に強い勢力で沖縄の南に達する",
+   "at": "2026-10-17T11:30:28.302906+09:00"
   }
  ],
- "last_quake_check": "2026-10-17T11:15:17.040243+09:00",
- "since_english": 1,
+ "last_quake_check": "2026-10-17T11:30:28.302906+09:00",
+ "since_english": 2,
  "next_english": 3,
- "last_tick": "2026-10-17T11:15:17.040243+09:00",
+ "last_tick": "2026-10-17T11:30:28.302906+09:00",
  "french_day": "2026-10-17",
  "french_done": true,
  "french_after": 607
