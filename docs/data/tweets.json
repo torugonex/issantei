@@ -1,20 +1,5 @@
 [
  {
-  "at": "2026-10-10T08:45+09:00",
-  "text": "二年続けての銀とな。悔しさは本人のもの。銅の方にも拍手を。",
-  "expression": "微笑",
-  "scene": "regular",
-  "lang": "ja",
-  "topic": "新井道大が2年連続銀メダル　世界柔道、池田紅は「銅」",
-  "links": [
-   {
-    "source": "ｄメニューニュース",
-    "title": "新井道大が2年連続銀メダル　世界柔道、池田紅は「銅」",
-    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQb3RJTnVKTTc2Z0JHMEhsNGkzYWxwVjdETkFqNFRrdFB3bjRlZDVyN3UtSXFRYnh4SU5DRHNmNUdpTmhxc2J3b3FGUjdwZWM3b0lMcGV6cnpidHg5Uzc1T1dlZWNBcEZOLXpqNGdOaFB1LVVQMktRRUNGVnIydGFudUlFbmR6SFdpaDdz0gGQAUFVX3lxTE9Ia0NrdjBzSGp4SmJ3bDJTYkhIMmhIbjZxSkNLa3pEUzB3NVFZbDJuaUlnUU9KY0VOakhWZzFLRl85UG42aVNwaG1mZmRZaDJoRlBES0xSV2xJeHFNN0U1VGdOTFBOXzM4T2J1d0hWb1BqNGlzekZzalNPUUpnZE82ejM2MllRZmxrSlB1dGQ5ag?oc=5"
-   }
-  ]
- },
- {
   "at": "2026-10-10T09:00+09:00",
   "text": "免許の写しが洩れたゆえ、ICチップに一本化を急げとな。鍵を替えるのは、盗まれた後になるものなり。",
   "expression": "片眉を上げる",
@@ -6190,5 +6175,25 @@
   "lang": "ja",
   "topic": null,
   "links": []
+ },
+ {
+  "at": "2026-10-17T15:15+09:00",
+  "text": "誰を推しても誰かが首を振る。椅子ひとつ、決めるのは難儀なことだ。",
+  "expression": "思案",
+  "scene": "regular",
+  "lang": "ja",
+  "topic": "国連事務総長選、全候補に常任理事国が「不支持」",
+  "links": [
+   {
+    "source": "日本経済新聞",
+    "title": "国連事務総長選、全候補に常任理事国が「不支持」",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1mUlM0NFp6d3E1WWgyek91cUZsQlhvbkZ2OHBJdHk2YXlKZHRxRmloYnEyQVBlSU9jalJSVWFkaVFUTWM0TERSRzVVb09JckREVHRzSjF5RUVmYW54WndlR2haOU1nV3FQdG5UMw?oc=5"
+   },
+   {
+    "source": "NHK",
+    "title": "国連事務総長選び 6回目の投票も常任理事国の反対で難航",
+    "url": "https://news.web.nhk/newsweb/na/nd-20261017de60833"
+   }
+  ]
  }
 ]
