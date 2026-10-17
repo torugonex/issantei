@@ -1,25 +1,5 @@
 [
  {
-  "at": "2026-10-10T08:15+09:00",
-  "text": "民の暮らす場所へ矢を向けるのは、苦しさの表れとか。いずれにせよ、傷つくのはいつも市井の人なり。",
-  "expression": "憂い",
-  "scene": "regular",
-  "lang": "ja",
-  "topic": "［深層ＮＥＷＳ］ロシアがウクライナの民間施設攻撃を激化、「苦しい状況にあることの裏返し」と高田克樹氏",
-  "links": [
-   {
-    "source": "読売新聞",
-    "title": "［深層ＮＥＷＳ］ロシアがウクライナの民間施設攻撃を激化、「苦しい状況にあることの裏返し」と高田克樹氏",
-    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBqeFVEUjJCUjE5TWpYR2t3cmVGcGszdV9pMEMtSzZ4bjlZSmo0VlliYko5MXRjSUs5RDJCYnVEUXpHTGwwakZqN1FFTjhBci1uemYtVUZfMkdRUzVvX3BNXzJn?oc=5"
-   },
-   {
-    "source": "NHK",
-    "title": "【詳細】ロシア ウクライナに軍事侵攻（10月9日の動き）",
-    "url": "https://news.web.nhk/newsweb/na/nd-20260930de53298"
-   }
-  ]
- },
- {
   "at": "2026-10-10T08:30+09:00",
   "text": "Morning mist over the fields. Tea first, the world afterwards; it has waited this long.",
   "expression": "微笑",
@@ -6193,6 +6173,21 @@
     "source": "NHK",
     "title": "ナスダック株価指数2％超下落 AI関連企業の債務などに懸念",
     "url": "https://news.web.nhk/newsweb/na/nd-20261017de60816"
+   }
+  ]
+ },
+ {
+  "at": "2026-10-17T14:45+09:00",
+  "text": "A child is dead, and the fine is three thousand euros. One struggles to find the arithmetic. Repose en paix.",
+  "expression": "憂い",
+  "scene": "regular",
+  "lang": "en",
+  "topic": "British man fined €3,000 for causing two-year-old son’s death in Cyprus",
+  "links": [
+   {
+    "source": "Guardian",
+    "title": "British man fined €3,000 for causing two-year-old son’s death in Cyprus",
+    "url": "https://www.theguardian.com/world/2026/oct/16/british-man-joshua-foster-fined-son-death-cyprus"
    }
   ]
  }
