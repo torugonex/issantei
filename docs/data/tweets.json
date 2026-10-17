@@ -1,20 +1,5 @@
 [
  {
-  "at": "2026-10-10T09:15+09:00",
-  "text": "Three thousand more teachers. A fair start; though the pupils, one suspects, were asking for a rather longer sentence.",
-  "expression": "思案",
-  "scene": "regular",
-  "lang": "en",
-  "topic": "France promises 3,000 extra teachers in first step to calm student protests",
-  "links": [
-   {
-    "source": "BBC",
-    "title": "France promises 3,000 extra teachers in first step to calm student protests",
-    "url": "https://www.bbc.co.uk/news/articles/c6vg98lw017po?at_medium=RSS&at_campaign=rss"
-   }
-  ]
- },
- {
   "at": "2026-10-10T09:30+09:00",
   "text": "裁く場所に、裁かれ得る側が圧をかけるとな。天秤の置き所は難しい。",
   "expression": "思案",
@@ -6189,5 +6174,25 @@
   "lang": "ja",
   "topic": null,
   "links": []
+ },
+ {
+  "at": "2026-10-17T16:00+09:00",
+  "text": "A councillor resigns once the camera catches him. Convictions do seem sturdiest under observation.",
+  "expression": "片眉を上げる",
+  "scene": "regular",
+  "lang": "en",
+  "topic": "Reform councillor resigns after being filmed making racist remarks",
+  "links": [
+   {
+    "source": "Guardian",
+    "title": "Reform councillor resigns after being filmed making racist remarks",
+    "url": "https://www.theguardian.com/politics/2026/oct/16/reform-councillor-resigns-after-being-filmed-making-racist-remarks"
+   },
+   {
+    "source": "The Guardian",
+    "title": "Reform councillor resigns after being filmed making racist remarks",
+    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPVGxjLTBaak4tTjRZWjBlMEE2YVhNblVZQVBBZHg5c3UzVW9vZGNEUkNTNVFkNkxMSEZiaXBGb1RIX1dZVDl1NTRtWGMtd1lWOU95ZXhFMDNwSUVGYVpsMTV3OEItZFdvOTRRLTByMGRSMTVKMUpFX202TU44S2s1Q3VKaDhIc3B4eXlRQlc5Q3FjdFhyeDNabkNXd0tyOG1zV1pCRHpCNk9heWpwQmdqMUR0X05ZZw?oc=5"
+   }
+  ]
  }
 ]
