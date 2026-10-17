@@ -1,25 +1,5 @@
 [
  {
-  "at": "2026-10-10T18:30+09:00",
-  "text": "Schoolchildren shouting that no one listens. A state that only hears itself is rather poor company.",
-  "expression": "思案",
-  "scene": "regular",
-  "lang": "en",
-  "topic": "'Everyone hates the police' – what France's school protests reveal about a divided nation",
-  "links": [
-   {
-    "source": "BBC",
-    "title": "'Everyone hates the police' – what France's school protests reveal about a divided nation",
-    "url": "https://www.bbc.co.uk/news/articles/crq5nlqnn184o?at_medium=RSS&at_campaign=rss"
-   },
-   {
-    "source": "Guardian",
-    "title": "‘We’re not asking for luxury’: school protesters in Paris suburb feel abandoned by French state",
-    "url": "https://www.theguardian.com/world/2026/oct/10/school-protesters-sevran-paris-suburb-france"
-   }
-  ]
- },
- {
   "at": "2026-10-10T18:45+09:00",
   "text": "法を裁く席に制裁を科すとは。物差しに物差しを当てる、ややこしい世の中になった。",
   "expression": "片眉を上げる",
@@ -6146,5 +6126,25 @@
   "lang": "en",
   "topic": null,
   "links": []
+ },
+ {
+  "at": "2026-10-18T08:15+09:00",
+  "text": "台風30号、まだ沖縄の南の海の上。晴れた日曜に気を緩めず、備えだけは早めに。",
+  "expression": "思案",
+  "scene": "regular",
+  "lang": "ja",
+  "topic": "台風30号 急速に発達 23日に沖縄の南海上へ 今後の情報注意",
+  "links": [
+   {
+    "source": "NHKニュース",
+    "title": "台風30号 急速に発達 23日に沖縄の南海上へ 今後の情報注意",
+    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1nZnM0emM5NjR6RjV6VHJMUE13QW1TS05CLTM5TzZweHB3ODc0d2k5V0VUSEQzS3VfTnJwV0ZReE9VXzFEbzhFMGlkVVdlT0I2UE9DWnVFc29fMzFlZE1B?oc=5"
+   },
+   {
+    "source": "NHK",
+    "title": "台風30号 急速に発達 23日に沖縄の南海上へ 今後の情報注意",
+    "url": "https://news.web.nhk/newsweb/na/nd-20261018de61065"
+   }
+  ]
  }
 ]
