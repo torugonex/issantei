@@ -1,9 +1,9 @@
 {
  "mood": {
-  "valence": -0.089,
-  "arousal": -0.186
+  "valence": -0.017,
+  "arousal": -0.19
  },
- "since_sarcasm": 3,
+ "since_sarcasm": 4,
  "day": "2026-10-17",
  "morning_done": true,
  "goodnight_done": false,
@@ -87,10 +87,6 @@
   "4d0d866b56c7": "2026-10-17T16:15:18.005840+09:00"
  },
  "commented_titles": [
-  {
-   "title": "Trump calls Ukraine’s resumption of strikes on Russian oil refineries a ‘disgrace’",
-   "at": "2026-10-16T17:00:36.788785+09:00"
-  },
   {
    "title": "“餃子の王将”社長殺害事件 暴力団幹部に無罪判決 京都地裁",
    "at": "2026-10-16T17:30:28.947389+09:00"
@@ -268,10 +264,10 @@
    "at": "2026-10-17T16:15:18.005840+09:00"
   }
  ],
- "last_quake_check": "2026-10-17T17:00:35.011889+09:00",
- "since_english": 1,
+ "last_quake_check": "2026-10-17T17:15:18.185385+09:00",
+ "since_english": 2,
  "next_english": 4,
- "last_tick": "2026-10-17T17:00:35.011889+09:00",
+ "last_tick": "2026-10-17T17:15:18.185385+09:00",
  "french_day": "2026-10-17",
  "french_done": true,
  "french_after": 607

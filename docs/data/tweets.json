@@ -1,25 +1,5 @@
 [
  {
-  "at": "2026-10-10T10:00+09:00",
-  "text": "盗まれた情報を機械が束ねて、一人の人間の像に仕立てるとか。戸締りは、家の外にも要る時世なり。",
-  "expression": "思案",
-  "scene": "regular",
-  "lang": "ja",
-  "topic": "［スキャナー］サイバー攻撃急増、流出情報をＡＩで「ビッグデータ化」も…特定の個人標的の犯罪に悪用リスク",
-  "links": [
-   {
-    "source": "読売新聞",
-    "title": "［スキャナー］サイバー攻撃急増、流出情報をＡＩで「ビッグデータ化」も…特定の個人標的の犯罪に悪用リスク",
-    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1rLVU1V3lJQlZ2akNiTUlZQ1hveW1aU3V5WDdlcUNKZFVIeVN2YUhERVA2ZFRmNGt5VDlFN0dLZmFzSUx3TmhUVjFrYUhNSkg2emxuV3p1SW5nSzBXbHhNME5KUHJwUQ?oc=5"
-   },
-   {
-    "source": "NHK",
-    "title": "【きょうのおはBiz 10月9日(金)】サイバー攻撃 影響広がる",
-    "url": "https://news.web.nhk/newsweb/na/nd-20261009de56975"
-   }
-  ]
- },
- {
   "at": "2026-10-10T10:15+09:00",
   "text": "経済学賞は十二日とか。景気の行方を言い当てる賞ではないのが、まあ、よろしい。",
   "expression": "微笑",
@@ -6165,6 +6145,15 @@
   "expression": "微笑",
   "scene": "life",
   "lang": "en",
+  "topic": null,
+  "links": []
+ },
+ {
+  "at": "2026-10-17T17:15+09:00",
+  "text": "夕刻、行きつけのバーの扉を押した。まだ灯りの前だが、先客は私だけ。",
+  "expression": "微笑",
+  "scene": "life",
+  "lang": "ja",
   "topic": null,
   "links": []
  }
