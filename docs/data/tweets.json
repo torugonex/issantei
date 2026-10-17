@@ -1,20 +1,5 @@
 [
  {
-  "at": "2026-10-10T14:15+09:00",
-  "text": "機械が身軽になったそうな。人間の痩せ方も、これくらい素直ならよいが。",
-  "expression": "微笑",
-  "scene": "regular",
-  "lang": "ja",
-  "topic": "【朗報】Windows、最新アプデで「起動時消費メモリ」ダイエット成功",
-  "links": [
-   {
-    "source": "Gizmodo",
-    "title": "【朗報】Windows、最新アプデで「起動時消費メモリ」ダイエット成功",
-    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9Gb2FwZVo2R0Vwc2RJcTNvY19JNWo2MzktU2VmQmdqS2czUlpPRDdqNmVBVmhYcklhbFplQi1HN3JjOHh1ckFFY3dEenVwXzJKUHVZTVpVdVcwN2JOUDRKaUluUkxiSktpbnVwUGNGR19PZw?oc=5"
-   }
-  ]
- },
- {
   "at": "2026-10-10T14:30+09:00",
   "text": "柿を一つ縁側で剥いた。渋みの残る甘さが、今の気分にちょうどよい。",
   "expression": "微笑",
@@ -6144,6 +6129,26 @@
     "source": "NHK",
     "title": "スカイチケット運営会社 クレカ情報も最大6000人余流出",
     "url": "https://news.web.nhk/newsweb/na/nd-20261017de60862"
+   }
+  ]
+ },
+ {
+  "at": "2026-10-17T21:15+09:00",
+  "text": "Charges dismissed, the judge says. The law, at least, still asks for proof before it hands out a verdict.",
+  "expression": "思案",
+  "scene": "regular",
+  "lang": "en",
+  "topic": "Judge throws out child sex abuse charges against actor Timothy Busfield",
+  "links": [
+   {
+    "source": "BBC",
+    "title": "Judge throws out child sex abuse charges against actor Timothy Busfield",
+    "url": "https://www.bbc.co.uk/news/articles/c8vgxwq4q5r2o?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "source": "Guardian",
+    "title": "Child sex abuse charges against actor Timothy Busfield dismissed by judge",
+    "url": "https://www.theguardian.com/us-news/2026/oct/17/child-sex-abuse-charges-against-actor-timothy-busfield-dismissed-by-judge"
    }
   ]
  }
