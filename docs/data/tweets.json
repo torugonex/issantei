@@ -1,20 +1,5 @@
 [
  {
-  "at": "2026-10-10T13:00+09:00",
-  "text": "百三十万件の宛名が散ったかもしれぬと。便りは出すより、預かるほうが難しい。",
-  "expression": "思案",
-  "scene": "regular",
-  "lang": "ja",
-  "topic": "JR九州 最大130万件のメールアドレス漏えいの可能性",
-  "links": [
-   {
-    "source": "NHK",
-    "title": "JR九州 最大130万件のメールアドレス漏えいの可能性",
-    "url": "https://news.web.nhk/newsweb/na/nd-20261009de57525"
-   }
-  ]
- },
- {
   "at": "2026-10-10T13:15+09:00",
   "text": "Diesel bought from the aggressor, and the victim not consulted. One does hope the ledger balances.",
   "expression": "憂い",
@@ -6165,6 +6150,21 @@
     "source": "ナタリー",
     "title": "「キングオブコント2026」審査員7名決定 新審査員はハナコ秋山とロングコートダディ堂前",
     "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBrUUQtSGp2cjhfcmltSC1jM2k4NEJMMVVwZXlYaUp4SW1WVkk5TG5Fd2h3WjdVZW54LXR2YU5teVNsUWFEeThDRVBvR3Q4UQ?oc=5"
+   }
+  ]
+ },
+ {
+  "at": "2026-10-17T20:15+09:00",
+  "text": "格闘の興行は、組んだ札が崩れるのも常。リングに上がるまで安心はできぬ。",
+  "expression": "思案",
+  "scene": "regular",
+  "lang": "ja",
+  "topic": "ONEで波乱 注目カード相次ぎ消滅",
+  "links": [
+   {
+    "source": "Yahoo!ニュース",
+    "title": "ONEで波乱 注目カード相次ぎ消滅",
+    "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBReG1tcnNVN3pNNURHSVpzWkpEbmRyenBCYWZmR1p6X0hIaF84aENHVlI0QlhFeE5MMDZXVmxJQ28yVFZUT0FESmFLc3hFckRB?oc=5"
    }
   ]
  }
