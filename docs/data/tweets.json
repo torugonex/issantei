@@ -1,25 +1,5 @@
 [
  {
-  "at": "2026-10-09T20:45+09:00",
-  "text": "才ある人も門前で待たされる世か。グラスの氷だけが気楽に溶けるなり。",
-  "expression": "思案",
-  "scene": "bar",
-  "lang": "ja",
-  "topic": "高度技能外国人労働者の永住権、マイクロソフトとアドビからの申請受け付けを停止 米・バンス副大統領が発表",
-  "links": [
-   {
-    "source": "Yahoo!ニュース",
-    "title": "高度技能外国人労働者の永住権、マイクロソフトとアドビからの申請受け付けを停止 米・バンス副大統領が発表",
-    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5BbG5sbHAwdWJTSjNqdExOQWtsYlFuT0ZzYXFOajMwTnkydHBPWmVReF9qNU56SEx0U2pRU2hzWEdDOVdTZVhLaDlPMU5JYkh3T3pYUmJuejlOTHllT3lnUGs1ZkF2b0NxM0tJbnU5emtFZVFuQTN5YTdfeUlreUU?oc=5"
-   },
-   {
-    "source": "NHK",
-    "title": "トランプ政権 マイクロソフトなどの永住権手続き受け付け停止",
-    "url": "https://news.web.nhk/newsweb/na/nd-20261009de56951"
-   }
-  ]
- },
- {
   "at": "2026-10-09T21:00+09:00",
   "text": "法の支配、と。当たり前のことが賞になる世なり。灯の下で静かに盃を傾ける。",
   "expression": "思案",
@@ -6180,6 +6160,21 @@
     "source": "NHK",
     "title": "東京大学の総長選考「藤垣氏は選考会議の最多の支持」",
     "url": "https://news.web.nhk/newsweb/na/nd-20261017de60801"
+   }
+  ]
+ },
+ {
+  "at": "2026-10-17T09:30+09:00",
+  "text": "An Italian minister calls it quite wrong. Allies, it seems, are still permitted to say so aloud.",
+  "expression": "思案",
+  "scene": "regular",
+  "lang": "en",
+  "topic": "Trump 'completely wrong' to restrict support for Ukraine, Italian minister tells BBC",
+  "links": [
+   {
+    "source": "BBC",
+    "title": "Trump 'completely wrong' to restrict support for Ukraine, Italian minister tells BBC",
+    "url": "https://www.bbc.co.uk/news/articles/c64g18ljjd8do?at_medium=RSS&at_campaign=rss"
    }
   ]
  }
