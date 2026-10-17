@@ -1,9 +1,9 @@
 {
  "mood": {
-  "valence": 0.06,
-  "arousal": -0.201
+  "valence": -0.27,
+  "arousal": -0.251
  },
- "since_sarcasm": 2,
+ "since_sarcasm": 3,
  "day": "2026-10-17",
  "morning_done": true,
  "goodnight_done": false,
@@ -83,17 +83,10 @@
   "9f7316f6bdcb": "2026-10-17T16:00:36.966404+09:00",
   "4d0d866b56c7": "2026-10-17T16:15:18.005840+09:00",
   "a8d58b7f6dd7": "2026-10-17T17:30:27.380839+09:00",
-  "9d028ff599af": "2026-10-17T18:00:38.272067+09:00"
+  "9d028ff599af": "2026-10-17T18:00:38.272067+09:00",
+  "53788bf9821a": "2026-10-17T18:15:18.545408+09:00"
  },
  "commented_titles": [
-  {
-   "title": "Suspected fly tippers shamed with online photos",
-   "at": "2026-10-16T18:00:38.727331+09:00"
-  },
-  {
-   "title": "ヤマト運輸、顧客の個人情報５３０万件流出と発表…通販で「クロネコ代金後払いサービス」利用者",
-   "at": "2026-10-16T18:15:18.495113+09:00"
-  },
   {
    "title": "School headscarf ban sparks rare protests in Azerbaijan and row with Turkey",
    "at": "2026-10-16T18:30:29.877486+09:00"
@@ -261,12 +254,16 @@
   {
    "title": "ローマ教皇がプーチン大統領と電話会談 停戦を要請",
    "at": "2026-10-17T18:00:38.272067+09:00"
+  },
+  {
+   "title": "Three men jailed for 158 years each for murdering Australian and US surfers in Mexico",
+   "at": "2026-10-17T18:15:18.545408+09:00"
   }
  ],
- "last_quake_check": "2026-10-17T18:00:38.272067+09:00",
- "since_english": 2,
- "next_english": 3,
- "last_tick": "2026-10-17T18:00:38.272067+09:00",
+ "last_quake_check": "2026-10-17T18:15:18.545408+09:00",
+ "since_english": 1,
+ "next_english": 5,
+ "last_tick": "2026-10-17T18:15:18.545408+09:00",
  "french_day": "2026-10-17",
  "french_done": true,
  "french_after": 607

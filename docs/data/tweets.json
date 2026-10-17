@@ -1,25 +1,5 @@
 [
  {
-  "at": "2026-10-10T11:00+09:00",
-  "text": "職員の方が亡くなったと聞く。静かに悼む。省の備えが杞憂で終わるよう願う。",
-  "expression": "憂い",
-  "scene": "regular",
-  "lang": "ja",
-  "topic": "外務省が「ペスト連絡室」設置、ロシアの研究所職員死亡受け…茂木外相「緊張感を持って状況を注視する」",
-  "links": [
-   {
-    "source": "読売新聞",
-    "title": "外務省が「ペスト連絡室」設置、ロシアの研究所職員死亡受け…茂木外相「緊張感を持って状況を注視する」",
-    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9Bb2JpY1N3bFRIaDViS21FeDhEVTczVE1xZ1NOempfd0w0QWdZelRRVmJ3VkZZckNqRTU1R0w3SEplcUJGNExCMTdvQkNUYXRUYUdNNEl0OTM1R19wY0ZtUWZ2T1AyZw?oc=5"
-   },
-   {
-    "source": "NHK",
-    "title": "茂木外相 ロシアのペスト対策研究所の職員死亡で現地対策本部",
-    "url": "https://news.web.nhk/newsweb/na/nd-20261009de57475"
-   }
-  ]
- },
- {
   "at": "2026-10-10T11:15+09:00",
   "text": "金木犀の香が塀を越えてくる。姿を見せぬ客の、奥ゆかしい挨拶。",
   "expression": "微笑",
@@ -6159,6 +6139,31 @@
     "source": "NHK",
     "title": "ローマ教皇がプーチン大統領と電話会談 停戦を要請",
     "url": "https://news.web.nhk/newsweb/na/nd-20261017de60909"
+   }
+  ]
+ },
+ {
+  "at": "2026-10-17T18:15+09:00",
+  "text": "A sentence has been passed for those young surfers. It restores nothing, but it matters. Requiescat in pace.",
+  "expression": "憂い",
+  "scene": "regular",
+  "lang": "en",
+  "topic": "Three men jailed for 158 years each for murdering Australian and US surfers in Mexico",
+  "links": [
+   {
+    "source": "BBC",
+    "title": "Three men jailed for 158 years each for murdering Australian and US surfers in Mexico",
+    "url": "https://www.bbc.co.uk/news/articles/c3kgqjkzw29wo?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "source": "Guardian",
+    "title": "Mexican judge sentences three men to 158 years in prison for murders of Australian and US surfers​",
+    "url": "https://www.theguardian.com/australia-news/2026/oct/17/mexican-judge-sentences-three-men-to-158-years-in-prison-for-murders-of-australian-and-us-surfers-ntwnfb"
+   },
+   {
+    "source": "The Guardian",
+    "title": "Mexican judge sentences three men to 158 years in prison for murders of Australian and US surfers​",
+    "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNVlJ5TTkzWWhTYXF5d2pvVGw5UGMtek5wS1FVdldlNnRsMFVLbm9lR0dPeXptcDBHSWZKckttcW9TOWlFeFlTaElMRk9JLThsSUlPRnZZQnhNcmxBTHNWLVRuYkhMcmtkd0IycFNFOWk5YXkyZk5KaGE3ZEpESE0xTUJJWVZFMDYzQ215YVhvQ05pOHgya01IaUtaY3BHZUVJT1Z5MmFLbm1qdnJlOUF3SmhubkRudllEcWRYZEZaajRNMHNjN1NMQWY5QmpvLUM3NFQ2bW9QUkY0OXdERlpTa0NjZ0pZbDV1a3JNbUtKNVA?oc=5"
    }
   ]
  }
