@@ -1,9 +1,9 @@
 {
  "mood": {
-  "valence": -0.261,
-  "arousal": -0.163
+  "valence": -0.296,
+  "arousal": -0.097
  },
- "since_sarcasm": 10,
+ "since_sarcasm": 11,
  "day": "2026-10-18",
  "morning_done": true,
  "goodnight_done": false,
@@ -86,13 +86,10 @@
   "71b0ef6fe643": "2026-10-18T06:15:17.652981+09:00",
   "a60617572cba": "2026-10-18T06:30:27.072448+09:00",
   "0628238ad09c": "2026-10-18T07:30:25.919128+09:00",
-  "89ce2b559454": "2026-10-18T07:45:17.119460+09:00"
+  "89ce2b559454": "2026-10-18T07:45:17.119460+09:00",
+  "31bccf967c71": "2026-10-18T07:58:35.547893+09:00"
  },
  "commented_titles": [
-  {
-   "title": "They fled Russia, but the West sent them back",
-   "at": "2026-10-17T07:45:17.520131+09:00"
-  },
   {
    "title": "「めおと日和」芳根京子×本田響矢がanan表紙に、時代を超えて巡り合う2人を体現",
    "at": "2026-10-17T08:00:39.540592+09:00"
@@ -256,12 +253,16 @@
   {
    "title": "Anti-government protesters battle with police in Albania",
    "at": "2026-10-18T07:45:17.119460+09:00"
+  },
+  {
+   "title": "ゼレンスキー大統領 アメリカのロシア制裁免除に反発",
+   "at": "2026-10-18T07:58:35.547893+09:00"
   }
  ],
- "last_quake_check": "2026-10-18T07:45:17.119460+09:00",
- "since_english": 1,
+ "last_quake_check": "2026-10-18T07:58:35.547893+09:00",
+ "since_english": 2,
  "next_english": 3,
- "last_tick": "2026-10-18T07:45:17.119460+09:00",
+ "last_tick": "2026-10-18T07:58:35.547893+09:00",
  "french_day": "2026-10-18",
  "french_done": false,
  "french_after": 862
