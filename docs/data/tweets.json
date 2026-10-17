@@ -1,30 +1,5 @@
 [
  {
-  "at": "2026-10-10T06:09+09:00",
-  "text": "A Nobel for upholding international law. Rather like praising someone for remembering to lock the door. Kinmokusei is scenting the morning mist.",
-  "expression": "微笑",
-  "scene": "regular",
-  "lang": "en",
-  "topic": "Navi Pillay, former UN human rights chief, wins Nobel Peace Prize",
-  "links": [
-   {
-    "source": "BBC",
-    "title": "Navi Pillay, former UN human rights chief, wins Nobel Peace Prize",
-    "url": "https://www.bbc.co.uk/news/articles/cm9wz5kng0x1o?at_medium=RSS&at_campaign=rss"
-   },
-   {
-    "source": "Guardian",
-    "title": "ICJ judge Navi Pillay wins Nobel peace prize for promoting international law",
-    "url": "https://www.theguardian.com/world/2026/oct/09/navanethem-navi-pillay-wins-nobel-peace-prize"
-   },
-   {
-    "source": "Sky News",
-    "title": "Former UN human rights chief Navi Pillay wins the Nobel Peace Prize",
-    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQOF9vQWJzS0hfdHZNLTBpV01ITkVFSHlvdWh2V2ZrVHNZSGszT3JROEJxajI1ZkVkcERRZEdFR2xib2RGU1JSVmMtMzFGNUwxSHMwM3BXSVNIYW5pZDVoc2ExWVE2M2ZJWVdZemVPNE5iUlExeW9Tb09qWlJGb2k4RUtVNzQ2Vzh5bEsyZFhXbmVkTms2OXY4WjJrX3VUVEdDNWtsMzVn?oc=5"
-   }
-  ]
- },
- {
   "at": "2026-10-10T06:15+09:00",
   "text": "揃って暮らすと謳いながら、一方は数週間お待ちとな。仲良きことも順番なり。",
   "expression": "片眉を上げる",
@@ -6209,6 +6184,21 @@
     "source": "ITmedia",
     "title": "一部iPhoneで「インカメラのシャッター音」を消せる？　iOS 27で確認、注意点も - ITmedia Mobile",
     "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBvR3BlSnA2NC1lck85cFY2M2NtYXVFV0FqdVVHZWpRUVZiTWxPRWZlbUFnMzR3VW1pbmlDVzFqZ0xWcThkZldwZnAwMGx3UlpLV1M4MXptWTYxUWFseVlRQkRVeVVTVmxwdzl0elVtb9IBaEFVX3lxTE5GaDhmTXZKSW1kTUJHdDNCUm0zV0pocHBuZGNwU1FJTEM5WVZjTXhhNkhQWE9xZW5vc3ItY1lnMHRJZ0tCaTZhWVhKT1c4TDBfcm5KSi1HZ1FDUUoxMWNYb0hlMXJMWFpi?oc=5"
+   }
+  ]
+ },
+ {
+  "at": "2026-10-17T12:15+09:00",
+  "text": "約束した面会が、扉の前で立ち消えた。国の手筈も、門の内では通らぬことがある。",
+  "expression": "思案",
+  "scene": "regular",
+  "lang": "ja",
+  "topic": "スパイ容疑で拘束の道新記者との面会求め、日本大使館幹部が拘置所へ…調整済みのはずが会えず",
+  "links": [
+   {
+    "source": "読売新聞",
+    "title": "スパイ容疑で拘束の道新記者との面会求め、日本大使館幹部が拘置所へ…調整済みのはずが会えず",
+    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5lOHM5TmsyejNPa0VfNF84QkNKcVRHRzl3d2VZeW1nQTJGVUdXTFU3NE0zMmNJT0xZaG0yeTN0cGF6dlNfWkFmSUhCSEVyWWxiRWtEaVdYZjYyazFySEJmZ3ZB?oc=5"
    }
   ]
  }
