@@ -1,16 +1,14 @@
 {
  "mood": {
-  "valence": -0.353,
-  "arousal": 0.106
+  "valence": -0.19,
+  "arousal": 0.029
  },
- "since_sarcasm": 3,
+ "since_sarcasm": 4,
  "day": "2026-10-17",
  "morning_done": true,
  "goodnight_done": false,
  "sleeptalk_night": "2026-10-16",
  "commented": {
-  "158f10b018b1": "2026-10-15T13:45:18.853333+09:00",
-  "60f8d886127b": "2026-10-15T14:00:38.035183+09:00",
   "8fac60afbced": "2026-10-15T15:15:19.056530+09:00",
   "df0038057be2": "2026-10-15T15:30:27.305327+09:00",
   "a22828d5721f": "2026-10-15T15:45:18.296084+09:00",
@@ -90,10 +88,6 @@
   "2ce1620cf77e": "2026-10-17T13:33:54.338322+09:00"
  },
  "commented_titles": [
-  {
-   "title": "Maduro pleads not guilty to new torture-related charges in New York",
-   "at": "2026-10-16T14:00:38.188746+09:00"
-  },
   {
    "title": "【速報】アルカディアがサーバー復旧を発表 不正アクセス受け停止の防災情報配信システム 自治体側も防災情報の配信を順次再開（2026年10月15日掲載）｜YTV NEWS NNN",
    "at": "2026-10-16T14:15:19.054722+09:00"
@@ -267,10 +261,10 @@
    "at": "2026-10-17T13:33:54.338322+09:00"
   }
  ],
- "last_quake_check": "2026-10-17T13:33:54.338322+09:00",
- "since_english": 2,
+ "last_quake_check": "2026-10-17T14:15:17.822442+09:00",
+ "since_english": 3,
  "next_english": 5,
- "last_tick": "2026-10-17T14:00:36.331445+09:00",
+ "last_tick": "2026-10-17T14:15:17.822442+09:00",
  "french_day": "2026-10-17",
  "french_done": true,
  "french_after": 607
