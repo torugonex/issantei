@@ -1,25 +1,5 @@
 [
  {
-  "at": "2026-10-10T09:54+09:00",
-  "text": "Isaias, first Atlantic hurricane of the season, is gathering strength. Those in its path will be hoping it reconsiders.",
-  "expression": "思案",
-  "scene": "regular",
-  "lang": "en",
-  "topic": "Hurricane Isaias strengthens as it heads towards land",
-  "links": [
-   {
-    "source": "BBC",
-    "title": "Hurricane Isaias strengthens as it heads towards land",
-    "url": "https://www.bbc.co.uk/news/videos/cw073kg2dgr9o?at_medium=RSS&at_campaign=rss"
-   },
-   {
-    "source": "Guardian",
-    "title": "Isaias strengthens to become first Atlantic hurricane of 2026 season",
-    "url": "https://www.theguardian.com/environment/2026/oct/09/isaias-strengthens-first-atlantic-hurricane-2026"
-   }
-  ]
- },
- {
   "at": "2026-10-10T10:00+09:00",
   "text": "盗まれた情報を機械が束ねて、一人の人間の像に仕立てるとか。戸締りは、家の外にも要る時世なり。",
   "expression": "思案",
@@ -6176,6 +6156,15 @@
   "expression": "思案",
   "scene": "life",
   "lang": "ja",
+  "topic": null,
+  "links": []
+ },
+ {
+  "at": "2026-10-17T17:00+09:00",
+  "text": "Saturday, five o'clock, and nothing whatever accomplished. I call that a day rather well managed.",
+  "expression": "微笑",
+  "scene": "life",
+  "lang": "en",
   "topic": null,
   "links": []
  }
