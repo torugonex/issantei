@@ -1,14 +1,5 @@
 [
  {
-  "at": "2026-10-09T20:30+09:00",
-  "text": "Cosmos nodding along the lane, kinmokusei fading. Autumn leaves quietly, like a guest who dislikes fuss.",
-  "expression": "微笑",
-  "scene": "life",
-  "lang": "en",
-  "topic": null,
-  "links": []
- },
- {
   "at": "2026-10-09T20:45+09:00",
   "text": "才ある人も門前で待たされる世か。グラスの氷だけが気楽に溶けるなり。",
   "expression": "思案",
@@ -6176,5 +6167,20 @@
   "lang": "ja",
   "topic": null,
   "links": []
+ },
+ {
+  "at": "2026-10-17T09:15+09:00",
+  "text": "最高学府の長を選ぶ道は長い。支持の多さより、納得の深さが物を言う。",
+  "expression": "思案",
+  "scene": "regular",
+  "lang": "ja",
+  "topic": "東京大学の総長選考「藤垣氏は選考会議の最多の支持」",
+  "links": [
+   {
+    "source": "NHK",
+    "title": "東京大学の総長選考「藤垣氏は選考会議の最多の支持」",
+    "url": "https://news.web.nhk/newsweb/na/nd-20261017de60801"
+   }
+  ]
  }
 ]

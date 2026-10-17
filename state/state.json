@@ -1,9 +1,9 @@
 {
  "mood": {
-  "valence": -0.132,
-  "arousal": -0.076
+  "valence": -0.099,
+  "arousal": -0.082
  },
- "since_sarcasm": 2,
+ "since_sarcasm": 3,
  "day": "2026-10-17",
  "morning_done": true,
  "goodnight_done": false,
@@ -81,7 +81,8 @@
   "d9b4b0692835": "2026-10-17T08:00:39.540592+09:00",
   "dd3b6e6f0d4b": "2026-10-17T08:15:18.370873+09:00",
   "acae69fbe8b3": "2026-10-17T08:30:28.388910+09:00",
-  "8b68d22f1521": "2026-10-17T09:00:38.048435+09:00"
+  "8b68d22f1521": "2026-10-17T09:00:38.048435+09:00",
+  "32db0a57c647": "2026-10-17T09:15:17.865357+09:00"
  },
  "commented_titles": [
   {
@@ -239,12 +240,16 @@
   {
    "title": "Palestinians and US journalist injured by Israeli settlers in West Bank harvest attack",
    "at": "2026-10-17T09:00:38.048435+09:00"
+  },
+  {
+   "title": "東京大学の総長選考「藤垣氏は選考会議の最多の支持」",
+   "at": "2026-10-17T09:15:17.865357+09:00"
   }
  ],
- "last_quake_check": "2026-10-17T09:14:46.817838+09:00",
- "since_english": 2,
+ "last_quake_check": "2026-10-17T09:15:17.865357+09:00",
+ "since_english": 3,
  "next_english": 4,
- "last_tick": "2026-10-17T09:14:46.817838+09:00",
+ "last_tick": "2026-10-17T09:15:17.865357+09:00",
  "french_day": "2026-10-17",
  "french_done": false,
  "french_after": 607
