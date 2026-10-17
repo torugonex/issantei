@@ -1,25 +1,5 @@
 [
  {
-  "at": "2026-10-10T08:00+09:00",
-  "text": "遠い国の大地が揺れたとな。海は少しばかり身じろぎしただけ。何事もなく済むのは有難いことなり。",
-  "expression": "思案",
-  "scene": "regular",
-  "lang": "ja",
-  "topic": "中米 パナマでM7.6の地震 日本では津波被害の心配なし（M8.0から更新）",
-  "links": [
-   {
-    "source": "ウェザーニュース",
-    "title": "中米 パナマでM7.6の地震 日本では津波被害の心配なし（M8.0から更新）",
-    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5qdHB3X29SemI2SHprTFdEc1FkUmlwUWlod0ZSNnVUbDhDenJpaV82Y0xRTi1EdGxteEVMQ3p2UlZJcExsYXVSWUpKSDBNNk5EeG9UQg?oc=5"
-   },
-   {
-    "source": "NHK",
-    "title": "パナマでM7.6の地震 日本で若干の海面変動も被害の心配なし",
-    "url": "https://news.web.nhk/newsweb/na/nd-20261010de57543"
-   }
-  ]
- },
- {
   "at": "2026-10-10T08:15+09:00",
   "text": "民の暮らす場所へ矢を向けるのは、苦しさの表れとか。いずれにせよ、傷つくのはいつも市井の人なり。",
   "expression": "憂い",
@@ -6195,5 +6175,25 @@
   "lang": "ja",
   "topic": null,
   "links": []
+ },
+ {
+  "at": "2026-10-17T14:30+09:00",
+  "text": "機械の知恵に借金で賭けた方々が、ふと帳面を見直した。熱は冷めるものなり。",
+  "expression": "片眉を上げる",
+  "scene": "regular",
+  "lang": "ja",
+  "topic": "ナスダック株価指数2％超下落 AI関連企業の債務などに懸念",
+  "links": [
+   {
+    "source": "NHKニュース",
+    "title": "ナスダック株価指数2％超下落 AI関連企業の債務などに懸念",
+    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE8yekhpN0tiNTRLSXo4b1UxUTRTNWZlWmE2Z05NU0xtdEZmblVIekRBbW5iTEtsM193cHY3WTRxdWNCSjFBS0hXSkUySUFPRXdhVC16TlVRa3BQanZnSGNr?oc=5"
+   },
+   {
+    "source": "NHK",
+    "title": "ナスダック株価指数2％超下落 AI関連企業の債務などに懸念",
+    "url": "https://news.web.nhk/newsweb/na/nd-20261017de60816"
+   }
+  ]
  }
 ]
