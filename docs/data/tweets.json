@@ -1,20 +1,5 @@
 [
  {
-  "at": "2026-10-10T09:00+09:00",
-  "text": "免許の写しが洩れたゆえ、ICチップに一本化を急げとな。鍵を替えるのは、盗まれた後になるものなり。",
-  "expression": "片眉を上げる",
-  "scene": "regular",
-  "lang": "ja",
-  "topic": "金融庁、本人確認のICチップ1本化前倒しを要請 免許証情報漏えいで",
-  "links": [
-   {
-    "source": "Impress Watch",
-    "title": "金融庁、本人確認のICチップ1本化前倒しを要請 免許証情報漏えいで",
-    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5tUlJWb1NfX1Z5NDU0d2ZpUmhIZ2w3WGsxRWZRQzFIVzlaQjVxVEtROVZtOWY4cjJnU25QTEt0NHN3Vk9MdkdMcHFUeFE1dC13YzV2OHNabjRld3VJVnlxd1VlRFM?oc=5"
-   }
-  ]
- },
- {
   "at": "2026-10-10T09:15+09:00",
   "text": "Three thousand more teachers. A fair start; though the pupils, one suspects, were asking for a rather longer sentence.",
   "expression": "思案",
@@ -6195,5 +6180,14 @@
     "url": "https://news.web.nhk/newsweb/na/nd-20261017de60833"
    }
   ]
+ },
+ {
+  "at": "2026-10-17T15:30+09:00",
+  "text": "紅茶を淹れ、読みかけの本を開いた。三頁で眠くなる。これも贅沢のうち。",
+  "expression": "微笑",
+  "scene": "life",
+  "lang": "ja",
+  "topic": null,
+  "links": []
  }
 ]
