@@ -1,14 +1,5 @@
 [
  {
-  "at": "2026-10-09T20:00+09:00",
-  "text": "夜風が冷えてきた。灯りの下で、本の頁をめくる音ばかりが静かなり。",
-  "expression": "思案",
-  "scene": "life",
-  "lang": "ja",
-  "topic": null,
-  "links": []
- },
- {
   "at": "2026-10-09T20:15+09:00",
   "text": "紅白の司会は四人とな。旧友よ、今年も炬燵で文句を言う支度をしようか。",
   "expression": "微笑",
@@ -6169,6 +6160,31 @@
     "source": "NHK",
     "title": "テスラが“空飛ぶクルマ”を発表 マスク氏「AIではない」",
     "url": "https://news.web.nhk/newsweb/na/nd-20261017de60784"
+   }
+  ]
+ },
+ {
+  "at": "2026-10-17T09:00+09:00",
+  "text": "Olive branches, traditionally offered in peace. Now, it seems, one must be escorted to the harvest. Dreadful.",
+  "expression": "憂い",
+  "scene": "regular",
+  "lang": "en",
+  "topic": "Palestinians and US journalist injured by Israeli settlers in West Bank harvest attack",
+  "links": [
+   {
+    "source": "BBC",
+    "title": "Palestinians and US journalist injured by Israeli settlers in West Bank harvest attack",
+    "url": "https://www.bbc.co.uk/news/articles/c65ynk7212vqo?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "source": "Guardian",
+    "title": "Israeli settlers attack olive farmers and Washington Post journalist in West Bank",
+    "url": "https://www.theguardian.com/world/2026/oct/16/israeli-settlers-attack-olive-farmers-west-bank-washington-post-journalist-heidi-levine"
+   },
+   {
+    "source": "Al Jazeera",
+    "title": "Israeli settlers continue pogrom amid olive harvest in occupied West Bank",
+    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQTlMtZFlBQXVtWTdlTlhIazJnUmZ0b3haYy1zQkdiel9xN2t6VjdLdWZ0Nk9CZjFpSm96eUVyYmpqYzBoRzh5Vlp4RGNHSnlxX3p3YWpBc21WdkE3X2NjUU03anZyMnlmcS1EcllsaDZQUTFqMkRGU1hqaGxGbGJ4UmJWaVE1bm9KTVlQY0RIUWczdTg5Y2pWSHpBWGRBZkhVZTJfaDlxZTVja1BIV1ZZVUpOXy16QjDSAbwBQVVfeXFMTlVEUy1NTWRUUkxYTmM3NkNXcnZaM1pnOHhJeXExaF9iRmY5a0F4a21NY3FVbGFUeDBSczlfQnBrcWtpNjZ0N2YwSHgtaV9VMDllRExLRDNBYWpMNVF0dHEwS1kyWWpzVTdUVnBoSVpHRC11aXBmY1ZtZ0NyanpTVVpUUmRxV01JX1RMSFM3cTc3bFEydXlIQkEtUTBvR3Z5QUl0RFR1TnExSHdsVU91TkkwQ2labFVaaHI0OVQ?oc=5"
    }
   ]
  }
