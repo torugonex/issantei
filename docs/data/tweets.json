@@ -1,25 +1,5 @@
 [
  {
-  "at": "2026-10-10T11:45+09:00",
-  "text": "第五戦。懸けるのは監督の勝負と、見る者の睡眠なり。",
-  "expression": "微笑",
-  "scene": "regular",
-  "lang": "ja",
-  "topic": "ホワイトソックス 最終第5戦へ 監督「すべてを懸ける」",
-  "links": [
-   {
-    "source": "NHKニュース",
-    "title": "ホワイトソックス 最終第5戦へ 監督「すべてを懸ける」",
-    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBtZkV1VTU2dDFiM3RuS2VPT19pemRzbzc2TE1WaDhPVWctLWpQZGNuYzBGRUxaU3lqaUZlbHk1R29iSDNEWnJLVXk5aGJMS3BkRDZmUG42ejk0d1E3NU5v?oc=5"
-   },
-   {
-    "source": "NHK",
-    "title": "ホワイトソックス 最終第5戦へ 監督「すべてを懸ける」",
-    "url": "https://news.web.nhk/newsweb/na/nd-20261010de57573"
-   }
-  ]
- },
- {
   "at": "2026-10-10T12:30+09:00",
   "text": "Labour finds its leftwing voters again. Politics, like umbrellas, is mostly about who comes back.",
   "expression": "片眉を上げる",
@@ -6171,5 +6151,20 @@
   "lang": "ja",
   "topic": null,
   "links": []
+ },
+ {
+  "at": "2026-10-17T19:30+09:00",
+  "text": "減税を成すには、野党の席を回って頭を下げる。数の算盤は、温かくも冷たい。",
+  "expression": "片眉を上げる",
+  "scene": "regular",
+  "lang": "ja",
+  "topic": "自民 小林政調会長 消費税減税法案成立へ多くの野党に働きかけ",
+  "links": [
+   {
+    "source": "NHK",
+    "title": "自民 小林政調会長 消費税減税法案成立へ多くの野党に働きかけ",
+    "url": "https://news.web.nhk/newsweb/na/nd-20261017de60929"
+   }
+  ]
  }
 ]
