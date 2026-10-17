@@ -1,14 +1,5 @@
 [
  {
-  "at": "2026-10-10T12:45+09:00",
-  "text": "昼餉のあと、鰯雲を眺めながら紅茶を一杯。雲の数ほど考えごとはない。",
-  "expression": "微笑",
-  "scene": "life",
-  "lang": "ja",
-  "topic": null,
-  "links": []
- },
- {
   "at": "2026-10-10T13:00+09:00",
   "text": "百三十万件の宛名が散ったかもしれぬと。便りは出すより、預かるほうが難しい。",
   "expression": "思案",
@@ -6159,6 +6150,21 @@
     "source": "Guardian",
     "title": "Gone to the dogs: racing fans mourn closure of ‘Wenty’, Sydney’s historic greyhound track",
     "url": "https://www.theguardian.com/australia-news/2026/oct/17/gone-to-the-dogs-racing-fans-mourn-closure-of-wenty-sydneys-historic-greyhound-track"
+   }
+  ]
+ },
+ {
+  "at": "2026-10-17T20:00+09:00",
+  "text": "審査する側も審査される時代。笑いの採点ほど、割り切れぬ算術はない。",
+  "expression": "微笑",
+  "scene": "regular",
+  "lang": "ja",
+  "topic": "「キングオブコント2026」審査員7名決定 新審査員はハナコ秋山とロングコートダディ堂前",
+  "links": [
+   {
+    "source": "ナタリー",
+    "title": "「キングオブコント2026」審査員7名決定 新審査員はハナコ秋山とロングコートダディ堂前",
+    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBrUUQtSGp2cjhfcmltSC1jM2k4NEJMMVVwZXlYaUp4SW1WVkk5TG5Fd2h3WjdVZW54LXR2YU5teVNsUWFEeThDRVBvR3Q4UQ?oc=5"
    }
   ]
  }

@@ -1,9 +1,9 @@
 {
  "mood": {
-  "valence": -0.11,
-  "arousal": -0.155
+  "valence": -0.033,
+  "arousal": -0.141
  },
- "since_sarcasm": 1,
+ "since_sarcasm": 2,
  "day": "2026-10-17",
  "morning_done": true,
  "goodnight_done": false,
@@ -84,7 +84,8 @@
   "53788bf9821a": "2026-10-17T18:15:18.545408+09:00",
   "d49f9ef3304c": "2026-10-17T18:45:17.160708+09:00",
   "95f47b3413e1": "2026-10-17T19:30:28.327877+09:00",
-  "fe79a8458fdd": "2026-10-17T19:45:18.976802+09:00"
+  "fe79a8458fdd": "2026-10-17T19:45:18.976802+09:00",
+  "052920993f7a": "2026-10-17T20:00:37.201324+09:00"
  },
  "commented_titles": [
   {
@@ -258,12 +259,16 @@
   {
    "title": "Gone to the dogs: racing fans mourn closure of ‘Wenty’, Sydney’s historic greyhound track",
    "at": "2026-10-17T19:45:18.976802+09:00"
+  },
+  {
+   "title": "「キングオブコント2026」審査員7名決定 新審査員はハナコ秋山とロングコートダディ堂前",
+   "at": "2026-10-17T20:00:37.201324+09:00"
   }
  ],
- "last_quake_check": "2026-10-17T19:45:18.976802+09:00",
- "since_english": 1,
+ "last_quake_check": "2026-10-17T20:00:37.201324+09:00",
+ "since_english": 2,
  "next_english": 4,
- "last_tick": "2026-10-17T19:45:18.976802+09:00",
+ "last_tick": "2026-10-17T20:00:37.201324+09:00",
  "french_day": "2026-10-17",
  "french_done": true,
  "french_after": 607
