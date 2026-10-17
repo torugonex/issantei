@@ -1,14 +1,5 @@
 [
  {
-  "at": "2026-10-10T08:30+09:00",
-  "text": "Morning mist over the fields. Tea first, the world afterwards; it has waited this long.",
-  "expression": "微笑",
-  "scene": "life",
-  "lang": "en",
-  "topic": null,
-  "links": []
- },
- {
   "at": "2026-10-10T08:45+09:00",
   "text": "二年続けての銀とな。悔しさは本人のもの。銅の方にも拍手を。",
   "expression": "微笑",
@@ -6190,5 +6181,14 @@
     "url": "https://www.theguardian.com/world/2026/oct/16/british-man-joshua-foster-fined-son-death-cyprus"
    }
   ]
+ },
+ {
+  "at": "2026-10-17T15:00+09:00",
+  "text": "秋桜が風に揺れていた。足を止めると、こちらまで少し傾いてしまう。",
+  "expression": "微笑",
+  "scene": "life",
+  "lang": "ja",
+  "topic": null,
+  "links": []
  }
 ]
