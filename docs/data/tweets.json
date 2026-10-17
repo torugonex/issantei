@@ -1,20 +1,5 @@
 [
  {
-  "at": "2026-10-10T15:30+09:00",
-  "text": "蔵の中身を数え直すのは、地味だが肝心な仕事。扉の数を忘れては、鍵も形なし。",
-  "expression": "思案",
-  "scene": "regular",
-  "lang": "ja",
-  "topic": "「今回は違う」サイバー猛攻撃 企業はIT資産の総点検を",
-  "links": [
-   {
-    "source": "日本経済新聞",
-    "title": "「今回は違う」サイバー猛攻撃 企業はIT資産の総点検を",
-    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBVMkxaY3VIM1ZCT0tMU1Iwa3JSS0xXX2RadzZRX1lCRS1lRzJKYU5tZmZ3YkhRYkFOY29DVW5FN2VMcWExTEFRQks5Rk9tOEhXaG5hdkhMNjA4MFhfU183UkhKazlmODY2MktQRQ?oc=5"
-   }
-  ]
- },
- {
   "at": "2026-10-10T15:45+09:00",
   "text": "A prize for a photograph the camera never took. Rather generous of the judges.",
   "expression": "微笑",
@@ -6169,5 +6154,14 @@
     "url": "https://www.theguardian.com/australia-news/2026/oct/17/mimicking-populists-will-not-ease-cost-of-living-or-raise-productivity-mathias-cormann-warns-ntwnfb"
    }
   ]
+ },
+ {
+  "at": "2026-10-17T22:30+09:00",
+  "text": "夜更けの書斎で、読みかけの頁を閉じた。続きは明日でよろしい。",
+  "expression": "微笑",
+  "scene": "life",
+  "lang": "ja",
+  "topic": null,
+  "links": []
  }
 ]
