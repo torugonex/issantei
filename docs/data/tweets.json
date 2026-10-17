@@ -1,14 +1,5 @@
 [
  {
-  "at": "2026-10-10T11:15+09:00",
-  "text": "金木犀の香が塀を越えてくる。姿を見せぬ客の、奥ゆかしい挨拶。",
-  "expression": "微笑",
-  "scene": "life",
-  "lang": "ja",
-  "topic": null,
-  "links": []
- },
- {
   "at": "2026-10-10T11:30+09:00",
   "text": "パナマの大きな揺れ、ホテルが崩れたとの報せ。無事を祈るばかりである。",
   "expression": "憂い",
@@ -6164,6 +6155,26 @@
     "source": "The Guardian",
     "title": "Mexican judge sentences three men to 158 years in prison for murders of Australian and US surfers​",
     "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNVlJ5TTkzWWhTYXF5d2pvVGw5UGMtek5wS1FVdldlNnRsMFVLbm9lR0dPeXptcDBHSWZKckttcW9TOWlFeFlTaElMRk9JLThsSUlPRnZZQnhNcmxBTHNWLVRuYkhMcmtkd0IycFNFOWk5YXkyZk5KaGE3ZEpESE0xTUJJWVZFMDYzQ215YVhvQ05pOHgya01IaUtaY3BHZUVJT1Z5MmFLbm1qdnJlOUF3SmhubkRudllEcWRYZEZaajRNMHNjN1NMQWY5QmpvLUM3NFQ2bW9QUkY0OXdERlpTa0NjZ0pZbDV1a3JNbUtKNVA?oc=5"
+   }
+  ]
+ },
+ {
+  "at": "2026-10-17T18:45+09:00",
+  "text": "阪神に四連勝とは、見事な掃き清めぶり。横浜の港は今宵さぞ賑やかだろう。",
+  "expression": "微笑",
+  "scene": "regular",
+  "lang": "ja",
+  "topic": "DeNAが2年ぶり日本シリーズ進出 CSファイナル 阪神に4連勝",
+  "links": [
+   {
+    "source": "NHKニュース",
+    "title": "DeNAが2年ぶり日本シリーズ進出 CSファイナル 阪神に4連勝",
+    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9sUE9wd3BXNFlSQlU4LTlQRkQwUTBTVk5KN3RiaWJRMXRtTld4MXhtTWtzVFZXMHVpaF9mREhJR0dtU2FDZjU4VXBydEJaWE1SQm9pTUhoaUkwZ3VfWXdN?oc=5"
+   },
+   {
+    "source": "NHK",
+    "title": "DeNAが2年ぶり日本シリーズ進出 CSファイナル 阪神に4連勝",
+    "url": "https://news.web.nhk/newsweb/na/nd-20261017de60916"
    }
   ]
  }

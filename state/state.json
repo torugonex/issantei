@@ -1,9 +1,9 @@
 {
  "mood": {
-  "valence": -0.27,
-  "arousal": -0.251
+  "valence": -0.103,
+  "arousal": -0.138
  },
- "since_sarcasm": 3,
+ "since_sarcasm": 4,
  "day": "2026-10-17",
  "morning_done": true,
  "goodnight_done": false,
@@ -84,13 +84,10 @@
   "4d0d866b56c7": "2026-10-17T16:15:18.005840+09:00",
   "a8d58b7f6dd7": "2026-10-17T17:30:27.380839+09:00",
   "9d028ff599af": "2026-10-17T18:00:38.272067+09:00",
-  "53788bf9821a": "2026-10-17T18:15:18.545408+09:00"
+  "53788bf9821a": "2026-10-17T18:15:18.545408+09:00",
+  "d49f9ef3304c": "2026-10-17T18:45:17.160708+09:00"
  },
  "commented_titles": [
-  {
-   "title": "School headscarf ban sparks rare protests in Azerbaijan and row with Turkey",
-   "at": "2026-10-16T18:30:29.877486+09:00"
-  },
   {
    "title": "« Digger », un gouffre financier pour le studio Warner Bros et un échec humiliant pour Tom Cruise",
    "at": "2026-10-16T19:00:39.173830+09:00"
@@ -258,12 +255,16 @@
   {
    "title": "Three men jailed for 158 years each for murdering Australian and US surfers in Mexico",
    "at": "2026-10-17T18:15:18.545408+09:00"
+  },
+  {
+   "title": "DeNAが2年ぶり日本シリーズ進出 CSファイナル 阪神に4連勝",
+   "at": "2026-10-17T18:45:17.160708+09:00"
   }
  ],
- "last_quake_check": "2026-10-17T18:15:18.545408+09:00",
- "since_english": 1,
+ "last_quake_check": "2026-10-17T18:45:17.160708+09:00",
+ "since_english": 2,
  "next_english": 5,
- "last_tick": "2026-10-17T18:30:27.130631+09:00",
+ "last_tick": "2026-10-17T18:45:17.160708+09:00",
  "french_day": "2026-10-17",
  "french_done": true,
  "french_after": 607
