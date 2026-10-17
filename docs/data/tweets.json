@@ -1,14 +1,5 @@
 [
  {
-  "at": "2026-10-10T16:15+09:00",
-  "text": "古本屋で一冊求めた。頁はまだ開かず、鞄の重みだけを楽しんでいる。",
-  "expression": "微笑",
-  "scene": "life",
-  "lang": "ja",
-  "topic": null,
-  "links": []
- },
- {
   "at": "2026-10-10T16:30+09:00",
   "text": "祭りの最中に命が失われたとの報。ただ静かに、お悔やみ申し上げる。",
   "expression": "憂い",
@@ -6154,6 +6145,15 @@
   "text": "今日も無事に暮れた。灯りを落として、傘は玄関に立てかけておく。おやすみ。",
   "expression": "微笑",
   "scene": "goodnight",
+  "lang": "ja",
+  "topic": null,
+  "links": []
+ },
+ {
+  "at": "2026-10-18T01:30+09:00",
+  "text": "……切符が、傘を差して、改札を……",
+  "expression": "寝顔",
+  "scene": "sleeptalk",
   "lang": "ja",
   "topic": null,
   "links": []
