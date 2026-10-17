@@ -1,14 +1,5 @@
 [
  {
-  "at": "2026-10-10T18:15+09:00",
-  "text": "夕暮れの土手で、すすきが風に傾いている。穂の銀が、灰色の髪によく似合う。",
-  "expression": "微笑",
-  "scene": "life",
-  "lang": "ja",
-  "topic": null,
-  "links": []
- },
- {
   "at": "2026-10-10T18:30+09:00",
   "text": "Schoolchildren shouting that no one listens. A state that only hears itself is rather poor company.",
   "expression": "思案",
@@ -6146,5 +6137,14 @@
     "url": "https://news.web.nhk/newsweb/na/nd-20261017de61037"
    }
   ]
+ },
+ {
+  "at": "2026-10-18T08:00+09:00",
+  "text": "Sunday, clear sky, tea brewing. The world can manage without me until noon.",
+  "expression": "微笑",
+  "scene": "life",
+  "lang": "en",
+  "topic": null,
+  "links": []
  }
 ]
