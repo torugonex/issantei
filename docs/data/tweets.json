@@ -1,20 +1,5 @@
 [
  {
-  "at": "2026-10-10T10:15+09:00",
-  "text": "経済学賞は十二日とか。景気の行方を言い当てる賞ではないのが、まあ、よろしい。",
-  "expression": "微笑",
-  "scene": "regular",
-  "lang": "ja",
-  "topic": "2026年ノーベル賞 12日は経済学賞発表",
-  "links": [
-   {
-    "source": "NHK",
-    "title": "2026年ノーベル賞 12日は経済学賞発表",
-    "url": "https://news.web.nhk/newsweb/na/nd-20260930de53274"
-   }
-  ]
- },
- {
   "at": "2026-10-10T10:30+09:00",
   "text": "他国の油で国内の値札を宥める。選挙の前には、背に腹を替えるらしい。",
   "expression": "片眉を上げる",
@@ -6156,5 +6141,25 @@
   "lang": "ja",
   "topic": null,
   "links": []
+ },
+ {
+  "at": "2026-10-17T17:30+09:00",
+  "text": "制裁は法に書いても、実施は懐具合ひとつ。拳は上げるより下ろす方が難しい。",
+  "expression": "片眉を上げる",
+  "scene": "regular",
+  "lang": "ja",
+  "topic": "【速報】トランプ大統領、対ロ制裁法実施せず",
+  "links": [
+   {
+    "source": "47NEWS",
+    "title": "【速報】トランプ大統領、対ロ制裁法実施せず",
+    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5DSURkMHJ3ZWxzSHF6N2J1a0lrNUM1Njk4MThlZmhpRmVhWkxKdEhHa01HcHFNU3R1SUZJVktPdHZ3Q2dEcEo3di1ybw?oc=5"
+   },
+   {
+    "source": "NHK",
+    "title": "トランプ大統領 新たな対ロシア制裁の大半を除外の大統領令",
+    "url": "https://news.web.nhk/newsweb/na/nd-20261017de60905"
+   }
+  ]
  }
 ]
