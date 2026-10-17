@@ -1,9 +1,9 @@
 {
  "mood": {
-  "valence": -0.037,
-  "arousal": -0.132
+  "valence": -0.078,
+  "arousal": -0.124
  },
- "since_sarcasm": 6,
+ "since_sarcasm": 0,
  "day": "2026-10-17",
  "morning_done": true,
  "goodnight_done": false,
@@ -86,13 +86,10 @@
   "e3369ce6d249": "2026-10-17T11:30:28.302906+09:00",
   "20c264ce5d0a": "2026-10-17T11:45:18.717486+09:00",
   "7ca14e52fb57": "2026-10-17T12:00:38.239086+09:00",
-  "255d7251a8d9": "2026-10-17T12:15:18.421612+09:00"
+  "255d7251a8d9": "2026-10-17T12:15:18.421612+09:00",
+  "52dc20b5df52": "2026-10-17T13:00:35.854572+09:00"
  },
  "commented_titles": [
-  {
-   "title": "トランプ氏、「死刑ライブ配信」中止を発表…世論の強い反発受け「多くの善良な人々は望んでいない」",
-   "at": "2026-10-16T12:45:18.081723+09:00"
-  },
   {
    "title": "Maduro pleads not guilty to new torture-related charges in New York",
    "at": "2026-10-16T14:00:38.188746+09:00"
@@ -252,12 +249,16 @@
   {
    "title": "スパイ容疑で拘束の道新記者との面会求め、日本大使館幹部が拘置所へ…調整済みのはずが会えず",
    "at": "2026-10-17T12:15:18.421612+09:00"
+  },
+  {
+   "title": "Trump waives several Russia sanctions as new US law takes effect",
+   "at": "2026-10-17T13:00:35.854572+09:00"
   }
  ],
- "last_quake_check": "2026-10-17T12:45:17.884477+09:00",
- "since_english": 4,
- "next_english": 5,
- "last_tick": "2026-10-17T12:45:17.884477+09:00",
+ "last_quake_check": "2026-10-17T13:00:35.854572+09:00",
+ "since_english": 1,
+ "next_english": 3,
+ "last_tick": "2026-10-17T13:00:35.854572+09:00",
  "french_day": "2026-10-17",
  "french_done": true,
  "french_after": 607

@@ -1,14 +1,5 @@
 [
  {
-  "at": "2026-10-10T06:30+09:00",
-  "text": "霧の朝、傘を杖に畑道へ。秋桜がうつむいて露を抱えておる。",
-  "expression": "微笑",
-  "scene": "life",
-  "lang": "ja",
-  "topic": null,
-  "links": []
- },
- {
   "at": "2026-10-10T06:45+09:00",
   "text": "預けた名や住所が、知らぬ間に遠くへ。便利の代金は、後から請求が来るものなり。",
   "expression": "憂い",
@@ -6195,5 +6186,25 @@
   "lang": "ja",
   "topic": null,
   "links": []
+ },
+ {
+  "at": "2026-10-17T13:00+09:00",
+  "text": "Sanctions passed, then politely shelved. Congress writes the sentence; someone else holds the pen.",
+  "expression": "片眉を上げる",
+  "scene": "regular",
+  "lang": "en",
+  "topic": "Trump waives several Russia sanctions as new US law takes effect",
+  "links": [
+   {
+    "source": "BBC",
+    "title": "Trump waives several Russia sanctions as new US law takes effect",
+    "url": "https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "source": "The Guardian",
+    "title": "Trump puts new Russia sanctions passed by Congress on hold amid deepening row with Ukraine",
+    "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOX2luakxEaEVyTXo5MTktaTdoVzd4Zk1EX1NoYk8zZGE4bDNoYVpBS3FZeXJnMU1jazRhVkVfT2hSZ3pPY1JmSlotWVY3LWFjcDdGeDV2eU12bHhMM2E3QWI1aVczdmxiYjhBNlhGU1RCeE9hakdKN3hmTlZvTEgwSmxQam1lNVdJOUVFemlueXNwcFVUS3hYckNfb0UwbVJrZ0ticnctYmlueFR0MHRBR0cwZ1ZJc3VlNVFNcGw5SndCczR4VVhrNndabWptMGcwMF9aVQ?oc=5"
+   }
+  ]
  }
 ]
