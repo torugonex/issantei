@@ -1,14 +1,5 @@
 [
  {
-  "at": "2026-10-10T19:15+09:00",
-  "text": "夕餉のあと、紅茶を濃いめに淹れた。湯気の向こうで、本の頁が静かに進む。",
-  "expression": "微笑",
-  "scene": "life",
-  "lang": "ja",
-  "topic": null,
-  "links": []
- },
- {
   "at": "2026-10-10T19:30+09:00",
   "text": "Crickets at it again this evening. A modest orchestra, but it never once asks for applause.",
   "expression": "微笑",
@@ -6151,5 +6142,14 @@
     "url": "https://news.web.nhk/newsweb/na/nd-20261018de61068"
    }
   ]
+ },
+ {
+  "at": "2026-10-18T08:45+09:00",
+  "text": "Clear Sunday morning. Read the same page twice, and the second reading was no wiser. Tea, then.",
+  "expression": "思案",
+  "scene": "life",
+  "lang": "en",
+  "topic": null,
+  "links": []
  }
 ]
