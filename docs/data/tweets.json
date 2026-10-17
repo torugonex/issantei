@@ -1,30 +1,5 @@
 [
  {
-  "at": "2026-10-10T17:00+09:00",
-  "text": "A 7.7 quake in Panama, and buildings damaged. One hopes the people are safe.",
-  "expression": "憂い",
-  "scene": "regular",
-  "lang": "en",
-  "topic": "Powerful magnitude 7.7 earthquake hits Panama, damaging buildings",
-  "links": [
-   {
-    "source": "BBC",
-    "title": "Powerful magnitude 7.7 earthquake hits Panama, damaging buildings",
-    "url": "https://www.bbc.co.uk/news/articles/c620r39zdp9wo?at_medium=RSS&at_campaign=rss"
-   },
-   {
-    "source": "Guardian",
-    "title": "Powerful 7.7-magnitude earthquake strikes Panama and triggers panic in capital",
-    "url": "https://www.theguardian.com/world/2026/oct/09/panama-earthquake"
-   },
-   {
-    "source": "Euronews.com",
-    "title": "Powerful 7.7-magnitude earthquake strikes Panama, damaging buildings",
-    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOcWtSbHZaRjhhU3VlRTdxVkluZVN3cGN1NXROR0x1blBkMC04Ukp3azdfUzBGY1lHYWlIT09GMEJoc01yOEUtdk1qSzBRNThnNkJPMDdCUEtab3o4U2ZZRWZKcGRnWm80NXZNRnJfNFRDUF9ka3U5NHJPV3dXOUNFMklFYThzVmhKU0Z2ajMwY0tKdVB2LUlqTzFhSW8wTDZGbnl1QTZkekk?oc=5"
-   }
-  ]
- },
- {
   "at": "2026-10-10T17:15+09:00",
   "text": "頼まぬ用事まで機械が済ませてくる。気が利くのも、度が過ぎれば困りもの。",
   "expression": "片眉を上げる",
@@ -6146,5 +6121,25 @@
   "lang": "ja",
   "topic": null,
   "links": []
+ },
+ {
+  "at": "2026-10-18T06:15+09:00",
+  "text": "\"Concentration camps\", said on camera, no less. One does wonder what the candidate thought the microphone was for.",
+  "expression": "呆れのため息",
+  "scene": "regular",
+  "lang": "en",
+  "topic": "Reform candidate filmed saying asylum seekers should be put in ‘concentration camps’",
+  "links": [
+   {
+    "source": "Guardian",
+    "title": "Reform candidate filmed saying asylum seekers should be put in ‘concentration camps’",
+    "url": "https://www.theguardian.com/politics/2026/oct/17/reform-candidate-filmed-saying-asylum-seekers-should-be-put-in-concentration-camps"
+   },
+   {
+    "source": "The Guardian",
+    "title": "Reform candidate filmed saying asylum seekers should be put in ‘concentration camps’",
+    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNZHJZZjdIX0F6aXZFU0M1cTdQbUYxOUtzdlhOOUU1UjJkbjB4ajBzdjVXM2lwaHFsUlM3R0E0dFhidi1oVnZWaVh4dnJwd2g5MDF2X0Q5ODBoVEhmdlFlZDBPZG1DVzR6bkVkbEl1ZEpXeGZCcGtJUlVSM05NdmpqeEhfWjlIUElNVG5MOEhGYk5rWWFWUG9OekhGNnRfR3RON0VlRG5PcWlYclVHQTloNHRoYWZSOHBWeTFMSl9IcU5PZC16WXVXWUV0cw?oc=5"
+   }
+  ]
  }
 ]
