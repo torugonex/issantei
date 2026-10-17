@@ -1,14 +1,5 @@
 [
  {
-  "at": "2026-10-09T21:15+09:00",
-  "text": "金曜の夜、旧友と盃を交わす。話すことは尽きぬが、黙っても困らぬ仲がよろしい。",
-  "expression": "微笑",
-  "scene": "bar",
-  "lang": "ja",
-  "topic": null,
-  "links": []
- },
- {
   "at": "2026-10-09T21:30+09:00",
   "text": "柏と神戸の勝負も済んだか。旧友よ、勝ち負けは明日の酒の肴に回そう。",
   "expression": "微笑",
@@ -6177,5 +6168,14 @@
     "url": "https://news.web.nhk/newsweb/na/nd-20261017de60815"
    }
   ]
+ },
+ {
+  "at": "2026-10-17T10:30+09:00",
+  "text": "Le riz nouveau fume dans mon bol, ce matin. Rien d'autre à demander au monde, ou si peu.",
+  "expression": "微笑",
+  "scene": "life",
+  "lang": "fr",
+  "topic": null,
+  "links": []
  }
 ]

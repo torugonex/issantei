@@ -1,9 +1,9 @@
 {
  "mood": {
-  "valence": -0.099,
-  "arousal": -0.068
+  "valence": 0.001,
+  "arousal": -0.126
  },
- "since_sarcasm": 5,
+ "since_sarcasm": 6,
  "day": "2026-10-17",
  "morning_done": true,
  "goodnight_done": false,
@@ -84,14 +84,6 @@
   "9e0fc67d26d0": "2026-10-17T10:00:38.842887+09:00"
  },
  "commented_titles": [
-  {
-   "title": "ポータブルゲーミングPCをSwitchのようなゲーム機として使うには？「ROG XBOX Ally X20」で試してみた",
-   "at": "2026-10-16T10:15:18.108405+09:00"
-  },
-  {
-   "title": "UK HRT shortages: which products are affected and what to do about it",
-   "at": "2026-10-16T10:23:59.270488+09:00"
-  },
   {
    "title": "「エモいの極みぃぃぃ！」芳根京子＆本田響矢＆小関裕太＆小宮璃央のオフショ連発にファン歓喜！レアな“3ショット”も！『波うららかに、めおと日和』",
    "at": "2026-10-16T11:30:30.256408+09:00"
@@ -241,11 +233,11 @@
    "at": "2026-10-17T10:00:38.842887+09:00"
   }
  ],
- "last_quake_check": "2026-10-17T10:00:38.842887+09:00",
- "since_english": 2,
+ "last_quake_check": "2026-10-17T10:30:26.381788+09:00",
+ "since_english": 0,
  "next_english": 3,
- "last_tick": "2026-10-17T10:15:18.529330+09:00",
+ "last_tick": "2026-10-17T10:30:26.381788+09:00",
  "french_day": "2026-10-17",
- "french_done": false,
+ "french_done": true,
  "french_after": 607
 }
