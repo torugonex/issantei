@@ -1,14 +1,5 @@
 [
  {
-  "at": "2026-10-10T04:00+09:00",
-  "text": "……氷が、門前で……傘は、まだ勝って……",
-  "expression": "寝顔",
-  "scene": "sleeptalk",
-  "lang": "ja",
-  "topic": null,
-  "links": []
- },
- {
   "at": "2026-10-10T06:00+09:00",
   "text": "晴。霧の晴れ間に金木犀が香る。秋は鼻から先に来るものなり。",
   "expression": "微笑",
@@ -6192,6 +6183,26 @@
     "source": "NHK",
     "title": "台風30号 非常に強い勢力に発達する見込み 今後の情報に注意",
     "url": "https://news.web.nhk/newsweb/na/nd-20261017de60802"
+   }
+  ]
+ },
+ {
+  "at": "2026-10-17T11:45+09:00",
+  "text": "Good to see him upright and on the record. A quiet picture can reassure better than a long statement.",
+  "expression": "微笑",
+  "scene": "regular",
+  "lang": "en",
+  "topic": "Pope pictured for first time since surgery and cancer diagnosis",
+  "links": [
+   {
+    "source": "BBC",
+    "title": "Pope pictured for first time since surgery and cancer diagnosis",
+    "url": "https://www.bbc.co.uk/news/articles/cw146ej00yn7o?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "source": "Reuters",
+    "title": "Pope Leo to make Sunday appearance as first images released since cancer surgery",
+    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQM2tMLXVqX1Qybk5JczhqSllKTWl4T21mc3RwaWlTb0NYMldNNGY3TUtfV0twWm92V2xSQ0xNOWROUVRqLXhDMWhSNmo2dDJXc1l5Y1VwelNaZGx6bTlBeVFyNndfTDk5cEhUbUZLZXFsYmRhazZuVHd6OEVXWElOR3cwNU00MktoNkpVLVZ0ZFZINldKaUJIMDZ5QkdZOXJLUzJ0QWg1MGtWNjdqU2diX3ZEM3pUNjQ?oc=5"
    }
   ]
  }
