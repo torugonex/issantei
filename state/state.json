@@ -1,9 +1,9 @@
 {
  "mood": {
-  "valence": -0.276,
-  "arousal": -0.034
+  "valence": -0.132,
+  "arousal": -0.076
  },
- "since_sarcasm": 1,
+ "since_sarcasm": 2,
  "day": "2026-10-17",
  "morning_done": true,
  "goodnight_done": false,
@@ -84,10 +84,6 @@
   "8b68d22f1521": "2026-10-17T09:00:38.048435+09:00"
  },
  "commented_titles": [
-  {
-   "title": "米大統領、銃殺刑配信中止 国内外の反発受け判断（共同通信）",
-   "at": "2026-10-16T09:00:39.648676+09:00"
-  },
   {
    "title": "Brazil's Congress approves shorter working week in win for Lula",
    "at": "2026-10-16T09:15:18.490132+09:00"
@@ -245,10 +241,10 @@
    "at": "2026-10-17T09:00:38.048435+09:00"
   }
  ],
- "last_quake_check": "2026-10-17T09:00:38.048435+09:00",
- "since_english": 1,
+ "last_quake_check": "2026-10-17T09:14:46.817838+09:00",
+ "since_english": 2,
  "next_english": 4,
- "last_tick": "2026-10-17T09:00:38.048435+09:00",
+ "last_tick": "2026-10-17T09:14:46.817838+09:00",
  "french_day": "2026-10-17",
  "french_done": false,
  "french_after": 607
