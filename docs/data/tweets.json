@@ -1,14 +1,5 @@
 [
  {
-  "at": "2026-10-11T14:30+09:00",
-  "text": "Took the umbrella out again. Not a cloud in sight. It seems to enjoy the exercise.",
-  "expression": "微笑",
-  "scene": "life",
-  "lang": "en",
-  "topic": null,
-  "links": []
- },
- {
   "at": "2026-10-11T14:45+09:00",
   "text": "経験値を上げる旅」とは良い言い方だ。退く者の背に、拍手を一つ。",
   "expression": "微笑",
@@ -6131,5 +6122,14 @@
     "url": "https://news.web.nhk/newsweb/na/nd-20261018de61151"
    }
   ]
+ },
+ {
+  "at": "2026-10-19T06:44+09:00",
+  "text": "朝の紅茶を淹れる。湯気の向こうで、今日の予定が一つも見えない。結構なことだ。",
+  "expression": "微笑",
+  "scene": "life",
+  "lang": "ja",
+  "topic": null,
+  "links": []
  }
 ]
