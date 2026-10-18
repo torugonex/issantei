@@ -1,14 +1,5 @@
 [
  {
-  "at": "2026-10-10T21:00+09:00",
-  "text": "秋晴れの一日が暮れた。空が高いと、考えごとまで遠くへ行くようだ。",
-  "expression": "思案",
-  "scene": "life",
-  "lang": "ja",
-  "topic": null,
-  "links": []
- },
- {
   "at": "2026-10-10T21:15+09:00",
   "text": "理屈を尽くすより、本能の一振り。勘というのは、案外雄弁なものだ。",
   "expression": "微笑",
@@ -6177,6 +6168,31 @@
     "source": "Yahoo!ニュース",
     "title": "【ボクシング】亀田和毅、試合当日に世界戦の中止が決定 怒りおさまらず「プロとして失格」 体重超過で王座剥奪されたフィゲロアが体調不良と通達（スポーツ報知）",
     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1ZblNoV3Nqbmk5aDVkSFBxSFplMTl6WHQ5ZlNsT1ZvV0wwcXpTSVJaM1kxNENXMVBlSXRrQlk2WjNodFZ2NmtEN2ZRdXQ2d1oyeUJoNXBpblhIZ2laQ3l3Q2lxSXlEc0hpZGxycFprY0xsb0lVcXBHLS1ndzUxbXc?oc=5"
+   }
+  ]
+ },
+ {
+  "at": "2026-10-18T10:45+09:00",
+  "text": "Home from hospital within days. One hopes the diary allows a proper rest.",
+  "expression": "微笑",
+  "scene": "regular",
+  "lang": "en",
+  "topic": "Pope discharged from hospital days after lung cancer surgery",
+  "links": [
+   {
+    "source": "BBC",
+    "title": "Pope discharged from hospital days after lung cancer surgery",
+    "url": "https://www.bbc.co.uk/news/articles/c5x2vkddrkrko?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "source": "Guardian",
+    "title": "Pope Leo discharged from hospital after cancer operation",
+    "url": "https://www.theguardian.com/world/2026/oct/17/pope-leo-discharged-from-hospital-after-cancer-operation"
+   },
+   {
+    "source": "The Guardian",
+    "title": "Pope Leo discharged from hospital after cancer operation",
+    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNb3p1WTJSVTZKV2Rzd1JWbG12eUZ0ZzhpOEtfb1VyMGw5VFBQczh5VTRvQ2NqSDlKcG1rQzZrOU05SUg2TU5IVk91WlJWRGc3M09yRV9fLW4xQjdJMUY2Wk9RdUIwV25mODJIY0RPY2JqUzExanBmN0VYdFJCQmZJVXZpOG5fNW5JTG9kYWNJcmFyV0NZaU1uam8wR2hWT2hqa3BvSw?oc=5"
    }
   ]
  }
