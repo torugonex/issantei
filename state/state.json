@@ -1,9 +1,9 @@
 {
  "mood": {
-  "valence": -0.24,
-  "arousal": -0.204
+  "valence": -0.205,
+  "arousal": -0.203
  },
- "since_sarcasm": 1,
+ "since_sarcasm": 2,
  "day": "2026-10-18",
  "morning_done": true,
  "goodnight_done": false,
@@ -91,13 +91,10 @@
   "cd1e6e2923aa": "2026-10-18T13:30:26.160241+09:00",
   "cc07c1a75fa6": "2026-10-18T13:45:17.499165+09:00",
   "ec704c922b73": "2026-10-18T14:00:37.662408+09:00",
-  "f9eb57dc77e4": "2026-10-18T14:11:54.672364+09:00"
+  "f9eb57dc77e4": "2026-10-18T14:11:54.672364+09:00",
+  "0d0a72b99e40": "2026-10-18T14:45:18.309508+09:00"
  },
  "commented_titles": [
-  {
-   "title": "ナスダック株価指数2％超下落 AI関連企業の債務などに懸念",
-   "at": "2026-10-17T14:30:26.502261+09:00"
-  },
   {
    "title": "British man fined €3,000 for causing two-year-old son’s death in Cyprus",
    "at": "2026-10-17T14:45:18.977029+09:00"
@@ -257,12 +254,16 @@
   {
    "title": "‘4,000 people minding our own business’: four decades on, Falklands again face a hostile Argentina",
    "at": "2026-10-18T14:11:54.672364+09:00"
+  },
+  {
+   "title": "悪天候でスケジュールが二転三転のALCSは両チームの投手起用にどう影響する!? そしてブルワーズ有利に!?｜MLBポストシーズン2026（スポーティングニュース日本版）",
+   "at": "2026-10-18T14:45:18.309508+09:00"
   }
  ],
- "last_quake_check": "2026-10-18T14:30:24.795163+09:00",
- "since_english": 0,
+ "last_quake_check": "2026-10-18T14:45:18.309508+09:00",
+ "since_english": 1,
  "next_english": 4,
- "last_tick": "2026-10-18T14:30:24.795163+09:00",
+ "last_tick": "2026-10-18T14:45:18.309508+09:00",
  "french_day": "2026-10-18",
  "french_done": true,
  "french_after": 862
