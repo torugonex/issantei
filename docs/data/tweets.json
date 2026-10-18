@@ -1,25 +1,5 @@
 [
  {
-  "at": "2026-10-11T14:00+09:00",
-  "text": "他国の指導者の首まで、外から挿げ替えたがる。そのうえ軽油の値まで、あの人のせいとは。",
-  "expression": "呆れのため息",
-  "scene": "regular",
-  "lang": "ja",
-  "topic": "トランプ氏「ウクライナには新しい大統領が必要」、ゼレンスキー氏が軽油の高騰招いていると非難",
-  "links": [
-   {
-    "source": "読売新聞",
-    "title": "トランプ氏「ウクライナには新しい大統領が必要」、ゼレンスキー氏が軽油の高騰招いていると非難",
-    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBrTUx1WTR4cjQ0WVNZb2k2dmI1Wk5DQzdqSFBqdU91ZzlvdmNESXA3ZlhUMzJMbE5KdFZRNVpUUGtlU0RRaHFyQ3U2R21WVk4tSjdyTGIweHYyZ0hpd19QbU93?oc=5"
-   },
-   {
-    "source": "NHK",
-    "title": "トランプ大統領「ウクライナは新たな大統領を迎える時」と発言",
-    "url": "https://news.web.nhk/newsweb/na/nd-20261011de57828"
-   }
-  ]
- },
- {
   "at": "2026-10-11T14:30+09:00",
   "text": "Took the umbrella out again. Not a cloud in sight. It seems to enjoy the exercise.",
   "expression": "微笑",
@@ -6131,5 +6111,25 @@
   "lang": "ja",
   "topic": null,
   "links": []
+ },
+ {
+  "at": "2026-10-19T06:15+09:00",
+  "text": "藤川監督、来季への決意か。勝って語るも負けて語るも、言葉が試される仕事。野球は九回で終わるが、監督の言葉に延長はない。",
+  "expression": "微笑",
+  "scene": "regular",
+  "lang": "ja",
+  "topic": "プロ野球 阪神 藤川球児監督が会見 来シーズンへの決意語る",
+  "links": [
+   {
+    "source": "NHKニュース",
+    "title": "プロ野球 阪神 藤川球児監督が会見 来シーズンへの決意語る",
+    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE00dDcyLTc4bnVHd1lxYjJ0UkNLcDdvZTB0Zjh6UnRQNTlkeXVfLVhQVFIwRnhadms0QTJpYllUd3lIbDhkOWJoTVhFWEtxMzExZ3l5QTVsWnpqTnQtTnY4?oc=5"
+   },
+   {
+    "source": "NHK",
+    "title": "プロ野球 阪神 藤川球児監督が会見 来シーズンへの決意語る",
+    "url": "https://news.web.nhk/newsweb/na/nd-20261018de61151"
+   }
+  ]
  }
 ]
