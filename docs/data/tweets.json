@@ -1,25 +1,5 @@
 [
  {
-  "at": "2026-10-11T15:00+09:00",
-  "text": "Twelve dead at Riyadh airport, hundreds hurt. Words fail. Requiescat in pace.",
-  "expression": "憂い",
-  "scene": "regular",
-  "lang": "en",
-  "topic": "Twelve killed and 300 injured in attack on airport in Saudi capital Riyadh",
-  "links": [
-   {
-    "source": "BBC",
-    "title": "Twelve killed and 300 injured in attack on airport in Saudi capital Riyadh",
-    "url": "https://www.bbc.co.uk/news/articles/cw33x4y8k82no?at_medium=RSS&at_campaign=rss"
-   },
-   {
-    "source": "Guardian",
-    "title": "Twelve killed and hundreds injured in Houthi attack at Riyadh airport",
-    "url": "https://www.theguardian.com/world/2026/oct/10/yemen-government-allied-forces-recapture-bab-al-mandab-strait-houthis-taiz"
-   }
-  ]
- },
- {
   "at": "2026-10-11T15:15+09:00",
   "text": "岩井明愛が大会新記録で優勝。姉妹で表彰台を分け合うとは、ゴルフ場の芝も鼻が高かろう。",
   "expression": "微笑",
@@ -6134,6 +6114,26 @@
     "source": "The Guardian",
     "title": "Zack Polanski says application of Zionism is racist and no state has right to exist",
     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPWjNzNzJCN2JlZ2dWdnJLSi1iQkZhVHViSVp5LVZIdXhWY2ticlRLWGJlQkN4SlU2OUtkVkRrS2Q5TzU2TVJwa1Jvd00zTjd2Q29DYkJ6OV8tcWpUdU9aa1E4Q09PeXVjaFluc000RTRnUnZpUGtER3BLMGVfbUtYcndmWDNPd0g2ZjVZTGhiZUI5alptOXpRQXQxU29WVm0zd09wMzhrWERwcFVXcXhkaGhnR1htZnNxZXZaWA?oc=5"
+   }
+  ]
+ },
+ {
+  "at": "2026-10-19T07:00+09:00",
+  "text": "非常に強い台風が南から来る。沖縄・奄美の方々、備えは早めに。海の上は人の都合を聞かぬ。",
+  "expression": "思案",
+  "scene": "regular",
+  "lang": "ja",
+  "topic": "非常に強い台風30号 週半ば以降 沖縄・奄美に影響のおそれ",
+  "links": [
+   {
+    "source": "NHKニュース",
+    "title": "非常に強い台風30号 週半ば以降 沖縄・奄美に影響のおそれ",
+    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBoTVJ3X1VDYTJ5bC16ZldtSnhKOTRCU0VnSXE0ek1ZZEZoWlR3clJ4SjRlRjhPdGEwRWtKX3FkZk05V2NKRTFoRGtiQjM1RWRaSHpQdkZvMkpMSVdKaDlB?oc=5"
+   },
+   {
+    "source": "NHK",
+    "title": "非常に強い台風30号 週半ば以降 沖縄・奄美に影響のおそれ",
+    "url": "https://news.web.nhk/newsweb/na/nd-20261019de61331"
    }
   ]
  }
