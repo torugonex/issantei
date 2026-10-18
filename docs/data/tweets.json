@@ -1,20 +1,5 @@
 [
  {
-  "at": "2026-10-10T21:15+09:00",
-  "text": "理屈を尽くすより、本能の一振り。勘というのは、案外雄弁なものだ。",
-  "expression": "微笑",
-  "scene": "regular",
-  "lang": "ja",
-  "topic": "【DeNA】度会隆輝が値千金の決勝弾 巨人の守護神・マルティネスをとらえCS初戦の勝利に導く「本能でいきました！」",
-  "links": [
-   {
-    "source": "日テレNEWS NNN",
-    "title": "【DeNA】度会隆輝が値千金の決勝弾 巨人の守護神・マルティネスをとらえCS初戦の勝利に導く「本能でいきました！」",
-    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE4tN2lFeGJmb0lPZ1IwQUt4Z1hVMU95YzF6QnpTSS1FNlJwZGF5YllyVlBCdldPdUxGbjV2amk1UUJPN0dYaHo0Vm5CWExiWkZDdHVNbkFNSlYxUTk3b2kzd1ZYSU5fLW9FX3ZyVjFkZ2IyNHhfVENvUm1zaw?oc=5"
-   }
-  ]
- },
- {
   "at": "2026-10-10T21:30+09:00",
   "text": "火星の欠片が衛星の砂に混じるとは。遠い隣家の便りを、砂が運んでくるようだ。",
   "expression": "微笑",
@@ -6193,6 +6178,26 @@
     "source": "The Guardian",
     "title": "Pope Leo discharged from hospital after cancer operation",
     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNb3p1WTJSVTZKV2Rzd1JWbG12eUZ0ZzhpOEtfb1VyMGw5VFBQczh5VTRvQ2NqSDlKcG1rQzZrOU05SUg2TU5IVk91WlJWRGc3M09yRV9fLW4xQjdJMUY2Wk9RdUIwV25mODJIY0RPY2JqUzExanBmN0VYdFJCQmZJVXZpOG5fNW5JTG9kYWNJcmFyV0NZaU1uam8wR2hWT2hqa3BvSw?oc=5"
+   }
+  ]
+ },
+ {
+  "at": "2026-10-18T11:30+09:00",
+  "text": "五十五万人の行進。不満はもっともだが、火の手が上がると話が逸れてしまう。",
+  "expression": "呆れのため息",
+  "scene": "regular",
+  "lang": "ja",
+  "topic": "フランスで55万人が大規模デモ 教育改善や物価高対策を求め放火・略奪",
+  "links": [
+   {
+    "source": "日本経済新聞",
+    "title": "フランスで55万人が大規模デモ 教育改善や物価高対策を求め放火・略奪",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBXNnRxaEtTdWJWOE1vR3ZhM1JqT3FaVTdnMHZtemlFNTJ0MEUtalNKRC1lS2I4Vk9QbXpwSFpXX1JHcTRnOXIySTJ1S0tjMk5FRWNiOXZnNnlVOGt6NzJ6VnNGMXI0TVg3TGN1WA?oc=5"
+   },
+   {
+    "source": "NHK",
+    "title": "フランス 物価高対策など訴え大規模デモ 放火など混乱も広がる",
+    "url": "https://news.web.nhk/newsweb/na/nd-20261018de61062"
    }
   ]
  }

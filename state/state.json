@@ -1,9 +1,9 @@
 {
  "mood": {
-  "valence": -0.32,
-  "arousal": -0.133
+  "valence": -0.34,
+  "arousal": -0.05
  },
- "since_sarcasm": 5,
+ "since_sarcasm": 6,
  "day": "2026-10-18",
  "morning_done": true,
  "goodnight_done": false,
@@ -89,17 +89,10 @@
   "ab3df2564267": "2026-10-18T09:45:19.954785+09:00",
   "2b4e42958124": "2026-10-18T10:00:36.784840+09:00",
   "f65e7624fdc0": "2026-10-18T10:30:26.879698+09:00",
-  "24a1816e68dd": "2026-10-18T10:45:18.922614+09:00"
+  "24a1816e68dd": "2026-10-18T10:45:18.922614+09:00",
+  "d238f56baa9b": "2026-10-18T11:30:26.176086+09:00"
  },
  "commented_titles": [
-  {
-   "title": "残りの任期2年はレームダックに?トランプ2.0 WATCHING〜逆風の中間選挙とその後の展望〜【調査情報デジタル】",
-   "at": "2026-10-17T11:00:35.495620+09:00"
-  },
-  {
-   "title": "Patients in chains rescued from suspected illegal rehab centre in South Africa",
-   "at": "2026-10-17T11:15:17.040243+09:00"
-  },
   {
    "title": "台風30号(チャンパー) 来週後半は非常に強い勢力で沖縄の南に達する",
    "at": "2026-10-17T11:30:28.302906+09:00"
@@ -263,12 +256,16 @@
   {
    "title": "Pope discharged from hospital days after lung cancer surgery",
    "at": "2026-10-18T10:45:18.922614+09:00"
+  },
+  {
+   "title": "フランスで55万人が大規模デモ 教育改善や物価高対策を求め放火・略奪",
+   "at": "2026-10-18T11:30:26.176086+09:00"
   }
  ],
- "last_quake_check": "2026-10-18T10:45:18.922614+09:00",
- "since_english": 1,
+ "last_quake_check": "2026-10-18T11:30:26.176086+09:00",
+ "since_english": 2,
  "next_english": 5,
- "last_tick": "2026-10-18T11:15:17.620823+09:00",
+ "last_tick": "2026-10-18T11:30:26.176086+09:00",
  "french_day": "2026-10-18",
  "french_done": false,
  "french_after": 862
