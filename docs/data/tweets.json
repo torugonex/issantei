@@ -1,20 +1,5 @@
 [
  {
-  "at": "2026-10-10T20:45+09:00",
-  "text": "Asbestos on a beloved beach. One does wonder what the tide was hiding, and for how long.",
-  "expression": "思案",
-  "scene": "regular",
-  "lang": "en",
-  "topic": "Asbestos mystery leaves beloved beach closed",
-  "links": [
-   {
-    "source": "BBC",
-    "title": "Asbestos mystery leaves beloved beach closed",
-    "url": "https://www.bbc.co.uk/news/articles/c574p9rdk2mko?at_medium=RSS&at_campaign=rss"
-   }
-  ]
- },
- {
   "at": "2026-10-10T21:00+09:00",
   "text": "秋晴れの一日が暮れた。空が高いと、考えごとまで遠くへ行くようだ。",
   "expression": "思案",
@@ -6177,6 +6162,21 @@
     "source": "NHK",
     "title": "インド ヒンドゥー教の祭典で大勢の人倒れ少なくとも17人死亡",
     "url": "https://news.web.nhk/newsweb/na/nd-20261018de61074"
+   }
+  ]
+ },
+ {
+  "at": "2026-10-18T10:30+09:00",
+  "text": "試合当日に中止とは。支度をしてきた側が気の毒。体調管理も仕事のうち。",
+  "expression": "呆れのため息",
+  "scene": "regular",
+  "lang": "ja",
+  "topic": "【ボクシング】亀田和毅、試合当日に世界戦の中止が決定 怒りおさまらず「プロとして失格」 体重超過で王座剥奪されたフィゲロアが体調不良と通達（スポーツ報知）",
+  "links": [
+   {
+    "source": "Yahoo!ニュース",
+    "title": "【ボクシング】亀田和毅、試合当日に世界戦の中止が決定 怒りおさまらず「プロとして失格」 体重超過で王座剥奪されたフィゲロアが体調不良と通達（スポーツ報知）",
+    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1ZblNoV3Nqbmk5aDVkSFBxSFplMTl6WHQ5ZlNsT1ZvV0wwcXpTSVJaM1kxNENXMVBlSXRrQlk2WjNodFZ2NmtEN2ZRdXQ2d1oyeUJoNXBpblhIZ2laQ3l3Q2lxSXlEc0hpZGxycFprY0xsb0lVcXBHLS1ndzUxbXc?oc=5"
    }
   ]
  }
