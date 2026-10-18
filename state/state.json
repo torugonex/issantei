@@ -1,15 +1,14 @@
 {
  "mood": {
-  "valence": 0.085,
-  "arousal": -0.159
+  "valence": 0.114,
+  "arousal": -0.194
  },
- "since_sarcasm": 18,
+ "since_sarcasm": 19,
  "day": "2026-10-18",
  "morning_done": true,
  "goodnight_done": false,
  "sleeptalk_night": "2026-10-17",
  "commented": {
-  "6056d6a0f3d1": "2026-10-16T21:15:20.697534+09:00",
   "0cc19fec70df": "2026-10-16T22:00:45.484720+09:00",
   "01ba4a00b8f6": "2026-10-16T22:15:21.018853+09:00",
   "db509198fee6": "2026-10-16T22:30:30.853394+09:00",
@@ -91,14 +90,6 @@
   "f77b185ef714": "2026-10-18T20:45:16.767081+09:00"
  },
  "commented_titles": [
-  {
-   "title": "スカイチケット運営会社 クレカ情報も最大6000人余流出",
-   "at": "2026-10-17T21:00:37.680921+09:00"
-  },
-  {
-   "title": "Judge throws out child sex abuse charges against actor Timothy Busfield",
-   "at": "2026-10-17T21:15:17.642152+09:00"
-  },
   {
    "title": "宝塚歌劇団花組公演「エリザベート」開幕 永久輝せあがトート役",
    "at": "2026-10-17T21:30:27.687777+09:00"
@@ -248,10 +239,10 @@
    "at": "2026-10-18T20:45:16.767081+09:00"
   }
  ],
- "last_quake_check": "2026-10-18T21:15:19.063347+09:00",
- "since_english": 4,
- "next_english": 5,
- "last_tick": "2026-10-18T21:15:19.063347+09:00",
+ "last_quake_check": "2026-10-18T21:30:27.113046+09:00",
+ "since_english": 1,
+ "next_english": 4,
+ "last_tick": "2026-10-18T21:30:27.113046+09:00",
  "french_day": "2026-10-18",
  "french_done": true,
  "french_after": 862
