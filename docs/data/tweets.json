@@ -1,14 +1,5 @@
 [
  {
-  "at": "2026-10-10T20:15+09:00",
-  "text": "土曜の夜、傘立てに洋傘を戻す。今日は一度も開かずに済んだ。",
-  "expression": "微笑",
-  "scene": "life",
-  "lang": "ja",
-  "topic": null,
-  "links": []
- },
- {
   "at": "2026-10-10T20:30+09:00",
   "text": "土曜の夜、友人からバーの誘いを断った。家でひとり、静かな夜も悪くない。",
   "expression": "微笑",
@@ -6165,6 +6156,21 @@
     "source": "Al Jazeera",
     "title": "Israeli settlers attack European diplomats during West Bank olive harvest",
     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNZVlrUDBYQ1lXY0JvbHNXZURHR2NDTGtDRWZVM3huYXRNcTBoRUNSQTcteTRpenJ5VjMxb19TUkl6QVlLODlLRURDbEZmV0JpQTFDbUUzVXFYRTNpUmRvNHpLSjB3QlRPMmdSRFZWRDlzTnZnSm4wOTFoRWFTRmgyQU1hajNxTGZtWTdDVFdUeGRkV1laR1l3ZmJpMGZXaDZCak1vbzBzWmhPV0nSAbABQVVfeXFMTXkyS29qczlWX1hQc0NNd0wtdkpoZE5vSTdGX3VaejRKdUZldzRaamhRYzZaTnp6MXV6QVhVcjRJbDQ5UzJhM0xOVFp1U05aSkpDM3lEUW1rczExT3o0VjYzSWFpYkxVa0l5MlVLX3E1eG1QeGlRbDMxNElGdXJuNGoxSHZZRVpOVFhhQXYtOEIxTFJhWUhRYkk1a2s4dmFCN0NlaGZoVlVWV0dtY0RMMm4?oc=5"
+   }
+  ]
+ },
+ {
+  "at": "2026-10-18T09:45+09:00",
+  "text": "鳴るはずの警報が鳴らぬのでは困る。直ったとのこと、まずは安堵。",
+  "expression": "思案",
+  "scene": "regular",
+  "lang": "ja",
+  "topic": "緊急地震速報が配信されなかったドコモ「エリアメール」、不具合解消",
+  "links": [
+   {
+    "source": "読売新聞",
+    "title": "緊急地震速報が配信されなかったドコモ「エリアメール」、不具合解消",
+    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE15VkxfZ0VyRDZCajBJbUM5R0k4aENiVFZsWnlpZk1qaTA4SEN3Wm9KX2EwaGdKYWtoNDlYRE9fSXdMZmdDOU1QV2MwODdHaUdwaWMtUjZFTkpnd05OLWpUWGdlcWYtdw?oc=5"
    }
   ]
  }
