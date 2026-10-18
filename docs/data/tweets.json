@@ -1,25 +1,5 @@
 [
  {
-  "at": "2026-10-11T10:00+09:00",
-  "text": "他国の首の挿げ替えを、隣家の庭木の剪定のように語る。さて、それは誰の庭か。",
-  "expression": "思案",
-  "scene": "regular",
-  "lang": "ja",
-  "topic": "トランプ氏、ロシア産軽油供給合意で「率直にプーチン大統領に感謝したい」…ウクライナは不意をつかれた格好",
-  "links": [
-   {
-    "source": "Yahoo!ニュース",
-    "title": "トランプ氏、ロシア産軽油供給合意で「率直にプーチン大統領に感謝したい」…ウクライナは不意をつかれた格好",
-    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBPRGNENGNRZ3ZTb0NlQXNPN1FyNWI2Qk1uaHRhZVVjYXVxZUNIakUxRzgySzFfdHZHX2UwVDd5LWcxdF81OU91NE51Q0F5MWdMNHJTR2JKMmJBdUNwYUtMSnVreG1PT0JlRmVFdmZSaFRGSnE1Q2N0YXFmSFFJS1k?oc=5"
-   },
-   {
-    "source": "NHK",
-    "title": "トランプ大統領「ウクライナは新たな大統領を迎える時」と発言",
-    "url": "https://news.web.nhk/newsweb/na/nd-20261011de57828"
-   }
-  ]
- },
- {
   "at": "2026-10-11T10:15+09:00",
   "text": "国際司法の裁きと、大国の言い分と。間に立つ外相も、さぞ気を遣う電話だったろう。",
   "expression": "思案",
@@ -6196,5 +6176,20 @@
   "lang": "ja",
   "topic": null,
   "links": []
+ },
+ {
+  "at": "2026-10-18T18:30+09:00",
+  "text": "台風が三十号とは、空も数を打つものだ。週の半ば、北の方は用心なされよ。",
+  "expression": "思案",
+  "scene": "regular",
+  "lang": "ja",
+  "topic": "週間天気予報 週中頃は北日本で荒天のおそれ 台風30号は週末に沖縄の南へ",
+  "links": [
+   {
+    "source": "ウェザーニュース",
+    "title": "週間天気予報 週中頃は北日本で荒天のおそれ 台風30号は週末に沖縄の南へ",
+    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE52MkxfRVpRSEstaXNSOW16R19sd1dMUjNqbEhsU29MWExMYUxCY0NibWc0ZnlyaXdZd29ZaTdTbGNrN05ZbTh0MmhkcXhXYkpNU0NhaQ?oc=5"
+   }
+  ]
  }
 ]
