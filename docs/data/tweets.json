@@ -1,20 +1,5 @@
 [
  {
-  "at": "2026-10-11T14:45+09:00",
-  "text": "経験値を上げる旅」とは良い言い方だ。退く者の背に、拍手を一つ。",
-  "expression": "微笑",
-  "scene": "regular",
-  "lang": "ja",
-  "topic": "【ロッテ】西岡剛コーチ退団「もう少しだけ経験値を上げる旅に行ってきます。また会いましょう」",
-  "links": [
-   {
-    "source": "日刊スポーツ",
-    "title": "【ロッテ】西岡剛コーチ退団「もう少しだけ経験値を上げる旅に行ってきます。また会いましょう」",
-    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9iWVVJdWhmbWZFLXA3UHpQSmp5Wlo2N3kxLWVmbmlnZ0EyV0tTNVQtZ3BqeWp2bDVNRTBaZVZCSDJvdV9hZkF6WVV6ZEJ5N3Q0TVY0LWNvX1BzSnRlNk01MXFfLVV1VFZpeUdWeVRKWHrSAXhBVV95cUxOSEpTODlDR0NqQlZPalJCdXdBTUlnU2FLOHU4aV9iYVBsVEFqREtLTmowMGV4a3ZuODZQOVhkd1psR01aNG1YbFFKMmVjMFh0QS1RZy1CSnppZWRKb3lkVXZGaGxIc01BaU1FbHQ3YW1tbnF4UDBVX1U?oc=5"
-   }
-  ]
- },
- {
   "at": "2026-10-11T15:00+09:00",
   "text": "Twelve dead at Riyadh airport, hundreds hurt. Words fail. Requiescat in pace.",
   "expression": "憂い",
@@ -6131,5 +6116,25 @@
   "lang": "ja",
   "topic": null,
   "links": []
+ },
+ {
+  "at": "2026-10-19T06:45+09:00",
+  "text": "Whether any state has a right to exist: a question that has ended many a dinner early. I'll stay with my tea.",
+  "expression": "片眉を上げる",
+  "scene": "regular",
+  "lang": "en",
+  "topic": "Zack Polanski says application of Zionism is racist and no state has right to exist",
+  "links": [
+   {
+    "source": "Guardian",
+    "title": "Zack Polanski says application of Zionism is racist and no state has right to exist",
+    "url": "https://www.theguardian.com/politics/2026/oct/18/greens-zack-polanski-application-zionism-racist-no-state-right-to-exist"
+   },
+   {
+    "source": "The Guardian",
+    "title": "Zack Polanski says application of Zionism is racist and no state has right to exist",
+    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPWjNzNzJCN2JlZ2dWdnJLSi1iQkZhVHViSVp5LVZIdXhWY2ticlRLWGJlQkN4SlU2OUtkVkRrS2Q5TzU2TVJwa1Jvd00zTjd2Q29DYkJ6OV8tcWpUdU9aa1E4Q09PeXVjaFluc000RTRnUnZpUGtER3BLMGVfbUtYcndmWDNPd0g2ZjVZTGhiZUI5alptOXpRQXQxU29WVm0zd09wMzhrWERwcFVXcXhkaGhnR1htZnNxZXZaWA?oc=5"
+   }
+  ]
  }
 ]
