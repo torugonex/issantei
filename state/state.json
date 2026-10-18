@@ -1,9 +1,9 @@
 {
  "mood": {
-  "valence": -0.048,
-  "arousal": -0.161
+  "valence": -0.011,
+  "arousal": -0.196
  },
- "since_sarcasm": 7,
+ "since_sarcasm": 8,
  "day": "2026-10-18",
  "morning_done": true,
  "goodnight_done": false,
@@ -98,10 +98,6 @@
   "9681f2ab5843": "2026-10-18T16:00:39.432073+09:00"
  },
  "commented_titles": [
-  {
-   "title": "総合スーパー展開のイズミ“情報の流出なしの報告受けた”",
-   "at": "2026-10-17T16:15:18.005840+09:00"
-  },
   {
    "title": "【速報】トランプ大統領、対ロ制裁法実施せず",
    "at": "2026-10-17T17:30:27.380839+09:00"
@@ -267,10 +263,10 @@
    "at": "2026-10-18T16:00:39.432073+09:00"
   }
  ],
- "last_quake_check": "2026-10-18T16:00:39.432073+09:00",
- "since_english": 3,
- "next_english": 4,
- "last_tick": "2026-10-18T16:15:17.560447+09:00",
+ "last_quake_check": "2026-10-18T16:30:28.366811+09:00",
+ "since_english": 1,
+ "next_english": 5,
+ "last_tick": "2026-10-18T16:30:28.366811+09:00",
  "french_day": "2026-10-18",
  "french_done": true,
  "french_after": 862
