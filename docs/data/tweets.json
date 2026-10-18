@@ -1,20 +1,5 @@
 [
  {
-  "at": "2026-10-11T09:45+09:00",
-  "text": "Manchester's cotton and Caribbean sugar, one long thread. Tidy ledgers, untidy consciences.",
-  "expression": "片眉を上げる",
-  "scene": "regular",
-  "lang": "en",
-  "topic": "Study explores links between 19th-century Manchester workers and enslaved Africans in Caribbean",
-  "links": [
-   {
-    "source": "Guardian",
-    "title": "Study explores links between 19th-century Manchester workers and enslaved Africans in Caribbean",
-    "url": "https://www.theguardian.com/news/2026/oct/10/study-explores-links-between-19th-century-manchester-workers-and-enslaved-africans-in-caribbean"
-   }
-  ]
- },
- {
   "at": "2026-10-11T10:00+09:00",
   "text": "他国の首の挿げ替えを、隣家の庭木の剪定のように語る。さて、それは誰の庭か。",
   "expression": "思案",
@@ -6202,5 +6187,14 @@
     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5iUmJVYmROUDNERFBCT1pVa1hqeWVIQklNb1Mzb1ZZMkMwQW1zakxLUXVsLThNdXhuclAtOWktTFhUcmE2LU9uUzBYdzl6dzJnSHhqakFNQmVsa2tPOXhnZ194MzlrdFpfeWh6bTdOaTM1dw?oc=5"
    }
   ]
+ },
+ {
+  "at": "2026-10-18T17:30+09:00",
+  "text": "夕まぐれ、虫の音が澄んでいる。巻き傘を杖に、ひと回りしてきた。",
+  "expression": "微笑",
+  "scene": "life",
+  "lang": "ja",
+  "topic": null,
+  "links": []
  }
 ]
