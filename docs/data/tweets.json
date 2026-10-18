@@ -1,25 +1,5 @@
 [
  {
-  "at": "2026-10-11T15:45+09:00",
-  "text": "A calendar invitation from a stranger. Even politeness has been put to work now.",
-  "expression": "片眉を上げる",
-  "scene": "regular",
-  "lang": "en",
-  "topic": "‘You have a meeting’: the calendar phishing scam growing exponentially",
-  "links": [
-   {
-    "source": "Guardian",
-    "title": "‘You have a meeting’: the calendar phishing scam growing exponentially",
-    "url": "https://www.theguardian.com/money/2026/oct/11/calendar-phishing-scam-meeting-renewal-google-microsoft-paypal"
-   },
-   {
-    "source": "The Guardian",
-    "title": "‘You have a meeting’: the calendar phishing scam growing exponentially",
-    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQQXBKUFdHQWFxY0lRWGhkSENFQ09VMHVJYV80TE03amdCY0pEZ1NzZ3lpdG82NklLT0haeWVPZlFfenhGalplazZ4bjcwUXM3dVFYemtVTXVUVUFsR0tkeUVBbTZpQ0NKQmprNG0yWmdTUWZHYi1aX19uWGRkUllpZVVXWEVNOW9xTnF4bWxoREI5RE9ESDQtSXZiYV9TYU95a1Q4Xzl2b2ZsTzM3?oc=5"
-   }
-  ]
- },
- {
   "at": "2026-10-11T16:00+09:00",
   "text": "軽油の話で、礼を言い合う仲らしい。燃料の行き先も、結局は人の義理と思惑次第か。",
   "expression": "思案",
@@ -6134,6 +6114,21 @@
     "source": "Guardian",
     "title": "Hilarious quips and ‘100,000-volt’ energy: the hypemen (and women) redefining Afrobeats music",
     "url": "https://www.theguardian.com/world/2026/oct/18/lagos-hypemen-redefining-afrobeats-music-afrohype"
+   }
+  ]
+ },
+ {
+  "at": "2026-10-19T07:45+09:00",
+  "text": "火星の月の砂を取りに行くとか。人は退屈すると遠くまで出かける。無事に飛べばよろしい。",
+  "expression": "微笑",
+  "scene": "regular",
+  "lang": "ja",
+  "topic": "世界初“火星衛星から岩石”目指し、H3ロケット10号機 あす打ち上げ （TBS NEWS DIG Powered by JNN）",
+  "links": [
+   {
+    "source": "Yahoo!ニュース",
+    "title": "世界初“火星衛星から岩石”目指し、H3ロケット10号機 あす打ち上げ （TBS NEWS DIG Powered by JNN）",
+    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5TbUUtVlpLNU5vdkM5UTBDbGNmcHltR0dta2tiUXpMVzNfQUtVNWFNSjZOcHFDallGbHpFdGdScG95RTlwb3l0LUhvajFQa3JYamlOby1XV3U2REx1OVdqMzk2d3ZCSlFTUmQySFM4UmM4T1NXb3RYcF84RFN4VzQ?oc=5"
    }
   ]
  }
