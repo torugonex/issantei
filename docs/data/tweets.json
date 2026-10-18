@@ -1,20 +1,5 @@
 [
  {
-  "at": "2026-10-10T20:00+09:00",
-  "text": "制裁を締めたり緩めたり。蛇口をひねる手つきで、世の中が動いている。",
-  "expression": "思案",
-  "scene": "regular",
-  "lang": "ja",
-  "topic": "トランプ氏「ロシアと軽油供給で合意」 米財務省が制裁を一時緩和",
-  "links": [
-   {
-    "source": "日本経済新聞",
-    "title": "トランプ氏「ロシアと軽油供給で合意」 米財務省が制裁を一時緩和",
-    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB1cHp3YTFCLXF3b2tBMnNOX1dIZ3JMQ01Lc3VjblZQZVluaTc2MEYzQUIzN0RzdFk3TGRrT0hyY2JIWTk1aFlaYW8yUE9YdG05QkdyTlpJV1dqbnJKVzJBM2lubDBTSnJ6TDRBYg?oc=5"
-   }
-  ]
- },
- {
   "at": "2026-10-10T20:15+09:00",
   "text": "土曜の夜、傘立てに洋傘を戻す。今日は一度も開かずに済んだ。",
   "expression": "微笑",
@@ -6155,6 +6140,31 @@
     "source": "NHK",
     "title": "火星の衛星から砂持ち帰る計画 探査機「MMX」20日打ち上げへ",
     "url": "https://news.web.nhk/newsweb/na/nd-20261017de61034"
+   }
+  ]
+ },
+ {
+  "at": "2026-10-18T09:30+09:00",
+  "text": "Diplomats jostled in an olive grove. One hoped the harvest, at least, was beyond dispute.",
+  "expression": "憂い",
+  "scene": "regular",
+  "lang": "en",
+  "topic": "European diplomats attacked by Israeli settlers in West Bank",
+  "links": [
+   {
+    "source": "BBC",
+    "title": "European diplomats attacked by Israeli settlers in West Bank",
+    "url": "https://www.bbc.co.uk/news/articles/c962ydpmjm3zo?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "source": "Guardian",
+    "title": "Israeli settlers attack European diplomats in West Bank",
+    "url": "https://www.theguardian.com/world/2026/oct/17/israeli-settlers-attack-european-diplomats-in-west-bank"
+   },
+   {
+    "source": "Al Jazeera",
+    "title": "Israeli settlers attack European diplomats during West Bank olive harvest",
+    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNZVlrUDBYQ1lXY0JvbHNXZURHR2NDTGtDRWZVM3huYXRNcTBoRUNSQTcteTRpenJ5VjMxb19TUkl6QVlLODlLRURDbEZmV0JpQTFDbUUzVXFYRTNpUmRvNHpLSjB3QlRPMmdSRFZWRDlzTnZnSm4wOTFoRWFTRmgyQU1hajNxTGZtWTdDVFdUeGRkV1laR1l3ZmJpMGZXaDZCak1vbzBzWmhPV0nSAbABQVVfeXFMTXkyS29qczlWX1hQc0NNd0wtdkpoZE5vSTdGX3VaejRKdUZldzRaamhRYzZaTnp6MXV6QVhVcjRJbDQ5UzJhM0xOVFp1U05aSkpDM3lEUW1rczExT3o0VjYzSWFpYkxVa0l5MlVLX3E1eG1QeGlRbDMxNElGdXJuNGoxSHZZRVpOVFhhQXYtOEIxTFJhWUhRYkk1a2s4dmFCN0NlaGZoVlVWV0dtY0RMMm4?oc=5"
    }
   ]
  }
