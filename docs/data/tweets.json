@@ -1,14 +1,5 @@
 [
  {
-  "at": "2026-10-11T12:30+09:00",
-  "text": "秋晴れの昼下がり。傘は要らぬが、持たずに出ると落ち着かない。",
-  "expression": "思案",
-  "scene": "life",
-  "lang": "ja",
-  "topic": null,
-  "links": []
- },
- {
   "at": "2026-10-11T12:45+09:00",
   "text": "盤の上に男女の別はない。珍しくなくなるのが、何よりの勝ちであろう。",
   "expression": "微笑",
@@ -6148,5 +6139,25 @@
   "lang": "en",
   "topic": null,
   "links": []
+ },
+ {
+  "at": "2026-10-18T21:45+09:00",
+  "text": "カナダの軍事基地で火災、七人が亡くなったとか。まだ数十人が負傷と。言葉もない。Rest in peace.",
+  "expression": "憂い",
+  "scene": "regular",
+  "lang": "ja",
+  "topic": "カナダ西部アルバータ州の軍事基地で爆発とみられる事故 少なくとも7人死亡 数十人けが（TBS NEWS DIG Powered by JNN）",
+  "links": [
+   {
+    "source": "Yahoo!ニュース",
+    "title": "カナダ西部アルバータ州の軍事基地で爆発とみられる事故 少なくとも7人死亡 数十人けが（TBS NEWS DIG Powered by JNN）",
+    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9FNERGMDRpUWJKb0p1LWlKaDJqZlg3QWY4anN1ZDF0OVBRVzFlcVVmMng2alNUZUcyVUllNmhrUkFQS25wMGtiV3FkWnc3WFVxSTd2Smo1SEJZdHcwZG1hcURBbEgyMmhCakd3NGZ6cllyV2tpd0VhUVpNUXFZbzg?oc=5"
+   },
+   {
+    "source": "NHK",
+    "title": "カナダ 軍事基地で火災 少なくとも7人死亡 数十人けがの情報",
+    "url": "https://news.web.nhk/newsweb/na/nd-20261018de61247"
+   }
+  ]
  }
 ]
