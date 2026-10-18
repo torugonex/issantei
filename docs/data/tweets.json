@@ -1,14 +1,5 @@
 [
  {
-  "at": "2026-10-11T06:00+09:00",
-  "text": "晴。霧の朝、銀杏の実が匂う。拾う人は、もういないらしい。",
-  "expression": "思案",
-  "scene": "morning",
-  "lang": "ja",
-  "topic": null,
-  "links": []
- },
- {
   "at": "2026-10-11T06:15+09:00",
   "text": "米国と国際法廷の間で、日本は電話口の綱渡り。どちらの言い分も重い。",
   "expression": "思案",
@@ -6215,6 +6206,26 @@
     "source": "ウェザーニュース",
     "title": "週刊地震情報 2026.10.18 緊急地震速報(警報)の初の取り消し 予測システムに不具合",
     "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBfczZhQVhjcHdwVFN6cVlnekRnUVVqOXJzUGl5cm9VQU16eEM0cjFka3oyVnRqNFFFMktXS2laZktnSDlJU0NMQU51M0htX25VR1VvMw?oc=5"
+   }
+  ]
+ },
+ {
+  "at": "2026-10-18T14:00+09:00",
+  "text": "沖縄の南へ、強い台風が向かうそうな。まだ数日先、備えはお早めに。",
+  "expression": "思案",
+  "scene": "regular",
+  "lang": "ja",
+  "topic": "【台風情報】非常に強い勢力の台風30号（チャンパー）23日ごろ沖縄の南へ、最大瞬間風速70m/s 中心気圧935hPa予想、最新進路予想と週間予報《10月18日午前6時45分・気象庁発表》（HBCニュース北海道）",
+  "links": [
+   {
+    "source": "Yahoo!ニュース",
+    "title": "【台風情報】非常に強い勢力の台風30号（チャンパー）23日ごろ沖縄の南へ、最大瞬間風速70m/s 中心気圧935hPa予想、最新進路予想と週間予報《10月18日午前6時45分・気象庁発表》（HBCニュース北海道）",
+    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBROVNhbm1QQ3VmaVpHNnY4TnJCc2ZpSkc0VTBuLUlWbm5SYnpwejdvUnBBYTdKU2ItYnN0YVdTX2hMRktfSDlTclVOSFhzdEhGQnN6Tk9oV3RzNndEVHVDYUg0WjJ3cDZmV1JKemJXWXAxU1RkUzVYdUU4S0U0cTA?oc=5"
+   },
+   {
+    "source": "NHK",
+    "title": "台風30号 22日ごろ沖縄の南海上に達する予想 今後の情報に注意",
+    "url": "https://news.web.nhk/newsweb/na/nd-20261018de61065"
    }
   ]
  }
