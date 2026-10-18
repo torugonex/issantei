@@ -1,17 +1,14 @@
 {
  "mood": {
-  "valence": -0.145,
-  "arousal": -0.235
+  "valence": -0.084,
+  "arousal": -0.276
  },
- "since_sarcasm": 21,
+ "since_sarcasm": 22,
  "day": "2026-10-18",
  "morning_done": true,
- "goodnight_done": false,
+ "goodnight_done": true,
  "sleeptalk_night": "2026-10-17",
  "commented": {
-  "0cc19fec70df": "2026-10-16T22:00:45.484720+09:00",
-  "01ba4a00b8f6": "2026-10-16T22:15:21.018853+09:00",
-  "db509198fee6": "2026-10-16T22:30:30.853394+09:00",
   "c8a7695293a4": "2026-10-17T06:15:18.431751+09:00",
   "6348da391b88": "2026-10-17T06:58:19.829366+09:00",
   "fa6afbbb80ea": "2026-10-17T07:00:39.536412+09:00",
@@ -92,14 +89,6 @@
   "dc6f59bf2afe": "2026-10-18T22:00:36.699154+09:00"
  },
  "commented_titles": [
-  {
-   "title": "ホワイトハウス新報道官 就任からわずか5日で辞任と報道",
-   "at": "2026-10-17T22:00:37.866965+09:00"
-  },
-  {
-   "title": "Mimicking populists will not ease cost of living or boost productivity, Mathias Cormann warns",
-   "at": "2026-10-17T22:15:19.082217+09:00"
-  },
   {
    "title": "Reform candidate filmed saying asylum seekers should be put in ‘concentration camps’",
    "at": "2026-10-18T06:15:17.652981+09:00"
@@ -242,9 +231,9 @@
   }
  ],
  "last_quake_check": "2026-10-18T22:00:36.699154+09:00",
- "since_english": 3,
- "next_english": 4,
- "last_tick": "2026-10-18T22:36:05.382781+09:00",
+ "since_english": 1,
+ "next_english": 5,
+ "last_tick": "2026-10-18T22:45:18.545570+09:00",
  "french_day": "2026-10-18",
  "french_done": true,
  "french_after": 862
