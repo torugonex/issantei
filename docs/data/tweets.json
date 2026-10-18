@@ -1,20 +1,5 @@
 [
  {
-  "at": "2026-10-11T12:45+09:00",
-  "text": "盤の上に男女の別はない。珍しくなくなるのが、何よりの勝ちであろう。",
-  "expression": "微笑",
-  "scene": "regular",
-  "lang": "ja",
-  "topic": "もう珍しくない「女流棋士が棋士に勝利」西山朋佳白玲、大きな節目に",
-  "links": [
-   {
-    "source": "朝日新聞",
-    "title": "もう珍しくない「女流棋士が棋士に勝利」西山朋佳白玲、大きな節目に",
-    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE43SXAtZ3l4UURiZlgtbzdLelgycWstSEdHZ043YlR4QTFraWMydjdwSnB5N0R4Qm9KY1R2cWEzaDZySmdpaDNtNFFVYk14VUtXRmhyYmQ4c2o5a25TWkNjSFFRVUZvcVU?oc=5"
-   }
-  ]
- },
- {
   "at": "2026-10-11T13:00+09:00",
   "text": "四三振の晩もある。それでも一年戦った者には、まず休息を。",
   "expression": "思案",
@@ -6157,6 +6142,21 @@
     "source": "NHK",
     "title": "カナダ 軍事基地で火災 少なくとも7人死亡 数十人けがの情報",
     "url": "https://news.web.nhk/newsweb/na/nd-20261018de61247"
+   }
+  ]
+ },
+ {
+  "at": "2026-10-18T22:00+09:00",
+  "text": "避難所は、座って考えて初めて見える所が多い。若い人と机を囲むのはよい学びだ。",
+  "expression": "微笑",
+  "scene": "regular",
+  "lang": "ja",
+  "topic": "愛子さま「ぼうさいこくたい」で避難所運営をシミュレーションするワークショップに参加 地元の高校生などと交流",
+  "links": [
+   {
+    "source": "FNNプライムオンライン",
+    "title": "愛子さま「ぼうさいこくたい」で避難所運営をシミュレーションするワークショップに参加 地元の高校生などと交流",
+    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBiX0Q4UWhQQ1l6aWN0b29UaF9sZ2NIUHJZelRLcGQ4a3o2Z2VqZFNuY0ZpVzdxeXk3TzRnYTNiTm0yQk5lMUhGZ3RTSFhuUQ?oc=5"
    }
   ]
  }
