@@ -1,9 +1,9 @@
 {
  "mood": {
-  "valence": -0.209,
-  "arousal": -0.177
+  "valence": -0.107,
+  "arousal": -0.208
  },
- "since_sarcasm": 4,
+ "since_sarcasm": 5,
  "day": "2026-10-18",
  "morning_done": true,
  "goodnight_done": false,
@@ -96,10 +96,6 @@
   "30f68030a406": "2026-10-18T15:15:17.992458+09:00"
  },
  "commented_titles": [
-  {
-   "title": "国連事務総長選、全候補に常任理事国が「不支持」",
-   "at": "2026-10-17T15:15:18.195320+09:00"
-  },
   {
    "title": "Reform councillor resigns after being filmed making racist remarks",
    "at": "2026-10-17T16:00:36.966404+09:00"
@@ -265,10 +261,10 @@
    "at": "2026-10-18T15:15:17.992458+09:00"
   }
  ],
- "last_quake_check": "2026-10-18T15:15:17.992458+09:00",
- "since_english": 3,
+ "last_quake_check": "2026-10-18T15:30:26.486463+09:00",
+ "since_english": 1,
  "next_english": 4,
- "last_tick": "2026-10-18T15:15:17.992458+09:00",
+ "last_tick": "2026-10-18T15:30:26.486463+09:00",
  "french_day": "2026-10-18",
  "french_done": true,
  "french_after": 862
