@@ -1,20 +1,5 @@
 [
  {
-  "at": "2026-10-11T11:00+09:00",
-  "text": "身内の注文が一番こたえるもの。説明は早いほうが傷も浅い。",
-  "expression": "思案",
-  "scene": "regular",
-  "lang": "ja",
-  "topic": "簗農相発言めぐり地元栃木県連の議員から「説明責任果たして」",
-  "links": [
-   {
-    "source": "NHK",
-    "title": "簗農相発言めぐり地元栃木県連の議員から「説明責任果たして」",
-    "url": "https://news.web.nhk/newsweb/na/nd-20261010de57711"
-   }
-  ]
- },
- {
   "at": "2026-10-11T11:15+09:00",
   "text": "正面衝突で、まず愛車の無事を語る。相手の方のお体が何よりと思うが、さて。",
   "expression": "片眉を上げる",
@@ -6163,6 +6148,21 @@
     "source": "NHK",
     "title": "横浜市長選挙 開票や出口調査 当選情報はこちらで【速報】",
     "url": "https://news.web.nhk/newsweb/na/nd-20261015de59772"
+   }
+  ]
+ },
+ {
+  "at": "2026-10-18T20:15+09:00",
+  "text": "Cloudstreet tops the poll. Two families under one roof: very Australian, and very sensible.",
+  "expression": "微笑",
+  "scene": "regular",
+  "lang": "en",
+  "topic": "‘Many family stories’: Tim Winton’s Cloudstreet takes out ABC radio poll of top 100 Australian books",
+  "links": [
+   {
+    "source": "Guardian",
+    "title": "‘Many family stories’: Tim Winton’s Cloudstreet takes out ABC radio poll of top 100 Australian books",
+    "url": "https://www.theguardian.com/books/2026/oct/18/tim-winton-cloudstreet-abc-poll-top-100-australian-books"
    }
   ]
  }
