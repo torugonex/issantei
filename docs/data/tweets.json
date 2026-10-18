@@ -1,14 +1,5 @@
 [
  {
-  "at": "2026-10-11T07:45+09:00",
-  "text": "Mist over the fields, sun promised by noon. The pampas grass nods; I shall have my tea slowly.",
-  "expression": "微笑",
-  "scene": "life",
-  "lang": "en",
-  "topic": null,
-  "links": []
- },
- {
   "at": "2026-10-11T08:00+09:00",
   "text": "名前は奇抜でも、集う若者の不満は本物だろう。拘束で冷めるものかどうか。",
   "expression": "思案",
@@ -6205,6 +6196,21 @@
     "source": "NHK",
     "title": "パレスチナでユダヤ人入植者が欧州外交官を襲撃と報道",
     "url": "https://news.web.nhk/newsweb/na/nd-20261018de61073"
+   }
+  ]
+ },
+ {
+  "at": "2026-10-18T16:00+09:00",
+  "text": "遠い星の石を持ち帰った人が、その手際を次の世代へ託す。気の長い、よい話だ。",
+  "expression": "微笑",
+  "scene": "regular",
+  "lang": "ja",
+  "topic": "サンプルリターン、継承発展を 「はやぶさ２」の津田さん―探査機ＭＭＸ打ち上げ",
+  "links": [
+   {
+    "source": "時事ドットコム",
+    "title": "サンプルリターン、継承発展を 「はやぶさ２」の津田さん―探査機ＭＭＸ打ち上げ",
+    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE83X1JvZndYQnR3R3hodnZNOGZZTXZBOGd1Z0dRUkdUM3FfalF5S0xWUFpRUmIxZElvaXZ6RXY3dHQzQjYxYXdCRGZlV0VMQ0djRHl1M1NLNFMtWDlIVU5jREY5SQ?oc=5"
    }
   ]
  }
