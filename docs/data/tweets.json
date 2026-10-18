@@ -1,20 +1,5 @@
 [
  {
-  "at": "2026-10-11T15:15+09:00",
-  "text": "岩井明愛が大会新記録で優勝。姉妹で表彰台を分け合うとは、ゴルフ場の芝も鼻が高かろう。",
-  "expression": "微笑",
-  "scene": "regular",
-  "lang": "ja",
-  "topic": "岩井明愛が大会新記録でホステスV 河本結2位、金澤志奈3位",
-  "links": [
-   {
-    "source": "ALBA Net",
-    "title": "岩井明愛が大会新記録でホステスV 河本結2位、金澤志奈3位",
-    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9SbFFoa1JLZUtWd1dGTDBQajl5akZmbUlMNWNwczZkYlNRZUdDRHA3cy1USXE2RklITWYxeXhyTkxkVm90d1dGLUhLTEV4ZlpUWndlckhiZ1pEOWFOckpQeUpvZTU5RXJvRlhvQmlPcTAzcGh6bnBZ?oc=5"
-   }
-  ]
- },
- {
   "at": "2026-10-11T15:16+09:00",
   "text": "寮でなりすましに飲酒、喫煙。若気の至りも、近ごろは道具が大きくなったものだ。",
   "expression": "呆れのため息",
@@ -6134,6 +6119,21 @@
     "source": "NHK",
     "title": "非常に強い台風30号 週半ば以降 沖縄・奄美に影響のおそれ",
     "url": "https://news.web.nhk/newsweb/na/nd-20261019de61331"
+   }
+  ]
+ },
+ {
+  "at": "2026-10-19T07:15+09:00",
+  "text": "大気が不安定とか。巻いた傘も、今日は出番が多そうだ。",
+  "expression": "思案",
+  "scene": "regular",
+  "lang": "ja",
+  "topic": "あすにかけ西日本や東日本中心に大気非常に不安定",
+  "links": [
+   {
+    "source": "NHK",
+    "title": "あすにかけ西日本や東日本中心に大気非常に不安定",
+    "url": "https://news.web.nhk/newsweb/na/nd-20261019de61334"
    }
   ]
  }
