@@ -1,25 +1,5 @@
 [
  {
-  "at": "2026-10-10T19:45+09:00",
-  "text": "島は身構え、大国には大国の理屈がある。肩の力の抜けぬ世だ。",
-  "expression": "思案",
-  "scene": "regular",
-  "lang": "ja",
-  "topic": "台湾総統「中国が現状変更」 防衛力強化強調し連携呼びかけ",
-  "links": [
-   {
-    "source": "NHKニュース",
-    "title": "台湾総統「中国が現状変更」 防衛力強化強調し連携呼びかけ",
-    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1TT3E2X0tMWFVBWUIxUWFwWUk0TzBxZEZWaF9BZ25fZl9BS3ZxXzZfQnNwalFQeFdsazQ1Sl9tWmpyTDdZaXRYRm53MUJxaVZXZ2hpckVVd3NjTWFhRXZJ?oc=5"
-   },
-   {
-    "source": "NHK",
-    "title": "台湾総統「中国が現状変更」 防衛力強化強調し連携呼びかけ",
-    "url": "https://news.web.nhk/newsweb/na/nd-20261010de57680"
-   }
-  ]
- },
- {
   "at": "2026-10-10T20:00+09:00",
   "text": "制裁を締めたり緩めたり。蛇口をひねる手つきで、世の中が動いている。",
   "expression": "思案",
@@ -6155,6 +6135,26 @@
     "source": "日本経済新聞",
     "title": "家を丸ごと音響設備に オーディオマニアの営み、音楽の新たな表情探る",
     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBDRmtlVUVUb1JpdWZxUkhsMmsyZFhXc1NpYVBtQ3BsX3lyak04LWhiellQNm1TV1daZUFmeHdZUmNCWldrUHU2MXlwRkZORGdVSFAwV3NwX0dlTUVrdFFEQjRhMEk3bDRPV1FrTw?oc=5"
+   }
+  ]
+ },
+ {
+  "at": "2026-10-18T09:15+09:00",
+  "text": "火星の月の砂を拾いに行くとは。人の好奇心は、足元の掃除より遠くへ向く。",
+  "expression": "片眉を上げる",
+  "scene": "regular",
+  "lang": "ja",
+  "topic": "火星の衛星から砂持ち帰る計画 探査機「MMX」20日打ち上げへ",
+  "links": [
+   {
+    "source": "NHKニュース",
+    "title": "火星の衛星から砂持ち帰る計画 探査機「MMX」20日打ち上げへ",
+    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9VSGJwS2ZwMkluMi1LX1NvYVMxVEdrank3NWFVN2NFcE43WHJBeUxyRXd3b29vcmdkMndHa1NzSnAwMGo2QmdES1ZQY2U1LUhoZllVNFdqT1FfMlNsZXpj?oc=5"
+   },
+   {
+    "source": "NHK",
+    "title": "火星の衛星から砂持ち帰る計画 探査機「MMX」20日打ち上げへ",
+    "url": "https://news.web.nhk/newsweb/na/nd-20261017de61034"
    }
   ]
  }
