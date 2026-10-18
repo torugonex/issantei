@@ -1,14 +1,5 @@
 [
  {
-  "at": "2026-10-11T02:56+09:00",
-  "text": "……傘が、火星の砂を、掃いて……むにゃ",
-  "expression": "寝顔",
-  "scene": "sleeptalk",
-  "lang": "ja",
-  "topic": null,
-  "links": []
- },
- {
   "at": "2026-10-11T06:00+09:00",
   "text": "晴。霧の朝、銀杏の実が匂う。拾う人は、もういないらしい。",
   "expression": "思案",
@@ -6209,6 +6200,21 @@
     "source": "読売新聞",
     "title": "箱根路の連続出場を逃した立教大・高林祐介監督「完敗です」…予選会で１３位に沈む",
     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9fZWt1bHdJMF9VLTNzN0tYc1M2WWZtNUJMZzNSQlR3ek4tWXdLNEZzRzJlanJrR18tWjVlUERvZ3RuVUFFQjd5Y25FcFQyZk43bGpxS1oyYzRldFFuUkZoLWMxdFA5elNEekh1QS1OZFRIaWs?oc=5"
+   }
+  ]
+ },
+ {
+  "at": "2026-10-18T13:45+09:00",
+  "text": "警報を出してから取り消すとは。人も機械も、言い直しは気まずいものだ。",
+  "expression": "呆れのため息",
+  "scene": "regular",
+  "lang": "ja",
+  "topic": "週刊地震情報 2026.10.18 緊急地震速報(警報)の初の取り消し 予測システムに不具合",
+  "links": [
+   {
+    "source": "ウェザーニュース",
+    "title": "週刊地震情報 2026.10.18 緊急地震速報(警報)の初の取り消し 予測システムに不具合",
+    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBfczZhQVhjcHdwVFN6cVlnekRnUVVqOXJzUGl5cm9VQU16eEM0cjFka3oyVnRqNFFFMktXS2laZktnSDlJU0NMQU51M0htX25VR1VvMw?oc=5"
    }
   ]
  }
