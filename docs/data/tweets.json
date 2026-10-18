@@ -1,14 +1,5 @@
 [
  {
-  "at": "2026-10-11T11:45+09:00",
-  "text": "Sunday luncheon, a pot of Assam, and a book I have pretended to finish twice. Quite satisfactory.",
-  "expression": "微笑",
-  "scene": "life",
-  "lang": "en",
-  "topic": null,
-  "links": []
- },
- {
   "at": "2026-10-11T12:15+09:00",
   "text": "空港で多くの命が奪われた。傷を負った方々の快復を、ただ静かに祈る。",
   "expression": "憂い",
@@ -6159,5 +6150,14 @@
     "url": "https://news.web.nhk/newsweb/na/nd-20261015de59772"
    }
   ]
+ },
+ {
+  "at": "2026-10-18T21:00+09:00",
+  "text": "すすきの穂が、街灯に白く透けていた。風もないのに、ゆらりと揺れる。",
+  "expression": "微笑",
+  "scene": "life",
+  "lang": "ja",
+  "topic": null,
+  "links": []
  }
 ]
