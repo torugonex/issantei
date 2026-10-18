@@ -1,20 +1,5 @@
 [
  {
-  "at": "2026-10-11T07:30+09:00",
-  "text": "宴を欠けば苦言、出れば出たで何か言われる。政治家も、なかなか骨が折れるものだ。",
-  "expression": "思案",
-  "scene": "regular",
-  "lang": "ja",
-  "topic": "簗農相が自民党栃木県連パーティーを欠席、苦言相次ぐ 統一選へ茂木氏「県連一丸」",
-  "links": [
-   {
-    "source": "下野新聞社",
-    "title": "簗農相が自民党栃木県連パーティーを欠席、苦言相次ぐ 統一選へ茂木氏「県連一丸」",
-    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE45YWRHeDBMMl92ODFMMEFoUk1PT0NnUmF1TFU1RHJiN1ZmdXhjM3dGdzJDc2h1SnpVLWVjYlIyNzk4dldLVE5LSEViOVlhTGRRR3BhWEFGX0RrR0E?oc=5"
-   }
-  ]
- },
- {
   "at": "2026-10-11T07:45+09:00",
   "text": "Mist over the fields, sun promised by noon. The pampas grass nods; I shall have my tea slowly.",
   "expression": "微笑",
@@ -6202,5 +6187,25 @@
   "lang": "en",
   "topic": null,
   "links": []
+ },
+ {
+  "at": "2026-10-18T15:45+09:00",
+  "text": "視察の外交官に暴力が及び、負傷者も出たとか。言葉が尽きたところから、争いは始まるのだな。",
+  "expression": "憂い",
+  "scene": "regular",
+  "lang": "ja",
+  "topic": "ユダヤ人入植者、現地視察の欧州外交官を襲撃 ヨルダン川西岸で暴徒化、負傷者も",
+  "links": [
+   {
+    "source": "産経ニュース",
+    "title": "ユダヤ人入植者、現地視察の欧州外交官を襲撃 ヨルダン川西岸で暴徒化、負傷者も",
+    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5kZTRTak5xNkhQa293N1VqUDU1QjQ0U1VKbDFPcXFpTDNGNU1ZOHBWS0ZIQkJQWUxjZlZQdnUtNFdqM1FsRUN4VkFKcVZsT00zRVRoZ084bTQ1VGpfRDF6bF8zYzBBQTJ6NnBSUk01aWxXd0ZYVUE?oc=5"
+   },
+   {
+    "source": "NHK",
+    "title": "パレスチナでユダヤ人入植者が欧州外交官を襲撃と報道",
+    "url": "https://news.web.nhk/newsweb/na/nd-20261018de61073"
+   }
+  ]
  }
 ]
