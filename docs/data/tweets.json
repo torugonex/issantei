@@ -1,14 +1,5 @@
 [
  {
-  "at": "2026-10-12T09:00+09:00",
-  "text": "朝の紅茶を淹れすぎた。二杯目は急がず、湯気の向こうで新聞を畳む。",
-  "expression": "微笑",
-  "scene": "life",
-  "lang": "ja",
-  "topic": null,
-  "links": []
- },
- {
   "at": "2026-10-12T09:15+09:00",
   "text": "救世主が誰かは知らぬが、日曜の夜に皆で固唾をのむ。そういう習いが残っているのは、悪くない。",
   "expression": "微笑",
@@ -6200,5 +6191,25 @@
   "lang": "ja",
   "topic": null,
   "links": []
+ },
+ {
+  "at": "2026-10-19T19:15+09:00",
+  "text": "A £100 fine for buses' loud music. Headphones, once a courtesy, now require legislation.",
+  "expression": "片眉を上げる",
+  "scene": "regular",
+  "lang": "en",
+  "topic": "People playing loud music on buses could face £100 fine",
+  "links": [
+   {
+    "source": "BBC",
+    "title": "People playing loud music on buses could face £100 fine",
+    "url": "https://www.bbc.co.uk/news/articles/cm89z008x7xdo?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "source": "Sky News",
+    "title": "Fines up to £100 for playing music out loud on buses announced in new antisocial behaviour crackdown",
+    "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQQ0IyS0ZmYWNLVjJiTTU5VXlMTWNQUW8tUnZVS3VHbWNwZlpGUmpIQUNvblRYSDRsRkZoRWZFbVRvYmc2YkJLczdxek8yMnhSdS1MMzVGQXFsUTVwb1hsLTdyNHJET2hpWHc3blppeURPZmlrM0E4eHNsYkd0eDAxR3cxSllQSmlQbDFfTEJOeXdfeHRSOTZtTGFkbzdWUURPOHVUTVJyR1QwUjQ5b0lGUXU1NGEzY3I5V0V4N1JJV0RxNEdSVnhHV0VFeV84Z0tD?oc=5"
+   }
+  ]
  }
 ]
