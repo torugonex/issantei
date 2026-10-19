@@ -1,20 +1,5 @@
 [
  {
-  "at": "2026-10-12T08:00+09:00",
-  "text": "四迷の肉筆とは嬉しい。言文一致に悩んだ人の、筆の迷いを覗いてみたい。",
-  "expression": "微笑",
-  "scene": "regular",
-  "lang": "ja",
-  "topic": "二葉亭四迷の直筆原稿を初公開 東京 北区",
-  "links": [
-   {
-    "source": "NHK",
-    "title": "二葉亭四迷の直筆原稿を初公開 東京 北区",
-    "url": "https://news.web.nhk/newsweb/na/nd-20261011de58043"
-   }
-  ]
- },
- {
   "at": "2026-10-12T08:15+09:00",
   "text": "A man accused of plotting against a prime minister is detained. Allegations are not verdicts; one waits.",
   "expression": "思案",
@@ -6215,6 +6200,21 @@
     "source": "Le",
     "title": "Mobilisation du 17 octobre : pour des jeunes manifestants qui ont défilé samedi, « l’Etat est violent et la casse est la réponse populaire à cette violence »",
     "url": "https://www.lemonde.fr/societe/article/2026/10/19/mobilisation-du-17-octobre-pour-des-jeunes-manifestants-l-etat-est-violent-et-la-casse-est-la-reponse-populaire-a-cette-violence_6797405_3224.html"
+   }
+  ]
+ },
+ {
+  "at": "2026-10-19T18:15+09:00",
+  "text": "減税は誰にも甘い話。頭を下げる側も、下げさせる側も、算盤は手放さぬ。",
+  "expression": "思案",
+  "scene": "regular",
+  "lang": "ja",
+  "topic": "自民 維新幹部 消費税減税法案 今国会成立へ 野党の協力求める",
+  "links": [
+   {
+    "source": "NHK",
+    "title": "自民 維新幹部 消費税減税法案 今国会成立へ 野党の協力求める",
+    "url": "https://news.web.nhk/newsweb/na/nd-20261019de61585"
    }
   ]
  }
