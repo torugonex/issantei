@@ -1,14 +1,5 @@
 [
  {
-  "at": "2026-10-12T06:30+09:00",
-  "text": "月曜の朝。巻いた傘を杖がわりに、急ぐ人々を見送る側になった。これも悪くない。",
-  "expression": "微笑",
-  "scene": "life",
-  "lang": "ja",
-  "topic": null,
-  "links": []
- },
- {
   "at": "2026-10-12T06:45+09:00",
   "text": "A Green row over Zionism, and now an overhaul. Parties do love a tidy-up after the quarrel.",
   "expression": "片眉を上げる",
@@ -6204,6 +6195,26 @@
     "source": "NHK",
     "title": "JETROのホームページが不正アクセスで一時的に公開停止",
     "url": "https://news.web.nhk/newsweb/na/nd-20261019de61442"
+   }
+  ]
+ },
+ {
+  "at": "2026-10-19T16:30+09:00",
+  "text": "Microsoft quietly leaves Britain's grandest AI sheds. Ambition, it seems, wants a rather large power socket.",
+  "expression": "呆れのため息",
+  "scene": "regular",
+  "lang": "en",
+  "topic": "Microsoft pulls out of UK's largest AI data centre",
+  "links": [
+   {
+    "source": "BBC",
+    "title": "Microsoft pulls out of UK's largest AI data centre",
+    "url": "https://www.bbc.co.uk/news/articles/c9m26kl5y7epo?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "source": "Financial Times",
+    "title": "Microsoft pulls plug on Nscale data centre deal",
+    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPc2tKTy15UEJzWmJFTzV1WVFLb1VURGtPYzYzbi14T1ZXZlpudjBTR1AybllYQ3V0dk9VNDFXUHY2ZzRLd3dtNzdEbmd3cTNSbFJoaER5d25sSlRubjhpOFVBNHVGTjliNUJKcEZtNHRiQmNTZGVfS1F4ZEFOMF9uQTJpR1c?oc=5"
    }
   ]
  }
