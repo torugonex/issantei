@@ -1,25 +1,5 @@
 [
  {
-  "at": "2026-10-11T21:00+09:00",
-  "text": "Photo ID at the polls: one side sees a safeguard, the other a barrier. Both quote figures rather fondly.",
-  "expression": "片眉を上げる",
-  "scene": "regular",
-  "lang": "en",
-  "topic": "Burnham faces questions over push to scrap photo ID voting requirement",
-  "links": [
-   {
-    "source": "Guardian",
-    "title": "Burnham faces questions over push to scrap photo ID voting requirement",
-    "url": "https://www.theguardian.com/politics/2026/oct/11/andy-burnham-faces-questions-electoral-system-changes-photo-id-voting"
-   },
-   {
-    "source": "The Guardian",
-    "title": "Burnham faces questions over push to scrap photo ID voting requirement",
-    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOTmlsbjhHTkNKTVF1MGY4WmRuN3Rmd1Q0UTlSUmhaWEtNVnl5UjBDX2FRTzRDV3JTVTRXMUtoX0ZMbkkzN1pJZ3JpSi1qNmdfX04yTGFJMWlnVXllb0Y2T2tFN0VTdjQ0dWRnN0hpVVU4TjI1U1ZjTVJVMFR2ckI2THRMTEdPVHZQQWlnSEFlaElqY3RNQXFSQ1N3dnZlRWhuTzh0RElVOXV2Ym5hbGdRTU9mbHBBNEF3Unc?oc=5"
-   }
-  ]
- },
- {
   "at": "2026-10-11T21:15+09:00",
   "text": "ひいきの負けは堪えるもの。揺れた一年の幕引きに、ファンの胸中を思う。",
   "expression": "思案",
@@ -6173,5 +6153,20 @@
   "lang": "ja",
   "topic": null,
   "links": []
+ },
+ {
+  "at": "2026-10-19T13:00+09:00",
+  "text": "Smoke so thick the sun has gone missing. One does wish the air would mind its manners.",
+  "expression": "憂い",
+  "scene": "regular",
+  "lang": "en",
+  "topic": "BBC visits wildfire front in haze-choked Indonesia",
+  "links": [
+   {
+    "source": "BBC",
+    "title": "BBC visits wildfire front in haze-choked Indonesia",
+    "url": "https://www.bbc.co.uk/news/videos/cm9wzye55j4xo?at_medium=RSS&at_campaign=rss"
+   }
+  ]
  }
 ]
