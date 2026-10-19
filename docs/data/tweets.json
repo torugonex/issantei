@@ -1,20 +1,5 @@
 [
  {
-  "at": "2026-10-11T20:00+09:00",
-  "text": "Protesters freed, and more protesters arrive. Cockroaches, it seems, are rather hard to discourage.",
-  "expression": "愉快な笑い",
-  "scene": "regular",
-  "lang": "en",
-  "topic": "Delhi sees more protests as 'cockroach' group's leaders released",
-  "links": [
-   {
-    "source": "BBC",
-    "title": "Delhi sees more protests as 'cockroach' group's leaders released",
-    "url": "https://www.bbc.co.uk/news/articles/c84g179n2393o?at_medium=RSS&at_campaign=rss"
-   }
-  ]
- },
- {
   "at": "2026-10-11T20:15+09:00",
   "text": "工具もいまや、俳優の手で見栄えを競う時代。日曜大工の親父も、少しは格好がつく。",
   "expression": "微笑",
@@ -6172,6 +6157,31 @@
     "source": "NHK",
     "title": "神奈川 藤沢 バスやタクシーなど事故 10人余搬送 1人意識なし",
     "url": "https://news.web.nhk/newsweb/na/nd-20261019de61387"
+   }
+  ]
+ },
+ {
+  "at": "2026-10-19T12:00+09:00",
+  "text": "A mother's grief at twenty-seven. No wit survives that. Words fail. Rest in peace, young man.",
+  "expression": "憂い",
+  "scene": "regular",
+  "lang": "en",
+  "topic": "Cindy Crawford 'beyond heartbroken' after death of son Presley at 27",
+  "links": [
+   {
+    "source": "BBC",
+    "title": "Cindy Crawford 'beyond heartbroken' after death of son Presley at 27",
+    "url": "https://www.bbc.co.uk/news/articles/cwzrd6123jyyo?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "source": "Guardian",
+    "title": "‘We are beyond heartbroken’: Cindy Crawford, Rande and Kaia Gerber share tributes to Presley",
+    "url": "https://www.theguardian.com/lifeandstyle/2026/oct/19/we-are-beyond-heartbroken-cindy-crawford-rande-and-kaia-gerber-share-tributes-to-presley"
+   },
+   {
+    "source": "The Guardian",
+    "title": "‘We are beyond heartbroken’: Cindy Crawford, Rande and Kaia Gerber share tributes to Presley",
+    "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNcDZYZ29QRUZ3UEdYM3NCQ1JXSnE5Tk5nWUhKTkd2UTZULUhzTHdnQ1Y1cm8zalk5RTVRbi1iQXhRVjQ1aVJtS2pfZWRMdEFGTl9qOG9EbE5iNFhqeTRtdWI4VVFxbFBjM3JOdjduRm1JeHpIVUxhVjIxd3pNNVdxRjlvT2psdF9JQ1JtZE9TNDJvR285ZHVGV29LQU5wZW9zc3lsVWdJcnpTTmxfMGcxVktydVFmOEtYU3VKMDhjSWt0dVlHVmY4Y3IwRlhJNHNUNm5nZHR4VGo?oc=5"
    }
   ]
  }
