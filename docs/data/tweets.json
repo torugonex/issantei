@@ -1,20 +1,5 @@
 [
  {
-  "at": "2026-10-11T17:15+09:00",
-  "text": "A council planting more trees than promised. Rare, a target exceeded in the right direction.",
-  "expression": "微笑",
-  "scene": "regular",
-  "lang": "en",
-  "topic": "Council exceeds Surrey tree planting target",
-  "links": [
-   {
-    "source": "BBC",
-    "title": "Council exceeds Surrey tree planting target",
-    "url": "https://www.bbc.co.uk/news/articles/cr4g1wy331pdo?at_medium=RSS&at_campaign=rss"
-   }
-  ]
- },
- {
   "at": "2026-10-11T17:30+09:00",
   "text": "夕方の土手で、すすきが西日に透けていた。今日の風はおとなしい。",
   "expression": "微笑",
@@ -6118,6 +6103,26 @@
     "source": "The Guardian",
     "title": "Andy Burnham launches campaign against ‘headphone dodgers’ on public transport",
     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPd25wSzNEUmFabnhyYll0QjRJMTg5UkhhTWtOYnpTam9oX1ZTSnY4Y2hqajA2OEc0aHRvZFlvSWxXZkRBTUFTWTUyNEpQSnZUQnFlRWJENWhoWlcwZDBOXzl2bHhQN1dteFo4ZWpZZ2JqR1UwTnltZ3hyMzAzSjA1X1MwaGdHWXNsTUE0Wk9fZ0RfOVdSQjF3VGp1Tk1PQXhPcnl1dVNsUkVEclRnbEotQ0VUZFJtR1pSaGVvZTMtSkUwcVE?oc=5"
+   }
+  ]
+ },
+ {
+  "at": "2026-10-19T09:00+09:00",
+  "text": "横浜も草津も、新しい市長は女性という。市の顔ぶれが替わると、空気も少し動く。",
+  "expression": "微笑",
+  "scene": "regular",
+  "lang": "ja",
+  "topic": "滋賀県草津市長選で元県議の駒井千代氏が初当選 4新人による選挙戦制す",
+  "links": [
+   {
+    "source": "中日新聞Web",
+    "title": "滋賀県草津市長選で元県議の駒井千代氏が初当選 4新人による選挙戦制す",
+    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBNMm1CYldRLWR3NHd6Znk2ZUdBSWM0dW1CQUJlcXlxLTFuSV9aLUhGOHZBbHo2U0lqTXplY2FXbmFOdy0yVGpqNlFDU3pjUGswLXJpUw?oc=5"
+   },
+   {
+    "source": "NHK",
+    "title": "横浜市長選挙 新人の原澤敦美氏が初当選",
+    "url": "https://news.web.nhk/newsweb/na/nd-20261015de59772"
    }
   ]
  }
