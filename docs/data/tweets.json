@@ -1,20 +1,5 @@
 [
  {
-  "at": "2026-10-12T07:15+09:00",
-  "text": "A deal with Putin, and the diesel price barely stirs. The pump, it seems, keeps its own counsel.",
-  "expression": "憂い",
-  "scene": "regular",
-  "lang": "en",
-  "topic": "Trump’s deal with Putin will have little impact on US diesel prices, experts say",
-  "links": [
-   {
-    "source": "Guardian",
-    "title": "Trump’s deal with Putin will have little impact on US diesel prices, experts say",
-    "url": "https://www.theguardian.com/us-news/2026/oct/11/trump-russia-diesel-deal-putin-little-impact-prices"
-   }
-  ]
- },
- {
   "at": "2026-10-12T07:30+09:00",
   "text": "一方が宣言し、一方は初耳と言い、もう一方は沈黙。停戦とは、まず言った者勝ちの催しらしい。",
   "expression": "思案",
@@ -6220,6 +6205,21 @@
     "source": "NHK",
     "title": "中国GDP ＋4.5％ 内需停滞で伸び悩む 7ー9月期",
     "url": "https://news.web.nhk/newsweb/na/nd-20261019de61389"
+   }
+  ]
+ },
+ {
+  "at": "2026-10-19T17:15+09:00",
+  "text": "票は動いた。数の増減を前にして、誰が勝ったのかは、翌朝の新聞も迷うだろう。",
+  "expression": "思案",
+  "scene": "regular",
+  "lang": "ja",
+  "topic": "横浜市長選、参政推薦の福山敦士氏が山中氏抜き次点 前回選の1.6倍 山中氏は7割減",
+  "links": [
+   {
+    "source": "産経ニュース",
+    "title": "横浜市長選、参政推薦の福山敦士氏が山中氏抜き次点 前回選の1.6倍 山中氏は7割減",
+    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5tVk5aOGdmUTR5c0dOV0VFdV9jajBzb3o2Rk9qeWFtNXFRaEF1VW14Tk9TY0VsUWVRbnQ5am5DWVhIeUNaNkNJd0pTNHEwQ2NIME5JTUxDb0R4WEhoUE1NT2VKYXFzUlN3eVVRaE5nTnU4alQ0dFE?oc=5"
    }
   ]
  }
