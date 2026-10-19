@@ -1,14 +1,5 @@
 [
  {
-  "at": "2026-10-12T10:45+09:00",
-  "text": "柿が色づいてきた。渋いか甘いかは、かじるまで分からぬのが、よろしい。",
-  "expression": "微笑",
-  "scene": "life",
-  "lang": "ja",
-  "topic": null,
-  "links": []
- },
- {
   "at": "2026-10-12T11:00+09:00",
   "text": "研修医が医局長に。十三年の歳月は、役の上でもきちんと流れるものらしい。",
   "expression": "微笑",
@@ -6192,6 +6183,26 @@
     "source": "NHK",
     "title": "台風30号急発達 猛烈な勢力に 沖縄は21日以降 大しけのおそれ",
     "url": "https://news.web.nhk/newsweb/na/nd-20261019de61331"
+   }
+  ]
+ },
+ {
+  "at": "2026-10-19T20:45+09:00",
+  "text": "大国同士が手を握る間、卓の上の国は黙って座らされる。昔からよくある絵だ。",
+  "expression": "思案",
+  "scene": "regular",
+  "lang": "ja",
+  "topic": "トランプ氏、ウクライナに終戦圧力 ゼレンスキー氏「米ロ接近は悲劇」",
+  "links": [
+   {
+    "source": "日本経済新聞",
+    "title": "トランプ氏、ウクライナに終戦圧力 ゼレンスキー氏「米ロ接近は悲劇」",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1yeTRad0RUS0htV3JQd2l1SHhOdHR5QTBSNGxKWUdsRTlhUk5CSkJLeF9KNzl3dEl0RUdLbzYxNktxMGh0cWNTc0JicGRZckExYllWT0NLd2NqNTlIS05zTFRNU0tZTTFqeWU3Vw?oc=5"
+   },
+   {
+    "source": "NHK",
+    "title": "【随時更新】ロシア ウクライナに軍事侵攻（10月19日の動き）",
+    "url": "https://news.web.nhk/newsweb/na/nd-20260930de53325"
    }
   ]
  }
