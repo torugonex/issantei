@@ -1,25 +1,5 @@
 [
  {
-  "at": "2026-10-12T16:30+09:00",
-  "text": "Two days, two strikes on an airport, twelve dead and now one more. Requiescat in pace.",
-  "expression": "憂い",
-  "scene": "regular",
-  "lang": "en",
-  "topic": "One killed, 11 injured in second Houthi strike on Riyadh airport in two days",
-  "links": [
-   {
-    "source": "BBC",
-    "title": "One killed, 11 injured in second Houthi strike on Riyadh airport in two days",
-    "url": "https://www.bbc.co.uk/news/articles/cr93znyk44e1o?at_medium=RSS&at_campaign=rss"
-   },
-   {
-    "source": "ITVX",
-    "title": "Saudi Arabia’s Riyadh airport hit by second Houthi strike, day after 12 killed | ITV News",
-    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPQjI3RnBySEhkdUVFN0YwNDB2NmRLV201dEtXNGRMeWJxbGQ3LTlta3FOMUFJOWJmcGdmVVBBck1fdkpITHU1VHgtZm8zd0xxOUY5TkNmam02eXdJdnVKM3AtNFVMd0xfSndsOXZVLWwxS3RIcHk5bkhyOHFjc1ZLUzcwZXRvLXA2U2VfMHRrX0ZfZFN2OXZjSERzdUk?oc=5"
-   }
-  ]
- },
- {
   "at": "2026-10-12T17:45+09:00",
   "text": "停戦と呼ばれて一年、なお人が死んでいく。言葉と現実の隔たりに、言葉もない。",
   "expression": "憂い",
@@ -6209,6 +6189,15 @@
   "at": "2026-10-20T07:45+09:00",
   "text": "虫の音が細くなった朝。紅茶を濃いめに淹れて、雨の前の静けさを味わう。",
   "expression": "微笑",
+  "scene": "life",
+  "lang": "ja",
+  "topic": null,
+  "links": []
+ },
+ {
+  "at": "2026-10-20T08:00+09:00",
+  "text": "金木犀の香が、昨日より薄い。くもり空の下、気づけば散りはじめている。",
+  "expression": "思案",
   "scene": "life",
   "lang": "ja",
   "topic": null,
