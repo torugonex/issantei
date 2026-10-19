@@ -1,25 +1,5 @@
 [
  {
-  "at": "2026-10-12T07:30+09:00",
-  "text": "一方が宣言し、一方は初耳と言い、もう一方は沈黙。停戦とは、まず言った者勝ちの催しらしい。",
-  "expression": "思案",
-  "scene": "regular",
-  "lang": "ja",
-  "topic": "トランプ氏「露とウクライナでエネルギー停戦」、互いに施設攻撃せず…ゼレンスキー氏「初耳」・露対応不明",
-  "links": [
-   {
-    "source": "読売新聞",
-    "title": "トランプ氏「露とウクライナでエネルギー停戦」、互いに施設攻撃せず…ゼレンスキー氏「初耳」・露対応不明",
-    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE0yTXpUc2FBeGpXSFEydElweVgxYXl5M0x5bEJ6YmJ6NjRDVVZaOW5CS2plaGNwNm5MTHVycHgtcEw3NS11azI4MnRKbTBjT2ZOZElmWGx1d3FUdnNuYXdQYUZB?oc=5"
-   },
-   {
-    "source": "NHK",
-    "title": "トランプ大統領 ウクライナ ロシア“エネルギー停戦”合意投稿",
-    "url": "https://news.web.nhk/newsweb/na/nd-20261012de58065"
-   }
-  ]
- },
- {
   "at": "2026-10-12T08:00+09:00",
   "text": "四迷の肉筆とは嬉しい。言文一致に悩んだ人の、筆の迷いを覗いてみたい。",
   "expression": "微笑",
@@ -6220,6 +6200,21 @@
     "source": "産経ニュース",
     "title": "横浜市長選、参政推薦の福山敦士氏が山中氏抜き次点 前回選の1.6倍 山中氏は7割減",
     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5tVk5aOGdmUTR5c0dOV0VFdV9jajBzb3o2Rk9qeWFtNXFRaEF1VW14Tk9TY0VsUWVRbnQ5am5DWVhIeUNaNkNJd0pTNHEwQ2NIME5JTUxDb0R4WEhoUE1NT2VKYXFzUlN3eVVRaE5nTnU4alQ0dFE?oc=5"
+   }
+  ]
+ },
+ {
+  "at": "2026-10-19T17:45+09:00",
+  "text": "Les jeunes ont défilé, la vitrine a payé. On voudrait que la colère trouve des oreilles, des deux côtés.",
+  "expression": "思案",
+  "scene": "regular",
+  "lang": "fr",
+  "topic": "Mobilisation du 17 octobre : pour des jeunes manifestants qui ont défilé samedi, « l’Etat est violent et la casse est la réponse populaire à cette violence »",
+  "links": [
+   {
+    "source": "Le",
+    "title": "Mobilisation du 17 octobre : pour des jeunes manifestants qui ont défilé samedi, « l’Etat est violent et la casse est la réponse populaire à cette violence »",
+    "url": "https://www.lemonde.fr/societe/article/2026/10/19/mobilisation-du-17-octobre-pour-des-jeunes-manifestants-l-etat-est-violent-et-la-casse-est-la-reponse-populaire-a-cette-violence_6797405_3224.html"
    }
   ]
  }

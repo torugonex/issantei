@@ -1,15 +1,14 @@
 {
  "mood": {
-  "valence": -0.155,
-  "arousal": -0.047
+  "valence": -0.191,
+  "arousal": -0.01
  },
- "since_sarcasm": 2,
+ "since_sarcasm": 3,
  "day": "2026-10-19",
  "morning_done": true,
  "goodnight_done": false,
  "sleeptalk_night": "2026-10-18",
  "commented": {
-  "a8d58b7f6dd7": "2026-10-17T17:30:27.380839+09:00",
   "9d028ff599af": "2026-10-17T18:00:38.272067+09:00",
   "53788bf9821a": "2026-10-17T18:15:18.545408+09:00",
   "d49f9ef3304c": "2026-10-17T18:45:17.160708+09:00",
@@ -90,7 +89,8 @@
   "5d4e3ecb514b": "2026-10-19T16:30:27.887733+09:00",
   "fe319facd9e9": "2026-10-19T16:45:18.551409+09:00",
   "38fe3fe19164": "2026-10-19T17:00:36.269202+09:00",
-  "4c33830ab5ec": "2026-10-19T17:15:18.657005+09:00"
+  "4c33830ab5ec": "2026-10-19T17:15:18.657005+09:00",
+  "f363445b9be9": "2026-10-19T17:45:17.779171+09:00"
  },
  "commented_titles": [
   {
@@ -252,13 +252,17 @@
   {
    "title": "横浜市長選、参政推薦の福山敦士氏が山中氏抜き次点 前回選の1.6倍 山中氏は7割減",
    "at": "2026-10-19T17:15:18.657005+09:00"
+  },
+  {
+   "title": "Mobilisation du 17 octobre : pour des jeunes manifestants qui ont défilé samedi, « l’Etat est violent et la casse est la réponse populaire à cette violence »",
+   "at": "2026-10-19T17:45:17.779171+09:00"
   }
  ],
- "last_quake_check": "2026-10-19T17:30:26.464118+09:00",
- "since_english": 4,
- "next_english": 5,
- "last_tick": "2026-10-19T17:30:26.464118+09:00",
+ "last_quake_check": "2026-10-19T17:45:17.779171+09:00",
+ "since_english": 0,
+ "next_english": 4,
+ "last_tick": "2026-10-19T17:45:17.779171+09:00",
  "french_day": "2026-10-19",
- "french_done": false,
+ "french_done": true,
  "french_after": 1040
 }
