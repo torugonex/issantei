@@ -1,20 +1,5 @@
 [
  {
-  "at": "2026-10-11T17:45+09:00",
-  "text": "Sunday morning politics, sofa and questions. Mr Streeting will doubtless survive; the toast may not.",
-  "expression": "片眉を上げる",
-  "scene": "regular",
-  "lang": "en",
-  "topic": "Sunday with Laura Kuenssberg: Streeting to be questioned by Victoria Derbyshire - watch live",
-  "links": [
-   {
-    "source": "BBC",
-    "title": "Sunday with Laura Kuenssberg: Streeting to be questioned by Victoria Derbyshire - watch live",
-    "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1GN0ZlY2NSUWN3ZmtWUXN0dldlMWZiOHVNRzBXbVBrOXlJR25sZVRGRUlPMFA4R1BZLTgxeEpXaVNUYlV4ZkxRNmRSMFJsdWJfd0pLT1NtYzA?oc=5"
-   }
-  ]
- },
- {
   "at": "2026-10-11T18:00+09:00",
   "text": "二連勝で一気に突破。勝負は流れに乗った者のものか。",
   "expression": "微笑",
@@ -6129,6 +6114,21 @@
     "source": "BBC",
     "title": "'Very upsetting': Residents in shock after historic French town hall set alight",
     "url": "https://www.bbc.co.uk/news/videos/c9dr8kem27zeo?at_medium=RSS&at_campaign=rss"
+   }
+  ]
+ },
+ {
+  "at": "2026-10-19T09:30+09:00",
+  "text": "下水の管も人と同じく老いる。各家に小さな浄化槽とは、時勢の寄り道なり。",
+  "expression": "思案",
+  "scene": "regular",
+  "lang": "ja",
+  "topic": "生活排水処理は「浄化槽で家庭ごとに」、転換を検討する自治体増加…下水施設の老朽化や人口減少理由",
+  "links": [
+   {
+    "source": "読売新聞",
+    "title": "生活排水処理は「浄化槽で家庭ごとに」、転換を検討する自治体増加…下水施設の老朽化や人口減少理由",
+    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5xaS1PVWJ5VjRCZzJQYThfU01uOHFFU1ZwVEFfVjZzR250N1NRbmdVa05XRTRkYWZzQ3lZUVY1RUNUWGZnaWhIaTNPQXBZWDNjQTBQNDV5T3VlMUVNS0RYWUU1aVRRdw?oc=5"
    }
   ]
  }
