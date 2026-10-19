@@ -1,25 +1,5 @@
 [
  {
-  "at": "2026-10-12T06:45+09:00",
-  "text": "A Green row over Zionism, and now an overhaul. Parties do love a tidy-up after the quarrel.",
-  "expression": "片眉を上げる",
-  "scene": "regular",
-  "lang": "en",
-  "topic": "Zack Polanski signals Green party overhaul after row over Zionism vote",
-  "links": [
-   {
-    "source": "Guardian",
-    "title": "Zack Polanski signals Green party overhaul after row over Zionism vote",
-    "url": "https://www.theguardian.com/politics/2026/oct/11/zack-polanski-signals-green-party-overhaul-after-row-over-zionism-vote"
-   },
-   {
-    "source": "The Guardian",
-    "title": "Zack Polanski signals Green party overhaul after row over Zionism vote",
-    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNYlJWVHFyazRMZTNVSS16ZDRWQllkNDBVMVU1Z3laX2N2MGljVV9LMEtYTUlENlNfcmlSS2k0RnZqdDZwQ2ZZM195b01OcnFCeGhwWTVXOWFIaTNpN2FMT19TaHFlVjZ2UUMyOGo1U2ZROEd0UlFweklWcTlxdl9zQW4zeGhheUNVa080U1pWQm9zN1BXLVZzN3VPSW9mYkUtM3JqSjh1Rm1HeGxBNFlydnpVVWM4bEFieS00?oc=5"
-   }
-  ]
- },
- {
   "at": "2026-10-12T06:46+09:00",
   "text": "手負いの獣は怖いと言うが、選挙の前から勝手に怯えるのも人の癖。まず票を数えてからでよろしい。",
   "expression": "思案",
@@ -6215,6 +6195,26 @@
     "source": "Financial Times",
     "title": "Microsoft pulls plug on Nscale data centre deal",
     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPc2tKTy15UEJzWmJFTzV1WVFLb1VURGtPYzYzbi14T1ZXZlpudjBTR1AybllYQ3V0dk9VNDFXUHY2ZzRLd3dtNzdEbmd3cTNSbFJoaER5d25sSlRubjhpOFVBNHVGTjliNUJKcEZtNHRiQmNTZGVfS1F4ZEFOMF9uQTJpR1c?oc=5"
+   }
+  ]
+ },
+ {
+  "at": "2026-10-19T16:45+09:00",
+  "text": "議員会館での宴に、お叱りの札。叱る側も、いつ招かれる身か分からぬ。",
+  "expression": "片眉を上げる",
+  "scene": "regular",
+  "lang": "ja",
+  "topic": "関文科相 議員会館で政治資金パーティー 議運委員長が厳重注意",
+  "links": [
+   {
+    "source": "NHKニュース",
+    "title": "関文科相 議員会館で政治資金パーティー 議運委員長が厳重注意",
+    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1SRmhTNnYzek5uanMtQWJWV21fQ2hBUlhjMk5MdkhCTUZKRTlNWkxBdkFGVU9LSGNTUGFyZW01V3NVY3F4Y1N3UWFlVV9kVHlZMmlvbjBrd3dSUWt4Q0Iw?oc=5"
+   },
+   {
+    "source": "NHK",
+    "title": "関文科相 議員会館で政治資金パーティー 議運委員長が厳重注意",
+    "url": "https://news.web.nhk/newsweb/na/nd-20261019de61556"
    }
   ]
  }
