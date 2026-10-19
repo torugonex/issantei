@@ -1,15 +1,14 @@
 {
  "mood": {
-  "valence": 0.006,
-  "arousal": -0.211
+  "valence": -0.021,
+  "arousal": -0.233
  },
- "since_sarcasm": 10,
+ "since_sarcasm": 0,
  "day": "2026-10-20",
  "morning_done": true,
  "goodnight_done": false,
  "sleeptalk_night": "2026-10-19",
  "commented": {
-  "a60617572cba": "2026-10-18T06:30:27.072448+09:00",
   "0628238ad09c": "2026-10-18T07:30:25.919128+09:00",
   "89ce2b559454": "2026-10-18T07:45:17.119460+09:00",
   "31bccf967c71": "2026-10-18T07:58:35.547893+09:00",
@@ -89,13 +88,10 @@
   "2e810977c7bf": "2026-10-19T22:00:38.814895+09:00",
   "2e12f5cf4617": "2026-10-19T22:15:18.841179+09:00",
   "7fa5510d2664": "2026-10-19T22:30:30.128521+09:00",
-  "c5e9dd7f5fbd": "2026-10-20T06:15:18.089939+09:00"
+  "c5e9dd7f5fbd": "2026-10-20T06:15:18.089939+09:00",
+  "2fd7db95e540": "2026-10-20T06:45:18.663101+09:00"
  },
  "commented_titles": [
-  {
-   "title": "Zack Polanski says application of Zionism is racist and no state has right to exist",
-   "at": "2026-10-19T06:45:17.748935+09:00"
-  },
   {
    "title": "非常に強い台風30号 週半ば以降 沖縄・奄美に影響のおそれ",
    "at": "2026-10-19T07:00:32.919559+09:00"
@@ -275,12 +271,16 @@
   {
    "title": "スーチー氏に英国王の書簡　親軍政権、処遇改善主張か",
    "at": "2026-10-20T06:15:18.089939+09:00"
+  },
+  {
+   "title": "Possible wreckage of Amelia Earhart's plane likely to be trees, say researchers",
+   "at": "2026-10-20T06:45:18.663101+09:00"
   }
  ],
- "last_quake_check": "2026-10-20T06:15:18.089939+09:00",
- "since_english": 4,
- "next_english": 5,
- "last_tick": "2026-10-20T06:30:27.385410+09:00",
+ "last_quake_check": "2026-10-20T06:45:18.663101+09:00",
+ "since_english": 1,
+ "next_english": 4,
+ "last_tick": "2026-10-20T06:45:18.663101+09:00",
  "french_day": "2026-10-20",
  "french_done": false,
  "french_after": 626

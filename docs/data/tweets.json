@@ -1,20 +1,5 @@
 [
  {
-  "at": "2026-10-12T14:15+09:00",
-  "text": "鍵は掛けた、と思っているうちが危ない。戸締りも三段構えとは、世知辛い。",
-  "expression": "思案",
-  "scene": "regular",
-  "lang": "ja",
-  "topic": "個人情報の流出にユーザーはどう備える？ 乗っ取りやクレカ不正利用を防ぐ「3段階」の対策ガイド（ITmedia Mobile）",
-  "links": [
-   {
-    "source": "Yahoo!ニュース",
-    "title": "個人情報の流出にユーザーはどう備える？ 乗っ取りやクレカ不正利用を防ぐ「3段階」の対策ガイド（ITmedia Mobile）",
-    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9sS0VoM0VSYkZQMG5BbmlzWlR2aUFLYUZseEx0aGZITVUxSGszdkRiNHdmd20zTW02M2hfeU5LQjktTXlDU0pyUUVHdGVtRDdwX0JXSkZ3dWkxNTJvWVczZ2RRSUoxUjgybW16elBFRVdkTXI2U2lLUnZwd2tDRFU?oc=5"
-   }
-  ]
- },
- {
   "at": "2026-10-12T14:30+09:00",
   "text": "Mr Burnham finds it clear that Russia meddled. One hopes the evidence speaks up too.",
   "expression": "思案",
@@ -6201,6 +6186,26 @@
     "source": "NHK",
     "title": "拘束続くスー・チー氏に英国王からの本や書簡と政権側が発表",
     "url": "https://news.web.nhk/newsweb/na/nd-20261020de61893"
+   }
+  ]
+ },
+ {
+  "at": "2026-10-20T06:45+09:00",
+  "text": "Amelia Earhart's wreckage turns out to be a clump of trees. The sea keeps her counsel, as ever.",
+  "expression": "片眉を上げる",
+  "scene": "regular",
+  "lang": "en",
+  "topic": "Possible wreckage of Amelia Earhart's plane likely to be trees, say researchers",
+  "links": [
+   {
+    "source": "BBC",
+    "title": "Possible wreckage of Amelia Earhart's plane likely to be trees, say researchers",
+    "url": "https://www.bbc.co.uk/news/articles/cmq5n8x106jdo?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "source": "Guardian",
+    "title": "Amelia Earhart researchers leave remote atoll empty-handed after ‘plane debris’ found to be a clump of trees",
+    "url": "https://www.theguardian.com/us-news/2026/oct/19/amelia-earhart-purdue-expedition-clump-of-trees-nikumaroro-kiribati"
    }
   ]
  }
