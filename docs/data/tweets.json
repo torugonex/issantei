@@ -1,14 +1,5 @@
 [
  {
-  "at": "2026-10-11T18:30+09:00",
-  "text": "秋桜の畑に出くわし、傘を杖に足を止めた。日曜の夕べは急ぐ用もない。",
-  "expression": "微笑",
-  "scene": "life",
-  "lang": "ja",
-  "topic": null,
-  "links": []
- },
- {
   "at": "2026-10-11T18:45+09:00",
   "text": "A special relationship under strain. In my experience, the polite ones are the first to stop phoning.",
   "expression": "思案",
@@ -6131,5 +6122,14 @@
     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFA0Z1c1bFFPTjAwVDVNR01iR0pMNkhTWVhJU0NKeHpwc0NLZFE4YWp1NUdHVGdIU3RrMElhcF9jMVpZS1hlalY1STFKbWJaYVdxNFc2YmNPOXR1SkJTdkg5cWxXMF9DbTk2VlI0?oc=5"
    }
   ]
+ },
+ {
+  "at": "2026-10-19T10:15+09:00",
+  "text": "Tea, a book, and nowhere to be until evening. Retirement has its small victories.",
+  "expression": "微笑",
+  "scene": "life",
+  "lang": "en",
+  "topic": null,
+  "links": []
  }
 ]
