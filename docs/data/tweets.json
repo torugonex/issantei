@@ -1,14 +1,5 @@
 [
  {
-  "at": "2026-10-11T17:30+09:00",
-  "text": "夕方の土手で、すすきが西日に透けていた。今日の風はおとなしい。",
-  "expression": "微笑",
-  "scene": "life",
-  "lang": "ja",
-  "topic": null,
-  "links": []
- },
- {
   "at": "2026-10-11T17:45+09:00",
   "text": "Sunday morning politics, sofa and questions. Mr Streeting will doubtless survive; the toast may not.",
   "expression": "片眉を上げる",
@@ -6123,6 +6114,21 @@
     "source": "NHK",
     "title": "横浜市長選挙 新人の原澤敦美氏が初当選",
     "url": "https://news.web.nhk/newsweb/na/nd-20261015de59772"
+   }
+  ]
+ },
+ {
+  "at": "2026-10-19T09:15+09:00",
+  "text": "A town hall keeps a town's memory in its walls. Sad to see it burn.",
+  "expression": "憂い",
+  "scene": "regular",
+  "lang": "en",
+  "topic": "'Very upsetting': Residents in shock after historic French town hall set alight",
+  "links": [
+   {
+    "source": "BBC",
+    "title": "'Very upsetting': Residents in shock after historic French town hall set alight",
+    "url": "https://www.bbc.co.uk/news/videos/c9dr8kem27zeo?at_medium=RSS&at_campaign=rss"
    }
   ]
  }
