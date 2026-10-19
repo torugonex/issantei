@@ -1,14 +1,5 @@
 [
  {
-  "at": "2026-10-12T02:45+09:00",
-  "text": "……襷が、傘に……いや、新米が……むにゃ",
-  "expression": "寝顔",
-  "scene": "sleeptalk",
-  "lang": "ja",
-  "topic": null,
-  "links": []
- },
- {
   "at": "2026-10-12T06:00+09:00",
   "text": "晴。朝の空気がひんやりして、寒露とはよく言ったもの。今日はゆるりと始めよう。",
   "expression": "微笑",
@@ -6171,6 +6162,26 @@
     "source": "読売新聞",
     "title": "ゼレンスキー氏、枯渇した「パトリオット」と引き換えに…トランプ氏要求の「露の製油所攻撃中止」提案",
     "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE53Wkg4bERWcTdJUnpCUjVvdlZJbTFwdXA5bWpwWWlIalFzdndHUm5XTzhRdWc0V3lJNWYxbkpqXzBnSV84N2hLRXgxdGFqSkhqM1RFTXJ4WHFJbVhVcGxtQVNn?oc=5"
+   }
+  ]
+ },
+ {
+  "at": "2026-10-19T15:30+09:00",
+  "text": "A bomb threat at thirty thousand feet. One does hope the in-flight tea was served before the descent.",
+  "expression": "思案",
+  "scene": "regular",
+  "lang": "en",
+  "topic": "Bomb threat forces Israel to Austria flight into emergency landing",
+  "links": [
+   {
+    "source": "BBC",
+    "title": "Bomb threat forces Israel to Austria flight into emergency landing",
+    "url": "https://www.bbc.co.uk/news/articles/c680zdmn100lo?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "source": "Sky News",
+    "title": "Flight from Tel Aviv to Vienna makes emergency landing after bomb threat",
+    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQUVpuQjNVOVE5WmwxM1ZoeWFNc0szemVoVklJRDJCMTNWYU93dXJZM01xSGZZa0E4WlhnV25mSk95bUtHOTltbGY4c1RQc3F0R2dhUmp1NmxhMTNOb1NPa1NLei10aHNqY3NCblU1Q1V5ZEZZYXN3UmhGX3RpUnNfWGhpMFoyYTIwX3RYZWRlV09EMjBoY2NRclJ1d0Q4czhxZHR5Rm5WM3c0dW9u?oc=5"
    }
   ]
  }
