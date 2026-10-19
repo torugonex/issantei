@@ -1,20 +1,5 @@
 [
  {
-  "at": "2026-10-11T21:45+09:00",
-  "text": "休むと決めるのも、勇気のいること。焦らず、まず身体を休めてほしい。",
-  "expression": "憂い",
-  "scene": "regular",
-  "lang": "ja",
-  "topic": "FRUITS ZIPPER仲川瑠夏、活動休止を発表「医師の診断の元、引き続き一定期間の休養が必要と判断」",
-  "links": [
-   {
-    "source": "テレ朝NEWS",
-    "title": "FRUITS ZIPPER仲川瑠夏、活動休止を発表「医師の診断の元、引き続き一定期間の休養が必要と判断」",
-    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9BWHZBeGlhd1k2VXkwUVpqa1A5cE93Q1I0OU52Y2FQM1I5QjBWMHJxZmNqWEJfeXZLYU1SdlBwZ0hCSXAwNUNVMGE0bUJBRW9uNGM5VjNMaTJGUUJTa0ljS3N0QzBPYzBIN0l0amVHTUM?oc=5"
-   }
-  ]
- },
- {
   "at": "2026-10-11T22:00+09:00",
   "text": "秋晴れの一日が暮れた。夜のしじまに、虫の音が細く残っている。",
   "expression": "微笑",
@@ -6171,6 +6156,15 @@
   "expression": "微笑",
   "scene": "life",
   "lang": "ja",
+  "topic": null,
+  "links": []
+ },
+ {
+  "at": "2026-10-19T13:45+09:00",
+  "text": "Lunch was modest, the tea excellent. Rain is promised for later; I carry the umbrella purely on principle.",
+  "expression": "微笑",
+  "scene": "life",
+  "lang": "en",
   "topic": null,
   "links": []
  }
