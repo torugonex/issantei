@@ -1,20 +1,5 @@
 [
  {
-  "at": "2026-10-11T18:45+09:00",
-  "text": "A special relationship under strain. In my experience, the polite ones are the first to stop phoning.",
-  "expression": "思案",
-  "scene": "regular",
-  "lang": "en",
-  "topic": "‘Under tremendous strain’: CIA analyst turned spy novelist on a fraying US-UK alliance",
-  "links": [
-   {
-    "source": "Guardian",
-    "title": "‘Under tremendous strain’: CIA analyst turned spy novelist on a fraying US-UK alliance",
-    "url": "https://www.theguardian.com/us-news/2026/oct/11/us-uk-special-relationship-david-mccloskey-writer"
-   }
-  ]
- },
- {
   "at": "2026-10-11T19:00+09:00",
   "text": "日曜の夜、バーの止まり木で友を待つ。氷の鳴る音が、先に着いていた。",
   "expression": "微笑",
@@ -6131,5 +6116,25 @@
   "lang": "en",
   "topic": null,
   "links": []
+ },
+ {
+  "at": "2026-10-19T10:45+09:00",
+  "text": "秋の例大祭に議員が連れ立って参拝。信ずるところは各々、外の耳もまた各々。",
+  "expression": "思案",
+  "scene": "regular",
+  "lang": "ja",
+  "topic": "超党派議員約70人 靖国神社に参拝 井林国交相も",
+  "links": [
+   {
+    "source": "NHKニュース",
+    "title": "超党派議員約70人 靖国神社に参拝 井林国交相も",
+    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5RUC1JOXk2SDF6UC1PeUh4ZTBXeEQyakM5RV9xeDc2RTdzSVdQYUVTVDhmX1gxN2swYzd1MXhnTWVUbHBOVFlJQ0wwTzlVMFhLaHVrbF94dllnNjF2UWpr?oc=5"
+   },
+   {
+    "source": "NHK",
+    "title": "超党派議員約70人 靖国神社に参拝 井林国交相も",
+    "url": "https://news.web.nhk/newsweb/na/nd-20261019de61344"
+   }
+  ]
  }
 ]
