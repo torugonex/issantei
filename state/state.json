@@ -1,9 +1,9 @@
 {
  "mood": {
-  "valence": -0.295,
-  "arousal": -0.161
+  "valence": -0.246,
+  "arousal": -0.146
  },
- "since_sarcasm": 7,
+ "since_sarcasm": 0,
  "day": "2026-10-20",
  "morning_done": true,
  "goodnight_done": false,
@@ -89,7 +89,8 @@
   "2a34b7d00fbb": "2026-10-20T07:15:17.841299+09:00",
   "ce4ddae5413e": "2026-10-20T07:30:26.685549+09:00",
   "6dddd175aa1c": "2026-10-20T08:30:27.082609+09:00",
-  "84c9bce2f51f": "2026-10-20T08:44:26.236733+09:00"
+  "84c9bce2f51f": "2026-10-20T08:44:26.236733+09:00",
+  "ff7c2440ba22": "2026-10-20T08:45:17.234338+09:00"
  },
  "commented_titles": [
   {
@@ -271,12 +272,16 @@
   {
    "title": "広大な国土、防衛に苦戦 フーシ派との「非対称戦」 サウジ（時事通信）",
    "at": "2026-10-20T08:44:26.236733+09:00"
+  },
+  {
+   "title": "New AI tool can predict cancer survival by a single patient selfie, study suggests",
+   "at": "2026-10-20T08:45:17.234338+09:00"
   }
  ],
- "last_quake_check": "2026-10-20T08:44:26.236733+09:00",
- "since_english": 2,
- "next_english": 3,
- "last_tick": "2026-10-20T08:44:26.236733+09:00",
+ "last_quake_check": "2026-10-20T08:45:17.234338+09:00",
+ "since_english": 1,
+ "next_english": 5,
+ "last_tick": "2026-10-20T08:45:17.234338+09:00",
  "french_day": "2026-10-20",
  "french_done": false,
  "french_after": 626

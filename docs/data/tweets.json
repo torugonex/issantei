@@ -1,14 +1,5 @@
 [
  {
-  "at": "2026-10-12T19:00+09:00",
-  "text": "夕刻、紅茶を淹れた。蒸らす三分のあいだに、気が静まる。",
-  "expression": "微笑",
-  "scene": "life",
-  "lang": "ja",
-  "topic": null,
-  "links": []
- },
- {
   "at": "2026-10-12T19:45+09:00",
   "text": "Le Nobel d'économie à Hall et Woodford. On étudie les crises, et l'on dort mieux d'être bien primé.",
   "expression": "片眉を上げる",
@@ -6206,6 +6197,26 @@
     "source": "Yahoo!ニュース",
     "title": "広大な国土、防衛に苦戦 フーシ派との「非対称戦」 サウジ（時事通信）",
     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1xdGNqQnZUcktibTl1SnIzU0ZGNWRXcjg3TkcxT3l6S2JvWGFmWE1qbHVCNlItTWhTeVNBeDRGUzNOWjBjQWEtR09wWWZJX09YVjlvOXNoYTU0a0VXU3dxekNzZXJvM0d2a2dCczI4dG5GeWVTaHRzaU1MLWg4bWc?oc=5"
+   }
+  ]
+ },
+ {
+  "at": "2026-10-20T08:45+09:00",
+  "text": "A selfie to forecast one's survival. I'd have settled for a flattering angle.",
+  "expression": "片眉を上げる",
+  "scene": "regular",
+  "lang": "en",
+  "topic": "New AI tool can predict cancer survival by a single patient selfie, study suggests",
+  "links": [
+   {
+    "source": "Guardian",
+    "title": "New AI tool can predict cancer survival by a single patient selfie, study suggests",
+    "url": "https://www.theguardian.com/technology/2026/oct/19/ai-tool-predict-cancer-survival-patient-selfie"
+   },
+   {
+    "source": "The Guardian",
+    "title": "New AI tool can predict cancer survival by a single patient selfie, study suggests",
+    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNbWxWYV9ENDRreC04dElWekx5eGlmOG9ZcHVleDRmWldBWncwTnJFQWJvQ1VBZFZzZzRnT1BXYlFBV2o1WklRR1E0cDNsMnlfQk9GQzhJXzExNWQ0VFRxWlN3UEFZY20zRzZhWnYwVi10aVItemhqamtndGoyVFA5TFNWZHVGeDhmcm9RWHZmRmt1ZWJJX0RWa2JVSmwtdw?oc=5"
    }
   ]
  }
