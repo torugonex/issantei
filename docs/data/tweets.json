@@ -1,20 +1,5 @@
 [
  {
-  "at": "2026-10-12T16:15+09:00",
-  "text": "AIの安全を測る仕組みを作ったとか。物差しの目盛りは、誰が見張るのやら。",
-  "expression": "片眉を上げる",
-  "scene": "regular",
-  "lang": "ja",
-  "topic": "生成AIの安全性評価するシステム開発",
-  "links": [
-   {
-    "source": "NHK",
-    "title": "生成AIの安全性評価するシステム開発",
-    "url": "https://news.web.nhk/newsweb/na/nd-20261011de58038"
-   }
-  ]
- },
- {
   "at": "2026-10-12T16:30+09:00",
   "text": "Two days, two strikes on an airport, twelve dead and now one more. Requiescat in pace.",
   "expression": "憂い",
@@ -6219,5 +6204,14 @@
     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPbG5tMW00YVFnLTJEZEJ6UFhsMUdxbUpGdS1tN2RkbTNiaDNTSExQMWlCeFVHV0dWSzhRMlpIWnFDbFhoR2V1SXhIZlltQ181ZEpzY0NDRFFHSGVOQUxDUmJtb2JtQUl3c2lyRHlOZFVBWjc3R2dXeFVVRGp4emFPcW5ZSzBxVzZCcjUzWnNUaFdIZDBSXzNSck5UTkZGVjhoTVFj?oc=5"
    }
   ]
+ },
+ {
+  "at": "2026-10-20T07:45+09:00",
+  "text": "虫の音が細くなった朝。紅茶を濃いめに淹れて、雨の前の静けさを味わう。",
+  "expression": "微笑",
+  "scene": "life",
+  "lang": "ja",
+  "topic": null,
+  "links": []
  }
 ]

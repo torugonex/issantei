@@ -1,9 +1,9 @@
 {
  "mood": {
-  "valence": -0.347,
-  "arousal": -0.222
+  "valence": -0.235,
+  "arousal": -0.267
  },
- "since_sarcasm": 3,
+ "since_sarcasm": 4,
  "day": "2026-10-20",
  "morning_done": true,
  "goodnight_done": false,
@@ -94,10 +94,6 @@
   "ce4ddae5413e": "2026-10-20T07:30:26.685549+09:00"
  },
  "commented_titles": [
-  {
-   "title": "世界初“火星衛星から岩石”目指し、H3ロケット10号機 あす打ち上げ （TBS NEWS DIG Powered by JNN）",
-   "at": "2026-10-19T07:45:16.694204+09:00"
-  },
   {
    "title": "横浜市長選に「IRの亡霊」 5年前の再演出か、山中氏落選",
    "at": "2026-10-19T08:00:35.808411+09:00"
@@ -279,10 +275,10 @@
    "at": "2026-10-20T07:30:26.685549+09:00"
   }
  ],
- "last_quake_check": "2026-10-20T07:30:26.685549+09:00",
- "since_english": 1,
+ "last_quake_check": "2026-10-20T07:45:17.101744+09:00",
+ "since_english": 2,
  "next_english": 4,
- "last_tick": "2026-10-20T07:30:26.685549+09:00",
+ "last_tick": "2026-10-20T07:45:17.101744+09:00",
  "french_day": "2026-10-20",
  "french_done": false,
  "french_after": 626
