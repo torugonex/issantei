@@ -1,25 +1,5 @@
 [
  {
-  "at": "2026-10-12T10:30+09:00",
-  "text": "A ceasefire announced before the other party has heard of it. Ambitious scheduling, that.",
-  "expression": "片眉を上げる",
-  "scene": "regular",
-  "lang": "en",
-  "topic": "Trump's 'energy ceasefire' claim welcomed by Zelensky but Russia silent",
-  "links": [
-   {
-    "source": "BBC",
-    "title": "Trump's 'energy ceasefire' claim welcomed by Zelensky but Russia silent",
-    "url": "https://www.bbc.co.uk/news/articles/c6pvg4jyz1m0o?at_medium=RSS&at_campaign=rss"
-   },
-   {
-    "source": "Guardian",
-    "title": "Zelenskyy signals surprise at Trump claim of Russia-Ukraine ‘energy ceasefire’ but would back it if Moscow does – as it happened",
-    "url": "https://www.theguardian.com/us-news/live/2026/oct/11/donald-trump-ukraine-russia-energy-ceasefire-diesel-latest-updates"
-   }
-  ]
- },
- {
   "at": "2026-10-12T10:45+09:00",
   "text": "柿が色づいてきた。渋いか甘いかは、かじるまで分からぬのが、よろしい。",
   "expression": "微笑",
@@ -6192,6 +6172,26 @@
     "source": "Forbes",
     "title": "Halley’s Comet Returns To The Night Sky — Sort Of",
     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxObzhOMERZRFM0STFLdUppRGpFeEc0aWgtcGVzN0dPX0dpZHJSRzFKZzFEZXNSSUVrZVYwYk5wLXJJZ3lSX2dxaTV3cGZtaGR5TXRvSk5sdnhnbVdqa3RNenBsMm53RWtEc0tWaExENkN5ODBoMXY1Z1ZROU1JdFpMQnVtZW5yNU1PZHoxNy1yZlRrSlc4RlJKS0ZHZGRLdDRCallZM01VTXFhanZ6VFdfTm83VmNuUmdXYzdBWg?oc=5"
+   }
+  ]
+ },
+ {
+  "at": "2026-10-19T20:30+09:00",
+  "text": "910hPaとは恐ろしい数字だ。沖縄や先島の方々は、どうか早めの備えを。",
+  "expression": "思案",
+  "scene": "regular",
+  "lang": "ja",
+  "topic": "台風30号が猛烈な勢力に 明日20日は910hPa 先島諸島は21日から高波警戒(気象予報士 石榑 亜紀子)",
+  "links": [
+   {
+    "source": "tenki.jp",
+    "title": "台風30号が猛烈な勢力に 明日20日は910hPa 先島諸島は21日から高波警戒(気象予報士 石榑 亜紀子)",
+    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9pOTgtbTBNaDFWMFJTOTk4dzRLWHJWdTZhb2lnQXNNMGFGblhCTHdaUzdDdENMeXExZnE0T1pxVy1kV2IyelJucEpMZzNSRzBXWFpoeTVfdmF4UFNFMEJ5Z3lFQmtEWW9QQlgwdDlB?oc=5"
+   },
+   {
+    "source": "NHK",
+    "title": "台風30号急発達 猛烈な勢力に 沖縄は21日以降 大しけのおそれ",
+    "url": "https://news.web.nhk/newsweb/na/nd-20261019de61331"
    }
   ]
  }
