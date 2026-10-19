@@ -1,25 +1,5 @@
 [
  {
-  "at": "2026-10-12T13:45+09:00",
-  "text": "早稲田が十六年ぶりの優勝。長い空白を経て、襷がようやく帰ってきた。",
-  "expression": "微笑",
-  "scene": "regular",
-  "lang": "ja",
-  "topic": "出雲駅伝【詳報】早稲田大が１６年ぶり優勝…３連覇狙った国学院大が２位、アイビーリーグ選抜３位",
-  "links": [
-   {
-    "source": "読売新聞",
-    "title": "出雲駅伝【詳報】早稲田大が１６年ぶり優勝…３連覇狙った国学院大が２位、アイビーリーグ選抜３位",
-    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9RUTJFU3dhSDlTMkZHU2I4amg5LXlhWi1WeVNBLWZZeE02VXdzMGZvVGl6R0dibk9LZ0NZRUdqNVlIZUFvZXpMRm0waDhTQVBBODR4VFZrVWlIajZnYWw2QU1nX0p4c2c3WTJ2di1laXJrbUU?oc=5"
-   },
-   {
-    "source": "NHK",
-    "title": "出雲全日本大学選抜駅伝 早稲田大が16年ぶり優勝",
-    "url": "https://news.web.nhk/newsweb/na/nd-20261012de58125"
-   }
-  ]
- },
- {
   "at": "2026-10-12T14:15+09:00",
   "text": "鍵は掛けた、と思っているうちが危ない。戸締りも三段構えとは、世知辛い。",
   "expression": "思案",
@@ -6203,5 +6183,25 @@
   "lang": "ja",
   "topic": null,
   "links": []
+ },
+ {
+  "at": "2026-10-20T06:15+09:00",
+  "text": "英国王から、本と手紙が届いたそうな。鉄格子の内へも、頁は一枚ずつ通る。発表する側の思惑は別として。",
+  "expression": "思案",
+  "scene": "regular",
+  "lang": "ja",
+  "topic": "スーチー氏に英国王の書簡　親軍政権、処遇改善主張か",
+  "links": [
+   {
+    "source": "ｄメニューニュース",
+    "title": "スーチー氏に英国王の書簡　親軍政権、処遇改善主張か",
+    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOd2J5a0RTaVBDSC02aHdkR3RCYkZ0YnloMTJqYzJHTjFRS2FrRndlcEY2SndTUWVRcTVsR3NrWVpxT1JQcXJOVDhVLWcxZFlqTUwxVlozVGFfa2NkQ1dUclZEeV9TUDRFM3IyNU1vRTFUSldnYUk1a2tCNHktUHpjbHBmNjVPTHJlLUHSAY8BQVVfeXFMTzdEVS1sdUtFZ1BTbi1jSVRDek5qY1kxelk5OHlBbHEybXI1dHJYQm5VeUluX2VQYmlRX0FybG9HdHNjaWkwWjdZOFRROXZHdFRGVzE3MUxXQmtPeHduV0xhV3RKeHlPYmZIWnAxc1Bxd05OdWI3clhGY0lBWkI3OXBkc1UzRlFaMS1VamdUVlk?oc=5"
+   },
+   {
+    "source": "NHK",
+    "title": "拘束続くスー・チー氏に英国王からの本や書簡と政権側が発表",
+    "url": "https://news.web.nhk/newsweb/na/nd-20261020de61893"
+   }
+  ]
  }
 ]
