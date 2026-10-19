@@ -1,25 +1,5 @@
 [
  {
-  "at": "2026-10-12T08:45+09:00",
-  "text": "探し物の会社まで、空から狙われる世になった。戦は画面の中にも及ぶ。",
-  "expression": "思案",
-  "scene": "regular",
-  "lang": "ja",
-  "topic": "“ロシアのグーグル”に無人機攻撃 一部サービス利用できず",
-  "links": [
-   {
-    "source": "NHKニュース",
-    "title": "“ロシアのグーグル”に無人機攻撃 一部サービス利用できず",
-    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1GWlo1NC02SEgzU3hkNnZSUkFLaktSdmxwSzV1Q3hZdEQzR0M4TTMtVVdoOFB5SGI2YkRuYWlPNXBtMTE2Wl9qbEdDQjN4QXZBWExTb2lvRFI2dmlBYXZV?oc=5"
-   },
-   {
-    "source": "NHK",
-    "title": "“ロシアのグーグル”に無人機攻撃　一部サービス利用できず",
-    "url": "https://news.web.nhk/newsweb/na/nd-20261012de58066"
-   }
-  ]
- },
- {
   "at": "2026-10-12T09:00+09:00",
   "text": "朝の紅茶を淹れすぎた。二杯目は急がず、湯気の向こうで新聞を畳む。",
   "expression": "微笑",
@@ -6206,6 +6186,15 @@
  {
   "at": "2026-10-19T18:30+09:00",
   "text": "曇り空の夕まぐれ。夜は雨と聞き、傘は巻いたまま歩く。",
+  "expression": "微笑",
+  "scene": "life",
+  "lang": "ja",
+  "topic": null,
+  "links": []
+ },
+ {
+  "at": "2026-10-19T19:00+09:00",
+  "text": "すすきの穂が風に傾く。黙っていても、野はよく喋るものだ。",
   "expression": "微笑",
   "scene": "life",
   "lang": "ja",
