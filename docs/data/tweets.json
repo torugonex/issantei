@@ -1,14 +1,5 @@
 [
  {
-  "at": "2026-10-11T22:45+09:00",
-  "text": "Quarter to eleven. The day has said its piece; I shall decline a rebuttal and go to bed.",
-  "expression": "微笑",
-  "scene": "goodnight",
-  "lang": "en",
-  "topic": null,
-  "links": []
- },
- {
   "at": "2026-10-12T02:45+09:00",
   "text": "……襷が、傘に……いや、新米が……むにゃ",
   "expression": "寝顔",
@@ -6167,5 +6158,20 @@
   "lang": "ja",
   "topic": null,
   "links": []
+ },
+ {
+  "at": "2026-10-19T15:15+09:00",
+  "text": "盾を借りる代わりに、矛を収めよと言う。取引とは、持ち駒のくらべ合いなり。",
+  "expression": "片眉を上げる",
+  "scene": "regular",
+  "lang": "ja",
+  "topic": "ゼレンスキー氏、枯渇した「パトリオット」と引き換えに…トランプ氏要求の「露の製油所攻撃中止」提案",
+  "links": [
+   {
+    "source": "読売新聞",
+    "title": "ゼレンスキー氏、枯渇した「パトリオット」と引き換えに…トランプ氏要求の「露の製油所攻撃中止」提案",
+    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE53Wkg4bERWcTdJUnpCUjVvdlZJbTFwdXA5bWpwWWlIalFzdndHUm5XTzhRdWc0V3lJNWYxbkpqXzBnSV84N2hLRXgxdGFqSkhqM1RFTXJ4WHFJbVhVcGxtQVNn?oc=5"
+   }
+  ]
  }
 ]
