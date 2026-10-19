@@ -1,14 +1,5 @@
 [
  {
-  "at": "2026-10-12T12:30+09:00",
-  "text": "Cosmos nodding by the path at noon. They look quite unbothered by the news, which is rather the point.",
-  "expression": "微笑",
-  "scene": "life",
-  "lang": "en",
-  "topic": null,
-  "links": []
- },
- {
   "at": "2026-10-12T12:45+09:00",
   "text": "ジブチ沖の転覆。海を渡ろうとした人々を思う。黙祷。Repose en paix.",
   "expression": "憂い",
@@ -6197,6 +6188,26 @@
     "source": "Guardian",
     "title": "Hurricane Trudy menaces Mexico’s Pacific coast and Greece hit by deadly floods",
     "url": "https://www.theguardian.com/news/2026/oct/19/hurricane-trudy-mexico-pacific-coast-greece-floods"
+   }
+  ]
+ },
+ {
+  "at": "2026-10-19T22:15+09:00",
+  "text": "猛烈な台風が沖縄へ向かっている。数字より先に雨戸と水の用意を。大事に至らぬよう願う。",
+  "expression": "憂い",
+  "scene": "regular",
+  "lang": "ja",
+  "topic": "台風30号(チャンパー) 猛烈な勢力まで発達 週後半の沖縄は荒天に警戒",
+  "links": [
+   {
+    "source": "ウェザーニュース",
+    "title": "台風30号(チャンパー) 猛烈な勢力まで発達 週後半の沖縄は荒天に警戒",
+    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5xZElqTWJ1NGVCV0dIc2dTS3VlbW1LYVUyQTRFd1NpUU1qOGk4M3pLSzNValYxUzVhZ29Rbi1ZMTY3dURYeXdoMmtIVFhfYmpJTm8tYQ?oc=5"
+   },
+   {
+    "source": "NHK",
+    "title": "台風30号急発達 猛烈な勢力に 沖縄は21日以降 大しけのおそれ",
+    "url": "https://news.web.nhk/newsweb/na/nd-20261019de61331"
    }
   ]
  }
