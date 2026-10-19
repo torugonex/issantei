@@ -1,16 +1,14 @@
 {
  "mood": {
-  "valence": -0.226,
-  "arousal": -0.275
+  "valence": -0.294,
+  "arousal": -0.181
  },
- "since_sarcasm": 5,
+ "since_sarcasm": 6,
  "day": "2026-10-20",
  "morning_done": true,
  "goodnight_done": false,
  "sleeptalk_night": "2026-10-19",
  "commented": {
-  "dba9993fab54": "2026-10-18T08:15:18.225158+09:00",
-  "3d09ecefaad4": "2026-10-18T08:30:26.402806+09:00",
   "6e7eeea9f273": "2026-10-18T09:00:37.166105+09:00",
   "6f188c8398b0": "2026-10-18T09:15:19.917120+09:00",
   "0e15123a9292": "2026-10-18T09:30:27.584894+09:00",
@@ -89,7 +87,8 @@
   "2fd7db95e540": "2026-10-20T06:45:18.663101+09:00",
   "94b3fae6ae33": "2026-10-20T07:00:37.654104+09:00",
   "2a34b7d00fbb": "2026-10-20T07:15:17.841299+09:00",
-  "ce4ddae5413e": "2026-10-20T07:30:26.685549+09:00"
+  "ce4ddae5413e": "2026-10-20T07:30:26.685549+09:00",
+  "6dddd175aa1c": "2026-10-20T08:30:27.082609+09:00"
  },
  "commented_titles": [
   {
@@ -267,12 +266,16 @@
   {
    "title": "Kenyan starvation cult leader guilty of murder of 190 children and one adult",
    "at": "2026-10-20T07:30:26.685549+09:00"
+  },
+  {
+   "title": "In pictures: French landmarks damaged and destroyed by violent protesters",
+   "at": "2026-10-20T08:30:27.082609+09:00"
   }
  ],
- "last_quake_check": "2026-10-20T08:00:36.981909+09:00",
- "since_english": 3,
- "next_english": 4,
- "last_tick": "2026-10-20T08:15:17.745784+09:00",
+ "last_quake_check": "2026-10-20T08:30:27.082609+09:00",
+ "since_english": 1,
+ "next_english": 3,
+ "last_tick": "2026-10-20T08:30:27.082609+09:00",
  "french_day": "2026-10-20",
  "french_done": false,
  "french_after": 626
