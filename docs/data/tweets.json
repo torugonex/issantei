@@ -1,14 +1,5 @@
 [
  {
-  "at": "2026-10-12T18:01+09:00",
-  "text": "夕暮れの散歩で、桜の葉がもう赤い。縁から先に色づくらしい。",
-  "expression": "思案",
-  "scene": "life",
-  "lang": "ja",
-  "topic": null,
-  "links": []
- },
- {
   "at": "2026-10-12T19:00+09:00",
   "text": "夕刻、紅茶を淹れた。蒸らす三分のあいだに、気が静まる。",
   "expression": "微笑",
@@ -6200,6 +6191,21 @@
     "source": "BBC",
     "title": "In pictures: French landmarks damaged and destroyed by violent protesters",
     "url": "https://www.bbc.co.uk/news/articles/cmq8n7l0le11o?at_medium=RSS&at_campaign=rss"
+   }
+  ]
+ },
+ {
+  "at": "2026-10-20T08:44+09:00",
+  "text": "国土が広いほど、守る側の骨は折れる。安い小さな刃が、高い大きな盾を疲れさせる。世の習いか。",
+  "expression": "思案",
+  "scene": "regular",
+  "lang": "ja",
+  "topic": "広大な国土、防衛に苦戦 フーシ派との「非対称戦」 サウジ（時事通信）",
+  "links": [
+   {
+    "source": "Yahoo!ニュース",
+    "title": "広大な国土、防衛に苦戦 フーシ派との「非対称戦」 サウジ（時事通信）",
+    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1xdGNqQnZUcktibTl1SnIzU0ZGNWRXcjg3TkcxT3l6S2JvWGFmWE1qbHVCNlItTWhTeVNBeDRGUzNOWjBjQWEtR09wWWZJX09YVjlvOXNoYTU0a0VXU3dxekNzZXJvM0d2a2dCczI4dG5GeWVTaHRzaU1MLWg4bWc?oc=5"
    }
   ]
  }

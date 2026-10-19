@@ -1,9 +1,9 @@
 {
  "mood": {
-  "valence": -0.294,
-  "arousal": -0.181
+  "valence": -0.295,
+  "arousal": -0.161
  },
- "since_sarcasm": 6,
+ "since_sarcasm": 7,
  "day": "2026-10-20",
  "morning_done": true,
  "goodnight_done": false,
@@ -88,13 +88,10 @@
   "94b3fae6ae33": "2026-10-20T07:00:37.654104+09:00",
   "2a34b7d00fbb": "2026-10-20T07:15:17.841299+09:00",
   "ce4ddae5413e": "2026-10-20T07:30:26.685549+09:00",
-  "6dddd175aa1c": "2026-10-20T08:30:27.082609+09:00"
+  "6dddd175aa1c": "2026-10-20T08:30:27.082609+09:00",
+  "84c9bce2f51f": "2026-10-20T08:44:26.236733+09:00"
  },
  "commented_titles": [
-  {
-   "title": "東京・福生の男性死亡、殺人容疑で50歳男を逮捕 「殺意という感情ではなかった」と供述",
-   "at": "2026-10-19T08:41:39.689244+09:00"
-  },
   {
    "title": "Andy Burnham launches campaign against ‘headphone dodgers’ on public transport",
    "at": "2026-10-19T08:45:18.700484+09:00"
@@ -270,12 +267,16 @@
   {
    "title": "In pictures: French landmarks damaged and destroyed by violent protesters",
    "at": "2026-10-20T08:30:27.082609+09:00"
+  },
+  {
+   "title": "広大な国土、防衛に苦戦 フーシ派との「非対称戦」 サウジ（時事通信）",
+   "at": "2026-10-20T08:44:26.236733+09:00"
   }
  ],
- "last_quake_check": "2026-10-20T08:30:27.082609+09:00",
- "since_english": 1,
+ "last_quake_check": "2026-10-20T08:44:26.236733+09:00",
+ "since_english": 2,
  "next_english": 3,
- "last_tick": "2026-10-20T08:30:27.082609+09:00",
+ "last_tick": "2026-10-20T08:44:26.236733+09:00",
  "french_day": "2026-10-20",
  "french_done": false,
  "french_after": 626
