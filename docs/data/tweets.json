@@ -1,20 +1,5 @@
 [
  {
-  "at": "2026-10-12T11:00+09:00",
-  "text": "研修医が医局長に。十三年の歳月は、役の上でもきちんと流れるものらしい。",
-  "expression": "微笑",
-  "scene": "regular",
-  "lang": "ja",
-  "topic": "『救命病棟24時』風間俊介、13年ぶり出演決定 研修医から医局長へ「喜びを噛み締めています」【コメントあり】",
-  "links": [
-   {
-    "source": "オリコンニュース",
-    "title": "『救命病棟24時』風間俊介、13年ぶり出演決定 研修医から医局長へ「喜びを噛み締めています」【コメントあり】",
-    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE81ZnhUQmd3aFoxQmQ2LWRwaHRadDBPZzVBb0g4bHgybWsyMXU4RS1GS0piVmVxX0laRDFQMHMzN3EzS3c3V2ZQclI2emtPQUpaNWxhR3RB?oc=5"
-   }
-  ]
- },
- {
   "at": "2026-10-12T11:15+09:00",
   "text": "経済学の賞の日。明日の景気は外しても、昨日の説明は実に見事な学問である。",
   "expression": "微笑",
@@ -6203,6 +6188,21 @@
     "source": "NHK",
     "title": "【随時更新】ロシア ウクライナに軍事侵攻（10月19日の動き）",
     "url": "https://news.web.nhk/newsweb/na/nd-20260930de53325"
+   }
+  ]
+ },
+ {
+  "at": "2026-10-19T21:00+09:00",
+  "text": "指名の前に、もう三十六人も並べてある。籤を引く方より、占う方が忙しい。",
+  "expression": "片眉を上げる",
+  "scene": "regular",
+  "lang": "ja",
+  "topic": "2026年ドラフト「上位指名36人」を直前予想！投手豊作の市場で上位候補に食い込む野手は？【編集部座談会】",
+  "links": [
+   {
+    "source": "Yahoo!ニュース",
+    "title": "2026年ドラフト「上位指名36人」を直前予想！投手豊作の市場で上位候補に食い込む野手は？【編集部座談会】",
+    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE84dEU4SldQbjhZSGtJdDRGTjBGZjNGdzFQRTRaWW9FaWNXNU5NcGRXa0pDZkh0RDV3S1dnMDI2M0J1SVhLMnM1RUlWV1I1dHhuWkxOUzlha1RaYS12Wjk3bEJNUDMtLVR2ajV6UnRGZ0pTY1VXSkV5Ml9kY3lHRFU?oc=5"
    }
   ]
  }
