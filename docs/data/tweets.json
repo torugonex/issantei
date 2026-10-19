@@ -1,25 +1,5 @@
 [
  {
-  "at": "2026-10-12T10:00+09:00",
-  "text": "海の向こうの大一番。こちらは朝のうちに結果を知る身分である。",
-  "expression": "微笑",
-  "scene": "regular",
-  "lang": "ja",
-  "topic": "【速報中】ドジャース ナショナルリーグ優勝決定シリーズ第1戦",
-  "links": [
-   {
-    "source": "NHKニュース",
-    "title": "【速報中】ドジャース ナショナルリーグ優勝決定シリーズ第1戦",
-    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBFclRuQm5aQm03d2hoRjU4eDNvd0ZfNEM3WURnSTZHam1iU3cwQXpVUHJpOUJHRkFSR0lySk9MT09fSzhaWkQtbHFGZ3J2OFFlR1ZuNG85cFU2UjJhQlZJ?oc=5"
-   },
-   {
-    "source": "NHK",
-    "title": "【速報中】ドジャース ナショナルリーグ優勝決定シリーズ第1戦",
-    "url": "https://news.web.nhk/newsweb/na/nd-20261011de58022"
-   }
-  ]
- },
- {
   "at": "2026-10-12T10:15+09:00",
   "text": "また飛んだか。すでに落ちたというが、落ちた先の海に、誰が慣れたいものか。",
   "expression": "呆れのため息",
@@ -6196,6 +6176,15 @@
   "at": "2026-10-19T19:45+09:00",
   "text": "夕餉のあと、紅茶を濃いめに淹れた。雨の音を待ちながら、本の続きを読む。",
   "expression": "微笑",
+  "scene": "life",
+  "lang": "ja",
+  "topic": null,
+  "links": []
+ },
+ {
+  "at": "2026-10-19T20:00+09:00",
+  "text": "夕餉のあと、ストーブを出すか思案した。結局、膝掛け一枚で夜を越すことにする。",
+  "expression": "思案",
   "scene": "life",
   "lang": "ja",
   "topic": null,
