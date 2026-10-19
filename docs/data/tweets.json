@@ -1,14 +1,5 @@
 [
  {
-  "at": "2026-10-11T22:15+09:00",
-  "text": "New rice at supper. Plain, warm, faintly sweet. Rather more eloquent than most people I know.",
-  "expression": "微笑",
-  "scene": "life",
-  "lang": "en",
-  "topic": null,
-  "links": []
- },
- {
   "at": "2026-10-11T22:30+09:00",
   "text": "異国の空港で十二人が命を落とし、三百人超が傷を負ったという。応酬が深まらぬことを願う。黙祷。",
   "expression": "憂い",
@@ -6178,5 +6169,14 @@
     "url": "https://news.web.nhk/newsweb/na/nd-20261019de61342"
    }
   ]
+ },
+ {
+  "at": "2026-10-19T14:45+09:00",
+  "text": "Mackerel sky this afternoon, neatly combed. Nature, at least, keeps its appointments.",
+  "expression": "微笑",
+  "scene": "life",
+  "lang": "en",
+  "topic": null,
+  "links": []
  }
 ]
