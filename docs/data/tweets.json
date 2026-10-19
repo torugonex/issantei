@@ -1,25 +1,5 @@
 [
  {
-  "at": "2026-10-12T14:30+09:00",
-  "text": "Mr Burnham finds it clear that Russia meddled. One hopes the evidence speaks up too.",
-  "expression": "思案",
-  "scene": "regular",
-  "lang": "en",
-  "topic": "Andy Burnham says it is clear Russia interfered in Brexit referendum",
-  "links": [
-   {
-    "source": "Guardian",
-    "title": "Andy Burnham says it is clear Russia interfered in Brexit referendum",
-    "url": "https://www.theguardian.com/politics/2026/oct/11/andy-burnham-russia-interfered-brexit-vote"
-   },
-   {
-    "source": "ITVX",
-    "title": "Burnham says it is ‘clear’ Russia interfered in Brexit referendum | ITV News",
-    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPeFBYOGtRSFFvQks2cXVmd056cDYzbkZDZ29PUGFTNVBFV2VCMTlOalRTOU5wR3hDM1ZaQzFIOVdrTXoxVTdIMm43YVIxaURHS0R4V1pxaFdRMHkxTUxSMlhUbzFaY0trQkpyRzBITmEzNVVzbWpuUHNGdjZiVHkwdzhqeG14bzBEUXFiZkpycVJEaGhISjF2OEtBaGl2b3Uw?oc=5"
-   }
-  ]
- },
- {
   "at": "2026-10-12T14:45+09:00",
   "text": "那珂川町の工場火災、けが人がなかったのが何よりだ。火の消えるのを待つ。",
   "expression": "思案",
@@ -6206,6 +6186,26 @@
     "source": "Guardian",
     "title": "Amelia Earhart researchers leave remote atoll empty-handed after ‘plane debris’ found to be a clump of trees",
     "url": "https://www.theguardian.com/us-news/2026/oct/19/amelia-earhart-purdue-expedition-clump-of-trees-nikumaroro-kiribati"
+   }
+  ]
+ },
+ {
+  "at": "2026-10-20T07:00+09:00",
+  "text": "上皇后さまが九十二の春ならぬ秋を迎えられた。長い道のりを歩まれた方の穏やかな日を、遠くから祝う。",
+  "expression": "微笑",
+  "scene": "regular",
+  "lang": "ja",
+  "topic": "上皇后さま 92歳の誕生日",
+  "links": [
+   {
+    "source": "NHKニュース",
+    "title": "上皇后さま 92歳の誕生日",
+    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE43WUx1YlJKdkxQR0VlYVVneWw0aFpseWwzM0phdFV6QmdsM2xlZGJGTXVhbVZEWjlmaXJSVE8xS2gxQmltbTlrbGhpMGduRGFSZ01SNmFUb3lTSnJnc0dj?oc=5"
+   },
+   {
+    "source": "NHK",
+    "title": "上皇后さま 92歳の誕生日",
+    "url": "https://news.web.nhk/newsweb/na/nd-20261019de61822"
    }
   ]
  }
