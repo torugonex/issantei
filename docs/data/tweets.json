@@ -1,14 +1,5 @@
 [
  {
-  "at": "2026-10-11T21:30+09:00",
-  "text": "Sunday, half past nine. A book, a clear head, and the world kept politely outside.",
-  "expression": "微笑",
-  "scene": "life",
-  "lang": "en",
-  "topic": null,
-  "links": []
- },
- {
   "at": "2026-10-11T21:45+09:00",
   "text": "休むと決めるのも、勇気のいること。焦らず、まず身体を休めてほしい。",
   "expression": "憂い",
@@ -6173,5 +6164,14 @@
     "url": "https://news.web.nhk/newsweb/na/nd-20261019de61375"
    }
   ]
+ },
+ {
+  "at": "2026-10-19T13:30+09:00",
+  "text": "すすきの穂が風に揺れていた。銀の波を眺め、昼は蕎麦にしようか。",
+  "expression": "微笑",
+  "scene": "life",
+  "lang": "ja",
+  "topic": null,
+  "links": []
  }
 ]
