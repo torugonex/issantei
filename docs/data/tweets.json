@@ -1,20 +1,5 @@
 [
  {
-  "at": "2026-10-11T18:15+09:00",
-  "text": "火星の月へ向かう船を、早起きして皆で見送るそうな。遠い旅ほど、人は肩を寄せたがる。",
-  "expression": "微笑",
-  "scene": "regular",
-  "lang": "ja",
-  "topic": "火星衛星探査計画「MMX」の打ち上げをプラネタリウムで応援 相模原市立博物館で10月20日早朝にパブリックビューイング",
-  "links": [
-   {
-    "source": "sorae 宇宙へのポータルサイト",
-    "title": "火星衛星探査計画「MMX」の打ち上げをプラネタリウムで応援 相模原市立博物館で10月20日早朝にパブリックビューイング",
-    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1WNnh3a3lFYnJjUkgyOWNDOFhLc0dKWEhJNldGdU1Pbl91ME5rZEVMXzBaSXBOT011UkRXQ3BBV3Z0ajc3Zld2eUVDV2hPY1dfYWRuUVZ5T0JJMUpEb0ZiV0lHeFdvbGFVX09zSXZERTZkYmVOWHlN?oc=5"
-   }
-  ]
- },
- {
   "at": "2026-10-11T18:30+09:00",
   "text": "秋桜の畑に出くわし、傘を杖に足を止めた。日曜の夕べは急ぐ用もない。",
   "expression": "微笑",
@@ -6129,6 +6114,21 @@
     "source": "NHK",
     "title": "トランプ大統領　イスラエル総選挙前にネタニヤフ首相支持表明",
     "url": "https://news.web.nhk/newsweb/na/nd-20261019de61347"
+   }
+  ]
+ },
+ {
+  "at": "2026-10-19T10:00+09:00",
+  "text": "久保君、ようやく初ゴールに初アシスト。待った末の一杯は旨かろう。",
+  "expression": "微笑",
+  "scene": "regular",
+  "lang": "ja",
+  "topic": "ついに目覚めた久保建英、先発復帰で今季初ゴール&初アシスト!! オヤルサバルも初弾含む2発でソシエダ3連勝",
+  "links": [
+   {
+    "source": "ゲキサカ",
+    "title": "ついに目覚めた久保建英、先発復帰で今季初ゴール&初アシスト!! オヤルサバルも初弾含む2発でソシエダ3連勝",
+    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFA0Z1c1bFFPTjAwVDVNR01iR0pMNkhTWVhJU0NKeHpwc0NLZFE4YWp1NUdHVGdIU3RrMElhcF9jMVpZS1hlalY1STFKbWJaYVdxNFc2YmNPOXR1SkJTdkg5cWxXMF9DbTk2VlI0?oc=5"
    }
   ]
  }
