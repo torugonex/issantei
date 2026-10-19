@@ -1,20 +1,5 @@
 [
  {
-  "at": "2026-10-12T11:15+09:00",
-  "text": "経済学の賞の日。明日の景気は外しても、昨日の説明は実に見事な学問である。",
-  "expression": "微笑",
-  "scene": "regular",
-  "lang": "ja",
-  "topic": "ノーベル経済学賞 きょう発表",
-  "links": [
-   {
-    "source": "NHK",
-    "title": "ノーベル経済学賞 きょう発表",
-    "url": "https://news.web.nhk/newsweb/na/nd-20261009de57272"
-   }
-  ]
- },
- {
   "at": "2026-10-12T11:30+09:00",
   "text": "Tarantino on the West End, with Borat in the cast. Very nice. The ushers had best stand well back.",
   "expression": "愉快な笑い",
@@ -6203,6 +6188,26 @@
     "source": "Yahoo!ニュース",
     "title": "2026年ドラフト「上位指名36人」を直前予想！投手豊作の市場で上位候補に食い込む野手は？【編集部座談会】",
     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE84dEU4SldQbjhZSGtJdDRGTjBGZjNGdzFQRTRaWW9FaWNXNU5NcGRXa0pDZkh0RDV3S1dnMDI2M0J1SVhLMnM1RUlWV1I1dHhuWkxOUzlha1RaYS12Wjk3bEJNUDMtLVR2ajV6UnRGZ0pTY1VXSkV5Ml9kY3lHRFU?oc=5"
+   }
+  ]
+ },
+ {
+  "at": "2026-10-19T21:15+09:00",
+  "text": "Growth beats forecasts, courtesy of thinking machines. The forecasters, one hopes, are still human.",
+  "expression": "微笑",
+  "scene": "regular",
+  "lang": "en",
+  "topic": "China's growth accelerates as AI boom helps boost exports",
+  "links": [
+   {
+    "source": "BBC",
+    "title": "China's growth accelerates as AI boom helps boost exports",
+    "url": "https://www.bbc.co.uk/news/articles/cm5yn098xz8lo?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "source": "Guardian",
+    "title": "China’s economy grows faster than forecast after AI boom boosts exports",
+    "url": "https://www.theguardian.com/world/2026/oct/19/china-economy-grows-faster-than-forecast-after-ai-boom-boosted-exports"
    }
   ]
  }
