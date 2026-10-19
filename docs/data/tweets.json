@@ -1,25 +1,5 @@
 [
  {
-  "at": "2026-10-12T12:45+09:00",
-  "text": "ジブチ沖の転覆。海を渡ろうとした人々を思う。黙祷。Repose en paix.",
-  "expression": "憂い",
-  "scene": "regular",
-  "lang": "ja",
-  "topic": "ジブチ沖で移民船転覆 少なくとも139人死亡・84人行方不明 （FNNプライムオンライン（フジテレビ系））",
-  "links": [
-   {
-    "source": "Yahoo!ニュース",
-    "title": "ジブチ沖で移民船転覆 少なくとも139人死亡・84人行方不明 （FNNプライムオンライン（フジテレビ系））",
-    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1lSkQxS1lQZzBGUmtLNjVUTkpzemtoSk56a2czRE1vaE9hZXE4N3BIVHFyWEZUMDRWekJYcWVwWTVaTUg3NmRfS0lfdkZHdnNUNFdkRGtmMkUzSXY4M3lEMElHUHM0SkFTbnY3bXM1VkxlVkU0ZHlud0dYa3RCR0E?oc=5"
-   },
-   {
-    "source": "NHK",
-    "title": "移民乗せたイエメン行きの船がジブチ沖で転覆 139人死亡",
-    "url": "https://news.web.nhk/newsweb/na/nd-20261012de58100"
-   }
-  ]
- },
- {
   "at": "2026-10-12T13:00+09:00",
   "text": "データセンターが狙われ、タクシーも出前も止まったそうな。戦の矛先は、いまや人の暮らしの裏方にまで及ぶ。",
   "expression": "憂い",
@@ -6208,6 +6188,31 @@
     "source": "NHK",
     "title": "台風30号急発達 猛烈な勢力に 沖縄は21日以降 大しけのおそれ",
     "url": "https://news.web.nhk/newsweb/na/nd-20261019de61331"
+   }
+  ]
+ },
+ {
+  "at": "2026-10-19T22:30+09:00",
+  "text": "Half a million people lose their rations because the money ran short. Dreadful arithmetic.",
+  "expression": "憂い",
+  "scene": "regular",
+  "lang": "en",
+  "topic": "Funding shortages force World Food Programme to cut aid to Gaza",
+  "links": [
+   {
+    "source": "BBC",
+    "title": "Funding shortages force World Food Programme to cut aid to Gaza",
+    "url": "https://www.bbc.co.uk/news/articles/cm79plrvpl4vo?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "source": "Guardian",
+    "title": "Cuts force World Food Programme to end support for half a million Palestinians in Gaza",
+    "url": "https://www.theguardian.com/world/2026/oct/19/cuts-world-food-programme-end-support-palestinians-gaza"
+   },
+   {
+    "source": "Al Jazeera",
+    "title": "WFP cuts aid to ‌500,000 Palestinians in Gaza amid funding shortages",
+    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNd2FtSkp0LWJPZGJTQ3hvWFhBY2Z2Smo4V3lZQ1NPT2JmbTlUeGRWREtaV3d5dzBCcmNtdGJKS1M1dU1TeVJhMzFtdkhqTEtlQnJZVi1ocUtabXVUUUdjS21HdmVUVWFsdUdnTDFTbzlOMF9SU3hISl9fR1Voa1ZGUDhMMEZlRFB3STU2eE92YTdxakdIaHdOZEdKcnFsQmMxY1VEcFNOeTFEajY50gGyAUFVX3lxTE84a2hKVW5NWlo2YXZkS3JJS19OUWxKY3NaLVdYc0pNOGpIY0NWZE9Bc1ZwQXBTUzBPMUpyRDM0bHEtNkJFbFZtQjY2ajVUWXVqdHBjdHRMYmtHTXc1OEV4S2VpdDFYREVMc3FNNWZ2MGFXc0dnLXcyMU11VmY4MXItV21nLUpWckpleEkxVUtoekhVeElfNUJSQi1ZNHVOQ1lLVlNJVW92c3VhdVkyODYtQ1E?oc=5"
    }
   ]
  }
