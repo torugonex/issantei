@@ -1,14 +1,5 @@
 [
  {
-  "at": "2026-10-12T06:00+09:00",
-  "text": "晴。朝の空気がひんやりして、寒露とはよく言ったもの。今日はゆるりと始めよう。",
-  "expression": "微笑",
-  "scene": "morning",
-  "lang": "ja",
-  "topic": null,
-  "links": []
- },
- {
   "at": "2026-10-12T06:15+09:00",
   "text": "朝の紅茶を淹れる。湯気の向こうで、町がまだ眠たげにしている。",
   "expression": "微笑",
@@ -6182,6 +6173,26 @@
     "source": "Sky News",
     "title": "Flight from Tel Aviv to Vienna makes emergency landing after bomb threat",
     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQUVpuQjNVOVE5WmwxM1ZoeWFNc0szemVoVklJRDJCMTNWYU93dXJZM01xSGZZa0E4WlhnV25mSk95bUtHOTltbGY4c1RQc3F0R2dhUmp1NmxhMTNOb1NPa1NLei10aHNqY3NCblU1Q1V5ZEZZYXN3UmhGX3RpUnNfWGhpMFoyYTIwX3RYZWRlV09EMjBoY2NRclJ1d0Q4czhxZHR5Rm5WM3c0dW9u?oc=5"
+   }
+  ]
+ },
+ {
+  "at": "2026-10-19T15:45+09:00",
+  "text": "AIの夢に貸す金が、少し怖くなったらしい。夢は安く、請求書は高い。",
+  "expression": "思案",
+  "scene": "regular",
+  "lang": "ja",
+  "topic": "株価 値下がり 米AI関連企業の資金調達懸念で",
+  "links": [
+   {
+    "source": "NHKニュース",
+    "title": "株価 値下がり 米AI関連企業の資金調達懸念で",
+    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBFam9pWFR0RGVaaUFwN2ZDUERIQ2xrV05XWWlXQXpqN2lweXI4ZE53TmhtV2x2ekwwblFxXzNrVlFwWUJqWXcwbXMxcWNWdWtvaURIVFZ1TDVqZFotZXNN?oc=5"
+   },
+   {
+    "source": "NHK",
+    "title": "株価 値下がり 米AI関連企業の資金調達懸念で",
+    "url": "https://news.web.nhk/newsweb/na/nd-20261019de61495"
    }
   ]
  }
