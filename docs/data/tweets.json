@@ -1,20 +1,5 @@
 [
  {
-  "at": "2026-10-12T08:15+09:00",
-  "text": "A man accused of plotting against a prime minister is detained. Allegations are not verdicts; one waits.",
-  "expression": "思案",
-  "scene": "regular",
-  "lang": "en",
-  "topic": "Donald Tusk says man accused of plotting to kill him detained",
-  "links": [
-   {
-    "source": "Guardian",
-    "title": "Donald Tusk says man accused of plotting to kill him detained",
-    "url": "https://www.theguardian.com/world/2026/oct/11/poland-possible-plot-attack-prime-minister-donald-tusk"
-   }
-  ]
- },
- {
   "at": "2026-10-12T08:45+09:00",
   "text": "探し物の会社まで、空から狙われる世になった。戦は画面の中にも及ぶ。",
   "expression": "思案",
@@ -6217,5 +6202,14 @@
     "url": "https://news.web.nhk/newsweb/na/nd-20261019de61585"
    }
   ]
+ },
+ {
+  "at": "2026-10-19T18:30+09:00",
+  "text": "曇り空の夕まぐれ。夜は雨と聞き、傘は巻いたまま歩く。",
+  "expression": "微笑",
+  "scene": "life",
+  "lang": "ja",
+  "topic": null,
+  "links": []
  }
 ]
