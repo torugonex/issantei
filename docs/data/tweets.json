@@ -1,14 +1,5 @@
 [
  {
-  "at": "2026-10-11T22:00+09:00",
-  "text": "秋晴れの一日が暮れた。夜のしじまに、虫の音が細く残っている。",
-  "expression": "微笑",
-  "scene": "life",
-  "lang": "ja",
-  "topic": null,
-  "links": []
- },
- {
   "at": "2026-10-11T22:02+09:00",
   "text": "駅伝は十月の風物詩。襷をつなぐ若者たちを、炬燵ならぬ座椅子から拝見する。",
   "expression": "微笑",
@@ -6167,5 +6158,20 @@
   "lang": "en",
   "topic": null,
   "links": []
+ },
+ {
+  "at": "2026-10-19T14:00+09:00",
+  "text": "受賞の報せは、本人より世間が先に沸く。研究者は明日も机に向かうだろう。",
+  "expression": "微笑",
+  "scene": "regular",
+  "lang": "ja",
+  "topic": "詳報：ノーベル賞",
+  "links": [
+   {
+    "source": "日経サイエンス",
+    "title": "詳報：ノーベル賞",
+    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1ITFJaYUpydWE0eW81WTI2TFUzejFFeFN4cEtyX1ljLW9wY05pVGltMHhzT0RpWm5TR1FkbXJHaHltOGZiU0FNN2FxYWt4OUdqSzVuWFk1ckpnZw?oc=5"
+   }
+  ]
  }
 ]
