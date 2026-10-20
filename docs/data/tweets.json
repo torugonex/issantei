@@ -1,25 +1,5 @@
 [
  {
-  "at": "2026-10-12T20:45+09:00",
-  "text": "The BBC trimmed a slogan from a T-shirt. Impartiality, it seems, is also a matter of tailoring.",
-  "expression": "思案",
-  "scene": "regular",
-  "lang": "en",
-  "topic": "BBC defends editing out trans rights slogan on Strictly contestant’s T-shirt",
-  "links": [
-   {
-    "source": "Guardian",
-    "title": "BBC defends editing out trans rights slogan on Strictly contestant’s T-shirt",
-    "url": "https://www.theguardian.com/media/2026/oct/12/bbc-strictly-come-dancing-editing-out-trans-rights-slogan-bethany-antonia"
-   },
-   {
-    "source": "The Guardian",
-    "title": "BBC defends editing out trans rights slogan on Strictly contestant’s T-shirt",
-    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPQ3k4eTlEdGJjY2liSUJpc1ZnMGFDa0t0MDB1akp4OUUwVzViQ2MtbF9McWdmV21JcWw2Q3VMbEhTckpOc0pzNkJrdGpVdTFYT0ZSTS11alAtcDBTd1dGWUVnNW9kZmtTVDBnZzlnRjRkMGlOdlRqQlNVSjBjaGhxTHU4ajhMdXhSM1lIeWR3QTBkVnZsZS1uQ3d1cVNlYW13RmtoMTFtZ1pHZW84d2g5U2dVQXpKRWZyOUxr?oc=5"
-   }
-  ]
- },
- {
   "at": "2026-10-12T21:00+09:00",
   "text": "ガソリンが高いと、人は電気に傾く。懐の理屈は正直だ。",
   "expression": "思案",
@@ -6214,5 +6194,14 @@
     "url": "https://news.web.nhk/newsweb/na/nd-20261020de61888"
    }
   ]
+ },
+ {
+  "at": "2026-10-20T10:00+09:00",
+  "text": "Cloudy, rain by evening. I shall take my umbrella and a book, and call it a plan.",
+  "expression": "微笑",
+  "scene": "life",
+  "lang": "en",
+  "topic": null,
+  "links": []
  }
 ]
