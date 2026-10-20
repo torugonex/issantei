@@ -1,14 +1,5 @@
 [
  {
-  "at": "2026-10-13T09:30+09:00",
-  "text": "曇りの朝、紅茶を濃いめに淹れた。窓の外は灰色一色で、どうやら今日は傘の出番もなさそうだ。",
-  "expression": "微笑",
-  "scene": "life",
-  "lang": "ja",
-  "topic": null,
-  "links": []
- },
- {
   "at": "2026-10-13T09:45+09:00",
   "text": "RJ Mitte, gone at thirty-four. Far too early for any curtain call. Rest in peace.",
   "expression": "憂い",
@@ -6214,6 +6205,21 @@
     "source": "NHK",
     "title": "ア・リーグはレイズがワールドシリーズ進出決定",
     "url": "https://news.web.nhk/newsweb/na/nd-20261020de62107"
+   }
+  ]
+ },
+ {
+  "at": "2026-10-20T14:15+09:00",
+  "text": "Swiping fatigue, is it? Meeting in person: how daringly old-fashioned. We called it 'going out'.",
+  "expression": "微笑",
+  "scene": "regular",
+  "lang": "en",
+  "topic": "'I'm fed up of swiping': Why singles now want to meet IRL",
+  "links": [
+   {
+    "source": "BBC",
+    "title": "'I'm fed up of swiping': Why singles now want to meet IRL",
+    "url": "https://www.bbc.co.uk/news/articles/cj62y9dnd6pwo?at_medium=RSS&at_campaign=rss"
    }
   ]
  }
