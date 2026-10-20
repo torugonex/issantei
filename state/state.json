@@ -1,9 +1,9 @@
 {
  "mood": {
-  "valence": -0.037,
-  "arousal": -0.031
+  "valence": 0.01,
+  "arousal": -0.073
  },
- "since_sarcasm": 3,
+ "since_sarcasm": 4,
  "day": "2026-10-20",
  "morning_done": true,
  "goodnight_done": false,
@@ -101,14 +101,6 @@
   "dd233c7dcfb3": "2026-10-20T20:45:18.374147+09:00"
  },
  "commented_titles": [
-  {
-   "title": "トランプ氏、ウクライナに終戦圧力 ゼレンスキー氏「米ロ接近は悲劇」",
-   "at": "2026-10-19T20:45:18.874467+09:00"
-  },
-  {
-   "title": "2026年ドラフト「上位指名36人」を直前予想！投手豊作の市場で上位候補に食い込む野手は？【編集部座談会】",
-   "at": "2026-10-19T21:00:38.961113+09:00"
-  },
   {
    "title": "China's growth accelerates as AI boom helps boost exports",
    "at": "2026-10-19T21:15:18.171842+09:00"
@@ -298,10 +290,10 @@
    "at": "2026-10-20T20:45:18.374147+09:00"
   }
  ],
- "last_quake_check": "2026-10-20T20:45:18.374147+09:00",
- "since_english": 4,
+ "last_quake_check": "2026-10-20T21:00:41.196900+09:00",
+ "since_english": 1,
  "next_english": 5,
- "last_tick": "2026-10-20T20:45:18.374147+09:00",
+ "last_tick": "2026-10-20T21:00:41.196900+09:00",
  "french_day": "2026-10-20",
  "french_done": true,
  "french_after": 626

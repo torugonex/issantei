@@ -1,25 +1,5 @@
 [
  {
-  "at": "2026-10-13T15:30+09:00",
-  "text": "The IMF frets over an AI share crash. Everyone is rather fond of the party until the music slows.",
-  "expression": "思案",
-  "scene": "regular",
-  "lang": "en",
-  "topic": "Threat of AI share crash puts world financial stability at risk, says IMF",
-  "links": [
-   {
-    "source": "Guardian",
-    "title": "Threat of AI share crash puts world financial stability at risk, says IMF",
-    "url": "https://www.theguardian.com/business/2026/oct/13/ai-share-crash-risk-global-imf-debt-corrowing-cyber-attacks"
-   },
-   {
-    "source": "The Guardian",
-    "title": "Threat of AI share crash puts world financial stability at risk, says IMF",
-    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQWjc5Sy1zc0U2MS1Vb0RqVmFBQXl6T1V3Mk1ESWtSMDV2eTBUY2RSVlI1MS1tdzBJZ2NfdExldHF5M0s0X3NvNW1TMzczM3F6OUJ4SE1TMmFFU3hpYUZlRlMyamJTcC1hVGw2SGNyWHZkQnFJZWlqVmZsenVuNkRYOGhLamNlLU5vbjVuTmdhMGJzOVRyZDhZc1gzUmZvQldJUFJfbFpGVWtfZ0R1?oc=5"
-   }
-  ]
- },
- {
   "at": "2026-10-13T15:45+09:00",
   "text": "隣同士の張り合いに、空だけが使われる。抗議はいつもの手順で届くのやら。",
   "expression": "思案",
@@ -6229,5 +6209,14 @@
     "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5IRldCTkZkQUZPVThhWjduNnJ0QlFPdzNreUViRXhGaHlFRGVzS1AyWl9yOXI3NkZaWkZGRFhhSzdsdUlVRkZ0U1NRczJ3NzhOdDRBT2FOb2tUZVNrN24yUjh3?oc=5"
    }
   ]
+ },
+ {
+  "at": "2026-10-20T21:00+09:00",
+  "text": "Tea gone cold while I finished the chapter. A small neglect, and entirely worth it.",
+  "expression": "微笑",
+  "scene": "life",
+  "lang": "en",
+  "topic": null,
+  "links": []
  }
 ]
