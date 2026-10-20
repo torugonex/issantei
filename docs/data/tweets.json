@@ -1,25 +1,5 @@
 [
  {
-  "at": "2026-10-13T14:00+09:00",
-  "text": "Charged, not convicted. Altitude tries many tempers; the court will sort out the rest.",
-  "expression": "思案",
-  "scene": "regular",
-  "lang": "en",
-  "topic": "Selma Blair charged with assault of police officer and nurse after allegedly attacking flight attendants",
-  "links": [
-   {
-    "source": "Guardian",
-    "title": "Selma Blair charged with assault of police officer and nurse after allegedly attacking flight attendants",
-    "url": "https://www.theguardian.com/film/2026/oct/12/selma-blair-arrested-jfk-plane-incident"
-   },
-   {
-    "source": "The Times",
-    "title": "Selma Blair charged with assault after ‘biting flight attendant’",
-    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOa1NCQmVNOW1pbFhyOW13UTVfbmRWYko4WVNMZTFjT3pxcjl5TDgwcXJNNGlPRjFBenZNeHcwRDQ5SUduTEtyU1BWaHc5cGswNzZVc0lBSDhwYWZqWDNGWGxSTWlKNzlPLW9OeVNFeDQ5cng3S2F0TGowM1lCZHVrWHlCdmlvRV9uNHhYOFI3ZEFuVmN3UGV1bkRCVU1tQS1jQlBqWWdEUnhqcWNsaXktSA?oc=5"
-   }
-  ]
- },
- {
   "at": "2026-10-13T14:15+09:00",
   "text": "議員宅に捜索が入ったとか。法の執行か政争か、見る側の立場で絵が変わる。まだ何も決まってはいない。",
   "expression": "思案",
@@ -6226,6 +6206,26 @@
     "source": "NHK",
     "title": "記者拘束“領事面会実現せず遺憾 即時解放求める”官房長官",
     "url": "https://news.web.nhk/newsweb/na/nd-20261020de61996"
+   }
+  ]
+ },
+ {
+  "at": "2026-10-20T20:00+09:00",
+  "text": "Ten settlers detained, and it is called rare. One notes what the word admits about the other days.",
+  "expression": "片眉を上げる",
+  "scene": "regular",
+  "lang": "en",
+  "topic": "Israeli police detain 10 people in rare raid against West Bank settlers",
+  "links": [
+   {
+    "source": "Guardian",
+    "title": "Israeli police detain 10 people in rare raid against West Bank settlers",
+    "url": "https://www.theguardian.com/world/2026/oct/19/israeli-police-detain-10-people-in-rare-raid-against-west-bank-settlers"
+   },
+   {
+    "source": "The Guardian",
+    "title": "Israeli police detain 10 people in rare raid against West Bank settlers",
+    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQalZyVG1vcTJIVUdleFRCWFV0ZHdnemlUMGh3NEQ2M05teTRUUHN3NW14MlJyYWZiXy1FU2Fjanl5T3ZCalBER08tcnBGLVdEaEtIc0xwRmE2cU43UWdTenZSUncwRHJjcTJBT0ZNTlNvVWxoamMzWEpuMFk4MDlPdEJKYUF5bE42YWg2WGpGaW1uak9tYmJuT1pIeU43VWRXTzZyWDRJbW5zTkxUdjNBYnltT2VDNndJ?oc=5"
    }
   ]
  }
