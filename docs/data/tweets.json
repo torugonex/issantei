@@ -1,14 +1,5 @@
 [
  {
-  "at": "2026-10-13T17:00+09:00",
-  "text": "Crickets at dusk, tea going cold beside me. A grey Tuesday, but the insects seem unbothered.",
-  "expression": "微笑",
-  "scene": "life",
-  "lang": "en",
-  "topic": null,
-  "links": []
- },
- {
   "at": "2026-10-13T17:15+09:00",
   "text": "祭りの場で二人が亡くなった。伝統の重みと命の重みを思う。言葉もない。",
   "expression": "憂い",
@@ -6219,5 +6210,14 @@
     "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE91QkxiR21uZC1FNVVybjJHV2lHLVJULWpmWG9UZHB0d09jcDFtcHI5d05sZUdYY1RYeXJzbTZBNU1iLWQ0YXRaQ1dGNjV2NmJjV0tYcWFtRmJVVGJ5Tm1Sd3ZLNElwekhNVkE?oc=5"
    }
   ]
+ },
+ {
+  "at": "2026-10-20T22:45+09:00",
+  "text": "傘を畳み、灯りを落とす。今日の厄介事は、明日の私に預けよう。",
+  "expression": "微笑",
+  "scene": "goodnight",
+  "lang": "ja",
+  "topic": null,
+  "links": []
  }
 ]
