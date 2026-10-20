@@ -1,9 +1,9 @@
 {
  "mood": {
-  "valence": -0.199,
-  "arousal": -0.121
+  "valence": -0.124,
+  "arousal": -0.116
  },
- "since_sarcasm": 3,
+ "since_sarcasm": 4,
  "day": "2026-10-20",
  "morning_done": true,
  "goodnight_done": false,
@@ -100,17 +100,10 @@
   "cd181e672b58": "2026-10-20T21:15:23.531134+09:00",
   "8ad45b0c48d1": "2026-10-20T21:30:28.978545+09:00",
   "00b2a4fc29b6": "2026-10-20T21:45:19.105068+09:00",
-  "db38a0655a1a": "2026-10-20T22:00:39.967708+09:00"
+  "db38a0655a1a": "2026-10-20T22:00:39.967708+09:00",
+  "edda49aa1e8f": "2026-10-20T22:30:32.956451+09:00"
  },
  "commented_titles": [
-  {
-   "title": "台風30号(チャンパー) 猛烈な勢力まで発達 週後半の沖縄は荒天に警戒",
-   "at": "2026-10-19T22:15:18.841179+09:00"
-  },
-  {
-   "title": "Funding shortages force World Food Programme to cut aid to Gaza",
-   "at": "2026-10-19T22:30:30.128521+09:00"
-  },
   {
    "title": "スーチー氏に英国王の書簡　親軍政権、処遇改善主張か",
    "at": "2026-10-20T06:15:18.089939+09:00"
@@ -294,12 +287,16 @@
   {
    "title": "Man charged with attack on Australian MP as suspect's father says she is family friend",
    "at": "2026-10-20T22:00:39.967708+09:00"
+  },
+  {
+   "title": "Apple、10月28日にイベント開催へ タッチスクリーン「MacBook Pro」など発表か",
+   "at": "2026-10-20T22:30:32.956451+09:00"
   }
  ],
- "last_quake_check": "2026-10-20T22:00:39.967708+09:00",
- "since_english": 1,
+ "last_quake_check": "2026-10-20T22:30:32.956451+09:00",
+ "since_english": 2,
  "next_english": 5,
- "last_tick": "2026-10-20T22:15:20.390205+09:00",
+ "last_tick": "2026-10-20T22:30:32.956451+09:00",
  "french_day": "2026-10-20",
  "french_done": true,
  "french_after": 626
