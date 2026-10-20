@@ -1,9 +1,9 @@
 {
  "mood": {
-  "valence": -0.077,
-  "arousal": -0.117
+  "valence": -0.008,
+  "arousal": -0.113
  },
- "since_sarcasm": 3,
+ "since_sarcasm": 4,
  "day": "2026-10-20",
  "morning_done": true,
  "goodnight_done": false,
@@ -94,17 +94,10 @@
   "fd69067d4abc": "2026-10-20T16:00:37.300953+09:00",
   "9ba2cd2e1c2f": "2026-10-20T16:30:26.624416+09:00",
   "e3bdde09addf": "2026-10-20T16:45:18.038619+09:00",
-  "fc0fdb06e1dc": "2026-10-20T17:15:17.314105+09:00"
+  "fc0fdb06e1dc": "2026-10-20T17:15:17.314105+09:00",
+  "63aad81d5c10": "2026-10-20T17:45:18.033408+09:00"
  },
  "commented_titles": [
-  {
-   "title": "横浜市長選、参政推薦の福山敦士氏が山中氏抜き次点 前回選の1.6倍 山中氏は7割減",
-   "at": "2026-10-19T17:15:18.657005+09:00"
-  },
-  {
-   "title": "Mobilisation du 17 octobre : pour des jeunes manifestants qui ont défilé samedi, « l’Etat est violent et la casse est la réponse populaire à cette violence »",
-   "at": "2026-10-19T17:45:17.779171+09:00"
-  },
   {
    "title": "自民 維新幹部 消費税減税法案 今国会成立へ 野党の協力求める",
    "at": "2026-10-19T18:15:18.459598+09:00"
@@ -284,12 +277,16 @@
   {
    "title": "French cities calm overnight after curfews imposed to quell violence, PM says",
    "at": "2026-10-20T17:15:17.314105+09:00"
+  },
+  {
+   "title": "【センバツ有力校一覧】関東で横浜、帝京三が4強入り！全国で計9校がセンバツ有力！【26年秋高校野球】｜記事一覧",
+   "at": "2026-10-20T17:45:18.033408+09:00"
   }
  ],
- "last_quake_check": "2026-10-20T17:30:28.690012+09:00",
- "since_english": 1,
+ "last_quake_check": "2026-10-20T17:45:18.033408+09:00",
+ "since_english": 2,
  "next_english": 4,
- "last_tick": "2026-10-20T17:30:28.690012+09:00",
+ "last_tick": "2026-10-20T17:45:18.033408+09:00",
  "french_day": "2026-10-20",
  "french_done": true,
  "french_after": 626
