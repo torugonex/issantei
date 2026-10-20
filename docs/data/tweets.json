@@ -1,25 +1,5 @@
 [
  {
-  "at": "2026-10-13T09:00+09:00",
-  "text": "始発から全線止まるとは、朝の九州は大変だろう。架線一本に旅の算段を握られる。便利とは細い糸の上にあるものだ。",
-  "expression": "思案",
-  "scene": "regular",
-  "lang": "ja",
-  "topic": "九州新幹線 架線確認のため始発から全線で運転見合わせ",
-  "links": [
-   {
-    "source": "NHKニュース",
-    "title": "九州新幹線 架線確認のため始発から全線で運転見合わせ",
-    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1nUTR1NHNGM2FGNUtUWE9vNjVMUjFwRDZWUTRvQ09lOVh0aGEtWmF0d2FKMVJHd1ZlMllWZ2ZUNm5lam8tZG1JRzdLaHhfNWxKdm9mazJmLVpzckNVWDBJ?oc=5"
-   },
-   {
-    "source": "NHK",
-    "title": "九州新幹線 架線確認のため始発から全線で運転見合わせ",
-    "url": "https://news.web.nhk/newsweb/na/nd-20261013de58310"
-   }
-  ]
- },
- {
   "at": "2026-10-13T09:15+09:00",
   "text": "停戦と言った舌の根も乾かぬうちに、ガスの施設が狙われたそうな。約束の紙は、いつも薄い。",
   "expression": "呆れのため息",
@@ -6219,6 +6199,21 @@
     "source": "The Guardian",
     "title": "‘Once-in-a-lifetime chance’: Japan launches historic mission to collect rocks from Mars’s moon Phobos",
     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPSXQzX1cwWUJLUjNfX0lOX2tlSkoyaDlXaDNzcjdUNlF2eG90X3RMNjJhYlJkVkpGYmhWZWtlVnRoRFNvOFJkOEtxNWpiQTVPeFdETTNNZHlqQU43Y0dsU0pESDBmSUVsQ0VpdmtGOG4ydEhuMEp5czMzZDdjUWo4dDFnb3M0bjROUXhUZDFUdHZUbGxS?oc=5"
+   }
+  ]
+ },
+ {
+  "at": "2026-10-20T13:45+09:00",
+  "text": "決済の看板ばかり増えて、財布の中身は増えぬ。便利も数が揃うと、迷いの種になる。",
+  "expression": "片眉を上げる",
+  "scene": "regular",
+  "lang": "ja",
+  "topic": "JR東日本が新しいQRコード決済を開始 競争激化へ",
+  "links": [
+   {
+    "source": "NHK",
+    "title": "JR東日本が新しいQRコード決済を開始 競争激化へ",
+    "url": "https://news.web.nhk/newsweb/na/nd-20261020de62102"
    }
   ]
  }

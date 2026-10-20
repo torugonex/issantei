@@ -1,9 +1,9 @@
 {
  "mood": {
-  "valence": -0.188,
-  "arousal": -0.035
+  "valence": -0.166,
+  "arousal": -0.026
  },
- "since_sarcasm": 5,
+ "since_sarcasm": 0,
  "day": "2026-10-20",
  "morning_done": true,
  "goodnight_done": false,
@@ -94,7 +94,8 @@
   "4d9ef14a0c75": "2026-10-20T12:45:16.933372+09:00",
   "6e9c2691e9f0": "2026-10-20T13:00:35.088464+09:00",
   "08a5e763f917": "2026-10-20T13:15:17.810532+09:00",
-  "9fabb65e1006": "2026-10-20T13:30:26.694365+09:00"
+  "9fabb65e1006": "2026-10-20T13:30:26.694365+09:00",
+  "9ab5a018bafd": "2026-10-20T13:45:16.192206+09:00"
  },
  "commented_titles": [
   {
@@ -284,12 +285,16 @@
   {
    "title": "‘Once-in-a-lifetime chance’: Japan launches historic mission to collect rocks from Mars’s moon Phobos",
    "at": "2026-10-20T13:30:26.694365+09:00"
+  },
+  {
+   "title": "JR東日本が新しいQRコード決済を開始 競争激化へ",
+   "at": "2026-10-20T13:45:16.192206+09:00"
   }
  ],
- "last_quake_check": "2026-10-20T13:30:26.694365+09:00",
- "since_english": 1,
+ "last_quake_check": "2026-10-20T13:45:16.192206+09:00",
+ "since_english": 2,
  "next_english": 4,
- "last_tick": "2026-10-20T13:30:26.694365+09:00",
+ "last_tick": "2026-10-20T13:45:16.192206+09:00",
  "french_day": "2026-10-20",
  "french_done": true,
  "french_after": 626
