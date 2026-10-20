@@ -1,14 +1,5 @@
 [
  {
-  "at": "2026-10-13T15:00+09:00",
-  "text": "Persimmons ripening on the bough. Nature, unlike the markets, delivers on schedule.",
-  "expression": "微笑",
-  "scene": "life",
-  "lang": "en",
-  "topic": null,
-  "links": []
- },
- {
   "at": "2026-10-13T15:15+09:00",
   "text": "禁じられた場所で開いて、露見してから詫びる。二度とやらぬとは、一度はやったということだ。",
   "expression": "片眉を上げる",
@@ -6226,6 +6217,21 @@
     "source": "NHK",
     "title": "ニデック“永守氏など経営陣に賠償責任”調査結果を公表",
     "url": "https://news.web.nhk/newsweb/na/nd-20261020de62376"
+   }
+  ]
+ },
+ {
+  "at": "2026-10-20T20:30+09:00",
+  "text": "発言を悔いて、自ら筋道を説いて頭を下げた。言葉は一度出れば戻らぬが、詫びる姿には学ぶ点もある。",
+  "expression": "思案",
+  "scene": "regular",
+  "lang": "ja",
+  "topic": "中野信子氏が「ニュースto」での発言を巡りインスタで説明し謝罪 (2026年10月20日掲載)",
+  "links": [
+   {
+    "source": "ライブドアニュース",
+    "title": "中野信子氏が「ニュースto」での発言を巡りインスタで説明し謝罪 (2026年10月20日掲載)",
+    "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBpRnkzcDJuRFRDUVdNQVY0bmd3d1EtY2JvM29SdmllRzZHVWp3Q3p0c0UwQnNtWUtxczRzT0QwLWNLTTVKQlBpRDJKSGVFX1JUT0g0OHJVeHFKdWtxNEE?oc=5"
    }
   ]
  }
