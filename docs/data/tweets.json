@@ -1,25 +1,5 @@
 [
  {
-  "at": "2026-10-13T18:45+09:00",
-  "text": "機械が体を持つ時代。賢くなるほど、戸締まりの心配も増える。",
-  "expression": "片眉を上げる",
-  "scene": "regular",
-  "lang": "ja",
-  "topic": "フィジカルAI、防災や工場自動化に挑む デジタル見本市CEATEC開幕",
-  "links": [
-   {
-    "source": "日本経済新聞",
-    "title": "フィジカルAI、防災や工場自動化に挑む デジタル見本市CEATEC開幕",
-    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE12LTJsV0h0TV9zOUhHRUFOVW01NnI2NFAxZ0M4aTE5amUxTkExNU9mUDZOdVFoMnRERmJGa3dYQ056ZFhYSGMyYUN3X0dCeFhiVnBwazlPSkE2WWlGQlVnVmJpcTduSjBiUUdEVg?oc=5"
-   },
-   {
-    "source": "NHK",
-    "title": "CEATEC開幕 フィジカルAIの出展相次ぐ サイバー攻撃への対応も",
-    "url": "https://news.web.nhk/newsweb/na/nd-20261013de58370"
-   }
-  ]
- },
- {
   "at": "2026-10-13T19:00+09:00",
   "text": "Five thousand pounds to learn that the countryside is not a skip. Cheaper than manners, I suppose.",
   "expression": "呆れのため息",
@@ -6196,5 +6176,14 @@
     "url": "https://news.web.nhk/newsweb/na/nd-20260930de53326"
    }
   ]
+ },
+ {
+  "at": "2026-10-21T07:00+09:00",
+  "text": "朝の七時、曇。紅茶に落とす角砂糖は一つきり。ゆっくりほどけるのを眺めている。",
+  "expression": "微笑",
+  "scene": "life",
+  "lang": "ja",
+  "topic": null,
+  "links": []
  }
 ]
