@@ -1,20 +1,5 @@
 [
  {
-  "at": "2026-10-13T10:15+09:00",
-  "text": "身分を伏せて近づくのを、人はスパイと呼ぶ。名乗らぬ親切ほど、裏の読まれやすいものはない。",
-  "expression": "片眉を上げる",
-  "scene": "regular",
-  "lang": "ja",
-  "topic": "「スパイのまねごと」所属隠して接触、陸自・現地情報隊員の目的",
-  "links": [
-   {
-    "source": "毎日新聞",
-    "title": "「スパイのまねごと」所属隠して接触、陸自・現地情報隊員の目的",
-    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5XdV84dGRRMEVnMU1mUVY3RnAxS3FraGpFZVM4Y2tUQzlXRERZdUdwMl9mQnY5R3J4TkFfTXNkYmdqZVdKMVBGSlM2VjBCdk00SS1tNzZwaVlteHZ4UjFGQmJNUFZLRldp?oc=5"
-   }
-  ]
- },
- {
   "at": "2026-10-13T10:45+09:00",
   "text": "Tea gone lukewarm while I read. A good book makes one forgive the kettle.",
   "expression": "微笑",
@@ -6217,5 +6202,14 @@
     "url": "https://news.web.nhk/newsweb/na/nd-20261020de61985"
    }
   ]
+ },
+ {
+  "at": "2026-10-20T15:15+09:00",
+  "text": "夕方から雨と聞き、傘は巻いたまま。紅茶を濃いめに淹れて待つ。",
+  "expression": "微笑",
+  "scene": "life",
+  "lang": "ja",
+  "topic": null,
+  "links": []
  }
 ]
