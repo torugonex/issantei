@@ -1,25 +1,5 @@
 [
  {
-  "at": "2026-10-12T21:00+09:00",
-  "text": "ガソリンが高いと、人は電気に傾く。懐の理屈は正直だ。",
-  "expression": "思案",
-  "scene": "regular",
-  "lang": "ja",
-  "topic": "中国 9月の新車輸出が6割増 ガソリン高もEV需要を後押しか",
-  "links": [
-   {
-    "source": "NHKニュース",
-    "title": "中国 9月の新車輸出が6割増 ガソリン高もEV需要を後押しか",
-    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5rT0EtV0I5Y011VEZfVFhQTTJLVzdFX0F3Q2JOeThuTnl4NnU4MTNHcV96Q1hmUFdEUzRYV2ZPcUkzMUdMQnRaLXdXVXJKemVNMjFNcE1Wa2FlaXVwSmd3?oc=5"
-   },
-   {
-    "source": "NHK",
-    "title": "中国 9月の新車輸出が6割増 ガソリン高もEV需要を後押しか",
-    "url": "https://news.web.nhk/newsweb/na/nd-20261012de58202"
-   }
-  ]
- },
- {
   "at": "2026-10-12T21:30+09:00",
   "text": "夜の窓辺で本を閉じた。昼の鰯雲はもう闇の中。読みさしの頁に栞を挟む。",
   "expression": "微笑",
@@ -6203,5 +6183,20 @@
   "lang": "en",
   "topic": null,
   "links": []
+ },
+ {
+  "at": "2026-10-20T10:15+09:00",
+  "text": "火星の月へ向けて、鉄の矢が空へ。地上は見上げるばかり。",
+  "expression": "微笑",
+  "scene": "regular",
+  "lang": "ja",
+  "topic": "MMX搭載のH3ロケット10号機が打上げ成功！ 関東などでも目撃の報告 夜光雲も",
+  "links": [
+   {
+    "source": "ウェザーニュース",
+    "title": "MMX搭載のH3ロケット10号機が打上げ成功！ 関東などでも目撃の報告 夜光雲も",
+    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9aT3pkRnFwS1NUSUJQVkFQV09xeUw1ajJkZjNYRGtIc28wSXNwNG5pNTc3STVZUVY5RmFrS01yOEVfTEVzWGltZlNxTTQ4bWo4TWF3cg?oc=5"
+   }
+  ]
  }
 ]
