@@ -1,9 +1,9 @@
 {
  "mood": {
-  "valence": -0.029,
-  "arousal": 0.019
+  "valence": 0.053,
+  "arousal": 0.014
  },
- "since_sarcasm": 3,
+ "since_sarcasm": 4,
  "day": "2026-10-20",
  "morning_done": true,
  "goodnight_done": false,
@@ -91,13 +91,10 @@
   "563fa16114ca": "2026-10-20T11:08:05.293729+09:00",
   "d8c43ffacecf": "2026-10-20T11:15:18.067915+09:00",
   "d13beafe5bb8": "2026-10-20T11:30:27.159680+09:00",
-  "69cc3c60bba0": "2026-10-20T11:45:17.938977+09:00"
+  "69cc3c60bba0": "2026-10-20T11:45:17.938977+09:00",
+  "da78bc37b977": "2026-10-20T12:00:38.647513+09:00"
  },
  "commented_titles": [
-  {
-   "title": "Cindy Crawford 'beyond heartbroken' after death of son Presley at 27",
-   "at": "2026-10-19T12:00:38.440155+09:00"
-  },
   {
    "title": "阪神・佐藤輝明のポスティング「11月中に移籍先決定」の電撃決着か…三冠王の現地リアル評価と「MLBロックアウトの裏事情」「本命の意外なチーム名」（Number Web）",
    "at": "2026-10-19T12:15:17.301431+09:00"
@@ -269,12 +266,16 @@
   {
    "title": "「キレッキレじゃん」「代表呼ぶレベルやろ」プレミア初先発の29歳日本人がトッテナム戦で躍動！「使われてなかったの謎すぎ」「動きが良すぎる」など反響続々",
    "at": "2026-10-20T11:45:17.938977+09:00"
+  },
+  {
+   "title": "Burnham vows end to 'rip-off parking charges' under new rules",
+   "at": "2026-10-20T12:00:38.647513+09:00"
   }
  ],
- "last_quake_check": "2026-10-20T11:45:17.938977+09:00",
- "since_english": 2,
- "next_english": 3,
- "last_tick": "2026-10-20T11:45:17.938977+09:00",
+ "last_quake_check": "2026-10-20T12:00:38.647513+09:00",
+ "since_english": 1,
+ "next_english": 5,
+ "last_tick": "2026-10-20T12:00:38.647513+09:00",
  "french_day": "2026-10-20",
  "french_done": true,
  "french_after": 626

@@ -1,14 +1,5 @@
 [
  {
-  "at": "2026-10-13T06:15+09:00",
-  "text": "曇。寒露の朝、秋桜が風に揺れている。傘は要らぬが、持って出よう。",
-  "expression": "微笑",
-  "scene": "morning",
-  "lang": "ja",
-  "topic": null,
-  "links": []
- },
- {
   "at": "2026-10-13T06:30+09:00",
   "text": "また飛んだ。海には届かず、抗議だけが律儀に往復する。",
   "expression": "呆れのため息",
@@ -6208,6 +6199,31 @@
     "source": "サッカーダイジェストWeb",
     "title": "「キレッキレじゃん」「代表呼ぶレベルやろ」プレミア初先発の29歳日本人がトッテナム戦で躍動！「使われてなかったの謎すぎ」「動きが良すぎる」など反響続々",
     "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9mLXNCY1l3R1BiNmJjUm1nWUlxdlROVGUxLWI3d0ZRV1JvRzZFTGQ4eTlyY2FPcktSX0drSmFWUzJ4aXpLSjFGU3Bma1MtYkFIZzBDOFZILXFBS3FTQksxZGdsd9IBc0FVX3lxTE5pZWtrNE02RjJKMm5RSzBHajFCbTB4Nm9WS1Bmcm81TXpBQlZkem1XS1ZBY2dFNGxxcUk2dmk5SHEzTkRsSkZDQzdYQ3ZBWHl2T2sybldJUVJKVTdZWjF0YlZBRUZCY0o3OW8xX0lHOU9CVlU?oc=5"
+   }
+  ]
+ },
+ {
+  "at": "2026-10-20T12:00+09:00",
+  "text": "Rip-off parking fines to be outlawed. Motorists may, for once, park their grievances elsewhere.",
+  "expression": "微笑",
+  "scene": "regular",
+  "lang": "en",
+  "topic": "Burnham vows end to 'rip-off parking charges' under new rules",
+  "links": [
+   {
+    "source": "BBC",
+    "title": "Burnham vows end to 'rip-off parking charges' under new rules",
+    "url": "https://www.bbc.co.uk/news/articles/ck87ze7wl4qno?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "source": "Guardian",
+    "title": "Andy Burnham outlines new rules to outlaw ‘rip-off’ private parking fines",
+    "url": "https://www.theguardian.com/money/2026/oct/19/andy-burnham-new-rules-private-parking-fines-code-of-practice"
+   },
+   {
+    "source": "The Guardian",
+    "title": "Andy Burnham outlines new rules to outlaw ‘rip-off’ private parking fines",
+    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNY01JMHJmMHRqbGNhN2dEbjFIOTgyTm94U1lGUmVOUmx1cWFfNkEwUVBidnNkRzZYVFRJWDNfdnAtRWlGckZ2anBlNmNfOWpOU1I5V2dEbkVyc0JmOS0xakdrcm1lNG44UUQxTmgweXFMaWV1YjhCOEZWbDRYbEhDeGNSSUxFQkplejZtR2RoOHNEUTFFNl9IWmpWUVBLbDlrb1k3MWtzTC1rbjA?oc=5"
    }
   ]
  }
