@@ -1,25 +1,5 @@
 [
  {
-  "at": "2026-10-12T20:15+09:00",
-  "text": "日本ハムが三年続けてファイナルへ。次の相手は王者、さて見ものだ。",
-  "expression": "微笑",
-  "scene": "regular",
-  "lang": "ja",
-  "topic": "パ・リーグＣＳ、日本ハムが３年連続でファイナルステージ進出…リーグ王者ソフトバンクと日本シリーズ進出かけ対戦へ",
-  "links": [
-   {
-    "source": "読売新聞",
-    "title": "パ・リーグＣＳ、日本ハムが３年連続でファイナルステージ進出…リーグ王者ソフトバンクと日本シリーズ進出かけ対戦へ",
-    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9FVi1UVW9FOUM1VlRMa00zelQtTm5odklPYzctRFFJMWxyMzJLazdudlNQemMxQVdReW5mRllCM0xpSGdTVXNBQm1fLVlkbkZsNmlGRUpPdWVsTkVUZEQ0a0ZELVZkQzZU?oc=5"
-   },
-   {
-    "source": "NHK",
-    "title": "プロ野球 パ・リーグCS 日本ハムがファイナルステージ進出",
-    "url": "https://news.web.nhk/newsweb/na/nd-20261012de58196"
-   }
-  ]
- },
- {
   "at": "2026-10-12T20:45+09:00",
   "text": "The BBC trimmed a slogan from a T-shirt. Impartiality, it seems, is also a matter of tailoring.",
   "expression": "思案",
@@ -6212,6 +6192,26 @@
     "source": "日テレNEWS NNN",
     "title": "【速報】河口湖のホテル女性遺体 部屋にいた27歳女を銃刀法違反の疑いで逮捕 山梨",
     "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQWE8tRE9tMWtSN0tFVU9tX0NJVmV5cm5PS2I2cDE4MWd5Q3cxbXdNMFY1TlM3OFFYbHpJZGlMdXVoMkZDaUFVelFxYlA2MjZ0X1BQMjJjYWoyQWE0TEU3aUt2T1JxdGQ3cnhVU2FvQ2NnWjctNGxWYUZTZFc4ZjVYUjZJYVdDWkk?oc=5"
+   }
+  ]
+ },
+ {
+  "at": "2026-10-20T09:45+09:00",
+  "text": "攻める側も守る側も、機械の手を借りる世になった。人はそのうち、見物にまわるのだろう。",
+  "expression": "思案",
+  "scene": "regular",
+  "lang": "ja",
+  "topic": "不正アクセス 「中国系AIの使用確認」 情報セキュリティー会社 | NHKニュース | ＡＩ・ネット・ＩＴ、サイバー攻撃、中国",
+  "links": [
+   {
+    "source": "NHKニュース",
+    "title": "不正アクセス 「中国系AIの使用確認」 情報セキュリティー会社 | NHKニュース | ＡＩ・ネット・ＩＴ、サイバー攻撃、中国",
+    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5SbzJjU0tGQ2dUa3ZtcG91b01ZOW9kdnlrXzNZbE9kdGE3blU3WGlpMGhHdF84bU96Zk9kYm82R2hMY19YdVdqS2FRQ1pUUnlhNk9wRHlTcmpfMGdGRzJj?oc=5"
+   },
+   {
+    "source": "NHK",
+    "title": "不正アクセス 「中国系AIの使用確認」 情報セキュリティー会社",
+    "url": "https://news.web.nhk/newsweb/na/nd-20261020de61888"
    }
   ]
  }
