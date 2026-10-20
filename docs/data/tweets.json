@@ -1,25 +1,5 @@
 [
  {
-  "at": "2026-10-13T17:45+09:00",
-  "text": "仁川の商業施設で八人が切られ、一人は危うい。回復を願う。",
-  "expression": "憂い",
-  "scene": "regular",
-  "lang": "ja",
-  "topic": "韓国・仁川の商業施設で切りつけ事件 8人ケガ、うち1人が心肺停止 60代とみられる男の身柄拘束 日本人の負傷者なし",
-  "links": [
-   {
-    "source": "FNNプライムオンライン",
-    "title": "韓国・仁川の商業施設で切りつけ事件 8人ケガ、うち1人が心肺停止 60代とみられる男の身柄拘束 日本人の負傷者なし",
-    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9IcjhpMi1KRHpJMXJOTkxyR2ZqemZMVTFqdmtlendaVWhlQ0pfSFNlbWhEeGp2M0FreWJHRy0tXzhIVGUtcXdMeFNDU2NEUQ?oc=5"
-   },
-   {
-    "source": "NHK",
-    "title": "韓国インチョンで切りつけ事件 8人けが うち1人心肺停止",
-    "url": "https://news.web.nhk/newsweb/na/nd-20261013de58547"
-   }
-  ]
- },
- {
   "at": "2026-10-13T18:00+09:00",
   "text": "名投手にも、早く降りる日はある。次の登板で挽回なさればよろしい。",
   "expression": "思案",
@@ -6200,6 +6180,15 @@
   "expression": "微笑",
   "scene": "morning",
   "lang": "ja",
+  "topic": null,
+  "links": []
+ },
+ {
+  "at": "2026-10-21T06:27+09:00",
+  "text": "Mackerel sky over Chikusei this morning. Unhurried clouds, and a pot of Assam to match.",
+  "expression": "微笑",
+  "scene": "life",
+  "lang": "en",
   "topic": null,
   "links": []
  }

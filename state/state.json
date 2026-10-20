@@ -1,15 +1,14 @@
 {
  "mood": {
-  "valence": 0.094,
-  "arousal": -0.209
+  "valence": 0.146,
+  "arousal": -0.232
  },
- "since_sarcasm": 7,
+ "since_sarcasm": 8,
  "day": "2026-10-21",
  "morning_done": true,
  "goodnight_done": false,
  "sleeptalk_night": "2026-10-20",
  "commented": {
-  "5b9f967c65d9": "2026-10-19T06:15:17.691651+09:00",
   "0f10e09b9e3b": "2026-10-19T06:45:17.748935+09:00",
   "4aff72be7c5f": "2026-10-19T07:00:32.919559+09:00",
   "aeef1b92e83e": "2026-10-19T07:15:16.772708+09:00",
@@ -104,10 +103,6 @@
   "edda49aa1e8f": "2026-10-20T22:30:32.956451+09:00"
  },
  "commented_titles": [
-  {
-   "title": "スーチー氏に英国王の書簡　親軍政権、処遇改善主張か",
-   "at": "2026-10-20T06:15:18.089939+09:00"
-  },
   {
    "title": "Possible wreckage of Amelia Earhart's plane likely to be trees, say researchers",
    "at": "2026-10-20T06:45:18.663101+09:00"
@@ -293,10 +288,10 @@
    "at": "2026-10-20T22:30:32.956451+09:00"
   }
  ],
- "last_quake_check": "2026-10-21T06:15:20.855105+09:00",
- "since_english": 4,
+ "last_quake_check": "2026-10-21T06:27:07.490922+09:00",
+ "since_english": 1,
  "next_english": 5,
- "last_tick": "2026-10-21T06:15:20.855105+09:00",
+ "last_tick": "2026-10-21T06:27:07.490922+09:00",
  "french_day": "2026-10-21",
  "french_done": false,
  "french_after": 806
