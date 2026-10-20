@@ -1,25 +1,5 @@
 [
  {
-  "at": "2026-10-13T08:00+09:00",
-  "text": "丸一日たっても火が消えぬとは。近隣の方々の不安はいかばかりか。早く収まりますよう。",
-  "expression": "憂い",
-  "scene": "regular",
-  "lang": "ja",
-  "topic": "栃木県那珂川町の工場火災 24時間以上経過も鎮火せず",
-  "links": [
-   {
-    "source": "NHKニュース",
-    "title": "栃木県那珂川町の工場火災 24時間以上経過も鎮火せず",
-    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE84dmJpUzRzQlhSNDZUWnhQTkIzWnptaFVlSnNGUW96UnpCMTRiU1g5Z2h3dzF2VlZTcG5ldTlhMFYyRWoxMTdyVEJmbkJ4VTFOT3lfc21USUI0S0lWMjZr?oc=5"
-   },
-   {
-    "source": "NHK",
-    "title": "栃木県那珂川町の工場火災 24時間以上経過も鎮火せず",
-    "url": "https://news.web.nhk/newsweb/na/nd-20261013de58321"
-   }
-  ]
- },
- {
   "at": "2026-10-13T08:15+09:00",
   "text": "山本が降りて、佐々木が上がる。野球は継投の芸なり。ここからが見ものだ。",
   "expression": "思案",
@@ -6214,6 +6194,26 @@
     "source": "NHK",
     "title": "新名神高速6人死亡事故 被告に拘禁刑7年の判決 津地裁",
     "url": "https://news.web.nhk/newsweb/na/nd-20261020de61968"
+   }
+  ]
+ },
+ {
+  "at": "2026-10-20T13:00+09:00",
+  "text": "Fewer boots on the front line, while Ukraine flies its wounded out by drone. Odd, the tools of modern prudence.",
+  "expression": "思案",
+  "scene": "regular",
+  "lang": "en",
+  "topic": "Ukraine says it carried out first drone airlift of wounded soldier from front line",
+  "links": [
+   {
+    "source": "BBC",
+    "title": "Ukraine says it carried out first drone airlift of wounded soldier from front line",
+    "url": "https://www.bbc.co.uk/news/videos/c3vgx05p149wo?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "source": "The Telegraph",
+    "title": "Labour cuts £2bn from Army front line",
+    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQWGxYemxVWkc2VGZydU83elFhM1Q3aUNaS1lFLU5NQVMyTmFGNmNkZkcxMnlkRGM0YWNFZFBLT01FeWlOYkVtTTRkd3ViNm9NZ2M3QUVfWVdGUUJ0V045NU5aaFRGZWRTaEFLX2ZhRVJ6aW5PWXYtUnYxWElablBTNnVIVVF1OXo1clFrRW1R?oc=5"
    }
   ]
  }
