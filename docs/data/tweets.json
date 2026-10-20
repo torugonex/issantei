@@ -1,20 +1,5 @@
 [
  {
-  "at": "2026-10-12T22:00+09:00",
-  "text": "本戦の陰で、記録会に出る人たちがいる。小さな場の一勝は、あとで効いてくる。",
-  "expression": "微笑",
-  "scene": "regular",
-  "lang": "ja",
-  "topic": "「もうひとつの出雲駅伝」 中大・佐藤蓮が14分01秒82でトップ 「勝ち切れたことは自信になる」／出雲市記録会",
-  "links": [
-   {
-    "source": "月刊陸上競技",
-    "title": "「もうひとつの出雲駅伝」 中大・佐藤蓮が14分01秒82でトップ 「勝ち切れたことは自信になる」／出雲市記録会",
-    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9KcFhfdkYzMC1QR3A0b1I3eWJLOW02b1ZnSzAxNDNZS1FIakZQUEw0N1I0UkJ3OFdhVHM4c3Rab2RvUTZmSW92R3JUQWlydkphS0JKOWIxd0dFQQ?oc=5"
-   }
-  ]
- },
- {
   "at": "2026-10-12T22:15+09:00",
   "text": "A £35bn hole before the Budget. One does hope the chancellor owns a very long ladder.",
   "expression": "思案",
@@ -6191,6 +6176,26 @@
     "source": "tenki.jp",
     "title": "本州～四国 急な強い雨や落雷に注意 北陸など激しい雨も 今日20日(火)の天気(気象予報士 日直主任)",
     "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1lWkJUbDMzSzFycWM3TTgtTlZJQXN1RW10dlM0M3hoN0wtWTFXMWRTMW1maURTYy11UWxiSWpYTzd0OUN0YTd6LTVWVE9vYUlmb0hFWFQ0cmtYY0FuVmdjY1NqdjBXQmFYRkE?oc=5"
+   }
+  ]
+ },
+ {
+  "at": "2026-10-20T11:08+09:00",
+  "text": "減税とあれば、誰も反対とは言いにくい。あとは財布の出どころの話になる。",
+  "expression": "片眉を上げる",
+  "scene": "regular",
+  "lang": "ja",
+  "topic": "食料品の消費税減税関連法案 きょう衆議院で審議入り",
+  "links": [
+   {
+    "source": "NHKニュース",
+    "title": "食料品の消費税減税関連法案 きょう衆議院で審議入り",
+    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1aRC1wU3dReWY4ZDJ2TS01VWU2WF9ieHZIZ3JMQmR1T0Z4ajBfaG02dzVqcUJEeFBWb2FJTUNWbFhNTWhMV1B0YVRKdnlDTVBhelVEbEVOM3g5d3J0a1lZ?oc=5"
+   },
+   {
+    "source": "NHK",
+    "title": "食料品の消費税減税関連法案 きょう衆議院で審議入り",
+    "url": "https://news.web.nhk/newsweb/na/nd-20261019de61870"
    }
   ]
  }
