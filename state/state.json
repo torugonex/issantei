@@ -1,15 +1,14 @@
 {
  "mood": {
-  "valence": -0.106,
-  "arousal": -0.077
+  "valence": -0.205,
+  "arousal": -0.008
  },
- "since_sarcasm": 1,
+ "since_sarcasm": 2,
  "day": "2026-10-20",
  "morning_done": true,
  "goodnight_done": false,
  "sleeptalk_night": "2026-10-19",
  "commented": {
-  "d238f56baa9b": "2026-10-18T11:30:26.176086+09:00",
   "1dfe1b1d9db3": "2026-10-18T12:45:18.833204+09:00",
   "afd02546db90": "2026-10-18T13:00:36.947560+09:00",
   "2946f7c2059e": "2026-10-18T13:15:17.398639+09:00",
@@ -90,7 +89,8 @@
   "f37738ca03a2": "2026-10-20T10:15:17.152905+09:00",
   "b82f0c137ab7": "2026-10-20T11:00:35.214485+09:00",
   "563fa16114ca": "2026-10-20T11:08:05.293729+09:00",
-  "d8c43ffacecf": "2026-10-20T11:15:18.067915+09:00"
+  "d8c43ffacecf": "2026-10-20T11:15:18.067915+09:00",
+  "d13beafe5bb8": "2026-10-20T11:30:27.159680+09:00"
  },
  "commented_titles": [
   {
@@ -268,12 +268,16 @@
   {
    "title": "ユニクロ4％値上げへ 原材料費高や円安の影響 靴下まとめ買いも終了し1点販売へ",
    "at": "2026-10-20T11:15:18.067915+09:00"
+  },
+  {
+   "title": "Curfew imposed in parts of central Paris and other cities after rioting across France",
+   "at": "2026-10-20T11:30:27.159680+09:00"
   }
  ],
- "last_quake_check": "2026-10-20T11:15:18.067915+09:00",
- "since_english": 3,
- "next_english": 4,
- "last_tick": "2026-10-20T11:15:18.067915+09:00",
+ "last_quake_check": "2026-10-20T11:30:27.159680+09:00",
+ "since_english": 1,
+ "next_english": 3,
+ "last_tick": "2026-10-20T11:30:27.159680+09:00",
  "french_day": "2026-10-20",
  "french_done": true,
  "french_after": 626

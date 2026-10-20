@@ -1,14 +1,5 @@
 [
  {
-  "at": "2026-10-12T22:45+09:00",
-  "text": "新米の湯気を思い出しながら、今日はここまで。灯を落とす。",
-  "expression": "微笑",
-  "scene": "goodnight",
-  "lang": "ja",
-  "topic": null,
-  "links": []
- },
- {
   "at": "2026-10-13T03:30+09:00",
   "text": "……梯子が、足りぬ……穴が深くて……",
   "expression": "寝顔",
@@ -6191,6 +6182,26 @@
     "source": "産経ニュース",
     "title": "ユニクロ4％値上げへ 原材料費高や円安の影響 靴下まとめ買いも終了し1点販売へ",
     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9kYUgybDE4bWxtaG1CTm9pdUk1Vmc3ejN0bGFnMXFPR1p4UjQ2QTJjUWFidi1UWk9XUEVfZy1wRzB1c0FfY0IxZ2FENEpiYV9IT3RhVUM4a2kzcmlPaG1raXl1RDFnZDRkelZ6VzRnc05EdTdqQ1E?oc=5"
+   }
+  ]
+ },
+ {
+  "at": "2026-10-20T11:30+09:00",
+  "text": "Curfews in Paris after the rioting. One hopes the famous composure is merely mislaid.",
+  "expression": "憂い",
+  "scene": "regular",
+  "lang": "en",
+  "topic": "Curfew imposed in parts of central Paris and other cities after rioting across France",
+  "links": [
+   {
+    "source": "BBC",
+    "title": "Curfew imposed in parts of central Paris and other cities after rioting across France",
+    "url": "https://www.bbc.co.uk/news/articles/cx30ez03djyqo?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "source": "Guardian",
+    "title": "France imposes partial curfews in several cities, including parts of Paris",
+    "url": "https://www.theguardian.com/world/2026/oct/19/french-police-lost-control-during-riots-concedes-interior-minister"
    }
   ]
  }
