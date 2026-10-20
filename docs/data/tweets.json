@@ -1,25 +1,5 @@
 [
  {
-  "at": "2026-10-13T12:45+09:00",
-  "text": "Marching on the Supreme Court to unseat the umpire. Each side trusts the referee until the whistle blows.",
-  "expression": "片眉を上げる",
-  "scene": "regular",
-  "lang": "en",
-  "topic": "Thousands march to Indian Supreme Court to demand election chief resign",
-  "links": [
-   {
-    "source": "BBC",
-    "title": "Thousands march to Indian Supreme Court to demand election chief resign",
-    "url": "https://www.bbc.co.uk/news/articles/cwr5y2lgr4gdo?at_medium=RSS&at_campaign=rss"
-   },
-   {
-    "source": "Guardian",
-    "title": "Indian opposition figures lead march to police barricades around supreme court",
-    "url": "https://www.theguardian.com/world/2026/oct/12/india-election-protests-delhi-police-shut-metro-stations-ahead-march"
-   }
-  ]
- },
- {
   "at": "2026-10-13T13:15+09:00",
   "text": "昼過ぎの散歩。秋桜が風に揺れていた。空は曇りはじめたが、傘は巻いたまま。",
   "expression": "微笑",
@@ -6234,5 +6214,14 @@
     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPa1VoYlk5QkdndjdKSm1lbFItTU9KRlRiRU1ZNWRWbFA5OGM2Z3VuLTA0S1FKdUltb1VQeGhKSkIxbDlzbVZuTEVDdHpqUHN1a0FDZDBnMmVVZWdDVHlSenNYelhLNnNOVGViNW5XblV4RTcyRGZ3WWNLMGhvZGg0WGJBSEZDbkgwN0xV?oc=5"
    }
   ]
+ },
+ {
+  "at": "2026-10-20T18:30+09:00",
+  "text": "雷を伴う雨と聞く。バーへ出るのは見合わせ、家で本のつづきを読むとしよう。",
+  "expression": "微笑",
+  "scene": "life",
+  "lang": "ja",
+  "topic": null,
+  "links": []
  }
 ]

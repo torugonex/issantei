@@ -1,9 +1,9 @@
 {
  "mood": {
-  "valence": 0.164,
-  "arousal": -0.07
+  "valence": 0.173,
+  "arousal": -0.09
  },
- "since_sarcasm": 0,
+ "since_sarcasm": 1,
  "day": "2026-10-20",
  "morning_done": true,
  "goodnight_done": false,
@@ -100,10 +100,6 @@
   "5e63a9988876": "2026-10-20T18:15:18.195996+09:00"
  },
  "commented_titles": [
-  {
-   "title": "自民 維新幹部 消費税減税法案 今国会成立へ 野党の協力求める",
-   "at": "2026-10-19T18:15:18.459598+09:00"
-  },
   {
    "title": "People playing loud music on buses could face £100 fine",
    "at": "2026-10-19T19:15:22.434057+09:00"
@@ -293,10 +289,10 @@
    "at": "2026-10-20T18:15:18.195996+09:00"
   }
  ],
- "last_quake_check": "2026-10-20T18:15:18.195996+09:00",
- "since_english": 1,
+ "last_quake_check": "2026-10-20T18:30:26.960587+09:00",
+ "since_english": 2,
  "next_english": 3,
- "last_tick": "2026-10-20T18:15:18.195996+09:00",
+ "last_tick": "2026-10-20T18:30:26.960587+09:00",
  "french_day": "2026-10-20",
  "french_done": true,
  "french_after": 626
