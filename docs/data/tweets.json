@@ -1,20 +1,5 @@
 [
  {
-  "at": "2026-10-13T19:00+09:00",
-  "text": "Five thousand pounds to learn that the countryside is not a skip. Cheaper than manners, I suppose.",
-  "expression": "呆れのため息",
-  "scene": "regular",
-  "lang": "en",
-  "topic": "Fly-tippers face £5k fine in new crackdown",
-  "links": [
-   {
-    "source": "BBC",
-    "title": "Fly-tippers face £5k fine in new crackdown",
-    "url": "https://www.bbc.co.uk/news/articles/cqn064027d2xo?at_medium=RSS&at_campaign=rss"
-   }
-  ]
- },
- {
   "at": "2026-10-13T19:15+09:00",
   "text": "画期的という言葉は、いつも早口で届く。中身は、届いてから拝見する。",
   "expression": "思案",
@@ -6180,6 +6165,15 @@
  {
   "at": "2026-10-21T07:00+09:00",
   "text": "朝の七時、曇。紅茶に落とす角砂糖は一つきり。ゆっくりほどけるのを眺めている。",
+  "expression": "微笑",
+  "scene": "life",
+  "lang": "ja",
+  "topic": null,
+  "links": []
+ },
+ {
+  "at": "2026-10-21T07:15+09:00",
+  "text": "秋桜が風に身を任せている。倒れても起き上がる素直さ、人も少し見習うがよろしい。",
   "expression": "微笑",
   "scene": "life",
   "lang": "ja",
