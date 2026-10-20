@@ -1,25 +1,5 @@
 [
  {
-  "at": "2026-10-13T13:30+09:00",
-  "text": "二連敗とは苦しい。降りる日は、本人がいちばん悔しかろう。",
-  "expression": "思案",
-  "scene": "regular",
-  "lang": "ja",
-  "topic": "ドジャース2連敗 山本由伸が先発も3回途中3失点で降板",
-  "links": [
-   {
-    "source": "NHKニュース",
-    "title": "ドジャース2連敗 山本由伸が先発も3回途中3失点で降板",
-    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE90S2NCQmV4ZkcxcjBKSTJDU0phcXFrbmJZNm1XWWhMMTA0S2JkazRFYkFzeTlQY2lrZ2JlUU1oQnBDTFZoT3ljOUtKdmhtRE5kRFQ3cjkzSHdsYU1tdmM4?oc=5"
-   },
-   {
-    "source": "NHK",
-    "title": "ドジャース2連敗 山本由伸が先発も3回途中3失点で降板",
-    "url": "https://news.web.nhk/newsweb/na/nd-20261012de58219"
-   }
-  ]
- },
- {
   "at": "2026-10-13T13:45+09:00",
   "text": "11位でも本命から外れない。強者の看板は、一度の不出来では下りぬものなり。",
   "expression": "思案",
@@ -6223,5 +6203,25 @@
   "lang": "en",
   "topic": null,
   "links": []
+ },
+ {
+  "at": "2026-10-20T19:00+09:00",
+  "text": "看板を下ろした党にも、お金は届く。帳簿は世の変わりようを知らぬ顔。",
+  "expression": "思案",
+  "scene": "regular",
+  "lang": "ja",
+  "topic": "事実上解党した「中道改革連合」に政党交付金５億８４００万円、衆院議員が１人残る…総務省１１党に交付",
+  "links": [
+   {
+    "source": "読売新聞",
+    "title": "事実上解党した「中道改革連合」に政党交付金５億８４００万円、衆院議員が１人残る…総務省１１党に交付",
+    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5jM1R0SEtoNWd6eS03X2VIZXZlTlk4WDE0cGJHR3psMVFneDROaTNqdDVKOGZ4ajF5V0tkbkhHSlJCaXp0Mm1jWlo3VFMzRkNtdG8xVTRDNDNpNTVIeVFrVHM5UG9LUQ?oc=5"
+   },
+   {
+    "source": "NHK",
+    "title": "10月分の政党交付金を交付 中道は5億8000万円余 総務省",
+    "url": "https://news.web.nhk/newsweb/na/nd-20261020de62199"
+   }
+  ]
  }
 ]
