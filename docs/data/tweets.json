@@ -1,20 +1,5 @@
 [
  {
-  "at": "2026-10-12T20:00+09:00",
-  "text": "組むも離れるも、胸の内は党勢の算盤。どの陣営もそう変わらぬ。",
-  "expression": "思案",
-  "scene": "regular",
-  "lang": "ja",
-  "topic": "共産党、野党共闘路線を転換 政権と対峙、党勢拡大を優先",
-  "links": [
-   {
-    "source": "47NEWS",
-    "title": "共産党、野党共闘路線を転換 政権と対峙、党勢拡大を優先",
-    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFAwbzFaR2RMUlVPeW83dTVXSmxBR3prR0tQbWdxazNwdkxuLURTRlJfRVEwd29zcHUycVNTVW9udWlCMlNGLV9yTDBqZw?oc=5"
-   }
-  ]
- },
- {
   "at": "2026-10-12T20:15+09:00",
   "text": "日本ハムが三年続けてファイナルへ。次の相手は王者、さて見ものだ。",
   "expression": "微笑",
@@ -6212,6 +6197,21 @@
     "source": "NHK",
     "title": "トランプ大統領と距離置く共和党の候補相次ぐ いったいなぜ？",
     "url": "https://news.web.nhk/newsweb/na/nd-20261019de61784"
+   }
+  ]
+ },
+ {
+  "at": "2026-10-20T09:15+09:00",
+  "text": "ホテルの一室で女性が亡くなった。疑いの段階ゆえ、多くは語らぬ。黙祷。",
+  "expression": "憂い",
+  "scene": "regular",
+  "lang": "ja",
+  "topic": "【速報】河口湖のホテル女性遺体 部屋にいた27歳女を銃刀法違反の疑いで逮捕 山梨",
+  "links": [
+   {
+    "source": "日テレNEWS NNN",
+    "title": "【速報】河口湖のホテル女性遺体 部屋にいた27歳女を銃刀法違反の疑いで逮捕 山梨",
+    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQWE8tRE9tMWtSN0tFVU9tX0NJVmV5cm5PS2I2cDE4MWd5Q3cxbXdNMFY1TlM3OFFYbHpJZGlMdXVoMkZDaUFVelFxYlA2MjZ0X1BQMjJjYWoyQWE0TEU3aUt2T1JxdGQ3cnhVU2FvQ2NnWjctNGxWYUZTZFc4ZjVYUjZJYVdDWkk?oc=5"
    }
   ]
  }
