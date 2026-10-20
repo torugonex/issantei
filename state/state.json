@@ -1,16 +1,14 @@
 {
  "mood": {
-  "valence": 0.088,
-  "arousal": -0.231
+  "valence": -0.356,
+  "arousal": -0.316
  },
- "since_sarcasm": 11,
+ "since_sarcasm": 12,
  "day": "2026-10-21",
  "morning_done": true,
  "goodnight_done": false,
  "sleeptalk_night": "2026-10-20",
  "commented": {
-  "458b4ea9edcb": "2026-10-19T07:30:26.181580+09:00",
-  "454234cf864d": "2026-10-19T07:45:16.694204+09:00",
   "4487fd180d44": "2026-10-19T08:00:35.808411+09:00",
   "06beda8274ab": "2026-10-19T08:41:39.689244+09:00",
   "af51410b4bb1": "2026-10-19T08:45:18.700484+09:00",
@@ -98,13 +96,10 @@
   "00b2a4fc29b6": "2026-10-20T21:45:19.105068+09:00",
   "db38a0655a1a": "2026-10-20T22:00:39.967708+09:00",
   "edda49aa1e8f": "2026-10-20T22:30:32.956451+09:00",
-  "fc261c36a520": "2026-10-21T06:45:19.919351+09:00"
+  "fc261c36a520": "2026-10-21T06:45:19.919351+09:00",
+  "4cc3c8d7750b": "2026-10-21T07:45:19.085246+09:00"
  },
  "commented_titles": [
-  {
-   "title": "Kenyan starvation cult leader guilty of murder of 190 children and one adult",
-   "at": "2026-10-20T07:30:26.685549+09:00"
-  },
   {
    "title": "In pictures: French landmarks damaged and destroyed by violent protesters",
    "at": "2026-10-20T08:30:27.082609+09:00"
@@ -276,12 +271,16 @@
   {
    "title": "トランプ氏、ウクライナに和平合意促す ロシア拘束の米国人巡る進展示唆（ロイター）",
    "at": "2026-10-21T06:45:19.919351+09:00"
+  },
+  {
+   "title": "Baby who died from meningitis may have been saved if tested sooner, inquest finds",
+   "at": "2026-10-21T07:45:19.085246+09:00"
   }
  ],
- "last_quake_check": "2026-10-21T07:15:21.492664+09:00",
- "since_english": 4,
+ "last_quake_check": "2026-10-21T07:45:19.085246+09:00",
+ "since_english": 1,
  "next_english": 5,
- "last_tick": "2026-10-21T07:30:29.113829+09:00",
+ "last_tick": "2026-10-21T07:45:19.085246+09:00",
  "french_day": "2026-10-21",
  "french_done": false,
  "french_after": 806
