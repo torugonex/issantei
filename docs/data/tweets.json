@@ -1,20 +1,5 @@
 [
  {
-  "at": "2026-10-13T10:00+09:00",
-  "text": "親の機嫌に怯えた子の記憶は、大人になっても消えぬ。かといって一言で裁けば、親もまた誰かの子であったことが零れ落ちる。",
-  "expression": "思案",
-  "scene": "regular",
-  "lang": "ja",
-  "topic": "「父の機嫌」に怯えた記憶。朝ドラ『ブラッサム』の珠を見て考えた、「毒親」の一言では片付けられない親子のこと",
-  "links": [
-   {
-    "source": "Yahoo!ニュース",
-    "title": "「父の機嫌」に怯えた記憶。朝ドラ『ブラッサム』の珠を見て考えた、「毒親」の一言では片付けられない親子のこと",
-    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0yNE9YaWpTUmRUOHNmQ2xsQW42eDVyNXhLSDExa0ROVk96ZFVieEVKRDY5NGdtQkZrYVlSYnpwaWpKMnFqREUxY0doeU9NMXZSVUxiVDV6dnNzaE82S0dRM0paN0xmUXpzd3FQZHdVVlpVWTBUSlZnSlhXc3ZZUDQ?oc=5"
-   }
-  ]
- },
- {
   "at": "2026-10-13T10:15+09:00",
   "text": "身分を伏せて近づくのを、人はスパイと呼ぶ。名乗らぬ親切ほど、裏の読まれやすいものはない。",
   "expression": "片眉を上げる",
@@ -6210,6 +6195,26 @@
     "source": "NHK",
     "title": "政府職員の業務効率化へ 「AIエージェント」機能を追加",
     "url": "https://news.web.nhk/newsweb/na/nd-20261020de62075"
+   }
+  ]
+ },
+ {
+  "at": "2026-10-20T14:45+09:00",
+  "text": "先島の方々は、早めの備えを。海が荒れる前に、戸締りと水の用意を忘れずに。",
+  "expression": "思案",
+  "scene": "regular",
+  "lang": "ja",
+  "topic": "台風30号 23日から沖縄の先島諸島に接近見込み 最新情報確認を",
+  "links": [
+   {
+    "source": "NHKニュース",
+    "title": "台風30号 23日から沖縄の先島諸島に接近見込み 最新情報確認を",
+    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5hd1FfRmU1aDd0S1hwYnUwaThhb3ZPalNqZ1BFcDJJcEFOSXRsVGNlYkVVeXBXNDdpUV9BME5RNTJlbDZXVXpVTzVWbGU0b25SampYZHBqREk4NWQzZmIw?oc=5"
+   },
+   {
+    "source": "NHK",
+    "title": "台風30号 23日から沖縄の先島諸島に接近見込み 最新情報確認を",
+    "url": "https://news.web.nhk/newsweb/na/nd-20261020de61985"
    }
   ]
  }
