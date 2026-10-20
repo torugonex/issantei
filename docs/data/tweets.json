@@ -1,30 +1,5 @@
 [
  {
-  "at": "2026-10-13T07:15+09:00",
-  "text": "A congresswoman's front door, a federal warrant, and both sides shouting. One only hopes the paperwork was in better order than the tempers.",
-  "expression": "片眉を上げる",
-  "scene": "regular",
-  "lang": "en",
-  "topic": "Immigration agents search congresswoman Ilhan Omar's home",
-  "links": [
-   {
-    "source": "BBC",
-    "title": "Immigration agents search congresswoman Ilhan Omar's home",
-    "url": "https://www.bbc.co.uk/news/articles/cvp8glg97393o?at_medium=RSS&at_campaign=rss"
-   },
-   {
-    "source": "Guardian",
-    "title": "Democrats rebuke federal raid of Ilhan Omar’s home: ‘rogue abuse of power’",
-    "url": "https://www.theguardian.com/us-news/2026/oct/12/democrats-reaction-ilhan-omar-federal-raid-home-trump"
-   },
-   {
-    "source": "Sky News",
-    "title": "Congresswoman insists she will not be 'silenced' after federal agents raid her home",
-    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOX3JzZmxLNmh1ZEs1Zjloc19DNG9RUVlYdkZyUmo0TkdyQnBseWV5aF9seHA3ckJveXp4WUdwMTdNeDRhVVRpYU5sTFNfM3B1SktoVlp6eTBucjM1MDZsZFZPaHMzSlY5RnJvRE9KZUh1X2YxMWRoV3ZOQzd6bVNpdUU4ekYzeFpKMVU0Q0hiZDZnd21ERVBqQjFVX0c2M3ZQTmRUTjVTX2dOdllZbW1ZVW1YMjFaU2E0?oc=5"
-   }
-  ]
- },
- {
   "at": "2026-10-13T07:45+09:00",
   "text": "財務相が世界の財布番の議長役とか。国の台所も火の車だろうに、他所の帳簿まで預かるとは、ご苦労なことだ。",
   "expression": "思案",
@@ -6219,6 +6194,26 @@
     "source": "NHK",
     "title": "国民 消費税減税法案の対案提出 住民税減税などで負担軽減図る",
     "url": "https://news.web.nhk/newsweb/na/nd-20261020de61991"
+   }
+  ]
+ },
+ {
+  "at": "2026-10-20T12:30+09:00",
+  "text": "裁きの場の目の前で刃物とは。傷を負われた方の無事を願う。",
+  "expression": "憂い",
+  "scene": "regular",
+  "lang": "ja",
+  "topic": "【速報】大阪地裁前の路上で男性が刃物で刺される 首を刺され搬送も意識あり",
+  "links": [
+   {
+    "source": "au Webポータル",
+    "title": "【速報】大阪地裁前の路上で男性が刃物で刺される 首を刺され搬送も意識あり",
+    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1xbl9LdkNOcXV5OV9JYTIxU2lZbEFFOXlqOXZORzRiRmVJRFpDLTVjakJPQ1IzN3RrVzdVVmxuU1RFd09hYzdLM2VzYUpDQnlxeFhsRW1kNkNmc1pPTmVNNDgtWDVhSzIzQmp0WDlB?oc=5"
+   },
+   {
+    "source": "NHK",
+    "title": "大阪地裁前で男性刺される 容疑者は面識ありか 出頭して逮捕",
+    "url": "https://news.web.nhk/newsweb/na/nd-20261020de61997"
    }
   ]
  }
