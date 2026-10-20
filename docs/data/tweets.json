@@ -1,14 +1,5 @@
 [
  {
-  "at": "2026-10-13T11:15+09:00",
-  "text": "Fine morning, clouds due after lunch. I shall walk now and let the afternoon look after itself.",
-  "expression": "微笑",
-  "scene": "life",
-  "lang": "en",
-  "topic": null,
-  "links": []
- },
- {
   "at": "2026-10-13T11:45+09:00",
   "text": "景気の波を読む学問が賞を取る。波は読めても、止められぬのが世の常なり。",
   "expression": "思案",
@@ -6220,6 +6211,21 @@
     "source": "ｄメニューニュース",
     "title": "北島三郎（90） 数年前から車いす生活…1300坪大豪邸を離れてホテルで暮らすワケ（女性自身）",
     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNdEZqai0zb1Q3RWxtajc0ZDVla3Z3ODdXZk5YZzJSQ3E1c2VJc1ItcUVXUDk3UmRXclRwbUwxYjdwbUZBaVMtUDRCUHh0SFR0Vml0MXk2Rl9rWk5LOXB1OEg1S19VRm0zdjNfV1hWUW9FVFlxX1FLZmF2Sm1xSGY1NDBHU0JFUzB1MFJhSXF2Ylduc19a?oc=5"
+   }
+  ]
+ },
+ {
+  "at": "2026-10-20T16:45+09:00",
+  "text": "他国の首長の席を、よその国の人が決めたがる。席の主は、座り心地を訊かれもしない。",
+  "expression": "思案",
+  "scene": "regular",
+  "lang": "ja",
+  "topic": "トランプ氏、ゼレンスキー大統領の交代を改めて要求 「事態の収拾に役立っていない」（ロイター）",
+  "links": [
+   {
+    "source": "Yahoo!ニュース",
+    "title": "トランプ氏、ゼレンスキー大統領の交代を改めて要求 「事態の収拾に役立っていない」（ロイター）",
+    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBBYlhtNkhGQ3Q3TmFwNk9wUFIzaURwSnoxNWlDRlE0M2IxSGowa2k5Y0wyRlV0Mnl2YVREMHFBeVdQaHR6Y0thSWhOMklFXzJCM1MyamRkRVo3UkY3cmFMcklwUHVHd0F4RDk5TFNzWFBremkwTGpReXhtdzh5bTQ?oc=5"
    }
   ]
  }
