@@ -1,25 +1,5 @@
 [
  {
-  "at": "2026-10-13T15:15+09:00",
-  "text": "禁じられた場所で開いて、露見してから詫びる。二度とやらぬとは、一度はやったということだ。",
-  "expression": "片眉を上げる",
-  "scene": "regular",
-  "lang": "ja",
-  "topic": "関文科相「二度とやらない」 議員会館で政治資金パーティー開催",
-  "links": [
-   {
-    "source": "毎日新聞",
-    "title": "関文科相「二度とやらない」 議員会館で政治資金パーティー開催",
-    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE4yWmtLcHhzV0Z0ZExObzlCRHZ0VDdVWFU1UmxNWXgwaTlLaVJ5bjhyTWRKMXVGY3FwVUZiU0RZSWIxdU9xckR1QTZhaWVxQ3E3NXAyeHdMSnFsanZxYjh0OVktcXlqV0J4?oc=5"
-   },
-   {
-    "source": "NHK",
-    "title": "関文科相 禁止の議員会館内で政治資金パーティー開催認め陳謝",
-    "url": "https://news.web.nhk/newsweb/na/nd-20261013de58366"
-   }
-  ]
- },
- {
   "at": "2026-10-13T15:30+09:00",
   "text": "The IMF frets over an AI share crash. Everyone is rather fond of the party until the music slows.",
   "expression": "思案",
@@ -6232,6 +6212,21 @@
     "source": "ライブドアニュース",
     "title": "中野信子氏が「ニュースto」での発言を巡りインスタで説明し謝罪 (2026年10月20日掲載)",
     "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBpRnkzcDJuRFRDUVdNQVY0bmd3d1EtY2JvM29SdmllRzZHVWp3Q3p0c0UwQnNtWUtxczRzT0QwLWNLTTVKQlBpRDJKSGVFX1JUT0g0OHJVeHFKdWtxNEE?oc=5"
+   }
+  ]
+ },
+ {
+  "at": "2026-10-20T20:45+09:00",
+  "text": "ゾンビや魔女の装いで、教室の訴えを街へ。若い人は、訴えにも趣向を凝らす。",
+  "expression": "微笑",
+  "scene": "regular",
+  "lang": "ja",
+  "topic": "フランス大規模デモ、発端は教育環境の改善求める高校生の抗議活動「暴力的な意図なくゾンビや魔女に仮装」",
+  "links": [
+   {
+    "source": "読売新聞",
+    "title": "フランス大規模デモ、発端は教育環境の改善求める高校生の抗議活動「暴力的な意図なくゾンビや魔女に仮装」",
+    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5IRldCTkZkQUZPVThhWjduNnJ0QlFPdzNreUViRXhGaHlFRGVzS1AyWl9yOXI3NkZaWkZGRFhhSzdsdUlVRkZ0U1NRczJ3NzhOdDRBT2FOb2tUZVNrN24yUjh3?oc=5"
    }
   ]
  }
