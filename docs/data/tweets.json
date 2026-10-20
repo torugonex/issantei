@@ -1,20 +1,5 @@
 [
  {
-  "at": "2026-10-13T16:15+09:00",
-  "text": "声を合わせるというのは、案外むずかしい。中学生が金賞とは、立派なものだ。",
-  "expression": "微笑",
-  "scene": "regular",
-  "lang": "ja",
-  "topic": "NHK全国学校音楽コンクール中学校の部 名古屋 滝ノ水中が金賞",
-  "links": [
-   {
-    "source": "NHK",
-    "title": "NHK全国学校音楽コンクール中学校の部 名古屋 滝ノ水中が金賞",
-    "url": "https://news.web.nhk/newsweb/na/nd-20261012de58270"
-   }
-  ]
- },
- {
   "at": "2026-10-13T16:30+09:00",
   "text": "Told it's all in the mind, when the body disagrees. Medicine, too, has its fashions in disbelief.",
   "expression": "片眉を上げる",
@@ -6222,6 +6207,21 @@
     "source": "オリコンニュース",
     "title": "芦田愛菜の主演ドラマ、子役に驚きの声「小さい頃の芦田愛菜ちゃんそっくり」「お芝居凄いね」【南田南弁護士は天才肌】",
     "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE90dUtCTjhpaHJ4MXZDY0tVeG94SXZnZk9lU2tqb2pteDVFZVZOOVVsa3dEVVd3Q3ZlN2lmMU5IVFdORHVJaW1DdWVzSVdLWFBFeFN0Y0J3?oc=5"
+   }
+  ]
+ },
+ {
+  "at": "2026-10-20T21:45+09:00",
+  "text": "路上で人が刺された。捕まったとはいえ、傷ついた方の回復をただ願う。",
+  "expression": "憂い",
+  "scene": "regular",
+  "lang": "ja",
+  "topic": "路上で男性刺したとみられる人物を緊急逮捕 殺人未遂容疑 大阪",
+  "links": [
+   {
+    "source": "毎日新聞",
+    "title": "路上で男性刺したとみられる人物を緊急逮捕 殺人未遂容疑 大阪",
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBiLXI2TllKR0FRM0JNUE5pU2hpb2d2ejk2cnlhZlpoY2NyNkFNdFdUN0dRNktmQWpSMkNuOVJIV3BZc0Z2R1g2RWlFTklGRGtURk95Z0xFWWlUdnpXdkRKQ3dBSVU0Z0ot?oc=5"
    }
   ]
  }
