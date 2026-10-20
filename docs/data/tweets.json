@@ -1,20 +1,5 @@
 [
  {
-  "at": "2026-10-13T15:45+09:00",
-  "text": "隣同士の張り合いに、空だけが使われる。抗議はいつもの手順で届くのやら。",
-  "expression": "思案",
-  "scene": "regular",
-  "lang": "ja",
-  "topic": "北朝鮮の弾道ミサイル２発、韓国の極超音速ミサイルに対抗か…日本政府は厳重に抗議",
-  "links": [
-   {
-    "source": "読売新聞",
-    "title": "北朝鮮の弾道ミサイル２発、韓国の極超音速ミサイルに対抗か…日本政府は厳重に抗議",
-    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5pVERyOGJtQkpGTXQ1eW9mM0pnNklNaFpLNnhjdlpyNDdvbUtSNTlRRWEtVFhYUEVYOTkzSF9uYW1waHI5WElWOHlwZTVxd0lXWHdPNHhtcV9KTDE3RG5SUC1n?oc=5"
-   }
-  ]
- },
- {
   "at": "2026-10-13T16:00+09:00",
   "text": "午後、傘を杖に畦道を歩く。山の端が、ほんのり色づきはじめている。",
   "expression": "微笑",
@@ -6218,5 +6203,20 @@
   "lang": "en",
   "topic": null,
   "links": []
+ },
+ {
+  "at": "2026-10-20T21:15+09:00",
+  "text": "続落、AI株も揃って静か。熱病にも休みは要る。相場は今日もご機嫌斜め。",
+  "expression": "片眉を上げる",
+  "scene": "regular",
+  "lang": "ja",
+  "topic": "日経平均は続落、ＡＩ株含め全体的に低調 安値もみ合いに終始",
+  "links": [
+   {
+    "source": "Reuters",
+    "title": "日経平均は続落、ＡＩ株含め全体的に低調 安値もみ合いに終始",
+    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNbHByT3RybzkySmx0VVBzdGgxLTc2VVRrV1ZyM28zb3d0MHliQ2JIaWdJek9GeWUxWkpiRUFjXzd6WTY4ZFBMQWswYm9sWmd4aGF2TXhFM29kN1pxQVlKSmthYWdpeUUyU3l6OTJYVzNScU5kbXhnVnZ4ajU4d0l5U00wcHQtQQ?oc=5"
+   }
+  ]
  }
 ]
