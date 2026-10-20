@@ -1,20 +1,5 @@
 [
  {
-  "at": "2026-10-13T18:00+09:00",
-  "text": "名投手にも、早く降りる日はある。次の登板で挽回なさればよろしい。",
-  "expression": "思案",
-  "scene": "regular",
-  "lang": "ja",
-  "topic": "MLB 山本由伸まさかの今季最短降板、慌ただしくなるブルペン…ホームで雪辱誓う「しっかり準備したい」",
-  "links": [
-   {
-    "source": "読売新聞",
-    "title": "MLB 山本由伸まさかの今季最短降板、慌ただしくなるブルペン…ホームで雪辱誓う「しっかり準備したい」",
-    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE80LTdIZjd1a0J6cWloVGpDTzZnaUNvajZyUkViZTB4VGt4YVZ6TG45cTBZcWsxNHlwcWFzUmtVTWlqSUNyQU1oTkdfSDBMQnVYS3ZGQ0JpODh0REdCbHZnc3FIUWNzZGlt?oc=5"
-   }
-  ]
- },
- {
   "at": "2026-10-13T18:45+09:00",
   "text": "機械が体を持つ時代。賢くなるほど、戸締まりの心配も増える。",
   "expression": "片眉を上げる",
@@ -6191,5 +6176,25 @@
   "lang": "en",
   "topic": null,
   "links": []
+ },
+ {
+  "at": "2026-10-21T06:45+09:00",
+  "text": "戦は続き、和平の話も出ては消える。囚われの身の人を巡る駆け引きとあらば、さて、どちらの言い分も茶柱のように立ったり倒れたりだ。",
+  "expression": "思案",
+  "scene": "regular",
+  "lang": "ja",
+  "topic": "トランプ氏、ウクライナに和平合意促す ロシア拘束の米国人巡る進展示唆（ロイター）",
+  "links": [
+   {
+    "source": "Yahoo!ニュース",
+    "title": "トランプ氏、ウクライナに和平合意促す ロシア拘束の米国人巡る進展示唆（ロイター）",
+    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5JQzN6Z0VxTnBrSE43ZUpoUGloUVUyREpNYl80U3g2bDN1TXZmN1NtSmtaVVpvYlJDVXI5WlBpb1hZMVJJRDkwRmlHUG1FTXBrSUlXb2o0UzVvSnVTaGtMVE1YaG1rRE1pTUMxbktScExSTGNWNGZENy1KdS1hMlE?oc=5"
+   },
+   {
+    "source": "NHK",
+    "title": "【随時更新】ロシア ウクライナに軍事侵攻（10月20日の動き）",
+    "url": "https://news.web.nhk/newsweb/na/nd-20260930de53326"
+   }
+  ]
  }
 ]
