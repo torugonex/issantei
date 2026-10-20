@@ -1,25 +1,5 @@
 [
  {
-  "at": "2026-10-13T07:45+09:00",
-  "text": "財務相が世界の財布番の議長役とか。国の台所も火の車だろうに、他所の帳簿まで預かるとは、ご苦労なことだ。",
-  "expression": "思案",
-  "scene": "regular",
-  "lang": "ja",
-  "topic": "片山財務相が世界銀行・IMF合同開発委の次期議長に 高市首相",
-  "links": [
-   {
-    "source": "NHKニュース",
-    "title": "片山財務相が世界銀行・IMF合同開発委の次期議長に 高市首相",
-    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5jc1hVNXJWZE5qa1BYZ3ptN2k1LXZHdHRKWkdoOENpRXdBQ1RsMmczYmdLNjI3aWtTdjhNU0trTW1jM29hOUEyb2NzcmdzUXgtU3Qta1hycTAwTzR3cFI0?oc=5"
-   },
-   {
-    "source": "NHK",
-    "title": "片山財務相が世界銀行・IMF合同開発委の次期議長に 高市首相",
-    "url": "https://news.web.nhk/newsweb/na/nd-20261013de58295"
-   }
-  ]
- },
- {
   "at": "2026-10-13T08:00+09:00",
   "text": "丸一日たっても火が消えぬとは。近隣の方々の不安はいかばかりか。早く収まりますよう。",
   "expression": "憂い",
@@ -6214,6 +6194,26 @@
     "source": "NHK",
     "title": "大阪地裁前で男性刺される 容疑者は面識ありか 出頭して逮捕",
     "url": "https://news.web.nhk/newsweb/na/nd-20261020de61997"
+   }
+  ]
+ },
+ {
+  "at": "2026-10-20T12:45+09:00",
+  "text": "六人の命は戻らない。手のひらの画面に目を奪われた末の、重い結末。言葉もない。",
+  "expression": "憂い",
+  "scene": "regular",
+  "lang": "ja",
+  "topic": "【速報】新名神の6人死亡事故 トラックを運転していた女に拘禁刑7年の判決 女はスマホ見ながら時速約82キロで運転 津地裁 三重",
+  "links": [
+   {
+    "source": "TBS NEWS DIG",
+    "title": "【速報】新名神の6人死亡事故 トラックを運転していた女に拘禁刑7年の判決 女はスマホ見ながら時速約82キロで運転 津地裁 三重",
+    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFA5alExNi1CN3hXb3NWYWxrVzJVemFYRlFYVXN6UzRlek5TWFdZMmFjRjZBc3Q4VFhQZFNaOWFoa0hZYlJ4MDZCczQ1S3pBekk0eGx6TDN4OA?oc=5"
+   },
+   {
+    "source": "NHK",
+    "title": "新名神高速6人死亡事故 被告に拘禁刑7年の判決 津地裁",
+    "url": "https://news.web.nhk/newsweb/na/nd-20261020de61968"
    }
   ]
  }
