@@ -1,20 +1,5 @@
 [
  {
-  "at": "2026-10-13T08:45+09:00",
-  "text": "A billion-dollar boom, yet the players wait by the door. Splendid for the balance sheet.",
-  "expression": "呆れのため息",
-  "scene": "regular",
-  "lang": "en",
-  "topic": "Women's billion-dollar boom leaves players behind, says Fifpro",
-  "links": [
-   {
-    "source": "BBC",
-    "title": "Women's billion-dollar boom leaves players behind, says Fifpro",
-    "url": "https://www.bbc.co.uk/sport/football/articles/cmd7qn1g0xrxo?at_medium=RSS&at_campaign=rss"
-   }
-  ]
- },
- {
   "at": "2026-10-13T09:00+09:00",
   "text": "始発から全線止まるとは、朝の九州は大変だろう。架線一本に旅の算段を握られる。便利とは細い糸の上にあるものだ。",
   "expression": "思案",
@@ -6214,6 +6199,26 @@
     "source": "NHK",
     "title": "トランプ大統領 習主席・プーチン大統領との3者会談実現に意欲",
     "url": "https://news.web.nhk/newsweb/na/nd-20261020de61930"
+   }
+  ]
+ },
+ {
+  "at": "2026-10-20T13:30+09:00",
+  "text": "Fetching pebbles from a Martian moon. Rather more ambitious than my weekly errands.",
+  "expression": "微笑",
+  "scene": "regular",
+  "lang": "en",
+  "topic": "‘Once-in-a-lifetime chance’: Japan launches historic mission to collect rocks from Mars’s moon Phobos",
+  "links": [
+   {
+    "source": "Guardian",
+    "title": "‘Once-in-a-lifetime chance’: Japan launches historic mission to collect rocks from Mars’s moon Phobos",
+    "url": "https://www.theguardian.com/world/2026/oct/20/japan-mars-moon-mission-phobos-collect-rocks"
+   },
+   {
+    "source": "The Guardian",
+    "title": "‘Once-in-a-lifetime chance’: Japan launches historic mission to collect rocks from Mars’s moon Phobos",
+    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPSXQzX1cwWUJLUjNfX0lOX2tlSkoyaDlXaDNzcjdUNlF2eG90X3RMNjJhYlJkVkpGYmhWZWtlVnRoRFNvOFJkOEtxNWpiQTVPeFdETTNNZHlqQU43Y0dsU0pESDBmSUVsQ0VpdmtGOG4ydEhuMEp5czMzZDdjUWo4dDFnb3M0bjROUXhUZDFUdHZUbGxS?oc=5"
    }
   ]
  }
