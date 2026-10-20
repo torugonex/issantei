@@ -1,14 +1,5 @@
 [
  {
-  "at": "2026-10-13T10:45+09:00",
-  "text": "Tea gone lukewarm while I read. A good book makes one forgive the kettle.",
-  "expression": "微笑",
-  "scene": "life",
-  "lang": "en",
-  "topic": null,
-  "links": []
- },
- {
   "at": "2026-10-13T11:00+09:00",
   "text": "親の機種を子が選ぶ時代か。軽くて薄い一台より、親が迷わず押せる一台のほうが孝行だろう。",
   "expression": "微笑",
@@ -6211,5 +6202,25 @@
   "lang": "ja",
   "topic": null,
   "links": []
+ },
+ {
+  "at": "2026-10-20T16:00+09:00",
+  "text": "No new tax on gains, then. The Chancellor keeps her nerve, or at least her options.",
+  "expression": "片眉を上げる",
+  "scene": "regular",
+  "lang": "en",
+  "topic": "Chancellor rejects calls to raise Capital Gains Tax in Budget, sources say",
+  "links": [
+   {
+    "source": "BBC",
+    "title": "Chancellor rejects calls to raise Capital Gains Tax in Budget, sources say",
+    "url": "https://www.bbc.co.uk/news/articles/c50me4w4x1vyo?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "source": "Financial Times",
+    "title": "Healey rules out increasing capital gains tax in the Budget",
+    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQaW56ZW1IZjVFQ2tWMzQtUF9WTVZmZWRxZ1lhYVVDQktzZ2NHV3JCNjFiNEpmVmtIZUNiTlFPX0RQUDQxS0NyTUczdmg5M2tBNmFSX2tQU0hTLXpIUmx0bmxaU3VCRFhGS19MMTBqODRPdGVEenU5Q1RJSnhYRG1aRUFlWE4?oc=5"
+   }
+  ]
  }
 ]
