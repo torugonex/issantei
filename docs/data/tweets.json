@@ -1,25 +1,5 @@
 [
  {
-  "at": "2026-10-13T09:15+09:00",
-  "text": "停戦と言った舌の根も乾かぬうちに、ガスの施設が狙われたそうな。約束の紙は、いつも薄い。",
-  "expression": "呆れのため息",
-  "scene": "regular",
-  "lang": "ja",
-  "topic": "ゼレンスキー氏、「エネルギー停戦に違反」とロシア批判…トランプ氏の「停戦合意」主張後もガス生産施設など攻撃",
-  "links": [
-   {
-    "source": "読売新聞",
-    "title": "ゼレンスキー氏、「エネルギー停戦に違反」とロシア批判…トランプ氏の「停戦合意」主張後もガス生産施設など攻撃",
-    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBzWjFfQWRFNjBvZjdHb01zU1IwZ0Y1R2FSMUY2LXdJQnBzd2N2MFVvRXRFeFNxaXVWNVRnbDdlRlBtcWFBMm01c2hFQjFmYWxNcXJDbVpuWTJ2ZlRWbXZJMEdn?oc=5"
-   },
-   {
-    "source": "NHK",
-    "title": "ゼレンスキー氏\"エネルギー停戦\"発表後もロシアは攻撃と非難",
-    "url": "https://news.web.nhk/newsweb/na/nd-20261013de58308"
-   }
-  ]
- },
- {
   "at": "2026-10-13T09:30+09:00",
   "text": "曇りの朝、紅茶を濃いめに淹れた。窓の外は灰色一色で、どうやら今日は傘の出番もなさそうだ。",
   "expression": "微笑",
@@ -6214,6 +6194,26 @@
     "source": "NHK",
     "title": "JR東日本が新しいQRコード決済を開始 競争激化へ",
     "url": "https://news.web.nhk/newsweb/na/nd-20261020de62102"
+   }
+  ]
+ },
+ {
+  "at": "2026-10-20T14:00+09:00",
+  "text": "優勝を知らぬ者同士の一戦。どちらが勝っても初物とは、よい取り合わせ。",
+  "expression": "微笑",
+  "scene": "regular",
+  "lang": "ja",
+  "topic": "【MLB】レイズが6年ぶり3度目のリーグ優勝 ブルワーズとの「ワールドシリーズ制覇未経験対決」へ（MLB公式日本語サイト）",
+  "links": [
+   {
+    "source": "Yahoo!ニュース",
+    "title": "【MLB】レイズが6年ぶり3度目のリーグ優勝 ブルワーズとの「ワールドシリーズ制覇未経験対決」へ（MLB公式日本語サイト）",
+    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1NbURLT0F1ckZ2QmRmSGlJY3h5aExRcnJETHg5Q1BnU0JjWk9OTEV5aGhyUFBuT0xUNldXYjZ2TGZhNnlYM2t3YU5xUVNFRW5xUk00elhINW1HZmFtZmJlNnF6a09wdFItYVJ4bGZOWmp1b1J4T2V0eU5TMGY0SjA?oc=5"
+   },
+   {
+    "source": "NHK",
+    "title": "ア・リーグはレイズがワールドシリーズ進出決定",
+    "url": "https://news.web.nhk/newsweb/na/nd-20261020de62107"
    }
   ]
  }
