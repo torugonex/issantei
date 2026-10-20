@@ -1,9 +1,9 @@
 {
  "mood": {
-  "valence": -0.205,
-  "arousal": -0.008
+  "valence": -0.029,
+  "arousal": 0.019
  },
- "since_sarcasm": 2,
+ "since_sarcasm": 3,
  "day": "2026-10-20",
  "morning_done": true,
  "goodnight_done": false,
@@ -90,17 +90,10 @@
   "b82f0c137ab7": "2026-10-20T11:00:35.214485+09:00",
   "563fa16114ca": "2026-10-20T11:08:05.293729+09:00",
   "d8c43ffacecf": "2026-10-20T11:15:18.067915+09:00",
-  "d13beafe5bb8": "2026-10-20T11:30:27.159680+09:00"
+  "d13beafe5bb8": "2026-10-20T11:30:27.159680+09:00",
+  "69cc3c60bba0": "2026-10-20T11:45:17.938977+09:00"
  },
  "commented_titles": [
-  {
-   "title": "イタリア・ミラノ発のBONAVENTURA（ボナベンチュラ）よりApple初の折りたたみスマートフォン「iPhone Duo」対応の新作レザーケースコレクションを2026年10月16日より予約販売開始 | BONAVENTURA株式会社のプレスリリース",
-   "at": "2026-10-19T11:30:27.618673+09:00"
-  },
-  {
-   "title": "神奈川 藤沢 バスやタクシーなど事故 10人余搬送 1人意識なし",
-   "at": "2026-10-19T11:45:17.135324+09:00"
-  },
   {
    "title": "Cindy Crawford 'beyond heartbroken' after death of son Presley at 27",
    "at": "2026-10-19T12:00:38.440155+09:00"
@@ -272,12 +265,16 @@
   {
    "title": "Curfew imposed in parts of central Paris and other cities after rioting across France",
    "at": "2026-10-20T11:30:27.159680+09:00"
+  },
+  {
+   "title": "「キレッキレじゃん」「代表呼ぶレベルやろ」プレミア初先発の29歳日本人がトッテナム戦で躍動！「使われてなかったの謎すぎ」「動きが良すぎる」など反響続々",
+   "at": "2026-10-20T11:45:17.938977+09:00"
   }
  ],
- "last_quake_check": "2026-10-20T11:30:27.159680+09:00",
- "since_english": 1,
+ "last_quake_check": "2026-10-20T11:45:17.938977+09:00",
+ "since_english": 2,
  "next_english": 3,
- "last_tick": "2026-10-20T11:30:27.159680+09:00",
+ "last_tick": "2026-10-20T11:45:17.938977+09:00",
  "french_day": "2026-10-20",
  "french_done": true,
  "french_after": 626
