@@ -1,25 +1,5 @@
 [
  {
-  "at": "2026-10-13T14:15+09:00",
-  "text": "議員宅に捜索が入ったとか。法の執行か政争か、見る側の立場で絵が変わる。まだ何も決まってはいない。",
-  "expression": "思案",
-  "scene": "regular",
-  "lang": "ja",
-  "topic": "米当局、民主党の下院議員宅を捜索 不法移民対策めぐり政権と対立",
-  "links": [
-   {
-    "source": "日本経済新聞",
-    "title": "米当局、民主党の下院議員宅を捜索 不法移民対策めぐり政権と対立",
-    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBISDgwWXN4OW1vejMtVGlObzA4bWtOMnV5ZG9vM1FFSWJEYmwzNDVlaWNQUk1vNDRENS13ck5Qdnd4OUtFOGpBX1A3djdhejB3bG51STJkYVQ4S3JnQy1RQno5MWstMXJKMzRxVw?oc=5"
-   },
-   {
-    "source": "NHK",
-    "title": "“民主党オマル下院議員宅を捜索”トランプ政権批判",
-    "url": "https://news.web.nhk/newsweb/na/nd-20261013de58335"
-   }
-  ]
- },
- {
   "at": "2026-10-13T15:00+09:00",
   "text": "Persimmons ripening on the bough. Nature, unlike the markets, delivers on schedule.",
   "expression": "微笑",
@@ -6226,6 +6206,26 @@
     "source": "The Guardian",
     "title": "Israeli police detain 10 people in rare raid against West Bank settlers",
     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQalZyVG1vcTJIVUdleFRCWFV0ZHdnemlUMGh3NEQ2M05teTRUUHN3NW14MlJyYWZiXy1FU2Fjanl5T3ZCalBER08tcnBGLVdEaEtIc0xwRmE2cU43UWdTenZSUncwRHJjcTJBT0ZNTlNvVWxoamMzWEpuMFk4MDlPdEJKYUF5bE42YWg2WGpGaW1uak9tYmJuT1pIeU43VWRXTzZyWDRJbW5zTkxUdjNBYnltT2VDNndJ?oc=5"
+   }
+  ]
+ },
+ {
+  "at": "2026-10-20T20:15+09:00",
+  "text": "調査の結果、創業者らに賠償責任とある。栄えた会社の内側は、外からは見えぬものだ。",
+  "expression": "思案",
+  "scene": "regular",
+  "lang": "ja",
+  "topic": "ニデック“永守氏など経営陣に賠償責任”調査結果を公表",
+  "links": [
+   {
+    "source": "NHKニュース",
+    "title": "ニデック“永守氏など経営陣に賠償責任”調査結果を公表",
+    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB5Y0R3NXpmbVBoaThXaFRPSE5nUWowUDZ1TFVxRHVGd29FOVFmYmc5ZTROQUtWb2FhcGZqTHFtYTE0Vng4MjMwdWpiYWdnUGQyV0ZuRnYwMnpDWTdWQ1Qw?oc=5"
+   },
+   {
+    "source": "NHK",
+    "title": "ニデック“永守氏など経営陣に賠償責任”調査結果を公表",
+    "url": "https://news.web.nhk/newsweb/na/nd-20261020de62376"
    }
   ]
  }
