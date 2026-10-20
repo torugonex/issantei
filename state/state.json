@@ -1,9 +1,9 @@
 {
  "mood": {
-  "valence": -0.292,
-  "arousal": -0.312
+  "valence": -0.344,
+  "arousal": -0.209
  },
- "since_sarcasm": 13,
+ "since_sarcasm": 14,
  "day": "2026-10-21",
  "morning_done": true,
  "goodnight_done": false,
@@ -96,7 +96,8 @@
   "db38a0655a1a": "2026-10-20T22:00:39.967708+09:00",
   "edda49aa1e8f": "2026-10-20T22:30:32.956451+09:00",
   "fc261c36a520": "2026-10-21T06:45:19.919351+09:00",
-  "4cc3c8d7750b": "2026-10-21T07:45:19.085246+09:00"
+  "4cc3c8d7750b": "2026-10-21T07:45:19.085246+09:00",
+  "644ee119e6ee": "2026-10-21T08:15:19.932901+09:00"
  },
  "commented_titles": [
   {
@@ -274,12 +275,16 @@
   {
    "title": "Baby who died from meningitis may have been saved if tested sooner, inquest finds",
    "at": "2026-10-21T07:45:19.085246+09:00"
+  },
+  {
+   "title": "岩井コスモ証券 不正アクセスで顧客が意図しない売買注文",
+   "at": "2026-10-21T08:15:19.932901+09:00"
   }
  ],
- "last_quake_check": "2026-10-21T08:00:39.104383+09:00",
- "since_english": 2,
+ "last_quake_check": "2026-10-21T08:15:19.932901+09:00",
+ "since_english": 3,
  "next_english": 5,
- "last_tick": "2026-10-21T08:00:39.104383+09:00",
+ "last_tick": "2026-10-21T08:15:19.932901+09:00",
  "french_day": "2026-10-21",
  "french_done": false,
  "french_after": 806
