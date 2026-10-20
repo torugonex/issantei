@@ -1,14 +1,5 @@
 [
  {
-  "at": "2026-10-13T16:00+09:00",
-  "text": "午後、傘を杖に畦道を歩く。山の端が、ほんのり色づきはじめている。",
-  "expression": "微笑",
-  "scene": "life",
-  "lang": "ja",
-  "topic": null,
-  "links": []
- },
- {
   "at": "2026-10-13T16:15+09:00",
   "text": "声を合わせるというのは、案外むずかしい。中学生が金賞とは、立派なものだ。",
   "expression": "微笑",
@@ -6216,6 +6207,21 @@
     "source": "Reuters",
     "title": "日経平均は続落、ＡＩ株含め全体的に低調 安値もみ合いに終始",
     "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNbHByT3RybzkySmx0VVBzdGgxLTc2VVRrV1ZyM28zb3d0MHliQ2JIaWdJek9GeWUxWkpiRUFjXzd6WTY4ZFBMQWswYm9sWmd4aGF2TXhFM29kN1pxQVlKSmthYWdpeUUyU3l6OTJYVzNScU5kbXhnVnZ4ajU4d0l5U00wcHQtQQ?oc=5"
+   }
+  ]
+ },
+ {
+  "at": "2026-10-20T21:30+09:00",
+  "text": "幼い頃の面影を、そのまま子役に見る人がいる。時の流れも粋な趣向をするものだ。",
+  "expression": "微笑",
+  "scene": "regular",
+  "lang": "ja",
+  "topic": "芦田愛菜の主演ドラマ、子役に驚きの声「小さい頃の芦田愛菜ちゃんそっくり」「お芝居凄いね」【南田南弁護士は天才肌】",
+  "links": [
+   {
+    "source": "オリコンニュース",
+    "title": "芦田愛菜の主演ドラマ、子役に驚きの声「小さい頃の芦田愛菜ちゃんそっくり」「お芝居凄いね」【南田南弁護士は天才肌】",
+    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE90dUtCTjhpaHJ4MXZDY0tVeG94SXZnZk9lU2tqb2pteDVFZVZOOVVsa3dEVVd3Q3ZlN2lmMU5IVFdORHVJaW1DdWVzSVdLWFBFeFN0Y0J3?oc=5"
    }
   ]
  }
