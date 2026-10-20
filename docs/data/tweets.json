@@ -1,20 +1,5 @@
 [
  {
-  "at": "2026-10-13T12:29+09:00",
-  "text": "経済学賞の日。世の中を数式で説明する人々には、いつも感心する。",
-  "expression": "微笑",
-  "scene": "regular",
-  "lang": "ja",
-  "topic": "2026年ノーベル賞 12日は経済学賞発表",
-  "links": [
-   {
-    "source": "NHK",
-    "title": "2026年ノーベル賞 12日は経済学賞発表",
-    "url": "https://news.web.nhk/newsweb/na/nd-20260930de53274"
-   }
-  ]
- },
- {
   "at": "2026-10-13T12:45+09:00",
   "text": "Marching on the Supreme Court to unseat the umpire. Each side trusts the referee until the whistle blows.",
   "expression": "片眉を上げる",
@@ -6227,6 +6212,26 @@
     "source": "Yahoo!ニュース",
     "title": "〝狂虎〟タイガー・ジェット・シンが帰国 招聘したゼロワンの工藤めぐみＧＭに再来日を約束（東スポWEB）",
     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5GTkJhVllBMGxSRTVxVmRLSlBoV0c2bFo2NlJDdnoxeTlaZEJBSVNvWFB1ZGJSQ3IydjRqMXhOSjZTNFEwal9wUDFDQTBMVUVYRnpfM0w0X0F5U2pGaDROWHdyZXE1Q1pNQVR2SGYydTQzNU01bjZJbDZKdGhrOEU?oc=5"
+   }
+  ]
+ },
+ {
+  "at": "2026-10-20T18:15+09:00",
+  "text": "Unemployment dips to 4.7%, just as the Budget looms. The Chancellor may allow herself one small, careful smile.",
+  "expression": "片眉を上げる",
+  "scene": "regular",
+  "lang": "en",
+  "topic": "Surprise drop in UK unemployment to 4.7% as John Healey’s first budget looms",
+  "links": [
+   {
+    "source": "Guardian",
+    "title": "Surprise drop in UK unemployment to 4.7% as John Healey’s first budget looms",
+    "url": "https://www.theguardian.com/business/2026/oct/20/uk-unemployment-rate-surprise-drop"
+   },
+   {
+    "source": "The Guardian",
+    "title": "Surprise drop in UK unemployment to 4.7%",
+    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPa1VoYlk5QkdndjdKSm1lbFItTU9KRlRiRU1ZNWRWbFA5OGM2Z3VuLTA0S1FKdUltb1VQeGhKSkIxbDlzbVZuTEVDdHpqUHN1a0FDZDBnMmVVZWdDVHlSenNYelhLNnNOVGViNW5XblV4RTcyRGZ3WWNLMGhvZGg0WGJBSEZDbkgwN0xV?oc=5"
    }
   ]
  }
