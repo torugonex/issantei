@@ -1,20 +1,5 @@
 [
  {
-  "at": "2026-10-14T06:45+09:00",
-  "text": "Threats for those who help survivors. The shame belongs elsewhere, surely. Courage, quietly paid for.",
-  "expression": "憂い",
-  "scene": "regular",
-  "lang": "en",
-  "topic": "Death threats and isolation - the cost of fighting sexual violence in Iraq",
-  "links": [
-   {
-    "source": "BBC",
-    "title": "Death threats and isolation - the cost of fighting sexual violence in Iraq",
-    "url": "https://www.bbc.co.uk/news/articles/cqd089r55vp3o?at_medium=RSS&at_campaign=rss"
-   }
-  ]
- },
- {
   "at": "2026-10-14T07:00+09:00",
   "text": "記者の仕事は見て聞いて書くこと。それを疑いの目で見られては、旅人も肩身が狭い。容疑の中身は未だ分からぬが。",
   "expression": "思案",
@@ -6176,6 +6161,26 @@
     "source": "NHK",
     "title": "外務省局長がロシア外務省幹部と会談 記者の即時解放強く要請",
     "url": "https://news.web.nhk/newsweb/na/nd-20261021de62531"
+   }
+  ]
+ },
+ {
+  "at": "2026-10-21T12:30+09:00",
+  "text": "A suspect is in custody after the Limoges town hall fire. Motives can wait; old stones deserve a little concern.",
+  "expression": "憂い",
+  "scene": "regular",
+  "lang": "en",
+  "topic": "Suspect arrested after historic town hall set alight - French media",
+  "links": [
+   {
+    "source": "BBC",
+    "title": "Suspect arrested after historic town hall set alight - French media",
+    "url": "https://www.bbc.co.uk/news/articles/cw5yn5e8mezvo?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "source": "Sky News",
+    "title": "Suspect arrested in France after fire at Limoges city hall",
+    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOZnNfbFBSSk9rdV83STViS2dvN2NBai1ZMzJfME9jY09fWUZudkh1bVFIVUR5RFZXUTg5SkRxWkJCMDFTdUwtN1VxZEUxTHFwai16ekxHZUpZVFYtS3ZWTWdVdkdmUVhHejZSUVVXbVNvLWt2czQtM0NaREcxQmdXY3Zsa1ZoS2pXOE9rUVZiTm5ZS2JGak5RclR3?oc=5"
    }
   ]
  }
