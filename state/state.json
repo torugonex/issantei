@@ -1,16 +1,14 @@
 {
  "mood": {
-  "valence": -0.205,
-  "arousal": -0.178
+  "valence": -0.179,
+  "arousal": -0.183
  },
- "since_sarcasm": 5,
+ "since_sarcasm": 6,
  "day": "2026-10-21",
  "morning_done": true,
  "goodnight_done": false,
  "sleeptalk_night": "2026-10-20",
  "commented": {
-  "b25a7d36a23e": "2026-10-19T11:30:27.618673+09:00",
-  "c04d13aba621": "2026-10-19T11:45:17.135324+09:00",
   "fda29ac40a70": "2026-10-19T12:00:38.440155+09:00",
   "65d623d504b5": "2026-10-19T12:15:17.301431+09:00",
   "38460daec966": "2026-10-19T13:00:34.284356+09:00",
@@ -95,10 +93,6 @@
   "a56e1a1341f1": "2026-10-21T11:15:18.367436+09:00"
  },
  "commented_titles": [
-  {
-   "title": "Curfew imposed in parts of central Paris and other cities after rioting across France",
-   "at": "2026-10-20T11:30:27.159680+09:00"
-  },
   {
    "title": "「キレッキレじゃん」「代表呼ぶレベルやろ」プレミア初先発の29歳日本人がトッテナム戦で躍動！「使われてなかったの謎すぎ」「動きが良すぎる」など反響続々",
    "at": "2026-10-20T11:45:17.938977+09:00"
@@ -256,10 +250,10 @@
    "at": "2026-10-21T11:15:18.367436+09:00"
   }
  ],
- "last_quake_check": "2026-10-21T11:15:18.367436+09:00",
- "since_english": 1,
+ "last_quake_check": "2026-10-21T11:45:17.871234+09:00",
+ "since_english": 2,
  "next_english": 5,
- "last_tick": "2026-10-21T11:30:28.478396+09:00",
+ "last_tick": "2026-10-21T11:45:17.871234+09:00",
  "french_day": "2026-10-21",
  "french_done": false,
  "french_after": 806

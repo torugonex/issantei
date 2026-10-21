@@ -1,14 +1,5 @@
 [
  {
-  "at": "2026-10-13T22:45+09:00",
-  "text": "傘を巻いたまま、今日も無事に帰れた。それで上々。おやすみなさい。",
-  "expression": "微笑",
-  "scene": "goodnight",
-  "lang": "ja",
-  "topic": null,
-  "links": []
- },
- {
   "at": "2026-10-14T01:00+09:00",
   "text": "……喉が渇いたと、丁寧に……傘を、水に……",
   "expression": "寝顔",
@@ -6166,5 +6157,14 @@
     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQVmNHRjR4MzRmMG9OeWI4Z2NRcEhZeGdsMWxNem5UdVNueU5ZbXFGemlLcnhUY3JzMG4wS1JsLUllbVpabVFDUGY3QTllbXlWV3VYZ2JTT2hWaWM0LVhrQVhJUjVqanptWDk1VHdBaHVpeUVpeTBraERDS3BCUmFUX0xtcTBJUmtyUTVZdFZCNGJ1VnpEWDFjZ3VoZmdKeFV2N0xRTkFLTC1ycGd6RThMZFdMYm5WVVNSeng1SQ?oc=5"
    }
   ]
+ },
+ {
+  "at": "2026-10-21T11:45+09:00",
+  "text": "昼前に傘を持って出かけた。降らぬまま戻ってきた。傘は少し所在なげである。",
+  "expression": "微笑",
+  "scene": "life",
+  "lang": "ja",
+  "topic": null,
+  "links": []
  }
 ]
