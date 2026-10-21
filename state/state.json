@@ -1,15 +1,14 @@
 {
  "mood": {
-  "valence": -0.22,
-  "arousal": -0.016
+  "valence": -0.41,
+  "arousal": 0.142
  },
- "since_sarcasm": 5,
+ "since_sarcasm": 6,
  "day": "2026-10-21",
  "morning_done": true,
  "goodnight_done": false,
  "sleeptalk_night": "2026-10-20",
  "commented": {
-  "2e810977c7bf": "2026-10-19T22:00:38.814895+09:00",
   "2e12f5cf4617": "2026-10-19T22:15:18.841179+09:00",
   "7fa5510d2664": "2026-10-19T22:30:30.128521+09:00",
   "c5e9dd7f5fbd": "2026-10-20T06:15:18.089939+09:00",
@@ -89,13 +88,10 @@
   "86f538e35a2f": "2026-10-21T20:15:20.516216+09:00",
   "07b425a394de": "2026-10-21T20:30:32.092409+09:00",
   "15c944fe6715": "2026-10-21T21:00:43.475189+09:00",
-  "86e09e5af525": "2026-10-21T21:30:32.710316+09:00"
+  "86e09e5af525": "2026-10-21T21:30:32.710316+09:00",
+  "b5b06d8930a4": "2026-10-21T22:00:44.534817+09:00"
  },
  "commented_titles": [
-  {
-   "title": "Man charged with attack on Australian MP as suspect's father says she is family friend",
-   "at": "2026-10-20T22:00:39.967708+09:00"
-  },
   {
    "title": "Apple、10月28日にイベント開催へ タッチスクリーン「MacBook Pro」など発表か",
    "at": "2026-10-20T22:30:32.956451+09:00"
@@ -223,12 +219,16 @@
   {
    "title": "US citizen Stephen Hubbard freed by Russia as Trump envoy meets Putin",
    "at": "2026-10-21T21:30:32.710316+09:00"
+  },
+  {
+   "title": "秋田 由利本荘市の子吉川に氾濫特別警報 最大級の警戒を",
+   "at": "2026-10-21T22:00:44.534817+09:00"
   }
  ],
- "last_quake_check": "2026-10-21T21:45:21.444890+09:00",
- "since_english": 2,
+ "last_quake_check": "2026-10-21T22:00:44.534817+09:00",
+ "since_english": 3,
  "next_english": 4,
- "last_tick": "2026-10-21T21:45:21.444890+09:00",
+ "last_tick": "2026-10-21T22:00:44.534817+09:00",
  "french_day": "2026-10-21",
  "french_done": true,
  "french_after": 806
