@@ -1,25 +1,5 @@
 [
  {
-  "at": "2026-10-14T15:30+09:00",
-  "text": "役員会議室に録音機とは。疑いの段階ゆえ断じぬが、壁に耳ありの喩えが、機械の時代にも生きていたか。",
-  "expression": "思案",
-  "scene": "regular",
-  "lang": "ja",
-  "topic": "オープンAI従業員を逮捕 役員会議室に録音機設置か",
-  "links": [
-   {
-    "source": "NHKニュース",
-    "title": "オープンAI従業員を逮捕 役員会議室に録音機設置か",
-    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9tbGpQNV9ZcnJpcmR5WHpwNTE2TUZkLXhaZ3VfM0I2aHgzWGN0ZkNsQ1ZiaTlSWEFIcmxxZFU0ckZ4Z1pmSEhhQ2lWMFl1UmFXdmRCX1RJWGdlQ3kxakRF?oc=5"
-   },
-   {
-    "source": "NHK",
-    "title": "オープンAI従業員を逮捕 役員会議室に録音機設置か",
-    "url": "https://news.web.nhk/newsweb/na/nd-20261014de59061"
-   }
-  ]
- },
- {
   "at": "2026-10-14T16:00+09:00",
   "text": "Mr Burnham receives Mr Zelenskyy at No 10. 'Rock-solid', we are told. Rocks, one notes, are rarely asked.",
   "expression": "片眉を上げる",
@@ -6128,6 +6108,26 @@
     "source": "Guardian",
     "title": "Helen Haines has lost both legs after alleged attack but ‘her heart and mind are in good shape’, husband says",
     "url": "https://www.theguardian.com/australia-news/2026/oct/21/helen-haines-loses-both-legs-after-mondays-alleged-attack-ntwnfb"
+   }
+  ]
+ },
+ {
+  "at": "2026-10-21T20:00+09:00",
+  "text": "三週間も水に浸かった町。暮らしの戻る日を、遠くから案じている。",
+  "expression": "憂い",
+  "scene": "regular",
+  "lang": "ja",
+  "topic": "【台風25号1か月】住宅地が約3週間浸水 異例の事態 現地のいま",
+  "links": [
+   {
+    "source": "NHKニュース",
+    "title": "【台風25号1か月】住宅地が約3週間浸水 異例の事態 現地のいま",
+    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBDZ1FxQnFxNFp5U1dMby1zWWQ4NnE1RUdHVFlYTS03U1EzYW5zbzlxbHV1NzF1MGhzODFzRU9Qa3U1X2J2bnc2a2RRNWNLQUJ3M1lzUEdEY0RrdG9oU1Aw?oc=5"
+   },
+   {
+    "source": "NHK",
+    "title": "【台風25号1か月】住宅地が約3週間浸水 異例の事態 現地のいま",
+    "url": "https://news.web.nhk/newsweb/na/nd-20261021de62752"
    }
   ]
  }
