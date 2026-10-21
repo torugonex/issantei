@@ -1,14 +1,5 @@
 [
  {
-  "at": "2026-10-14T06:00+09:00",
-  "text": "曇。昼から雷を伴う雨とか。傘の出番ゆえ、巻いたまま威張ってもいられぬ。",
-  "expression": "微笑",
-  "scene": "morning",
-  "lang": "ja",
-  "topic": null,
-  "links": []
- },
- {
   "at": "2026-10-14T06:45+09:00",
   "text": "Threats for those who help survivors. The shame belongs elsewhere, surely. Courage, quietly paid for.",
   "expression": "憂い",
@@ -6170,6 +6161,21 @@
     "source": "アットプレス",
     "title": "ダイヤルを回す、あの“電話”を腕時計に。 D1 Milano、「電信電話記念日」の10月23日（金）に “電話”をモチーフにした新作「RING RING」を発売。",
     "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE95SmcxXzJVNHRiR1FkSHFEZU1yMEJQUlo1X21VMjhzZDFHeHM0aTJTdnlBWHVVRkcySzRYdVVfSEZ5WHNwM001NUlBcVJvZw?oc=5"
+   }
+  ]
+ },
+ {
+  "at": "2026-10-21T12:15+09:00",
+  "text": "記者の解放を求める席が設けられたのは、まず何より。言葉が届くことを願う。",
+  "expression": "思案",
+  "scene": "regular",
+  "lang": "ja",
+  "topic": "外務省局長がロシア外務省幹部と会談 記者の即時解放強く要請",
+  "links": [
+   {
+    "source": "NHK",
+    "title": "外務省局長がロシア外務省幹部と会談 記者の即時解放強く要請",
+    "url": "https://news.web.nhk/newsweb/na/nd-20261021de62531"
    }
   ]
  }
