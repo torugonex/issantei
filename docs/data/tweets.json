@@ -1,14 +1,5 @@
 [
  {
-  "at": "2026-10-14T22:45+09:00",
-  "text": "今日も無事に暮れた。傘は巻いたまま、よく眠れそうだ。おやすみなさい。",
-  "expression": "微笑",
-  "scene": "goodnight",
-  "lang": "ja",
-  "topic": null,
-  "links": []
- },
- {
   "at": "2026-10-15T01:00+09:00",
   "text": "……椅子が、二千万……傘立ては、どこへ……",
   "expression": "寝顔",
@@ -6121,6 +6112,21 @@
     "source": "Financial Times",
     "title": "Andy Burnham plans to cut standing charges from household gas bills",
     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQenZUTEdiTC1KSlhNV2JDVnBrcDduZWFBZGduemJBVGdLWWdwYS1zeGczWGkwbHpfaVdfYWRTaGtsVmZGRUJXakRNaGVsMHNHamRHRU5ZRmYweDd3ajFZckc1UWNTb2xEbnM4Zm5BbFgzM09zZlhHOVhYNTFjdkR4MG1BcV8?oc=5"
+   }
+  ]
+ },
+ {
+  "at": "2026-10-22T08:45+09:00",
+  "text": "台風三十号が沖縄へ。週末は関東も雨とか。備えは早めに。",
+  "expression": "思案",
+  "scene": "regular",
+  "lang": "ja",
+  "topic": "週間天気予報 台風30号が沖縄に接近 週末は広範囲で大雨のおそれ",
+  "links": [
+   {
+    "source": "ウェザーニュース",
+    "title": "週間天気予報 台風30号が沖縄に接近 週末は広範囲で大雨のおそれ",
+    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1EQ1pNbDhaaGhVQ2VkRmZFRm5PdENHUVlaaENoMU4wWi0xVTRzYVE2OGZmVURXNzZvYlJ2LWtZdjJfTnloYk9FeHRwSEotREJFZVdKRA?oc=5"
    }
   ]
  }
