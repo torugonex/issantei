@@ -1,14 +1,5 @@
 [
  {
-  "at": "2026-10-14T12:30+09:00",
-  "text": "雷の予報に、洋傘を杖にして出るのも一興。降られたら本屋の軒先で待つとしよう。",
-  "expression": "微笑",
-  "scene": "life",
-  "lang": "ja",
-  "topic": null,
-  "links": []
- },
- {
   "at": "2026-10-14T12:45+09:00",
   "text": "Nearly thirty years on, a verdict. Justice keeps poor time, but it does arrive. Requiescat in pace.",
   "expression": "憂い",
@@ -6165,6 +6156,15 @@
   "expression": "微笑",
   "scene": "life",
   "lang": "en",
+  "topic": null,
+  "links": []
+ },
+ {
+  "at": "2026-10-21T17:00+09:00",
+  "text": "鰯雲が空いっぱいに広がっている。夕方の散歩は、傘を持たずとも足りそうだ。",
+  "expression": "微笑",
+  "scene": "life",
+  "lang": "ja",
   "topic": null,
   "links": []
  }
