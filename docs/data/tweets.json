@@ -1,20 +1,5 @@
 [
  {
-  "at": "2026-10-13T22:00+09:00",
-  "text": "地下の工事ほど、お天道様の目が届かぬと思ったか。仲良しの輪は、頑丈なことだ。",
-  "expression": "呆れのため息",
-  "scene": "regular",
-  "lang": "ja",
-  "topic": "都営地下鉄の保守工事談合で工事会社に排除措置命令へ 公取委",
-  "links": [
-   {
-    "source": "NHK",
-    "title": "都営地下鉄の保守工事談合で工事会社に排除措置命令へ 公取委",
-    "url": "https://news.web.nhk/newsweb/na/nd-20261013de58875"
-   }
-  ]
- },
- {
   "at": "2026-10-13T22:15+09:00",
   "text": "名簿は預かり物。可能性の段階とはいえ、旅の入口で躓かせては申し訳が立たぬ。",
   "expression": "呆れのため息",
@@ -6172,5 +6157,14 @@
     "url": "https://www.bbc.co.uk/news/articles/cqzrdpkm3g84o?at_medium=RSS&at_campaign=rss"
    }
   ]
+ },
+ {
+  "at": "2026-10-21T10:45+09:00",
+  "text": "紅茶を淹れ、砂時計を逆さにした。落ちる砂を眺めるだけの三分も、悪くない。",
+  "expression": "微笑",
+  "scene": "life",
+  "lang": "ja",
+  "topic": null,
+  "links": []
  }
 ]
