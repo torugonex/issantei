@@ -1,15 +1,14 @@
 {
  "mood": {
-  "valence": 0.084,
-  "arousal": -0.232
+  "valence": -0.258,
+  "arousal": -0.266
  },
- "since_sarcasm": 7,
+ "since_sarcasm": 8,
  "day": "2026-10-21",
  "morning_done": true,
  "goodnight_done": false,
  "sleeptalk_night": "2026-10-20",
  "commented": {
-  "4c33830ab5ec": "2026-10-19T17:15:18.657005+09:00",
   "f363445b9be9": "2026-10-19T17:45:17.779171+09:00",
   "688550e2b158": "2026-10-19T18:15:18.459598+09:00",
   "c5e19cfb334d": "2026-10-19T19:15:22.434057+09:00",
@@ -90,13 +89,10 @@
   "9aa2129814da": "2026-10-21T15:00:41.171995+09:00",
   "f994007d20a8": "2026-10-21T15:15:18.495476+09:00",
   "dc3ee2e4ecbf": "2026-10-21T15:30:30.633176+09:00",
-  "9b851aa09530": "2026-10-21T16:15:19.233508+09:00"
+  "9b851aa09530": "2026-10-21T16:15:19.233508+09:00",
+  "bbe3aab84d74": "2026-10-21T17:15:19.033250+09:00"
  },
  "commented_titles": [
-  {
-   "title": "French cities calm overnight after curfews imposed to quell violence, PM says",
-   "at": "2026-10-20T17:15:17.314105+09:00"
-  },
   {
    "title": "【センバツ有力校一覧】関東で横浜、帝京三が4強入り！全国で計9校がセンバツ有力！【26年秋高校野球】｜記事一覧",
    "at": "2026-10-20T17:45:18.033408+09:00"
@@ -236,12 +232,16 @@
   {
    "title": "Haitian migrants changed this US town - Trump's deportation drive is reshaping it again",
    "at": "2026-10-21T16:15:19.233508+09:00"
+  },
+  {
+   "title": "埼玉陥没事故の運転手遺族が提訴 県に損害賠償1億円超求め（共同通信）",
+   "at": "2026-10-21T17:15:19.033250+09:00"
   }
  ],
- "last_quake_check": "2026-10-21T17:00:38.358911+09:00",
- "since_english": 2,
+ "last_quake_check": "2026-10-21T17:15:19.033250+09:00",
+ "since_english": 3,
  "next_english": 5,
- "last_tick": "2026-10-21T17:00:38.358911+09:00",
+ "last_tick": "2026-10-21T17:15:19.033250+09:00",
  "french_day": "2026-10-21",
  "french_done": true,
  "french_after": 806
