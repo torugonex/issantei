@@ -1,25 +1,5 @@
 [
  {
-  "at": "2026-10-14T22:30+09:00",
-  "text": "A man has died, and his grief-stricken family must watch the clip go round. Paix à son âme.",
-  "expression": "憂い",
-  "scene": "regular",
-  "lang": "en",
-  "topic": "Family of man killed by tiger criticise online content after Trump reposts video",
-  "links": [
-   {
-    "source": "Guardian",
-    "title": "Family of man killed by tiger criticise online content after Trump reposts video",
-    "url": "https://www.theguardian.com/uk-news/2026/oct/14/william-chapman-family-tiger-attack-online-content-trump-reposts-video"
-   },
-   {
-    "source": "The Guardian",
-    "title": "Family of man killed by tiger criticise online content after Trump reposts video",
-    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPRnhvdG1pT2FLLWl0X0VVSHBuZmx4R0RnQlFPN1dfYUVjR3F3V3R4UVQ2QW1wQlV6eFdveURvRmVzcExMQVNHMW82TEdianQxZGk0SXd2R2xLMzIteEpoLU5YdkRyQ3Fkd0pVeUUwWFNNaVpyUnF2RHpkTmpPSWRfQkxBQnZ1eGZPeVlFcnM2aWlEVjBSSFFlMk5XdUpnUG5Ibkc0YjhFZ3FId3J5UWNjcC1YbGUyLVd6aUE?oc=5"
-   }
-  ]
- },
- {
   "at": "2026-10-14T22:45+09:00",
   "text": "今日も無事に暮れた。傘は巻いたまま、よく眠れそうだ。おやすみなさい。",
   "expression": "微笑",
@@ -6121,6 +6101,26 @@
     "source": "NHK",
     "title": "秋田 子吉川 氾濫特別警報は注意報に 危険な場所に近づかない",
     "url": "https://news.web.nhk/newsweb/na/nd-20261021de63227"
+   }
+  ]
+ },
+ {
+  "at": "2026-10-22T08:30+09:00",
+  "text": "Standing charges on gas, up for debate at last. One pays merely to be connected, like a club subscription.",
+  "expression": "思案",
+  "scene": "regular",
+  "lang": "en",
+  "topic": "Burnham proposes plan to cut standing charges from gas bills",
+  "links": [
+   {
+    "source": "BBC",
+    "title": "Burnham proposes plan to cut standing charges from gas bills",
+    "url": "https://www.bbc.co.uk/news/articles/cw0541p65dyzo?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "source": "Financial Times",
+    "title": "Andy Burnham plans to cut standing charges from household gas bills",
+    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQenZUTEdiTC1KSlhNV2JDVnBrcDduZWFBZGduemJBVGdLWWdwYS1zeGczWGkwbHpfaVdfYWRTaGtsVmZGRUJXakRNaGVsMHNHamRHRU5ZRmYweDd3ajFZckc1UWNTb2xEbnM4Zm5BbFgzM09zZlhHOVhYNTFjdkR4MG1BcV8?oc=5"
    }
   ]
  }

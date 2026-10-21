@@ -1,15 +1,14 @@
 {
  "mood": {
-  "valence": -0.195,
-  "arousal": 0.064
+  "valence": -0.171,
+  "arousal": 0.06
  },
- "since_sarcasm": 1,
+ "since_sarcasm": 2,
  "day": "2026-10-22",
  "morning_done": true,
  "goodnight_done": false,
  "sleeptalk_night": "2026-10-21",
  "commented": {
-  "6dddd175aa1c": "2026-10-20T08:30:27.082609+09:00",
   "84c9bce2f51f": "2026-10-20T08:44:26.236733+09:00",
   "ff7c2440ba22": "2026-10-20T08:45:17.234338+09:00",
   "de5b54e7fc81": "2026-10-20T09:00:38.395186+09:00",
@@ -89,13 +88,10 @@
   "8026e4de2c6b": "2026-10-22T07:15:19.336008+09:00",
   "098441650821": "2026-10-22T07:45:19.958356+09:00",
   "9130aabda6cf": "2026-10-22T08:00:38.976188+09:00",
-  "2ecccc41f803": "2026-10-22T08:15:18.828406+09:00"
+  "2ecccc41f803": "2026-10-22T08:15:18.828406+09:00",
+  "037423344b7c": "2026-10-22T08:30:43.641904+09:00"
  },
  "commented_titles": [
-  {
-   "title": "岩井コスモ証券 不正アクセスで顧客が意図しない売買注文",
-   "at": "2026-10-21T08:15:19.932901+09:00"
-  },
   {
    "title": "Andy Burnham faces climate revolt after approval of North Sea gas drilling",
    "at": "2026-10-21T10:00:39.941557+09:00"
@@ -239,12 +235,16 @@
   {
    "title": "秋田 子吉川で一時 氾濫特別警報 危険な場所に近づかないで",
    "at": "2026-10-22T08:15:18.828406+09:00"
+  },
+  {
+   "title": "Burnham proposes plan to cut standing charges from gas bills",
+   "at": "2026-10-22T08:30:43.641904+09:00"
   }
  ],
- "last_quake_check": "2026-10-22T08:15:18.828406+09:00",
- "since_english": 3,
- "next_english": 4,
- "last_tick": "2026-10-22T08:15:18.828406+09:00",
+ "last_quake_check": "2026-10-22T08:30:43.641904+09:00",
+ "since_english": 1,
+ "next_english": 3,
+ "last_tick": "2026-10-22T08:30:43.641904+09:00",
  "french_day": "2026-10-22",
  "french_done": false,
  "french_after": 695
