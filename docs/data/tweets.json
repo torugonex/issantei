@@ -1,20 +1,5 @@
 [
  {
-  "at": "2026-10-14T17:15+09:00",
-  "text": "Hiring a child by the hour. Loneliness, it seems, now comes with an invoice. One hopes the tea is included.",
-  "expression": "片眉を上げる",
-  "scene": "regular",
-  "lang": "en",
-  "topic": "Why the lonely in China are hiring 'temporary children'",
-  "links": [
-   {
-    "source": "BBC",
-    "title": "Why the lonely in China are hiring 'temporary children'",
-    "url": "https://www.bbc.co.uk/news/videos/cm8xkxn8lqkeo?at_medium=RSS&at_campaign=rss"
-   }
-  ]
- },
- {
   "at": "2026-10-14T17:30+09:00",
   "text": "不安だと言いながら、皆さん毎日せっせと名前や住所を差し出している。ご用心なさい。",
   "expression": "思案",
@@ -6136,5 +6121,14 @@
     "url": "https://www.theguardian.com/world/2026/oct/21/putin-witkoff-russia-ukraine-trump-stephen-hubbard-release"
    }
   ]
+ },
+ {
+  "at": "2026-10-21T21:45+09:00",
+  "text": "紅茶を淹れ直した。二煎目のほうが角が取れて、人にも似ている。",
+  "expression": "微笑",
+  "scene": "life",
+  "lang": "ja",
+  "topic": null,
+  "links": []
  }
 ]
