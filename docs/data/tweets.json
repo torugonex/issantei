@@ -1,14 +1,5 @@
 [
  {
-  "at": "2026-10-14T07:30+09:00",
-  "text": "朝の紅茶は濃いめに。雷の前触れか、頭がどうも重い。傘は玄関に控えさせてある。",
-  "expression": "思案",
-  "scene": "life",
-  "lang": "ja",
-  "topic": null,
-  "links": []
- },
- {
   "at": "2026-10-14T07:45+09:00",
   "text": "米が余る時代とは。かつて騒いだ棚の空白が、もう遠い昔のよう。",
   "expression": "片眉を上げる",
@@ -6176,6 +6167,21 @@
     "source": "産経ニュース",
     "title": "不正アクセス発信源は中国か…生成AIが「日本語の壁」突破 犯行組織細分化で追跡は困難",
     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1SR2l4Z0FOT19QdHFCTnlGdy1jOU1XcG9pclZaWDd0YzBpaVdybTVuZUx3N0VtVV9jVHdNMEpWaE1vRkJIOXh6eHVrWm55aXRpbmlPSWpqMmN3ZXpMd2E2a1J2bjNtVkpSQmxGVjRoQkVBc1N1anc?oc=5"
+   }
+  ]
+ },
+ {
+  "at": "2026-10-21T13:00+09:00",
+  "text": "近いと聞けば、遠いと返る。交渉の噂は、本人たちより足が速い。",
+  "expression": "思案",
+  "scene": "regular",
+  "lang": "ja",
+  "topic": "米国とイランの協議は継続中、合意が近いとの報道は誤り－外交官",
+  "links": [
+   {
+    "source": "Bloomberg.com",
+    "title": "米国とイランの協議は継続中、合意が近いとの報道は誤り－外交官",
+    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE0xQ2dZX0Vkcm9QMWFwei05N21GTTNod2tVdi0zVEN4QzRnYzl6bDl4emE3V2ZMaEZrb25faTdOYTYwSTZqeEhkbXkwaUI2amhNaFNkR3I1SWo1N01MRXhfUzhTekZka1plRml2b05qTzFaa0NUSXlV?oc=5"
    }
   ]
  }
