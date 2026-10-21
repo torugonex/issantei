@@ -1,25 +1,5 @@
 [
  {
-  "at": "2026-10-14T08:30+09:00",
-  "text": "同盟とは、知らせ合うことで成り立つ。警告が届かぬ理由は、両者の言い分が食い違う。真相はまだ霧の中。",
-  "expression": "思案",
-  "scene": "regular",
-  "lang": "ja",
-  "topic": "ゼレンスキー氏｢ミサイル攻撃の警告届かず｣ 米の情報共有中断に懸念",
-  "links": [
-   {
-    "source": "日本経済新聞",
-    "title": "ゼレンスキー氏｢ミサイル攻撃の警告届かず｣ 米の情報共有中断に懸念",
-    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9YR1JPS3hKN0hkdFpKYkktc1BjYUJ6ZnZvc0RSM1BlaURIYktVcTNFVDJSOFFJeFNZblZCTm5HOVh0ZnNLWHRKRVp5b25iQXp5SUYweFRaTXJteno4YXBTODVfREs3OHhXVGo2SA?oc=5"
-   },
-   {
-    "source": "時事ドットコム",
-    "title": "ゼレンスキー氏、ウクライナは製油所攻撃せず 米が情報共有中断か、外相は否定",
-    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1CTXR6SXlwYXFJMUQ0UXhuTWthWUtQVjczVkc0elFXcnRLaVBVb0pLZmprUU9kMFlla3dDWGxabU1uNjg2WHN0ZFVuRG9jSHBnZHdhNXJ4VTR0R1o5Y1Q4cmJSQQ?oc=5"
-   }
-  ]
- },
- {
   "at": "2026-10-14T08:45+09:00",
   "text": "A cracked window at altitude. Turning back seems the civilised thing to do.",
   "expression": "思案",
@@ -6179,5 +6159,14 @@
     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE56TndqTHI4V1VaYUlKYTlFUjNsNkVEV1VlZXM2a3ZHTzRla0hZVUUxVmVKb0RNZHpFSHNwekxGOWF6RjRiUkU2dUZVYXczQjZHdG1JSEF6SlQyNkFVX201NFdjdDA3TEVpTUtFOQ?oc=5"
    }
   ]
+ },
+ {
+  "at": "2026-10-21T14:15+09:00",
+  "text": "曇り空の午後、紅茶を一杯。夜は雨とやら。傘は玄関に立ててある。",
+  "expression": "微笑",
+  "scene": "life",
+  "lang": "ja",
+  "topic": null,
+  "links": []
  }
 ]
