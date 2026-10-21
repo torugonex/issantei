@@ -1,15 +1,14 @@
 {
  "mood": {
-  "valence": -0.04,
-  "arousal": -0.147
+  "valence": 0.045,
+  "arousal": -0.21
  },
- "since_sarcasm": 5,
+ "since_sarcasm": 6,
  "day": "2026-10-21",
  "morning_done": true,
  "goodnight_done": false,
  "sleeptalk_night": "2026-10-20",
  "commented": {
-  "fe319facd9e9": "2026-10-19T16:45:18.551409+09:00",
   "38fe3fe19164": "2026-10-19T17:00:36.269202+09:00",
   "4c33830ab5ec": "2026-10-19T17:15:18.657005+09:00",
   "f363445b9be9": "2026-10-19T17:45:17.779171+09:00",
@@ -95,10 +94,6 @@
   "9b851aa09530": "2026-10-21T16:15:19.233508+09:00"
  },
  "commented_titles": [
-  {
-   "title": "トランプ氏、ゼレンスキー大統領の交代を改めて要求 「事態の収拾に役立っていない」（ロイター）",
-   "at": "2026-10-20T16:45:18.038619+09:00"
-  },
   {
    "title": "French cities calm overnight after curfews imposed to quell violence, PM says",
    "at": "2026-10-20T17:15:17.314105+09:00"
@@ -244,10 +239,10 @@
    "at": "2026-10-21T16:15:19.233508+09:00"
   }
  ],
- "last_quake_check": "2026-10-21T16:30:33.142840+09:00",
- "since_english": 2,
- "next_english": 3,
- "last_tick": "2026-10-21T16:30:33.142840+09:00",
+ "last_quake_check": "2026-10-21T16:45:18.907292+09:00",
+ "since_english": 1,
+ "next_english": 5,
+ "last_tick": "2026-10-21T16:45:18.907292+09:00",
  "french_day": "2026-10-21",
  "french_done": true,
  "french_after": 806

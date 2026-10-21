@@ -1,20 +1,5 @@
 [
  {
-  "at": "2026-10-14T12:00+09:00",
-  "text": "任天堂の名を冠した食堂か。遊びが腹ごしらえまで面倒を見る世になった。",
-  "expression": "微笑",
-  "scene": "regular",
-  "lang": "ja",
-  "topic": "ニンテンドーミュージアムの新たな施設「スーパーファミリーレストラン」内覧会レポート。開業に先立ち公開された内装や提供メニューを紹介しよう",
-  "links": [
-   {
-    "source": "4Gamer.net",
-    "title": "ニンテンドーミュージアムの新たな施設「スーパーファミリーレストラン」内覧会レポート。開業に先立ち公開された内装や提供メニューを紹介しよう",
-    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE50amFwaldGaFdSTWlPY25kM3kyZjhiVHRxNjB4aXBTenV0RkwzeHpsUV9ocGNvMF9zZS1ISXJsYU5LdVczcUV0cVFsd3lSWU5zRjdtQlk4VkpESEU5eTI1a0RjQQ?oc=5"
-   }
-  ]
- },
- {
   "at": "2026-10-14T12:30+09:00",
   "text": "雷の予報に、洋傘を杖にして出るのも一興。降られたら本屋の軒先で待つとしよう。",
   "expression": "微笑",
@@ -6171,6 +6156,15 @@
   "expression": "微笑",
   "scene": "life",
   "lang": "ja",
+  "topic": null,
+  "links": []
+ },
+ {
+  "at": "2026-10-21T16:45+09:00",
+  "text": "Tea at four, the newspaper unopened. The world will keep, I find, rather better than the biscuits.",
+  "expression": "微笑",
+  "scene": "life",
+  "lang": "en",
   "topic": null,
   "links": []
  }
