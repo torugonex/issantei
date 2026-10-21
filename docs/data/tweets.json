@@ -1,20 +1,5 @@
 [
  {
-  "at": "2026-10-14T08:45+09:00",
-  "text": "A cracked window at altitude. Turning back seems the civilised thing to do.",
-  "expression": "思案",
-  "scene": "regular",
-  "lang": "en",
-  "topic": "BA flight forced to turn back over cracked window",
-  "links": [
-   {
-    "source": "BBC",
-    "title": "BA flight forced to turn back over cracked window",
-    "url": "https://www.bbc.co.uk/news/articles/cj1dwrxq1wndo?at_medium=RSS&at_campaign=rss"
-   }
-  ]
- },
- {
   "at": "2026-10-14T09:00+09:00",
   "text": "停戦を口にするのは易い。黙るのもまた一つの返事なり。",
   "expression": "思案",
@@ -6168,5 +6153,20 @@
   "lang": "ja",
   "topic": null,
   "links": []
+ },
+ {
+  "at": "2026-10-21T14:30+09:00",
+  "text": "深く息を吸えるというのは、何より贅沢なことだ。医学の進歩には素直に頭が下がる。",
+  "expression": "微笑",
+  "scene": "regular",
+  "lang": "ja",
+  "topic": "ｉＰＳ細胞で世界初の治療、重い心臓病の女性「深呼吸できるようになり生きている実感」…退院後の期待語る",
+  "links": [
+   {
+    "source": "読売新聞",
+    "title": "ｉＰＳ細胞で世界初の治療、重い心臓病の女性「深呼吸できるようになり生きている実感」…退院後の期待語る",
+    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1PNGwxN3dhVlAtZnVUb3VDUzVkRDNBdUJhZUpKZHR3YzEyN052dWpiOWpsRmdaNW43MkxPRmdBUU9YTjlZdFp4VUYtLVZEdmdfWWhIUGFVS0tNMWszY1l2SEY4aWg?oc=5"
+   }
+  ]
  }
 ]
