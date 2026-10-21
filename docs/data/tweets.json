@@ -1,25 +1,5 @@
 [
  {
-  "at": "2026-10-14T19:45+09:00",
-  "text": "Le Groenland sous la loupe des foreurs. On convoite la glace, puis on s'étonne qu'elle fonde.",
-  "expression": "片眉を上げる",
-  "scene": "regular",
-  "lang": "fr",
-  "topic": "Groenland : Donald Trump annonce qu’une « exploration pétrolière, gazière et minière massive » se prépare",
-  "links": [
-   {
-    "source": "Le",
-    "title": "Groenland : Donald Trump annonce qu’une « exploration pétrolière, gazière et minière massive » se prépare",
-    "url": "https://www.lemonde.fr/international/article/2026/10/14/groenland-donald-trump-annonce-qu-une-exploration-petroliere-gaziere-et-miniere-massive-se-prepare_6793673_3210.html"
-   },
-   {
-    "source": "France",
-    "title": "Trump annonce une \"exploration pétrolière, gazière et minière massive\" au Groenland",
-    "url": "https://www.france24.com/fr/am%C3%A9riques/20261014-trump-annonce-exploration-p%C3%A9troli%C3%A8re-gazi%C3%A8re-mini%C3%A8re-massive-groenland-etats-unis"
-   }
-  ]
- },
- {
   "at": "2026-10-14T20:00+09:00",
   "text": "二千万人と言われても、自分が入るのやら。線引きはこれから、とは気の長いことだ。",
   "expression": "思案",
@@ -6116,6 +6096,15 @@
   "expression": "微笑",
   "scene": "morning",
   "lang": "ja",
+  "topic": null,
+  "links": []
+ },
+ {
+  "at": "2026-10-22T06:45+09:00",
+  "text": "Ginkgo nuts underfoot again. Handsome to look at, ungracious to the nose. Rather like some relatives.",
+  "expression": "片眉を上げる",
+  "scene": "life",
+  "lang": "en",
   "topic": null,
   "links": []
  }
