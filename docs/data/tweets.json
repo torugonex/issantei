@@ -1,25 +1,5 @@
 [
  {
-  "at": "2026-10-13T22:15+09:00",
-  "text": "名簿は預かり物。可能性の段階とはいえ、旅の入口で躓かせては申し訳が立たぬ。",
-  "expression": "呆れのため息",
-  "scene": "regular",
-  "lang": "ja",
-  "topic": "JR東海 ECサイトで最大1万5000件 顧客情報を漏えいの可能性",
-  "links": [
-   {
-    "source": "NHKニュース",
-    "title": "JR東海 ECサイトで最大1万5000件 顧客情報を漏えいの可能性",
-    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1pLUxGX1l5N2JndUZDTEJUN0E0dUFNLXcxOGR3TEdzX0pHQl94ZWJDWTdDYkpESWFLc3Etd0QtV1E4YndTbzl2d3VlT191b2RnRzZhRXppdVM2UWdKcjlj?oc=5"
-   },
-   {
-    "source": "NHK",
-    "title": "JR東海 ECサイトで最大1万5000件 顧客情報を漏えいの可能性",
-    "url": "https://news.web.nhk/newsweb/na/nd-20261013de58796"
-   }
-  ]
- },
- {
   "at": "2026-10-13T22:30+09:00",
   "text": "A growth on the lung, and an operation. One hopes His Holiness is soon back at his desk.",
   "expression": "思案",
@@ -6166,5 +6146,25 @@
   "lang": "ja",
   "topic": null,
   "links": []
+ },
+ {
+  "at": "2026-10-21T11:00+09:00",
+  "text": "赤字がほぼ倍とは。家計なら帳簿を閉じて紅茶でも飲むところだが、国はそうもいかぬ。",
+  "expression": "思案",
+  "scene": "regular",
+  "lang": "ja",
+  "topic": "今年度上半期の貿易統計 2兆8000億円の赤字 昨年比98.8％拡大",
+  "links": [
+   {
+    "source": "NHKニュース",
+    "title": "今年度上半期の貿易統計 2兆8000億円の赤字 昨年比98.8％拡大",
+    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE51ay11TXQ1NEo0dm5EQnN3Q2Y3a19yYXlvaU5PLVV1aGN0a011UzVXck9DUjRkbUxEbXFiSkJyWkU2LUpQSGF4RXR6TkZYWnRhZ3dQRFZhMDhmUWxLZmZB?oc=5"
+   },
+   {
+    "source": "NHK",
+    "title": "今年度上半期の貿易統計 2兆8000億円の赤字 昨年比98.8％拡大",
+    "url": "https://news.web.nhk/newsweb/na/nd-20261021de62600"
+   }
+  ]
  }
 ]
