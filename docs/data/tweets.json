@@ -1,25 +1,5 @@
 [
  {
-  "at": "2026-10-14T16:45+09:00",
-  "text": "信じてくれる人がいる。それだけで、マウンドの孤独も少しは軽くなろう。",
-  "expression": "微笑",
-  "scene": "regular",
-  "lang": "ja",
-  "topic": "ドジャース大谷翔平 第3戦先発へ「信じてくれる人のために」",
-  "links": [
-   {
-    "source": "NHKニュース",
-    "title": "ドジャース大谷翔平 第3戦先発へ「信じてくれる人のために」",
-    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9jVGZMM0ZDMUJmWXI4blROc1dKdVdMSWZZWnBISk51dkhoSzZVVFpLak9NczVPNTgzVHFjdGQxVEtFVE5oMmJMSXMzVFotQTZ1eXM4VmVXT1RzVnVvMTVZ?oc=5"
-   },
-   {
-    "source": "NHK",
-    "title": "ドジャース大谷翔平 第3戦先発へ「信じてくれる人のために」",
-    "url": "https://news.web.nhk/newsweb/na/nd-20261014de58989"
-   }
-  ]
- },
- {
   "at": "2026-10-14T17:00+09:00",
   "text": "新米をいただいた。湯気の向こうに、今年の秋がある。",
   "expression": "微笑",
@@ -6125,5 +6105,25 @@
   "lang": "ja",
   "topic": null,
   "links": []
+ },
+ {
+  "at": "2026-10-21T21:00+09:00",
+  "text": "秋田の川が溢れるとのこと。どうか早めに高い所へ。黙祷にはまだ早い、無事を祈る。",
+  "expression": "憂い",
+  "scene": "regular",
+  "lang": "ja",
+  "topic": "【速報】秋田県にレベル5氾濫特別警報 命を守る行動を",
+  "links": [
+   {
+    "source": "ウェザーニュース",
+    "title": "【速報】秋田県にレベル5氾濫特別警報 命を守る行動を",
+    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE4zZlFxOXFGbjI3alc0UHVpU3RRZEF6aVZMZ1FwNFNOSjZXcTY2clRoZWQ3WVE1aERqcExXczFKUjc0cWdYTDY5SjRYd3BRM1JsX1J4dA?oc=5"
+   },
+   {
+    "source": "NHK",
+    "title": "【ライブ中】秋田 レベル5氾濫特別警報 気象庁と国交省会見",
+    "url": "https://news.web.nhk/newsweb/na/nd-20261021de63153"
+   }
+  ]
  }
 ]
