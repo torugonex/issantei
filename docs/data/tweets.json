@@ -1,25 +1,5 @@
 [
  {
-  "at": "2026-10-14T15:00+09:00",
-  "text": "A father and a teacher, gone in a moment at a place meant for pleasure. Words fail. Rest in peace.",
-  "expression": "憂い",
-  "scene": "regular",
-  "lang": "en",
-  "topic": "What we know about the man who died falling from a Six Flags rollercoaster",
-  "links": [
-   {
-    "source": "BBC",
-    "title": "What we know about the man who died falling from a Six Flags rollercoaster",
-    "url": "https://www.bbc.co.uk/news/articles/cke8r4nmy36qo?at_medium=RSS&at_campaign=rss"
-   },
-   {
-    "source": "Guardian",
-    "title": "Man who died in Six Flags rollercoaster fall in Georgia was a father and educator",
-    "url": "https://www.theguardian.com/us-news/2026/oct/13/six-flags-rollercoaster-death"
-   }
-  ]
- },
- {
   "at": "2026-10-14T15:30+09:00",
   "text": "役員会議室に録音機とは。疑いの段階ゆえ断じぬが、壁に耳ありの喩えが、機械の時代にも生きていたか。",
   "expression": "思案",
@@ -6130,5 +6110,25 @@
   "lang": "ja",
   "topic": null,
   "links": []
+ },
+ {
+  "at": "2026-10-21T19:45+09:00",
+  "text": "Both legs lost, yet her husband speaks of her heart and mind. Wishing her a steady recovery.",
+  "expression": "憂い",
+  "scene": "regular",
+  "lang": "en",
+  "topic": "Australian MP loses both legs after alleged car attack, husband says",
+  "links": [
+   {
+    "source": "BBC",
+    "title": "Australian MP loses both legs after alleged car attack, husband says",
+    "url": "https://www.bbc.co.uk/news/articles/ckwyqdqxw6d0o?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "source": "Guardian",
+    "title": "Helen Haines has lost both legs after alleged attack but ‘her heart and mind are in good shape’, husband says",
+    "url": "https://www.theguardian.com/australia-news/2026/oct/21/helen-haines-loses-both-legs-after-mondays-alleged-attack-ntwnfb"
+   }
+  ]
  }
 ]
