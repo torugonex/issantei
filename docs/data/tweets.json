@@ -1,14 +1,5 @@
 [
  {
-  "at": "2026-10-14T14:45+09:00",
-  "text": "鰯雲が空いっぱいに広がっている。昼餉の後の紅茶が、いつもよりうまい。",
-  "expression": "微笑",
-  "scene": "life",
-  "lang": "ja",
-  "topic": null,
-  "links": []
- },
- {
   "at": "2026-10-14T15:00+09:00",
   "text": "A father and a teacher, gone in a moment at a place meant for pleasure. Words fail. Rest in peace.",
   "expression": "憂い",
@@ -6128,6 +6119,15 @@
   "expression": "思案",
   "scene": "life",
   "lang": "en",
+  "topic": null,
+  "links": []
+ },
+ {
+  "at": "2026-10-21T19:15+09:00",
+  "text": "夜は雨もあるらしい。今宵は出かけず、古い随筆でも開こうか。",
+  "expression": "思案",
+  "scene": "life",
+  "lang": "ja",
   "topic": null,
   "links": []
  }
