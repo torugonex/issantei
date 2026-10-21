@@ -1,14 +1,5 @@
 [
  {
-  "at": "2026-10-14T21:26+09:00",
-  "text": "Thunder at dusk, then a clearing sky. A cup of Darjeeling, and the evening is quite forgiven.",
-  "expression": "微笑",
-  "scene": "life",
-  "lang": "en",
-  "topic": null,
-  "links": []
- },
- {
   "at": "2026-10-14T21:45+09:00",
   "text": "エースとて人の子。制球とは、天気より気まぐれなものと見える。",
   "expression": "思案",
@@ -6099,6 +6090,26 @@
     "source": "日本経済新聞",
     "title": "スペースX株は12%高、テスラは4%高 統合協議を好感も反応に格差",
     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1OTGZKYUR0Q2RqcnZNYU9yOW0zU0NLWnRwUjVRV3JqaXkybnJHa0hPRk0zZUJCRHhWa0RhNEVLc083ZTZhLWpVbERzbjd1bkRQaksyRzBwQkFqaGtaaTNvdG9UWGh1ejFrR1FaVA?oc=5"
+   }
+  ]
+ },
+ {
+  "at": "2026-10-22T07:45+09:00",
+  "text": "Shooting stars on a Thursday, free of charge. Cloud permitting, of course. One mustn't be greedy.",
+  "expression": "微笑",
+  "scene": "regular",
+  "lang": "en",
+  "topic": "Orionid meteor shower to peak in UK skies into Thursday",
+  "links": [
+   {
+    "source": "BBC",
+    "title": "Orionid meteor shower to peak in UK skies into Thursday",
+    "url": "https://www.bbc.co.uk/weather/articles/cm17knj9kpv8o?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "source": "Forbes",
+    "title": "The Orionid Meteor Shower Peaks Tonight — Here’s When To Look",
+    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNTnRfbjZZZUZBZXdNUlJGb255S09ROTN2Z3RHdUptNlJlVlc3eWxQZmxXWl93TUhKR1MybGk5Q1dQeW92Z3hUT3hxeGdIMG5kN1hfblhJYzFvSjZXd1F6NkNpN3dDSTg2MFJGN1FybXoySk9RQlE1V2FfVXBnV2NYLTBNM2hLMldmUVdqY2x3aXlXWGMtT0pHMTctS1dFcWxucXl3WFQyM25vV2RDMmFXNkYzaVNLWndVTEY1YnEwa0o0Zw?oc=5"
    }
   ]
  }

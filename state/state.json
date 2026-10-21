@@ -1,15 +1,14 @@
 {
  "mood": {
-  "valence": 0.184,
-  "arousal": -0.138
+  "valence": 0.213,
+  "arousal": -0.129
  },
- "since_sarcasm": 3,
+ "since_sarcasm": 4,
  "day": "2026-10-22",
  "morning_done": true,
  "goodnight_done": false,
  "sleeptalk_night": "2026-10-21",
  "commented": {
-  "ce4ddae5413e": "2026-10-20T07:30:26.685549+09:00",
   "6dddd175aa1c": "2026-10-20T08:30:27.082609+09:00",
   "84c9bce2f51f": "2026-10-20T08:44:26.236733+09:00",
   "ff7c2440ba22": "2026-10-20T08:45:17.234338+09:00",
@@ -87,13 +86,10 @@
   "d0f0efe715c5": "2026-10-21T22:15:21.413785+09:00",
   "604071038d7a": "2026-10-21T22:30:34.619642+09:00",
   "c4a5f0ece723": "2026-10-22T07:13:19.934631+09:00",
-  "8026e4de2c6b": "2026-10-22T07:15:19.336008+09:00"
+  "8026e4de2c6b": "2026-10-22T07:15:19.336008+09:00",
+  "098441650821": "2026-10-22T07:45:19.958356+09:00"
  },
  "commented_titles": [
-  {
-   "title": "Baby who died from meningitis may have been saved if tested sooner, inquest finds",
-   "at": "2026-10-21T07:45:19.085246+09:00"
-  },
   {
    "title": "岩井コスモ証券 不正アクセスで顧客が意図しない売買注文",
    "at": "2026-10-21T08:15:19.932901+09:00"
@@ -229,12 +225,16 @@
   {
    "title": "スペースX株は12%高、テスラは4%高 統合協議を好感も反応に格差",
    "at": "2026-10-22T07:15:19.336008+09:00"
+  },
+  {
+   "title": "Orionid meteor shower to peak in UK skies into Thursday",
+   "at": "2026-10-22T07:45:19.958356+09:00"
   }
  ],
- "last_quake_check": "2026-10-22T07:30:29.721628+09:00",
- "since_english": 4,
- "next_english": 5,
- "last_tick": "2026-10-22T07:30:29.721628+09:00",
+ "last_quake_check": "2026-10-22T07:45:19.958356+09:00",
+ "since_english": 1,
+ "next_english": 4,
+ "last_tick": "2026-10-22T07:45:19.958356+09:00",
  "french_day": "2026-10-22",
  "french_done": false,
  "french_after": 695
