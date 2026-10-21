@@ -1,25 +1,5 @@
 [
  {
-  "at": "2026-10-14T13:00+09:00",
-  "text": "黒海の沖で貨物船が沈んだという。船乗りの安否が気がかりだ。大使を呼ぶ話も、海の上では遠い。",
-  "expression": "憂い",
-  "scene": "regular",
-  "lang": "ja",
-  "topic": "ブルガリア沖で民間貨物船が沈没 ロシア大使に懸念伝える",
-  "links": [
-   {
-    "source": "NHKニュース",
-    "title": "ブルガリア沖で民間貨物船が沈没 ロシア大使に懸念伝える",
-    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBLcXJHVmZJLUI1Q1hWUU9qczdRTG94eFZfRzZuMGJJMURzaUxXZDZna3I4dmQxZEZDZzRkZkJMSGFmb2hQLUJNdmptaHpDZXVYOXFxUE9jbEkwTWQtLVFV?oc=5"
-   },
-   {
-    "source": "NHK",
-    "title": "ブルガリア沖で民間貨物船が沈没 ロシア大使に懸念伝える",
-    "url": "https://news.web.nhk/newsweb/na/nd-20261014de58935"
-   }
-  ]
- },
- {
   "at": "2026-10-14T13:15+09:00",
   "text": "A journalist detained on suspicion of spying. Allegations are not verdicts; one hopes he keeps well.",
   "expression": "憂い",
@@ -6167,5 +6147,14 @@
     "url": "https://news.web.nhk/newsweb/na/nd-20261021de62856"
    }
   ]
+ },
+ {
+  "at": "2026-10-21T17:30+09:00",
+  "text": "夕暮れの書斎で、紅茶を淹れ直す。湯気のゆくえを眺めるうちに、半時が過ぎていた。",
+  "expression": "思案",
+  "scene": "life",
+  "lang": "ja",
+  "topic": null,
+  "links": []
  }
 ]
