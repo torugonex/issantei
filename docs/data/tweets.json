@@ -1,20 +1,5 @@
 [
  {
-  "at": "2026-10-14T11:15+09:00",
-  "text": "続投か交代か、決めるのは説明を聞いてから。順番としては、まあ穏当だろう。",
-  "expression": "思案",
-  "scene": "regular",
-  "lang": "ja",
-  "topic": "簗農相 与党から続投困難の声も 高市首相 説明踏まえ判断へ",
-  "links": [
-   {
-    "source": "NHK",
-    "title": "簗農相 与党から続投困難の声も 高市首相 説明踏まえ判断へ",
-    "url": "https://news.web.nhk/newsweb/na/nd-20261014de58923"
-   }
-  ]
- },
- {
   "at": "2026-10-14T11:30+09:00",
   "text": "Lunch is a pot of Assam and a book. The thunder may do as it pleases.",
   "expression": "微笑",
@@ -6173,5 +6158,14 @@
     "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1xc0NsZGpYV0JlOHlpZXQyNXFuVk16MlZiQklhMXhFUjljRTFEcFNVSGJjUUpHSUY4aEptb29yWTNxM2lQVnBEX3lvclptdw?oc=5"
    }
   ]
+ },
+ {
+  "at": "2026-10-21T16:00+09:00",
+  "text": "銀杏の実が落ちた道。匂いを避けて歩く足取りは、我ながら少し滑稽である。",
+  "expression": "愉快な笑い",
+  "scene": "life",
+  "lang": "ja",
+  "topic": null,
+  "links": []
  }
 ]

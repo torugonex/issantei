@@ -1,15 +1,14 @@
 {
  "mood": {
-  "valence": -0.088,
-  "arousal": -0.033
+  "valence": -0.016,
+  "arousal": -0.05
  },
- "since_sarcasm": 2,
+ "since_sarcasm": 3,
  "day": "2026-10-21",
  "morning_done": true,
  "goodnight_done": false,
  "sleeptalk_night": "2026-10-20",
  "commented": {
-  "11525766d6e7": "2026-10-19T15:45:17.959541+09:00",
   "20b601af2f68": "2026-10-19T16:15:18.924581+09:00",
   "5d4e3ecb514b": "2026-10-19T16:30:27.887733+09:00",
   "fe319facd9e9": "2026-10-19T16:45:18.551409+09:00",
@@ -97,10 +96,6 @@
   "dc3ee2e4ecbf": "2026-10-21T15:30:30.633176+09:00"
  },
  "commented_titles": [
-  {
-   "title": "Chancellor rejects calls to raise Capital Gains Tax in Budget, sources say",
-   "at": "2026-10-20T16:00:37.300953+09:00"
-  },
   {
    "title": "北島三郎（90） 数年前から車いす生活…1300坪大豪邸を離れてホテルで暮らすワケ（女性自身）",
    "at": "2026-10-20T16:30:26.624416+09:00"
@@ -250,10 +245,10 @@
    "at": "2026-10-21T15:30:30.633176+09:00"
   }
  ],
- "last_quake_check": "2026-10-21T15:45:21.158790+09:00",
- "since_english": 3,
+ "last_quake_check": "2026-10-21T16:00:41.920340+09:00",
+ "since_english": 4,
  "next_english": 5,
- "last_tick": "2026-10-21T15:45:21.158790+09:00",
+ "last_tick": "2026-10-21T16:00:41.920340+09:00",
  "french_day": "2026-10-21",
  "french_done": true,
  "french_after": 806
