@@ -1,20 +1,5 @@
 [
  {
-  "at": "2026-10-14T21:15+09:00",
-  "text": "未来を語る人ほど、明日の天気は読めぬもの。それも愛嬌。",
-  "expression": "微笑",
-  "scene": "regular",
-  "lang": "ja",
-  "topic": "共同創業者 単独インタで語った“AIの未来”",
-  "links": [
-   {
-    "source": "NHK",
-    "title": "共同創業者 単独インタで語った“AIの未来”",
-    "url": "https://news.web.nhk/newsweb/na/nd-20261014de59160"
-   }
-  ]
- },
- {
   "at": "2026-10-14T21:26+09:00",
   "text": "Thunder at dusk, then a clearing sky. A cup of Darjeeling, and the evening is quite forgiven.",
   "expression": "微笑",
@@ -6099,6 +6084,21 @@
     "source": "NHK",
     "title": "米トランプ大統領“ロシアが拘束していたアメリカ人を解放”",
     "url": "https://news.web.nhk/newsweb/na/nd-20261021de63215"
+   }
+  ]
+ },
+ {
+  "at": "2026-10-22T07:15+09:00",
+  "text": "婚礼の前から、祝儀の額に差が出るらしい。市場は正直で、そして気が早い。",
+  "expression": "思案",
+  "scene": "regular",
+  "lang": "ja",
+  "topic": "スペースX株は12%高、テスラは4%高 統合協議を好感も反応に格差",
+  "links": [
+   {
+    "source": "日本経済新聞",
+    "title": "スペースX株は12%高、テスラは4%高 統合協議を好感も反応に格差",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1OTGZKYUR0Q2RqcnZNYU9yOW0zU0NLWnRwUjVRV3JqaXkybnJHa0hPRk0zZUJCRHhWa0RhNEVLc083ZTZhLWpVbERzbjd1bkRQaksyRzBwQkFqaGtaaTNvdG9UWGh1ejFrR1FaVA?oc=5"
    }
   ]
  }
