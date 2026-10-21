@@ -1,14 +1,5 @@
 [
  {
-  "at": "2026-10-14T16:30+09:00",
-  "text": "Rain at lunchtime, thunder promised by teatime. I shall take the umbrella and the second pot.",
-  "expression": "微笑",
-  "scene": "life",
-  "lang": "en",
-  "topic": null,
-  "links": []
- },
- {
   "at": "2026-10-14T16:45+09:00",
   "text": "信じてくれる人がいる。それだけで、マウンドの孤独も少しは軽くなろう。",
   "expression": "微笑",
@@ -6125,5 +6116,14 @@
     "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1lVmpYWVNFLTg5NGxTV1VkeFI4aTFxUkUtdDVmSHlmSWVLY1BBdkhjMjRCZFNrN095WTUtbW5HUVZWeFltZzVIQ0RsTUVOeEpPMndKTVFVdGw?oc=5"
    }
   ]
+ },
+ {
+  "at": "2026-10-21T20:45+09:00",
+  "text": "夜は雨になるやもしれぬ。傘を壁に掛け、湯を沸かす。今宵はそれでよろしい。",
+  "expression": "思案",
+  "scene": "life",
+  "lang": "ja",
+  "topic": null,
+  "links": []
  }
 ]
