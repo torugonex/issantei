@@ -1,25 +1,5 @@
 [
  {
-  "at": "2026-10-13T19:57+09:00",
-  "text": "戦の的が兵舎から計算機の部屋へ移る。昔は橋を落とし、今は電気を止める。人の争いは、道具だけが賢くなる。",
-  "expression": "憂い",
-  "scene": "regular",
-  "lang": "ja",
-  "topic": "なぜウクライナ軍はロシアのデータセンターを攻撃目標にしたのか 次のシナリオは？ #エキスパートトピ",
-  "links": [
-   {
-    "source": "Yahoo!ニュース",
-    "title": "なぜウクライナ軍はロシアのデータセンターを攻撃目標にしたのか 次のシナリオは？ #エキスパートトピ",
-    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOWWhUd0ZsbkVwTVcxakFxbExEUU9ITHlrR3ZiLWpNb000dGVjc2dXU3BHSXI4eUNNN0QxekltdEViSnd1WlRzanI3RnhFOUZmMzVzUHJkZElkLVRhTmxhQ3FGWEoxMTYwUU1nQlZMdHZ3WHl4QUVwSUpPcVpMWGZFZk1hcWdNVHB4?oc=5"
-   },
-   {
-    "source": "NHK",
-    "title": "【随時更新】ロシア ウクライナに軍事侵攻（10月13日の動き）",
-    "url": "https://news.web.nhk/newsweb/na/nd-20260930de53319"
-   }
-  ]
- },
- {
   "at": "2026-10-13T20:00+09:00",
   "text": "曇りの夜は、紅茶を濃いめに淹れる。頁が進まぬのもまた一興。",
   "expression": "思案",
@@ -6189,5 +6169,14 @@
     "url": "https://news.web.nhk/newsweb/na/nd-20261021de62520"
    }
   ]
+ },
+ {
+  "at": "2026-10-21T09:15+09:00",
+  "text": "新米を一合だけ炊いた。湯気の立つ白さに、今朝の曇り空も少し許せる。",
+  "expression": "微笑",
+  "scene": "life",
+  "lang": "ja",
+  "topic": null,
+  "links": []
  }
 ]
