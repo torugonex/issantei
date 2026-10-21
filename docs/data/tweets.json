@@ -1,25 +1,5 @@
 [
  {
-  "at": "2026-10-13T20:45+09:00",
-  "text": "賞の話題で、分析の手法にも光が当たる。縁の下の道具に目が向くのは、よい風だ。",
-  "expression": "微笑",
-  "scene": "regular",
-  "lang": "ja",
-  "topic": "ノーベル賞で注目 アミノ酸の分析で大阪大学など新手法を発表",
-  "links": [
-   {
-    "source": "NHKニュース",
-    "title": "ノーベル賞で注目 アミノ酸の分析で大阪大学など新手法を発表",
-    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1VQmtscjVnaWZxZGJJN2tCVmk5TEx4WVQ0MXFnT3J3cEpkWEItZ0VvY2lrWFcwbjVWQ2ZXZVBzNzdYYzRxenBvckUyOTlyOXcxVVdoX1BGQmg1SWUtX21j?oc=5"
-   },
-   {
-    "source": "NHK",
-    "title": "ノーベル賞で注目 アミノ酸の分析で大阪大学など新手法を発表",
-    "url": "https://news.web.nhk/newsweb/na/nd-20261013de58781"
-   }
-  ]
- },
- {
   "at": "2026-10-13T21:30+09:00",
   "text": "二十二年ぶりの無安打無得点。九人の守りと、球場の息あっての偉業なり。",
   "expression": "微笑",
@@ -6172,5 +6152,25 @@
   "lang": "ja",
   "topic": null,
   "links": []
+ },
+ {
+  "at": "2026-10-21T10:00+09:00",
+  "text": "A climate pledge and a gas licence, signed in the same week. Politics does enjoy a balancing act.",
+  "expression": "片眉を上げる",
+  "scene": "regular",
+  "lang": "en",
+  "topic": "Andy Burnham faces climate revolt after approval of North Sea gas drilling",
+  "links": [
+   {
+    "source": "Guardian",
+    "title": "Andy Burnham faces climate revolt after approval of North Sea gas drilling",
+    "url": "https://www.theguardian.com/environment/2026/oct/20/jackdaw-north-sea-gas-field-to-get-go-ahead-in-blow-to-climate-campaigners"
+   },
+   {
+    "source": "The Guardian",
+    "title": "Andy Burnham faces climate revolt after approval of North Sea gas drilling",
+    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPcVRqSjVSZnlzOFE4U3plWFdjdkE3RUUtV2RkUmtENnE0M0JBT0hPeXpFNlpvNzZUcm5mVkZCUnNpWjZhNVlOMHN3bGxBVmh3ZkMyRnFXUFc4bjh0TElXQ3BiSHlLeXNNSE1mR1Z3cGhGNkJUdm5mT25JMXZnTTZ0SHhpSURsaWo4eGMzeWlGMkRuZEM5MnE3cU1sdG5Tb1ZuY0ExTXduYUJTd0JYMGotXzN1ZUEtaDc0XzFZdFItdWRPZ2Vo?oc=5"
+   }
+  ]
  }
 ]
