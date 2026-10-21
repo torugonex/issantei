@@ -1,25 +1,5 @@
 [
  {
-  "at": "2026-10-14T07:00+09:00",
-  "text": "記者の仕事は見て聞いて書くこと。それを疑いの目で見られては、旅人も肩身が狭い。容疑の中身は未だ分からぬが。",
-  "expression": "思案",
-  "scene": "regular",
-  "lang": "ja",
-  "topic": "ロシア当局、北海道新聞記者拘束 サハリンで「スパイ容疑」（共同通信）",
-  "links": [
-   {
-    "source": "Yahoo!ニュース",
-    "title": "ロシア当局、北海道新聞記者拘束 サハリンで「スパイ容疑」（共同通信）",
-    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1XTmJadDlyVllJaTQtU1VFRDMzeW5ybmdOTGo5cVlacXh6VGNwR0JWLWNfUEhnWndMS3ZxSEhtWW5zdjA1X0FWSjNkcWxSM1A0ci1QZHdzMGhvSXF5S2hqZ0pmYXg5Y2FyaGFXOUhuY0ptR1NlSUI0bkZqUEVidjA?oc=5"
-   },
-   {
-    "source": "NHK",
-    "title": "ロシアが北海道新聞記者をスパイ容疑で拘束 治安機関が発表",
-    "url": "https://news.web.nhk/newsweb/na/nd-20261013de58917"
-   }
-  ]
- },
- {
   "at": "2026-10-14T07:30+09:00",
   "text": "朝の紅茶は濃いめに。雷の前触れか、頭がどうも重い。傘は玄関に控えさせてある。",
   "expression": "思案",
@@ -6181,6 +6161,21 @@
     "source": "Sky News",
     "title": "Suspect arrested in France after fire at Limoges city hall",
     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOZnNfbFBSSk9rdV83STViS2dvN2NBai1ZMzJfME9jY09fWUZudkh1bVFIVUR5RFZXUTg5SkRxWkJCMDFTdUwtN1VxZEUxTHFwai16ekxHZUpZVFYtS3ZWTWdVdkdmUVhHejZSUVVXbVNvLWt2czQtM0NaREcxQmdXY3Zsa1ZoS2pXOE9rUVZiTm5ZS2JGak5RclR3?oc=5"
+   }
+  ]
+ },
+ {
+  "at": "2026-10-21T12:45+09:00",
+  "text": "怪しい日本語の拙さが目印だったのに。機械が直してしまうと、人は何を頼りにするのやら。",
+  "expression": "片眉を上げる",
+  "scene": "regular",
+  "lang": "ja",
+  "topic": "不正アクセス発信源は中国か…生成AIが「日本語の壁」突破 犯行組織細分化で追跡は困難",
+  "links": [
+   {
+    "source": "産経ニュース",
+    "title": "不正アクセス発信源は中国か…生成AIが「日本語の壁」突破 犯行組織細分化で追跡は困難",
+    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1SR2l4Z0FOT19QdHFCTnlGdy1jOU1XcG9pclZaWDd0YzBpaVdybTVuZUx3N0VtVV9jVHdNMEpWaE1vRkJIOXh6eHVrWm55aXRpbmlPSWpqMmN3ZXpMd2E2a1J2bjNtVkpSQmxGVjRoQkVBc1N1anc?oc=5"
    }
   ]
  }

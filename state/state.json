@@ -1,9 +1,9 @@
 {
  "mood": {
-  "valence": -0.176,
-  "arousal": -0.134
+  "valence": -0.207,
+  "arousal": -0.101
  },
- "since_sarcasm": 9,
+ "since_sarcasm": 0,
  "day": "2026-10-21",
  "morning_done": true,
  "goodnight_done": false,
@@ -91,13 +91,10 @@
   "a56e1a1341f1": "2026-10-21T11:15:18.367436+09:00",
   "cdeba5433b9e": "2026-10-21T12:00:42.794034+09:00",
   "d9fb1e529cbe": "2026-10-21T12:15:18.859266+09:00",
-  "000eb54296fb": "2026-10-21T12:30:31.984125+09:00"
+  "000eb54296fb": "2026-10-21T12:30:31.984125+09:00",
+  "25f60a83676b": "2026-10-21T12:45:20.353482+09:00"
  },
  "commented_titles": [
-  {
-   "title": "【速報】新名神の6人死亡事故 トラックを運転していた女に拘禁刑7年の判決 女はスマホ見ながら時速約82キロで運転 津地裁 三重",
-   "at": "2026-10-20T12:45:16.933372+09:00"
-  },
   {
    "title": "Ukraine says it carried out first drone airlift of wounded soldier from front line",
    "at": "2026-10-20T13:00:35.088464+09:00"
@@ -245,12 +242,16 @@
   {
    "title": "Suspect arrested after historic town hall set alight - French media",
    "at": "2026-10-21T12:30:31.984125+09:00"
+  },
+  {
+   "title": "不正アクセス発信源は中国か…生成AIが「日本語の壁」突破 犯行組織細分化で追跡は困難",
+   "at": "2026-10-21T12:45:20.353482+09:00"
   }
  ],
- "last_quake_check": "2026-10-21T12:30:31.984125+09:00",
- "since_english": 1,
+ "last_quake_check": "2026-10-21T12:45:20.353482+09:00",
+ "since_english": 2,
  "next_english": 5,
- "last_tick": "2026-10-21T12:30:31.984125+09:00",
+ "last_tick": "2026-10-21T12:45:20.353482+09:00",
  "french_day": "2026-10-21",
  "french_done": false,
  "french_after": 806
