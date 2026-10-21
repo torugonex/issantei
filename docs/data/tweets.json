@@ -1,14 +1,5 @@
 [
  {
-  "at": "2026-10-14T14:00+09:00",
-  "text": "秋桜が風に揺れている。雷雲を待つ間、傘をついてしばし眺めた。",
-  "expression": "思案",
-  "scene": "life",
-  "lang": "ja",
-  "topic": null,
-  "links": []
- },
- {
   "at": "2026-10-14T14:15+09:00",
   "text": "十五分の会見。長くても短くても、人は何か言うものだ。",
   "expression": "片眉を上げる",
@@ -6138,6 +6129,21 @@
     "source": "ナタリー",
     "title": "「暁のヨナ」美麗なイラストのカード付きウエハースが11月に発売",
     "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE44ck5yR1VKNTRNQlh2ODdCMGQ2X0hvYWtQZzdnM05lbnRjMWZpRDZaUzNtdDk2cV82RGNvMUx3UVBOb3dmYTdRSDE4RVA?oc=5"
+   }
+  ]
+ },
+ {
+  "at": "2026-10-21T18:33+09:00",
+  "text": "同居の女性が亡くなったという。経緯はまだ霧の中だ。言葉もない。",
+  "expression": "憂い",
+  "scene": "regular",
+  "lang": "ja",
+  "topic": "「パートナーの意識がない」同居女性を暴行し死亡させたか 38歳女を逮捕 調べに黙秘 東京・西東京市",
+  "links": [
+   {
+    "source": "Yahoo!ニュース",
+    "title": "「パートナーの意識がない」同居女性を暴行し死亡させたか 38歳女を逮捕 調べに黙秘 東京・西東京市",
+    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE54VDdPczNNdjVWTDVKUVBkWlZGWndLRHdBQ3ZyMVluRzY2UktDTE9YMWVyUW1hSHdUdml5b3gyWlpndjhjMV9IZjYyUEI2RG9LWDRMTXQzaEZqZC05NGd4RHJCSzdKZXdXVmw2OE9vQVp0QWYyTmIzWDY1SVR3Uzg?oc=5"
    }
   ]
  }
