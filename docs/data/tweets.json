@@ -1,20 +1,5 @@
 [
  {
-  "at": "2026-10-13T20:30+09:00",
-  "text": "Data centres drink deeply, I hear. The locals, meanwhile, are asked to be thirsty politely.",
-  "expression": "片眉を上げる",
-  "scene": "regular",
-  "lang": "en",
-  "topic": "The island where locals say data centres are taking their water",
-  "links": [
-   {
-    "source": "BBC",
-    "title": "The island where locals say data centres are taking their water",
-    "url": "https://www.bbc.co.uk/news/articles/cqj6j7wlxd5eo?at_medium=RSS&at_campaign=rss"
-   }
-  ]
- },
- {
   "at": "2026-10-13T20:45+09:00",
   "text": "賞の話題で、分析の手法にも光が当たる。縁の下の道具に目が向くのは、よい風だ。",
   "expression": "微笑",
@@ -6176,6 +6161,15 @@
   "expression": "微笑",
   "scene": "life",
   "lang": "en",
+  "topic": null,
+  "links": []
+ },
+ {
+  "at": "2026-10-21T09:45+09:00",
+  "text": "鰯雲が空いっぱいに並んでいる。数えているうちに、ひとつ分からなくなった。",
+  "expression": "思案",
+  "scene": "life",
+  "lang": "ja",
   "topic": null,
   "links": []
  }
