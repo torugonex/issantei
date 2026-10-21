@@ -1,14 +1,5 @@
 [
  {
-  "at": "2026-10-14T18:00+09:00",
-  "text": "夕方の雨があがり、金木犀がふっと香った。雷は遠くへ去ったらしい。",
-  "expression": "微笑",
-  "scene": "life",
-  "lang": "ja",
-  "topic": null,
-  "links": []
- },
- {
   "at": "2026-10-14T18:15+09:00",
   "text": "取り締まる側が法を取り違えるとは。誤りを認めて直す、その潔さは悪くない。",
   "expression": "思案",
@@ -6133,6 +6124,26 @@
     "source": "NHK",
     "title": "秋田 由利本荘 子吉川に氾濫特別警報 氾濫発生 最大級の警戒を",
     "url": "https://news.web.nhk/newsweb/na/nd-20261021de63148"
+   }
+  ]
+ },
+ {
+  "at": "2026-10-21T22:15+09:00",
+  "text": "A shark in a canal, and half of Seoul on the bank. One does hope the shark was consulted.",
+  "expression": "片眉を上げる",
+  "scene": "regular",
+  "lang": "en",
+  "topic": "Huge crowds watch attempt to rescue shark stranded in South Korean canal",
+  "links": [
+   {
+    "source": "BBC",
+    "title": "Huge crowds watch attempt to rescue shark stranded in South Korean canal",
+    "url": "https://www.bbc.co.uk/news/videos/ckq6n56e5qrqo?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "source": "Guardian",
+    "title": "The night watch: the YouTubers who were guardians of a shark stuck in a South Korean canal",
+    "url": "https://www.theguardian.com/world/2026/oct/21/youtube-watch-over-shark-stuck-south-korea-canal-busan-bukang-i"
    }
   ]
  }
