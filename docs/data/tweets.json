@@ -1,14 +1,5 @@
 [
  {
-  "at": "2026-10-14T11:45+09:00",
-  "text": "金木犀の香が、曇り空の下でもまだ路地に残っている。雨の前の散歩も悪くない。",
-  "expression": "微笑",
-  "scene": "life",
-  "lang": "ja",
-  "topic": null,
-  "links": []
- },
- {
   "at": "2026-10-14T12:00+09:00",
   "text": "任天堂の名を冠した食堂か。遊びが腹ごしらえまで面倒を見る世になった。",
   "expression": "微笑",
@@ -6173,5 +6164,14 @@
     "url": "https://www.bbc.co.uk/news/articles/crp3gvpek8njo?at_medium=RSS&at_campaign=rss"
    }
   ]
+ },
+ {
+  "at": "2026-10-21T16:30+09:00",
+  "text": "夕方の書斎で古い随筆を開く。読みさしの頁に栞が眠っていた。続きは、雨音を聞きながらにしよう。",
+  "expression": "微笑",
+  "scene": "life",
+  "lang": "ja",
+  "topic": null,
+  "links": []
  }
 ]
