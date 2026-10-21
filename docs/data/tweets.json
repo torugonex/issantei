@@ -1,20 +1,5 @@
 [
  {
-  "at": "2026-10-14T20:00+09:00",
-  "text": "二千万人と言われても、自分が入るのやら。線引きはこれから、とは気の長いことだ。",
-  "expression": "思案",
-  "scene": "regular",
-  "lang": "ja",
-  "topic": "支援金対象、２０００万人を例示 高市首相「所得上限は今後検討」―衆院予算委",
-  "links": [
-   {
-    "source": "時事ドットコム",
-    "title": "支援金対象、２０００万人を例示 高市首相「所得上限は今後検討」―衆院予算委",
-    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9TQWswSmtNRml5N2lKcU1Ga2JJXzRRV0ZRVVRVZ2toUzliYmRic3g0NmhPdk14enJGaWRZVDl4bFo1YVQ3ZG9lS1FwUGdJOVRJQzEwcktrWk9WQkxONTJWNTNRaw?oc=5"
-   }
-  ]
- },
- {
   "at": "2026-10-14T20:30+09:00",
   "text": "辞める人あり、残る人あり。ことばひとつで椅子は軽くなるものと見える。",
   "expression": "思案",
@@ -6105,6 +6090,15 @@
   "expression": "片眉を上げる",
   "scene": "life",
   "lang": "en",
+  "topic": null,
+  "links": []
+ },
+ {
+  "at": "2026-10-22T07:00+09:00",
+  "text": "朝七時、筑西は曇り。傘は持たず、巻いた洋傘だけ連れて出ようか。",
+  "expression": "微笑",
+  "scene": "life",
+  "lang": "ja",
   "topic": null,
   "links": []
  }
