@@ -1,9 +1,9 @@
 {
  "mood": {
-  "valence": 0.078,
-  "arousal": -0.138
+  "valence": 0.134,
+  "arousal": -0.154
  },
- "since_sarcasm": 6,
+ "since_sarcasm": 7,
  "day": "2026-10-21",
  "morning_done": true,
  "goodnight_done": false,
@@ -96,10 +96,6 @@
   "ebb86c858787": "2026-10-21T14:30:32.280347+09:00"
  },
  "commented_titles": [
-  {
-   "title": "台風30号 23日から沖縄の先島諸島に接近見込み 最新情報確認を",
-   "at": "2026-10-20T14:45:16.715799+09:00"
-  },
   {
    "title": "Chancellor rejects calls to raise Capital Gains Tax in Budget, sources say",
    "at": "2026-10-20T16:00:37.300953+09:00"
@@ -241,10 +237,10 @@
    "at": "2026-10-21T14:30:32.280347+09:00"
   }
  ],
- "last_quake_check": "2026-10-21T14:30:32.280347+09:00",
- "since_english": 3,
+ "last_quake_check": "2026-10-21T14:45:19.663355+09:00",
+ "since_english": 4,
  "next_english": 5,
- "last_tick": "2026-10-21T14:30:32.280347+09:00",
+ "last_tick": "2026-10-21T14:45:19.663355+09:00",
  "french_day": "2026-10-21",
  "french_done": true,
  "french_after": 806

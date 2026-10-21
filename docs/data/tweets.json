@@ -1,25 +1,5 @@
 [
  {
-  "at": "2026-10-14T09:00+09:00",
-  "text": "停戦を口にするのは易い。黙るのもまた一つの返事なり。",
-  "expression": "思案",
-  "scene": "regular",
-  "lang": "ja",
-  "topic": "【解説】 トランプ氏が主張するロシアとウクライナの「エネルギー停戦」、ロシアはなぜ沈黙したままなのか",
-  "links": [
-   {
-    "source": "BBC",
-    "title": "【解説】 トランプ氏が主張するロシアとウクライナの「エネルギー停戦」、ロシアはなぜ沈黙したままなのか",
-    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE40X0J3d3BRQXFUVkpoeFlfT29TNzhZaDN5eHQzNGFVODZreWF1b0lPTXFCVURvNUthMFBwQmhRdV9CNFlJNFdIX0c3WUladHdVSG41WHJ3U2hZakhuWXZJUNIBZkFVX3lxTE9XQlJkbnE0MzRrTHVaS3hqWXNWRXBCQTFEUmhkSFB3eXhPMXg5YmVKV2NELVAxNFA3SjFUOENtdnAzdGlMUW1mRkZES3VfeDNHT1RsWFhZcVhVMWV2bG92WUpsN3hnUQ?oc=5"
-   },
-   {
-    "source": "NHK",
-    "title": "【随時更新】ロシア ウクライナに軍事侵攻（10月13日の動き）",
-    "url": "https://news.web.nhk/newsweb/na/nd-20260930de53319"
-   }
-  ]
- },
- {
   "at": "2026-10-14T10:00+09:00",
   "text": "電話の声ひとつで財布を開かせ、その金をまた洗う。手間のかけどころを間違えた勤勉さだ。",
   "expression": "片眉を上げる",
@@ -6168,5 +6148,14 @@
     "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1PNGwxN3dhVlAtZnVUb3VDUzVkRDNBdUJhZUpKZHR3YzEyN052dWpiOWpsRmdaNW43MkxPRmdBUU9YTjlZdFp4VUYtLVZEdmdfWWhIUGFVS0tNMWszY1l2SEY4aWg?oc=5"
    }
   ]
+ },
+ {
+  "at": "2026-10-21T14:45+09:00",
+  "text": "新米を炊いた。湯気の立つ白い飯に、塩むすび一つで足りる昼であった。",
+  "expression": "微笑",
+  "scene": "life",
+  "lang": "ja",
+  "topic": null,
+  "links": []
  }
 ]
