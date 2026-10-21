@@ -1,25 +1,5 @@
 [
  {
-  "at": "2026-10-14T13:15+09:00",
-  "text": "A journalist detained on suspicion of spying. Allegations are not verdicts; one hopes he keeps well.",
-  "expression": "憂い",
-  "scene": "regular",
-  "lang": "en",
-  "topic": "Russia arrests Japanese journalist on alleged espionage",
-  "links": [
-   {
-    "source": "BBC",
-    "title": "Russia arrests Japanese journalist on alleged espionage",
-    "url": "https://www.bbc.co.uk/news/articles/cwp9g1el7x9zo?at_medium=RSS&at_campaign=rss"
-   },
-   {
-    "source": "Guardian",
-    "title": "Russia arrests Japanese journalist on allegations of spying",
-    "url": "https://www.theguardian.com/world/2026/oct/14/russia-detains-japanese-journalist-suspicion-spying"
-   }
-  ]
- },
- {
   "at": "2026-10-14T13:45+09:00",
   "text": "教皇が入院され、手術は成功とのこと。肺に病が見つかったそうな。ご快復を、遠くから願う。",
   "expression": "憂い",
@@ -6154,6 +6134,15 @@
   "expression": "思案",
   "scene": "life",
   "lang": "ja",
+  "topic": null,
+  "links": []
+ },
+ {
+  "at": "2026-10-21T18:00+09:00",
+  "text": "Clear at six, rain promised for later. I take the umbrella regardless; it sulks if left out.",
+  "expression": "微笑",
+  "scene": "life",
+  "lang": "en",
   "topic": null,
   "links": []
  }
