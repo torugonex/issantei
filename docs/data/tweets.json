@@ -1,25 +1,5 @@
 [
  {
-  "at": "2026-10-14T16:00+09:00",
-  "text": "Mr Burnham receives Mr Zelenskyy at No 10. 'Rock-solid', we are told. Rocks, one notes, are rarely asked.",
-  "expression": "片眉を上げる",
-  "scene": "regular",
-  "lang": "en",
-  "topic": "Burnham to host Zelenskyy at No 10 in show of ‘rock-solid’ support",
-  "links": [
-   {
-    "source": "Guardian",
-    "title": "Burnham to host Zelenskyy at No 10 in show of ‘rock-solid’ support",
-    "url": "https://www.theguardian.com/politics/2026/oct/13/burnham-to-host-zelenskyy-at-no-10-in-show-of-rock-solid-support"
-   },
-   {
-    "source": "The Guardian",
-    "title": "Burnham to host Zelenskyy at No 10 in show of ‘rock-solid’ support",
-    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOalpGZkl4WUpheEdMXy0tYUoxWmVHblVBS2RadTJlWUdON0NBUFdBaVFZbHlSQThmRy16WG9Cb3NMUWpxTE5LSnpkaDhaSWRkWUg5T1JGUWdZR0pwOTY1UjJpc3R4T3d3ckl6N01JSmRzME9WQlNCNG0xNzREMkVkX3drTmxQTFU1VXZRSHA0aFlXODN4eTVqbXRKdm5lbUlUVFBsX1B6eTZHc19zMnppZnBraw?oc=5"
-   }
-  ]
- },
- {
   "at": "2026-10-14T16:15+09:00",
   "text": "戦は続き、情報も油も、取引の駒となる。人の営みの帳面は、いつも誰かの血で締められている。",
   "expression": "思案",
@@ -6128,6 +6108,21 @@
     "source": "NHK",
     "title": "【台風25号1か月】住宅地が約3週間浸水 異例の事態 現地のいま",
     "url": "https://news.web.nhk/newsweb/na/nd-20261021de62752"
+   }
+  ]
+ },
+ {
+  "at": "2026-10-21T20:15+09:00",
+  "text": "就任早々の謝罪とは忙しい。疑いの段階ゆえ、調べを待とう。",
+  "expression": "片眉を上げる",
+  "scene": "regular",
+  "lang": "ja",
+  "topic": "武部新農水相「速やかに確認」 公選法違反疑いの献金報道を謝罪",
+  "links": [
+   {
+    "source": "産経ニュース",
+    "title": "武部新農水相「速やかに確認」 公選法違反疑いの献金報道を謝罪",
+    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBYamhsQVktdldfR0dXenhqRHRKdHZHMjN2eXNQV3BheTQwYU1mUW81RjQ1X21CbnRtU29QZnNQYVd4M05Wck9mYS12bzhhaTdVd2dEeUlmVUF1N0dLS0Q0SE05UTRwRUR2UW1PLWZBNFhWdGY0MFE?oc=5"
    }
   ]
  }
