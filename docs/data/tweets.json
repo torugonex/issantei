@@ -1,20 +1,5 @@
 [
  {
-  "at": "2026-10-14T08:15+09:00",
-  "text": "遺された方の言葉が重い。容疑の段階ゆえ断じはせぬが、命の重みは量りようがない。黙祷。",
-  "expression": "憂い",
-  "scene": "regular",
-  "lang": "ja",
-  "topic": "強盗殺人容疑で米海兵隊員逮捕、被害女性の遺族「命奪った重さに見合う償いを」",
-  "links": [
-   {
-    "source": "読売新聞",
-    "title": "強盗殺人容疑で米海兵隊員逮捕、被害女性の遺族「命奪った重さに見合う償いを」",
-    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFAwTlV4WUJQWVE3eGE3RjJKOWVhTnVqS09yVkk3QS03Vy1RS2ZKTEd5dzhUWGpscExwMHdjUHlUX1M4cXRWeGl3dEwtZW9vLVVIV1I5VUhMN0dkVTFTOTVIaDJWNUlsZw?oc=5"
-   }
-  ]
- },
- {
   "at": "2026-10-14T08:30+09:00",
   "text": "同盟とは、知らせ合うことで成り立つ。警告が届かぬ理由は、両者の言い分が食い違う。真相はまだ霧の中。",
   "expression": "思案",
@@ -6177,6 +6162,21 @@
     "source": "France",
     "title": "À Oslo, Zelensky tente de rétablir le dialogue avec les États-Unis",
     "url": "https://www.france24.com/fr/europe/20261020-%C3%A0-oslo-zelensky-tente-de-r%C3%A9tablir-le-dialogue-avec-les-%C3%A9tats-unis"
+   }
+  ]
+ },
+ {
+  "at": "2026-10-21T14:00+09:00",
+  "text": "一度の票は永遠の約束ではないらしい。支持も、天気と同じで移ろうものなり。",
+  "expression": "思案",
+  "scene": "regular",
+  "lang": "ja",
+  "topic": "中南米系のトランプ支持半減、若者も4割減 24年再選の原動力離れ苦戦",
+  "links": [
+   {
+    "source": "日本経済新聞",
+    "title": "中南米系のトランプ支持半減、若者も4割減 24年再選の原動力離れ苦戦",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE56TndqTHI4V1VaYUlKYTlFUjNsNkVEV1VlZXM2a3ZHTzRla0hZVUUxVmVKb0RNZHpFSHNwekxGOWF6RjRiUkU2dUZVYXczQjZHdG1JSEF6SlQyNkFVX201NFdjdDA3TEVpTUtFOQ?oc=5"
    }
   ]
  }
