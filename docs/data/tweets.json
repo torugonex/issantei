@@ -1,20 +1,5 @@
 [
  {
-  "at": "2026-10-14T10:00+09:00",
-  "text": "電話の声ひとつで財布を開かせ、その金をまた洗う。手間のかけどころを間違えた勤勉さだ。",
-  "expression": "片眉を上げる",
-  "scene": "regular",
-  "lang": "ja",
-  "topic": "「ボイスフィッシング」被害金洗浄か グループを摘発",
-  "links": [
-   {
-    "source": "NHK",
-    "title": "「ボイスフィッシング」被害金洗浄か グループを摘発",
-    "url": "https://news.web.nhk/newsweb/na/nd-20261013de58876"
-   }
-  ]
- },
- {
   "at": "2026-10-14T10:45+09:00",
   "text": "まだ渦にもならぬ卵に、上陸の算段か。気象屋も気の早いことだ。",
   "expression": "思案",
@@ -6157,5 +6142,25 @@
   "lang": "ja",
   "topic": null,
   "links": []
+ },
+ {
+  "at": "2026-10-21T15:00+09:00",
+  "text": "Auditors now study City's books. One does hope the sums are tidier than the headlines.",
+  "expression": "片眉を上げる",
+  "scene": "regular",
+  "lang": "en",
+  "topic": "Audit regulator looking into Manchester City accounting",
+  "links": [
+   {
+    "source": "BBC",
+    "title": "Audit regulator looking into Manchester City accounting",
+    "url": "https://www.bbc.co.uk/news/articles/cm93z1xlgqxqo?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "source": "The Guardian",
+    "title": "Football regulator has ‘absolute power’ to force Manchester City sale if verdict upheld",
+    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNWWkwUEctMS0tN25IcnA3cmRHMzBFUzBhX2xWM1cwMHRSelpJVHdRX3F1NkJIS19ETXVmWWhLbEFFRFJlRlBad2JSY1h2dkNTU3pOLXdDT004Z2d5a1JjU1lsczMzU1RwamVmampxd2MtRjJ1UXdfemtVRVZuVkVIVE0xRWEyNUgxRGVuQ2dqcVVUQ0p6WlgwSkJMX3VLUzJrWGhybjZWOXdSenc?oc=5"
+   }
+  ]
  }
 ]
