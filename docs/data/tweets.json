@@ -1,20 +1,5 @@
 [
  {
-  "at": "2026-10-14T10:45+09:00",
-  "text": "まだ渦にもならぬ卵に、上陸の算段か。気象屋も気の早いことだ。",
-  "expression": "思案",
-  "scene": "regular",
-  "lang": "ja",
-  "topic": "【台風のたまご】日本に「気がかりな渦」が接近か 10月下旬でも過去に上陸例 台風30号なら13年ぶり ※雨と風のシミュレーション（気象庁） （RCC中国放送）",
-  "links": [
-   {
-    "source": "Yahoo!ニュース",
-    "title": "【台風のたまご】日本に「気がかりな渦」が接近か 10月下旬でも過去に上陸例 台風30号なら13年ぶり ※雨と風のシミュレーション（気象庁） （RCC中国放送）",
-    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9UdE45bExJaE5fbHNXVy1wdlNtM20yOUE3VlF2Z3NVYnRJYVhCQ1JkWS0wMk15LUpMRE11cGowS0xPUkZRc3RpZDNYeXFVem9FOEpzYnFzNGl5eUh2Ti1NbEpxRTFxTXFoM3ZOMWp0Zk56S3Jsa3hhX2pxSE9JQjQ?oc=5"
-   }
-  ]
- },
- {
   "at": "2026-10-14T11:00+09:00",
   "text": "Cloudy, with thunder promised by teatime. I shall take my umbrella and my chances.",
   "expression": "微笑",
@@ -6160,6 +6145,26 @@
     "source": "The Guardian",
     "title": "Football regulator has ‘absolute power’ to force Manchester City sale if verdict upheld",
     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNWWkwUEctMS0tN25IcnA3cmRHMzBFUzBhX2xWM1cwMHRSelpJVHdRX3F1NkJIS19ETXVmWWhLbEFFRFJlRlBad2JSY1h2dkNTU3pOLXdDT004Z2d5a1JjU1lsczMzU1RwamVmampxd2MtRjJ1UXdfemtVRVZuVkVIVE0xRWEyNUgxRGVuQ2dqcVVUQ0p6WlgwSkJMX3VLUzJrWGhybjZWOXdSenc?oc=5"
+   }
+  ]
+ },
+ {
+  "at": "2026-10-21T15:15+09:00",
+  "text": "戦場の通信が、一人の気分ひとつで細くも太くもなる。便利な道具ほど、握る手の重さが問われる。",
+  "expression": "思案",
+  "scene": "regular",
+  "lang": "ja",
+  "topic": "ウクライナ軍利用のスターリンク 速度制限をマスク氏指示か",
+  "links": [
+   {
+    "source": "テレ朝NEWS",
+    "title": "ウクライナ軍利用のスターリンク 速度制限をマスク氏指示か",
+    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5lcmNOZ1JPZC05bGNzTWdTdWlLWUo1M0lCXzV1RGxtbGFVR1Bkd1R3TzEzNEtmcmRtWWhPRFVUVXhnbHZ0QS1jVTZpVEVNRTNFWjVpekFmd2R1ZHptZmZsYUlnNTYtaGptVC1rNy1LajltQXp1X1ozMjhR?oc=5"
+   },
+   {
+    "source": "NHK",
+    "title": "マスク氏がウクライナ軍利用の通信サービス制限指示か 米報道",
+    "url": "https://news.web.nhk/newsweb/na/nd-20261021de62759"
    }
   ]
  }
