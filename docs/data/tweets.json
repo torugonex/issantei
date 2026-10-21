@@ -1,25 +1,5 @@
 [
  {
-  "at": "2026-10-13T21:45+09:00",
-  "text": "A rollercoaster, one dead, others hurt. A day of pleasure ended so cruelly. Rest in peace.",
-  "expression": "憂い",
-  "scene": "regular",
-  "lang": "en",
-  "topic": "One dead and several hurt after rollercoaster incident at Six Flags",
-  "links": [
-   {
-    "source": "BBC",
-    "title": "One dead and several hurt after rollercoaster incident at Six Flags",
-    "url": "https://www.bbc.co.uk/news/articles/c6n4ejx8x1z7o?at_medium=RSS&at_campaign=rss"
-   },
-   {
-    "source": "Al Jazeera",
-    "title": "One killed, several injured in Georgia rollercoaster ‘incident’",
-    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPUlh1a3VLSzA3VEc1UGN0Z2hRMU9LSGZSVHlmZGZoSUNJV3FMVGt0TEtsazN3dlFQbmpmUmJwOFUxVGZSbVYtT3AxOWs5Um9aZE5pWFBKcW0yNWM3TWtKQ1RtNUVIQ0lzd2pSS20xTnpTRnFoS016NFZSRnA0NnBrWk1RREJHZWw0d2ZGN2M3S1Rnb1lvRUI1dNIBngFBVV95cUxOdU1ydDBueXYzcGJ1b3kwdVlzdjdvaTBYNTY3MjhoclNwOXJCQXcyWWJNVmxXMGppZzBmT3BDb0gzY3VWc1F5cUQ5QTRXMTlXS0stWXAyR2MxN1hoUVhvTzhjVFhGTUFUZHFHQ2NDa05PUTdNaWZRajFRRk1jRmMzNHI0ZG4yLU43MEJIQTdRWGloUmRtR2MxeTA1ZnFIUQ?oc=5"
-   }
-  ]
- },
- {
   "at": "2026-10-13T22:00+09:00",
   "text": "地下の工事ほど、お天道様の目が届かぬと思ったか。仲良しの輪は、頑丈なことだ。",
   "expression": "呆れのため息",
@@ -6175,6 +6155,21 @@
     "source": "NHK",
     "title": "イーロン・マスク氏 スペースXとテスラの統合を特別委で議論",
     "url": "https://news.web.nhk/newsweb/na/nd-20261021de62558"
+   }
+  ]
+ },
+ {
+  "at": "2026-10-21T10:30+09:00",
+  "text": "1,400 jobs gone, and the bookmaker blames the taxman. Even the house, it seems, dislikes paying its share.",
+  "expression": "思案",
+  "scene": "regular",
+  "lang": "en",
+  "topic": "Paddy Power cuts 1,400 jobs and blames betting tax rises",
+  "links": [
+   {
+    "source": "BBC",
+    "title": "Paddy Power cuts 1,400 jobs and blames betting tax rises",
+    "url": "https://www.bbc.co.uk/news/articles/cqzrdpkm3g84o?at_medium=RSS&at_campaign=rss"
    }
   ]
  }

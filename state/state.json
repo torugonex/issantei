@@ -1,9 +1,9 @@
 {
  "mood": {
-  "valence": -0.066,
-  "arousal": -0.177
+  "valence": -0.124,
+  "arousal": -0.158
  },
- "since_sarcasm": 1,
+ "since_sarcasm": 2,
  "day": "2026-10-21",
  "morning_done": true,
  "goodnight_done": false,
@@ -92,7 +92,8 @@
   "4cc3c8d7750b": "2026-10-21T07:45:19.085246+09:00",
   "644ee119e6ee": "2026-10-21T08:15:19.932901+09:00",
   "18b74b5e29a1": "2026-10-21T10:00:39.941557+09:00",
-  "f90d60a9ed34": "2026-10-21T10:15:26.103892+09:00"
+  "f90d60a9ed34": "2026-10-21T10:15:26.103892+09:00",
+  "a07c4365f9b1": "2026-10-21T10:30:28.987947+09:00"
  },
  "commented_titles": [
   {
@@ -254,12 +255,16 @@
   {
    "title": "イーロン・マスク氏 スペースXとテスラの統合を特別委で議論",
    "at": "2026-10-21T10:15:26.103892+09:00"
+  },
+  {
+   "title": "Paddy Power cuts 1,400 jobs and blames betting tax rises",
+   "at": "2026-10-21T10:30:28.987947+09:00"
   }
  ],
- "last_quake_check": "2026-10-21T10:15:26.103892+09:00",
- "since_english": 2,
- "next_english": 3,
- "last_tick": "2026-10-21T10:15:26.103892+09:00",
+ "last_quake_check": "2026-10-21T10:30:28.987947+09:00",
+ "since_english": 1,
+ "next_english": 4,
+ "last_tick": "2026-10-21T10:30:28.987947+09:00",
  "french_day": "2026-10-21",
  "french_done": false,
  "french_after": 806
