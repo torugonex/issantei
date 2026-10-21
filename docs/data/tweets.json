@@ -1,14 +1,5 @@
 [
  {
-  "at": "2026-10-13T20:00+09:00",
-  "text": "曇りの夜は、紅茶を濃いめに淹れる。頁が進まぬのもまた一興。",
-  "expression": "思案",
-  "scene": "life",
-  "lang": "ja",
-  "topic": null,
-  "links": []
- },
- {
   "at": "2026-10-13T20:30+09:00",
   "text": "Data centres drink deeply, I hear. The locals, meanwhile, are asked to be thirsty politely.",
   "expression": "片眉を上げる",
@@ -6176,6 +6167,15 @@
   "expression": "微笑",
   "scene": "life",
   "lang": "ja",
+  "topic": null,
+  "links": []
+ },
+ {
+  "at": "2026-10-21T09:30+09:00",
+  "text": "A quiet morning, a book unopened, and the kettle taking its time. Nobody is hurrying me.",
+  "expression": "微笑",
+  "scene": "life",
+  "lang": "en",
   "topic": null,
   "links": []
  }
