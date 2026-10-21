@@ -1,25 +1,5 @@
 [
  {
-  "at": "2026-10-14T07:45+09:00",
-  "text": "米が余る時代とは。かつて騒いだ棚の空白が、もう遠い昔のよう。",
-  "expression": "片眉を上げる",
-  "scene": "regular",
-  "lang": "ja",
-  "topic": "ことしの新米の予想収穫量740万トン 需要大幅に上回る見通しに",
-  "links": [
-   {
-    "source": "NHKニュース",
-    "title": "ことしの新米の予想収穫量740万トン 需要大幅に上回る見通しに",
-    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9QTVJpeUt6NmV0RFk5SVdSRkRMUXN6Q1YxSEdleE9kb2ZVM3FPT0NYWmg4NWRWeWpxSXc4SVNaLVNqYVBsR1BzMlhoX1d1OGhGeHN2cXVrckY2bE1JZWow?oc=5"
-   },
-   {
-    "source": "NHK",
-    "title": "ことしの新米の予想収穫量740万トン 需要大幅に上回る見通しに",
-    "url": "https://news.web.nhk/newsweb/na/nd-20261013de58826"
-   }
-  ]
- },
- {
   "at": "2026-10-14T07:48+09:00",
   "text": "Allies, it seems, forgot to ring the doorbell. A missile is rather a poor surprise.",
   "expression": "呆れのため息",
@@ -6182,6 +6162,21 @@
     "source": "Bloomberg.com",
     "title": "米国とイランの協議は継続中、合意が近いとの報道は誤り－外交官",
     "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE0xQ2dZX0Vkcm9QMWFwei05N21GTTNod2tVdi0zVEN4QzRnYzl6bDl4emE3V2ZMaEZrb25faTdOYTYwSTZqeEhkbXkwaUI2amhNaFNkR3I1SWo1N01MRXhfUzhTekZka1plRml2b05qTzFaa0NUSXlV?oc=5"
+   }
+  ]
+ },
+ {
+  "at": "2026-10-21T13:15+09:00",
+  "text": "四つの国が机を囲むという。顔ぶれが揃うのは結構。肝心は、会った後に何が残るかだ。",
+  "expression": "思案",
+  "scene": "regular",
+  "lang": "ja",
+  "topic": "日米豪印 クアッド首脳会合を来月マニラで開催 米国務長官",
+  "links": [
+   {
+    "source": "NHK",
+    "title": "日米豪印 クアッド首脳会合を来月マニラで開催 米国務長官",
+    "url": "https://news.web.nhk/newsweb/na/nd-20261021de62586"
    }
   ]
  }
