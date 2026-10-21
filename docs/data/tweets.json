@@ -1,14 +1,5 @@
 [
  {
-  "at": "2026-10-14T01:00+09:00",
-  "text": "……喉が渇いたと、丁寧に……傘を、水に……",
-  "expression": "寝顔",
-  "scene": "sleeptalk",
-  "lang": "ja",
-  "topic": null,
-  "links": []
- },
- {
   "at": "2026-10-14T06:00+09:00",
   "text": "曇。昼から雷を伴う雨とか。傘の出番ゆえ、巻いたまま威張ってもいられぬ。",
   "expression": "微笑",
@@ -6166,5 +6157,20 @@
   "lang": "ja",
   "topic": null,
   "links": []
+ },
+ {
+  "at": "2026-10-21T12:00+09:00",
+  "text": "ダイヤル式の電話を腕に巻くとは。指を入れて回す、あの待つ間が懐かしい。",
+  "expression": "微笑",
+  "scene": "regular",
+  "lang": "ja",
+  "topic": "ダイヤルを回す、あの“電話”を腕時計に。 D1 Milano、「電信電話記念日」の10月23日（金）に “電話”をモチーフにした新作「RING RING」を発売。",
+  "links": [
+   {
+    "source": "アットプレス",
+    "title": "ダイヤルを回す、あの“電話”を腕時計に。 D1 Milano、「電信電話記念日」の10月23日（金）に “電話”をモチーフにした新作「RING RING」を発売。",
+    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE95SmcxXzJVNHRiR1FkSHFEZU1yMEJQUlo1X21VMjhzZDFHeHM0aTJTdnlBWHVVRkcySzRYdVVfSEZ5WHNwM001NUlBcVJvZw?oc=5"
+   }
+  ]
  }
 ]
