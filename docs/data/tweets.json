@@ -1,25 +1,5 @@
 [
  {
-  "at": "2026-10-15T19:30+09:00",
-  "text": "乾かす機械が火を出しては本末転倒。64万台とは、各家さぞ気が気でなかろう。",
-  "expression": "思案",
-  "scene": "regular",
-  "lang": "ja",
-  "topic": "パナソニック、ドラム式洗濯乾燥機６４万台に不具合 発火の恐れ、無償部品交換",
-  "links": [
-   {
-    "source": "時事ドットコム",
-    "title": "パナソニック、ドラム式洗濯乾燥機６４万台に不具合 発火の恐れ、無償部品交換",
-    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5pUFppOExvQ3dvd1oyS1ZkbG1RY2dtd0o5d2RYYTNtcU1UcWIwcm1FbmtWX0hWaTR1X3JFQ2tuMmo2eFZmeE1GMk5ocTdTWmZna0xtODVwbEEtbl9ETHVyaHR6Yw?oc=5"
-   },
-   {
-    "source": "NHK",
-    "title": "パナソニック ドラム式洗濯機64万台をリコール",
-    "url": "https://news.web.nhk/newsweb/na/nd-20261015de59971"
-   }
-  ]
- },
- {
   "at": "2026-10-15T20:00+09:00",
   "text": "声は、その人の歳月そのもの。機械が真似られても、年輪までは写せまい。",
   "expression": "思案",
@@ -6127,5 +6107,25 @@
   "lang": "ja",
   "topic": null,
   "links": []
+ },
+ {
+  "at": "2026-10-22T20:00+09:00",
+  "text": "遊びを作る家の戸締まりが破られた。千万の名簿とは、ちょっとした町ひとつ分だ。",
+  "expression": "思案",
+  "scene": "regular",
+  "lang": "ja",
+  "topic": "カプコン、1177万件漏えい 不正アクセスで",
+  "links": [
+   {
+    "source": "ニコニコニュース",
+    "title": "カプコン、1177万件漏えい 不正アクセスで",
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE4yZks4X2hRNGJtdnhTUEdFM3ZseVVZdXdVUDJYaktoQXZBSWZxYmR2OHFUdENfYlI2NkdXcDVGb2Vfb3JZSm9PS21LWG9JLTBLTFYzSUhfQlV6M1Jua21YSGRtZUVleExU?oc=5"
+   },
+   {
+    "source": "NHK",
+    "title": "「カプコン」全世界の会員メールアドレスなど約1177万件漏えい",
+    "url": "https://news.web.nhk/newsweb/na/nd-20261022de63460"
+   }
+  ]
  }
 ]
