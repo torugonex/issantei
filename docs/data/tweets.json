@@ -1,20 +1,5 @@
 [
  {
-  "at": "2026-10-15T22:00+09:00",
-  "text": "重症ではない、と本人。ここは大事を取るのも、立派な一手でしょう。",
-  "expression": "思案",
-  "scene": "regular",
-  "lang": "ja",
-  "topic": "阪神・佐藤輝明、ＣＳファイナル第２戦はスタメン回避…別メニューで調整「重症ではないので」",
-  "links": [
-   {
-    "source": "読売新聞",
-    "title": "阪神・佐藤輝明、ＣＳファイナル第２戦はスタメン回避…別メニューで調整「重症ではないので」",
-    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBKZG56bGNXSzJaTmdwTVMxNzR3dW5LaUJKb0FzbXhNVEVwNXFDSnV1ZWg5ZmRCQWNBN1Uxc0hJZ0pNNnU2eWRWZEZxS1MtblE5R18xRGw5Y0g1Z1d0T05NR1k3eFlGc2NI?oc=5"
-   }
-  ]
- },
- {
   "at": "2026-10-15T22:15+09:00",
   "text": "夜も更けた。灯りを一つ落として、読みかけの頁に栞を挟む。今日はここまでとしよう。",
   "expression": "微笑",
@@ -6166,5 +6151,14 @@
     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5oN2VFMlV0eGM0QUhNaDV0LUd3cEZMTVV5akdVVDBST240eU1jaU5UeTFvNS1LMHZxUktZdU93QXF6LTMwejBKTnRTcEMyNlJxa0dnNW80bDNtUkoya3hjMnZXZmNtdGN1Z015ag?oc=5"
    }
   ]
+ },
+ {
+  "at": "2026-10-22T22:15+09:00",
+  "text": "夜になって雲が切れた。鰯雲に月がかかり、傘を持たず出る気になった。",
+  "expression": "微笑",
+  "scene": "life",
+  "lang": "ja",
+  "topic": null,
+  "links": []
  }
 ]

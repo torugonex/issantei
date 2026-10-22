@@ -1,9 +1,9 @@
 {
  "mood": {
-  "valence": -0.233,
-  "arousal": -0.041
+  "valence": -0.1,
+  "arousal": -0.081
  },
- "since_sarcasm": 3,
+ "since_sarcasm": 4,
  "day": "2026-10-22",
  "morning_done": true,
  "goodnight_done": false,
@@ -90,14 +90,6 @@
   "e37e45c990e9": "2026-10-22T22:00:44.530439+09:00"
  },
  "commented_titles": [
-  {
-   "title": "秋田 由利本荘市の子吉川に氾濫特別警報 最大級の警戒を",
-   "at": "2026-10-21T22:00:44.534817+09:00"
-  },
-  {
-   "title": "Huge crowds watch attempt to rescue shark stranded in South Korean canal",
-   "at": "2026-10-21T22:15:21.413785+09:00"
-  },
   {
    "title": "打ち上げ成功のＭＭＸ 太陽電池パドル展開し順調に飛行",
    "at": "2026-10-21T22:30:34.619642+09:00"
@@ -279,10 +271,10 @@
    "at": "2026-10-22T22:00:44.530439+09:00"
   }
  ],
- "last_quake_check": "2026-10-22T22:00:44.530439+09:00",
- "since_english": 2,
+ "last_quake_check": "2026-10-22T22:15:23.367576+09:00",
+ "since_english": 3,
  "next_english": 4,
- "last_tick": "2026-10-22T22:00:44.530439+09:00",
+ "last_tick": "2026-10-22T22:15:23.367576+09:00",
  "french_day": "2026-10-22",
  "french_done": true,
  "french_after": 695
