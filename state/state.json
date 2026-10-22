@@ -1,15 +1,14 @@
 {
  "mood": {
-  "valence": -0.455,
-  "arousal": 0.074
+  "valence": -0.416,
+  "arousal": 0.005
  },
- "since_sarcasm": 1,
+ "since_sarcasm": 2,
  "day": "2026-10-22",
  "morning_done": true,
  "goodnight_done": false,
  "sleeptalk_night": "2026-10-21",
  "commented": {
-  "9ba2cd2e1c2f": "2026-10-20T16:30:26.624416+09:00",
   "e3bdde09addf": "2026-10-20T16:45:18.038619+09:00",
   "fc0fdb06e1dc": "2026-10-20T17:15:17.314105+09:00",
   "63aad81d5c10": "2026-10-20T17:45:18.033408+09:00",
@@ -89,10 +88,6 @@
   "7b620155c3be": "2026-10-22T16:15:18.881065+09:00"
  },
  "commented_titles": [
-  {
-   "title": "Haitian migrants changed this US town - Trump's deportation drive is reshaping it again",
-   "at": "2026-10-21T16:15:19.233508+09:00"
-  },
   {
    "title": "埼玉陥没事故の運転手遺族が提訴 県に損害賠償1億円超求め（共同通信）",
    "at": "2026-10-21T17:15:19.033250+09:00"
@@ -254,10 +249,10 @@
    "at": "2026-10-22T16:15:18.881065+09:00"
   }
  ],
- "last_quake_check": "2026-10-22T16:15:18.881065+09:00",
- "since_english": 2,
+ "last_quake_check": "2026-10-22T16:30:28.725336+09:00",
+ "since_english": 3,
  "next_english": 5,
- "last_tick": "2026-10-22T16:15:18.881065+09:00",
+ "last_tick": "2026-10-22T16:30:28.725336+09:00",
  "french_day": "2026-10-22",
  "french_done": true,
  "french_after": 695

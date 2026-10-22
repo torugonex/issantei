@@ -1,14 +1,5 @@
 [
  {
-  "at": "2026-10-15T15:00+09:00",
-  "text": "曇りがちの午後、紅茶を濃いめに淹れた。晴れ間を待つあいだの、小さな贅沢である。",
-  "expression": "微笑",
-  "scene": "life",
-  "lang": "ja",
-  "topic": null,
-  "links": []
- },
- {
   "at": "2026-10-15T15:15+09:00",
   "text": "A thousand fewer seats on the sofa, as it were. Streaming does, it seems, have an end credit.",
   "expression": "片眉を上げる",
@@ -6158,5 +6149,14 @@
     "url": "https://news.web.nhk/newsweb/na/nd-20261022de63386"
    }
   ]
+ },
+ {
+  "at": "2026-10-22T16:30+09:00",
+  "text": "秋桜が風に傾いでいる。曇りがちの午後、紅茶の湯気ばかりが元気だ。",
+  "expression": "思案",
+  "scene": "life",
+  "lang": "ja",
+  "topic": null,
+  "links": []
  }
 ]
