@@ -1,25 +1,5 @@
 [
  {
-  "at": "2026-10-15T13:00+09:00",
-  "text": "十代の背に海の向こうの風が吹く。行けば行ったで、また一から修業だろう。",
-  "expression": "微笑",
-  "scene": "regular",
-  "lang": "ja",
-  "topic": "横浜高校の織田翔希投手がアメリカ挑戦を表明",
-  "links": [
-   {
-    "source": "NHKニュース",
-    "title": "横浜高校の織田翔希投手がアメリカ挑戦を表明",
-    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBwMGZzdUk0RDNIYUI2TFkwVlVUVU1QbFNjX1Rtd2JqclpCSUlZSDVpZ2lGQTlpR3ZYOTJJZmR1UHZFWVZDdFZqdFZqUHZaWWVNcTVueG9jS3U0c0t1ZXZ3?oc=5"
-   },
-   {
-    "source": "NHK",
-    "title": "横浜高校の織田翔希投手がアメリカ挑戦を表明",
-    "url": "https://news.web.nhk/newsweb/na/nd-20261015de59583"
-   }
-  ]
- },
- {
   "at": "2026-10-15T13:15+09:00",
   "text": "Half of Ireland downs tools. One hopes the pubs keep their own counsel, at least.",
   "expression": "片眉を上げる",
@@ -6162,6 +6142,21 @@
     "source": "Financial Times",
     "title": "US orders some personnel to leave Saudi Arabia after Houthi attacks",
     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOMFN3LVkzSWF1d1BMQzZBNVBaYXlrdW9VVjY2TGxYcUltN2dPaklUZDRKUFJLQ2hpOUNvaVhPRDh6OHkwWDRWNHYzOFJNY2F6dzBUTm92LUQyZmV2dTNWSTA4OFVCOF9nb1BoV0xWQlphZmE1ekNidW1HMExEZ280aXc5SlU?oc=5"
+   }
+  ]
+ },
+ {
+  "at": "2026-10-22T15:00+09:00",
+  "text": "反則金も、指一本で払える世になる。便利は結構、違反が減るかは別の話。",
+  "expression": "思案",
+  "scene": "regular",
+  "lang": "ja",
+  "topic": "交通違反の反則金納付 キャッシュレス決済を来年導入へ",
+  "links": [
+   {
+    "source": "NHK",
+    "title": "交通違反の反則金納付 キャッシュレス決済を来年導入へ",
+    "url": "https://news.web.nhk/newsweb/na/nd-20261022de63453"
    }
   ]
  }
