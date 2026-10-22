@@ -1,25 +1,5 @@
 [
  {
-  "at": "2026-10-15T16:30+09:00",
-  "text": "農相の席に、即戦力のお方とか。畑の者は、顔ぶれより米の値を見ている。",
-  "expression": "片眉を上げる",
-  "scene": "regular",
-  "lang": "ja",
-  "topic": "高市首相、「即戦力」武部新氏を農相に抜てき…「政策は頭に入っているはずだからしっかりやってほしい」",
-  "links": [
-   {
-    "source": "読売新聞",
-    "title": "高市首相、「即戦力」武部新氏を農相に抜てき…「政策は頭に入っているはずだからしっかりやってほしい」",
-    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9OZTZNd0w0Rm1qcko0TFlJVG8tWm8wOEE0WVdEVnRwb05MUWg4OHgxUkFTdGpXbk8wTHVIeGE3enQ0ZVVZV0hLa2t1UGEtWkREUzEwcFAwQjBWajV3NDhEYjJ0UmpDUQ?oc=5"
-   },
-   {
-    "source": "NHK",
-    "title": "農相に自民 武部新氏を起用 簗氏の後任に 高市首相",
-    "url": "https://news.web.nhk/newsweb/na/nd-20261015de59560"
-   }
-  ]
- },
- {
   "at": "2026-10-15T16:45+09:00",
   "text": "夕刻の散歩に傘を巻いて出た。晴れた日の持ち歩きも、悪くない。",
   "expression": "微笑",
@@ -6140,6 +6120,26 @@
     "source": "NHK",
     "title": "猛烈な台風30号 あす先島諸島接近 早めに対策を",
     "url": "https://news.web.nhk/newsweb/na/nd-20261022de63248"
+   }
+  ]
+ },
+ {
+  "at": "2026-10-22T18:00+09:00",
+  "text": "Rockets and motor cars under one roof. Ambitious, though the shareholders may wish to see the floor plan.",
+  "expression": "微笑",
+  "scene": "regular",
+  "lang": "en",
+  "topic": "Why is Elon Musk plotting a mega-merger of SpaceX and Tesla?",
+  "links": [
+   {
+    "source": "BBC",
+    "title": "Why is Elon Musk plotting a mega-merger of SpaceX and Tesla?",
+    "url": "https://www.bbc.co.uk/news/articles/cr93z1e87e0do?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "source": "Guardian",
+    "title": "Tesla beats earnings projections after Musk floats SpaceX merger plan",
+    "url": "https://www.theguardian.com/technology/2026/oct/21/elon-musk-tesla-spacex"
    }
   ]
  }
