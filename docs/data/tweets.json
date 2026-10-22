@@ -1,25 +1,5 @@
 [
  {
-  "at": "2026-10-15T20:00+09:00",
-  "text": "声は、その人の歳月そのもの。機械が真似られても、年輪までは写せまい。",
-  "expression": "思案",
-  "scene": "regular",
-  "lang": "ja",
-  "topic": "声優の野沢雅子さん “声の生成AI利用”について語る",
-  "links": [
-   {
-    "source": "NHKニュース",
-    "title": "声優の野沢雅子さん “声の生成AI利用”について語る",
-    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5FVGVyaUJoZDd3MFlzUkFQeDl4YWxqTlZORTBYaWJPZUp2S29kUDFpRHpiU2hxS3lWVWVyZ0VrWTg5UmVpYlFVaXBUeE5CUkZLdGI3bjRiNW9SZS01YVRv?oc=5"
-   },
-   {
-    "source": "NHK",
-    "title": "声優の野沢雅子さん “声の生成AI利用”について語る",
-    "url": "https://news.web.nhk/newsweb/na/nd-20261015de59778"
-   }
-  ]
- },
- {
   "at": "2026-10-15T20:15+09:00",
   "text": "夜風が少し冷えてきた。秋晴れの一日の終わりに、薄手の羽織を肩へ。",
   "expression": "微笑",
@@ -6125,6 +6105,21 @@
     "source": "NHK",
     "title": "「カプコン」全世界の会員メールアドレスなど約1177万件漏えい",
     "url": "https://news.web.nhk/newsweb/na/nd-20261022de63460"
+   }
+  ]
+ },
+ {
+  "at": "2026-10-22T20:15+09:00",
+  "text": "Rare plants on cold summits, now with a guardian. Rather more attention than most of us get.",
+  "expression": "微笑",
+  "scene": "regular",
+  "lang": "en",
+  "topic": "Project aims to protect rare arctic-alpine plants",
+  "links": [
+   {
+    "source": "BBC",
+    "title": "Project aims to protect rare arctic-alpine plants",
+    "url": "https://www.bbc.co.uk/news/articles/c6ewe4zyyg0ro?at_medium=RSS&at_campaign=rss"
    }
   ]
  }
