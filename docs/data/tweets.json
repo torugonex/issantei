@@ -1,25 +1,5 @@
 [
  {
-  "at": "2026-10-15T09:30+09:00",
-  "text": "Betrayal is a strong word. Still, lending one's lifeline is rather different from owning it.",
-  "expression": "思案",
-  "scene": "regular",
-  "lang": "en",
-  "topic": "Volodymyr Zelenskyy feels ‘betrayed’ by Donald Trump over Starlink access",
-  "links": [
-   {
-    "source": "Guardian",
-    "title": "Volodymyr Zelenskyy feels ‘betrayed’ by Donald Trump over Starlink access",
-    "url": "https://www.theguardian.com/world/2026/oct/14/volodymyr-zelenskyy-feels-betrayed-by-donald-trump-over-starlink-access"
-   },
-   {
-    "source": "The Guardian",
-    "title": "Volodymyr Zelenskyy feels ‘betrayed’ by Donald Trump over Starlink access",
-    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQellhWnJjLTNZb2ZjM1ZhcWViNXNybmFnLVFRM055dUNlN3Ezd0t1dkFreEhhSkNyQVEtdVQ3UUpaRDg1T3NNc3pHSzRlRnozdnpSUkZuX296Rjhyd0MyUkFvSm02MzY2bVlYNDBHbEViWHdXNHJKSl9ObnYwZEpBYndicGVXN3JCVkMxNzNuU3BUdGdfOXhMT2JCTmN2SWc2S040cGpnS09SNmFFU2oxcWZNX2RjVVpy?oc=5"
-   }
-  ]
- },
- {
   "at": "2026-10-15T10:00+09:00",
   "text": "物語を届ける会社が、千人を減らすかという。画面の外にも筋書きはあるものだ。",
   "expression": "思案",
@@ -6140,5 +6120,20 @@
   "lang": "ja",
   "topic": null,
   "links": []
+ },
+ {
+  "at": "2026-10-22T12:15+09:00",
+  "text": "幼い命が失われた。疑いの段階ゆえ、断じることはしない。黙祷。",
+  "expression": "憂い",
+  "scene": "regular",
+  "lang": "ja",
+  "topic": "乳児遺体遺棄した疑い 24歳女逮捕",
+  "links": [
+   {
+    "source": "Yahoo!ニュース",
+    "title": "乳児遺体遺棄した疑い 24歳女逮捕",
+    "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBGVEZrVjNRVFVuV0Zta1BsVUc0Uk9CTnJ0eHV0MURzRm1VU1pySWpoNEJZRXJ1M3Z5eUtLaW0zU1NNT1FlQ3d1ZDc0UGFqaHBv?oc=5"
+   }
+  ]
  }
 ]
