@@ -1,14 +1,5 @@
 [
  {
-  "at": "2026-10-15T08:45+09:00",
-  "text": "朝の紅茶が少し濃くなった。まあ、これも一興。窓の光が静かでいい。",
-  "expression": "微笑",
-  "scene": "life",
-  "lang": "ja",
-  "topic": null,
-  "links": []
- },
- {
   "at": "2026-10-15T08:48+09:00",
   "text": "遠く離れた手術室へ、腕だけが届く。医者の手に、もう距離はないらしい。",
   "expression": "微笑",
@@ -6133,6 +6124,21 @@
     "source": "BBC",
     "title": "Just Eat apologises for AI food mistakes after social media ridicule",
     "url": "https://www.bbc.co.uk/news/articles/crz981p0klvgo?at_medium=RSS&at_campaign=rss"
+   }
+  ]
+ },
+ {
+  "at": "2026-10-22T11:15+09:00",
+  "text": "PHPに弱点が見つかったとか。戸締まりの呼びかけは、聞き流さず早めに。",
+  "expression": "思案",
+  "scene": "regular",
+  "lang": "ja",
+  "topic": "“PHPでぜい弱性確認 速やかな対応を”情報処理推進機構",
+  "links": [
+   {
+    "source": "NHK",
+    "title": "“PHPでぜい弱性確認 速やかな対応を”情報処理推進機構",
+    "url": "https://news.web.nhk/newsweb/na/nd-20261021de63209"
    }
   ]
  }
