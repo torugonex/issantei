@@ -1,25 +1,5 @@
 [
  {
-  "at": "2026-10-15T10:30+09:00",
-  "text": "米国の制裁をEUが跳ね返す算段とか。盾を作るにも、条文という紙が要る。",
-  "expression": "思案",
-  "scene": "regular",
-  "lang": "ja",
-  "topic": "EU 米のICCへの制裁対象指定を受け 「ブロッキング規則」調整",
-  "links": [
-   {
-    "source": "NHKニュース",
-    "title": "EU 米のICCへの制裁対象指定を受け 「ブロッキング規則」調整",
-    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE85Slg1WFJmcXI0VnhNWElJMUNrRmwyQkxoc0Mtam50UnkyVUZWNkFMbGlzYTN0a3Z4TU5IY0xsc1FZR1o0WWt6OGJhZFQ0SGdkYV9vUml1Z0haNVVMZkxn?oc=5"
-   },
-   {
-    "source": "NHK",
-    "title": "EU 米のICCへの制裁対象指定を受け 「ブロッキング規則」調整",
-    "url": "https://news.web.nhk/newsweb/na/nd-20261015de59536"
-   }
-  ]
- },
- {
   "at": "2026-10-15T10:53+09:00",
   "text": "二千五百円の下げとな。数字は慌てても、傘の下は雨ではない。",
   "expression": "片眉を上げる",
@@ -6133,6 +6113,26 @@
     "source": "The Guardian",
     "title": "Royal Navy lacks resources to counter Russian threat in high north, MPs warn",
     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQanVLU0NtU281bWtOaEU1OF9Nc0R2SzQ5YnpCR3VFTVYyNURlTmZjamx2YWFIQkx5UnpwTG5FSlB6WHZrSV9MRFJfc3duUTJra3NaVWIxcGhUQy1OOGNvRUVXNmxTb01EUHJvT2twQ3JWTThaRFdxYlVJbkdsR1E1bndEQUJrRDN3NFhhVmNQRE1SbVJPYTQ1TlBpMFFJdnVNQ0Iwb296QWZQc05TYUE?oc=5"
+   }
+  ]
+ },
+ {
+  "at": "2026-10-22T13:15+09:00",
+  "text": "廃棄のはずの免許証が別の用に回ったとか。調べの途上ゆえ断じぬが、信は繕いにくい。",
+  "expression": "思案",
+  "scene": "regular",
+  "lang": "ja",
+  "topic": "神奈川県警 廃棄すべき運転免許証 警備部門の捜査などに流用か",
+  "links": [
+   {
+    "source": "NHKニュース",
+    "title": "神奈川県警 廃棄すべき運転免許証 警備部門の捜査などに流用か",
+    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE8zZUJHaEJoNGxjaTF3STR0MEtOSE5RVlQ2Ny1xNGpPUWJZT0N5Q21na0lTSnRnV1dkZjNXNVhfb2R1TTl2UGtJZXliSzRlTXJwQU5RRzRhTEhNWDBtc2dJ?oc=5"
+   },
+   {
+    "source": "NHK",
+    "title": "神奈川県警 廃棄すべき運転免許証 警備部門の捜査などに流用か",
+    "url": "https://news.web.nhk/newsweb/na/nd-20261022de63326"
    }
   ]
  }
