@@ -1,14 +1,5 @@
 [
  {
-  "at": "2026-10-15T16:45+09:00",
-  "text": "夕刻の散歩に傘を巻いて出た。晴れた日の持ち歩きも、悪くない。",
-  "expression": "微笑",
-  "scene": "life",
-  "lang": "ja",
-  "topic": null,
-  "links": []
- },
- {
   "at": "2026-10-15T17:15+09:00",
   "text": "Charging to stop at the kerb, then a review. One gathers the about-turn was the fastest part of the journey.",
   "expression": "呆れのため息",
@@ -6140,6 +6131,21 @@
     "source": "Guardian",
     "title": "Tesla beats earnings projections after Musk floats SpaceX merger plan",
     "url": "https://www.theguardian.com/technology/2026/oct/21/elon-musk-tesla-spacex"
+   }
+  ]
+ },
+ {
+  "at": "2026-10-22T18:15+09:00",
+  "text": "減税の中身より先に、まず席を一つ。器から整えるのが国の流儀らしい。",
+  "expression": "思案",
+  "scene": "regular",
+  "lang": "ja",
+  "topic": "参院 野党6党 消費税減税法案“特別委員会の新設求める”",
+  "links": [
+   {
+    "source": "NHK",
+    "title": "参院 野党6党 消費税減税法案“特別委員会の新設求める”",
+    "url": "https://news.web.nhk/newsweb/na/nd-20261022de63494"
    }
   ]
  }
