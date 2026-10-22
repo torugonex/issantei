@@ -1,9 +1,9 @@
 {
  "mood": {
-  "valence": 0.011,
-  "arousal": -0.031
+  "valence": 0.033,
+  "arousal": -0.048
  },
- "since_sarcasm": 5,
+ "since_sarcasm": 6,
  "day": "2026-10-22",
  "morning_done": true,
  "goodnight_done": false,
@@ -89,14 +89,6 @@
   "3eca0843f1de": "2026-10-22T18:15:19.039838+09:00"
  },
  "commented_titles": [
-  {
-   "title": "「パートナーの意識がない」同居女性を暴行し死亡させたか 38歳女を逮捕 調べに黙秘 東京・西東京市",
-   "at": "2026-10-21T18:33:24.822986+09:00"
-  },
-  {
-   "title": "東京電力 11月使用分料金9700円台で過去最高更新の見通し",
-   "at": "2026-10-21T18:45:18.552910+09:00"
-  },
   {
    "title": "Australian MP loses both legs after alleged car attack, husband says",
    "at": "2026-10-21T19:45:19.349929+09:00"
@@ -266,10 +258,10 @@
    "at": "2026-10-22T18:15:19.039838+09:00"
   }
  ],
- "last_quake_check": "2026-10-22T18:30:30.112750+09:00",
- "since_english": 3,
+ "last_quake_check": "2026-10-22T18:45:21.183264+09:00",
+ "since_english": 4,
  "next_english": 5,
- "last_tick": "2026-10-22T18:30:30.112750+09:00",
+ "last_tick": "2026-10-22T18:45:21.183264+09:00",
  "french_day": "2026-10-22",
  "french_done": true,
  "french_after": 695
