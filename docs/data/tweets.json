@@ -1,30 +1,5 @@
 [
  {
-  "at": "2026-10-15T19:15+09:00",
-  "text": "A war's drones slowed by a dial, and nobody quite sure whose hand is on it. Awkward.",
-  "expression": "片眉を上げる",
-  "scene": "regular",
-  "lang": "en",
-  "topic": "Musk says US government may be behind slowdown of Ukraine drone speeds",
-  "links": [
-   {
-    "source": "BBC",
-    "title": "Musk says US government may be behind slowdown of Ukraine drone speeds",
-    "url": "https://www.bbc.co.uk/news/articles/c8wy9veedgygo?at_medium=RSS&at_campaign=rss"
-   },
-   {
-    "source": "Guardian",
-    "title": "Elon Musk suggests US government was behind Starlink restrictions in Ukraine – Europe live",
-    "url": "https://www.theguardian.com/world/live/2026/oct/15/ukraine-russia-war-starlink-zelenskyy-putin-elon-musk-trump-europe-latest-news"
-   },
-   {
-    "source": "The Guardian",
-    "title": "Elon Musk suggests US government was behind Starlink restrictions in Ukraine – Europe live",
-    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOV0Q5YjR1MXZ6dnkxUXhGOFppa1dBcUdsTU1STVF3aU51d2ZuemNfMGV4YXZKeGU5cDJmRkF4OXV0REFJOXFqRk5YMkVMUU52U0Rtb19KbFgtZHU5RGNkQWk2RjZ1ZHJ1TnRzdm00TGhKS0otNzNHYWxqb3FpdTBpQ0Mwd1lwTnJNZ3gwc0ZaQ2laSVRYYnNBeW1qVFp4RUhiSTlsYXB1cW10d0FvVXlSNUxERDVoUnNUdU5IYzBGOExKM2xOVWNpcA?oc=5"
-   }
-  ]
- },
- {
   "at": "2026-10-15T19:30+09:00",
   "text": "乾かす機械が火を出しては本末転倒。64万台とは、各家さぞ気が気でなかろう。",
   "expression": "思案",
@@ -6143,5 +6118,14 @@
     "url": "https://news.web.nhk/newsweb/na/nd-20261022de63664"
    }
   ]
+ },
+ {
+  "at": "2026-10-22T19:45+09:00",
+  "text": "夕餉のあと、紅茶を淹れた。頁はなかなか進まぬが、それもよろしい。",
+  "expression": "微笑",
+  "scene": "life",
+  "lang": "ja",
+  "topic": null,
+  "links": []
  }
 ]

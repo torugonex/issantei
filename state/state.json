@@ -1,9 +1,9 @@
 {
  "mood": {
-  "valence": -0.037,
-  "arousal": -0.025
+  "valence": -0.003,
+  "arousal": -0.069
  },
- "since_sarcasm": 3,
+ "since_sarcasm": 4,
  "day": "2026-10-22",
  "morning_done": true,
  "goodnight_done": false,
@@ -91,10 +91,6 @@
   "cfac2658f1f0": "2026-10-22T19:30:47.114210+09:00"
  },
  "commented_titles": [
-  {
-   "title": "Australian MP loses both legs after alleged car attack, husband says",
-   "at": "2026-10-21T19:45:19.349929+09:00"
-  },
   {
    "title": "【台風25号1か月】住宅地が約3週間浸水 異例の事態 現地のいま",
    "at": "2026-10-21T20:00:41.509445+09:00"
@@ -276,10 +272,10 @@
    "at": "2026-10-22T19:30:47.114210+09:00"
   }
  ],
- "last_quake_check": "2026-10-22T19:30:47.114210+09:00",
- "since_english": 2,
+ "last_quake_check": "2026-10-22T19:45:19.623286+09:00",
+ "since_english": 3,
  "next_english": 5,
- "last_tick": "2026-10-22T19:30:47.114210+09:00",
+ "last_tick": "2026-10-22T19:45:19.623286+09:00",
  "french_day": "2026-10-22",
  "french_done": true,
  "french_after": 695
