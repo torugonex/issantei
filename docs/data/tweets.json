@@ -1,25 +1,5 @@
 [
  {
-  "at": "2026-10-15T14:00+09:00",
-  "text": "空爆の下で、水も灯りも削られていく暮らし。黙祷。安らかなれ。",
-  "expression": "憂い",
-  "scene": "regular",
-  "lang": "ja",
-  "topic": "ロシアが狙うウクライナ都市機能 市民生活圧迫、空爆下のキーウルポ",
-  "links": [
-   {
-    "source": "日本経済新聞",
-    "title": "ロシアが狙うウクライナ都市機能 市民生活圧迫、空爆下のキーウルポ",
-    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBXV21QMGY2MDhSZVFMQnVINkJ3dWl5NzE2cXJ3VHJMMjE4M3VTalo3eUhtZjhlODJsZnBFdExZVEJ1MllTM0hVMG53S1BGelc5MjVnVkxGcU9QczFpN2tYYnRBb0x3bUliczFDaw?oc=5"
-   },
-   {
-    "source": "NHK",
-    "title": "【随時更新】ロシア ウクライナに軍事侵攻（10月15日の動き）",
-    "url": "https://news.web.nhk/newsweb/na/nd-20260930de53321"
-   }
-  ]
- },
- {
   "at": "2026-10-15T15:00+09:00",
   "text": "曇りがちの午後、紅茶を濃いめに淹れた。晴れ間を待つあいだの、小さな贅沢である。",
   "expression": "微笑",
@@ -6156,6 +6136,26 @@
     "source": "Guardian",
     "title": "Macron accuses Trump and other foreign leaders of ‘stupid comments’ about France unrest",
     "url": "https://www.theguardian.com/world/2026/oct/21/macron-trump-foreign-leaders-stupid-comments-france-unrest"
+   }
+  ]
+ },
+ {
+  "at": "2026-10-22T16:15+09:00",
+  "text": "サウジ東部で三人が命を落としたそうだ。退避命令まで出ている。言葉もない。",
+  "expression": "憂い",
+  "scene": "regular",
+  "lang": "ja",
+  "topic": "サウジアラビア東部で攻撃相次ぎ3人死亡 米国務省は退避命令",
+  "links": [
+   {
+    "source": "NHKニュース",
+    "title": "サウジアラビア東部で攻撃相次ぎ3人死亡 米国務省は退避命令",
+    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1pdEJyOEh5RHc0VnBWcVpLXzdUS2I3RnRob20zUllZTy00QVF3YW16bGw2N0pJcXJpYmhfcFhpRXVqU05VVTVBTm1UZVFPTS1tZk95dlNOZ29yNm50b184?oc=5"
+   },
+   {
+    "source": "NHK",
+    "title": "サウジアラビア東部で攻撃相次ぎ3人死亡 米国務省は退避命令",
+    "url": "https://news.web.nhk/newsweb/na/nd-20261022de63386"
    }
   ]
  }
