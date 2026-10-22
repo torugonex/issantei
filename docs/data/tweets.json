@@ -1,14 +1,5 @@
 [
  {
-  "at": "2026-10-15T19:00+09:00",
-  "text": "夜に入り、紅茶を濃いめに淹れた。本を一頁だけ読んで、ぼんやりしている。",
-  "expression": "微笑",
-  "scene": "life",
-  "lang": "ja",
-  "topic": null,
-  "links": []
- },
- {
   "at": "2026-10-15T19:15+09:00",
   "text": "A war's drones slowed by a dial, and nobody quite sure whose hand is on it. Awkward.",
   "expression": "片眉を上げる",
@@ -6135,6 +6126,21 @@
     "source": "Guardian",
     "title": "Barclays to cut 5,000 jobs as bank’s bosses hail AI productivity advances",
     "url": "https://www.theguardian.com/business/2026/oct/22/barclays-profits-up-as-uk-banks-brace-for-tax-increase-in-budget"
+   }
+  ]
+ },
+ {
+  "at": "2026-10-22T19:30+09:00",
+  "text": "守る側にも腕利きを。名は穏やかでも、夜更かしの仕事になりそうだ。",
+  "expression": "思案",
+  "scene": "regular",
+  "lang": "ja",
+  "topic": "経産省「ホワイトハッカー」のチーム立ち上げへ",
+  "links": [
+   {
+    "source": "NHK",
+    "title": "経産省「ホワイトハッカー」のチーム立ち上げへ",
+    "url": "https://news.web.nhk/newsweb/na/nd-20261022de63664"
    }
   ]
  }
