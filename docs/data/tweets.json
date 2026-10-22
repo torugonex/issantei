@@ -1,14 +1,5 @@
 [
  {
-  "at": "2026-10-15T21:30+09:00",
-  "text": "虫の音が細くなった。残る声ほど、よく通るものなり。",
-  "expression": "微笑",
-  "scene": "life",
-  "lang": "ja",
-  "topic": null,
-  "links": []
- },
- {
   "at": "2026-10-15T21:40+09:00",
   "text": "Cannons flown to hospital by air. Even old guns, it seems, are now expected to arrive in a hurry.",
   "expression": "微笑",
@@ -6148,6 +6139,31 @@
     "source": "NHK",
     "title": "【随時更新】ロシア ウクライナに軍事侵攻（10月22日の動き）",
     "url": "https://news.web.nhk/newsweb/na/nd-20260930de53355"
+   }
+  ]
+ },
+ {
+  "at": "2026-10-22T21:45+09:00",
+  "text": "Banning protests to protect order. Both sides will say it's about liberty, and both may be right.",
+  "expression": "思案",
+  "scene": "regular",
+  "lang": "en",
+  "topic": "Macron condemns ‘seditious acts’ by ‘ultra-left’ and says he will seek to ban some protests – Europe live",
+  "links": [
+   {
+    "source": "Guardian",
+    "title": "Macron condemns ‘seditious acts’ by ‘ultra-left’ and says he will seek to ban some protests – Europe live",
+    "url": "https://www.theguardian.com/world/live/2026/oct/22/france-protests-emmanuel-macron-ukraine-energy-attacks-latest-europe-news-updates"
+   },
+   {
+    "source": "The Guardian",
+    "title": "Macron condemns ‘seditious acts’ by ‘ultra-left’ and says he will seek to ban some protests – Europe live",
+    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQby1kUUdld3Z6eWFXNzd2N2xXaVZEaEljOHZYZGpkSHlRVC1IcjdyQ2pmOWdrVDVyY1VvWWpoNTlidGZfTV9fTzd6QXduaFkwT3hoLXVpNGVNLU02MUxTaEtlRTNzV0xaeGVVNlloNXF6RHhwSHF0YTEzYW5OaVdtM2NKcjVXVF9feUlZM3lwdVFFdGtHVFJQVUJZc1RGaDlTRG1xNUN4TGttSEp6V25KNDhqbGhxQl84alAxUTRJNUtlYmE4TU9CRWJkcVE?oc=5"
+   },
+   {
+    "source": "France 24",
+    "title": "Live: France will ban 'illegitimate' protests in coming days, says Macron",
+    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxORHFwRGJzdU1XMWlnMGIzbEgydzc1WlNtVDdUWUg4OWFwZWpwb2VsTWFpR0ZWUG1CNjhDekRtcVZCUzh5emp4QUpuM1VMd3VTbjdsWFI4QmdzM3BxVUFvc1M2anQyMWtxWmlUY2RyeFJQV210LXAySXlNYl80X3JTWEVwT3J2cFBkbW5UYUZGTEJUVG5lVGt5WVBDemUxWW1CUzVIWVFYNzNYR2p0cEFPLTBiVlZJYllLM3BaRg?oc=5"
    }
   ]
  }

@@ -1,15 +1,14 @@
 {
  "mood": {
-  "valence": -0.269,
-  "arousal": -0.061
+  "valence": -0.277,
+  "arousal": -0.021
  },
- "since_sarcasm": 1,
+ "since_sarcasm": 2,
  "day": "2026-10-22",
  "morning_done": true,
  "goodnight_done": false,
  "sleeptalk_night": "2026-10-21",
  "commented": {
-  "00b2a4fc29b6": "2026-10-20T21:45:19.105068+09:00",
   "db38a0655a1a": "2026-10-20T22:00:39.967708+09:00",
   "edda49aa1e8f": "2026-10-20T22:30:32.956451+09:00",
   "fc261c36a520": "2026-10-21T06:45:19.919351+09:00",
@@ -87,13 +86,10 @@
   "e512b875eabc": "2026-10-22T20:15:20.276564+09:00",
   "569302e08503": "2026-10-22T20:30:37.600090+09:00",
   "e90e1c7ae21d": "2026-10-22T21:15:19.943623+09:00",
-  "8b662d56307a": "2026-10-22T21:30:31.838488+09:00"
+  "8b662d56307a": "2026-10-22T21:30:31.838488+09:00",
+  "38b9e5fd97a4": "2026-10-22T21:45:24.854766+09:00"
  },
  "commented_titles": [
-  {
-   "title": "US citizen Stephen Hubbard freed by Russia as Trump envoy meets Putin",
-   "at": "2026-10-21T21:30:32.710316+09:00"
-  },
   {
    "title": "秋田 由利本荘市の子吉川に氾濫特別警報 最大級の警戒を",
    "at": "2026-10-21T22:00:44.534817+09:00"
@@ -273,12 +269,16 @@
   {
    "title": "ロシアとウクライナが攻撃の応酬、米国の和平努力よそに（ロイター）",
    "at": "2026-10-22T21:30:31.838488+09:00"
+  },
+  {
+   "title": "Macron condemns ‘seditious acts’ by ‘ultra-left’ and says he will seek to ban some protests – Europe live",
+   "at": "2026-10-22T21:45:24.854766+09:00"
   }
  ],
- "last_quake_check": "2026-10-22T21:30:31.838488+09:00",
- "since_english": 4,
- "next_english": 5,
- "last_tick": "2026-10-22T21:30:31.838488+09:00",
+ "last_quake_check": "2026-10-22T21:45:24.854766+09:00",
+ "since_english": 1,
+ "next_english": 4,
+ "last_tick": "2026-10-22T21:45:24.854766+09:00",
  "french_day": "2026-10-22",
  "french_done": true,
  "french_after": 695
