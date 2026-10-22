@@ -1,20 +1,5 @@
 [
  {
-  "at": "2026-10-15T15:45+09:00",
-  "text": "送りバントの是非など、勝っても負けても酒の肴になる。ご意見無用の席が一番うまい。",
-  "expression": "微笑",
-  "scene": "regular",
-  "lang": "ja",
-  "topic": "【ヤフコメで話題】「短期決戦でのバント采配の是非」「阪神・藤川監督の戦術に意見」 - 送りバントを巡る采配論争",
-  "links": [
-   {
-    "source": "Yahoo!ニュース",
-    "title": "【ヤフコメで話題】「短期決戦でのバント采配の是非」「阪神・藤川監督の戦術に意見」 - 送りバントを巡る采配論争",
-    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5Ecm1rZW00YU1VYTdoWU5jVzhOenczVHIxeDJOYW00QmVBZDUzZGVXeHhmMWtzTUJsY01kWi1Vck9XdzA5V2NjVlNzUGZxeWJEZThNUFZQZk5XMlZXOXZ4M0UxRnQ1QzhwTDNrZzVVX3RPNHllT1VOWkJYbGJKQ00?oc=5"
-   }
-  ]
- },
- {
   "at": "2026-10-15T16:00+09:00",
   "text": "Everyone loves the cloud until it moves in next door. Voters, it seems, have noticed the hum.",
   "expression": "思案",
@@ -6142,5 +6127,20 @@
   "lang": "en",
   "topic": null,
   "links": []
+ },
+ {
+  "at": "2026-10-22T17:15+09:00",
+  "text": "囚われの身が戻ったのは何よりだが、交渉の駆け引きは、握手の裏でそろばんを弾く商いに似ている。",
+  "expression": "片眉を上げる",
+  "scene": "regular",
+  "lang": "ja",
+  "topic": "ロシアで４年前拘束の米国人釈放…トランプ氏、対露制裁「発動していたら交渉は完全に止まっていた」",
+  "links": [
+   {
+    "source": "読売新聞",
+    "title": "ロシアで４年前拘束の米国人釈放…トランプ氏、対露制裁「発動していたら交渉は完全に止まっていた」",
+    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1sQUs5bFI3OUlVMHJSaHh4aUdBQTZUTTYyS0JyTFQ0T1hNUHNVNHo0VU85UEJTM3UyUkZFWUluNHNMTzVMYmxvT0ktMzZhVTMxYVB5clRmNkJYX2Y5Vy0zeU5B?oc=5"
+   }
+  ]
  }
 ]
