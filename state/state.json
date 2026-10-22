@@ -1,9 +1,9 @@
 {
  "mood": {
-  "valence": 0.242,
-  "arousal": -0.036
+  "valence": -0.179,
+  "arousal": 0.082
  },
- "since_sarcasm": 1,
+ "since_sarcasm": 2,
  "day": "2026-10-23",
  "morning_done": true,
  "goodnight_done": false,
@@ -87,17 +87,10 @@
   "1d393b5510b9": "2026-10-22T22:30:33.892508+09:00",
   "f722a3f1b5eb": "2026-10-23T06:15:20.958069+09:00",
   "b1497b777d1d": "2026-10-23T08:15:20.121922+09:00",
-  "6496fbb2a6a6": "2026-10-23T08:30:29.933498+09:00"
+  "6496fbb2a6a6": "2026-10-23T08:30:29.933498+09:00",
+  "3d6fd8481404": "2026-10-23T08:45:19.855990+09:00"
  },
  "commented_titles": [
-  {
-   "title": "Burnham proposes plan to cut standing charges from gas bills",
-   "at": "2026-10-22T08:30:43.641904+09:00"
-  },
-  {
-   "title": "週間天気予報 台風30号が沖縄に接近 週末は広範囲で大雨のおそれ",
-   "at": "2026-10-22T08:45:17.758499+09:00"
-  },
   {
    "title": "Orangutans prefer food associated with sounds of laughter, study suggests",
    "at": "2026-10-22T09:30:29.930385+09:00"
@@ -261,12 +254,16 @@
   {
    "title": "体操｜橋本大輝が世界体操４連覇、内村航平以来の史上２人目…個人総合",
    "at": "2026-10-23T08:30:29.933498+09:00"
+  },
+  {
+   "title": "Ukraine hit by strikes after Russia agrees to new peace talks",
+   "at": "2026-10-23T08:45:19.855990+09:00"
   }
  ],
- "last_quake_check": "2026-10-23T08:30:29.933498+09:00",
- "since_english": 2,
- "next_english": 3,
- "last_tick": "2026-10-23T08:30:29.933498+09:00",
+ "last_quake_check": "2026-10-23T08:45:19.855990+09:00",
+ "since_english": 1,
+ "next_english": 5,
+ "last_tick": "2026-10-23T08:45:19.855990+09:00",
  "french_day": "2026-10-23",
  "french_done": false,
  "french_after": 687

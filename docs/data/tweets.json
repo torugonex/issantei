@@ -1,25 +1,5 @@
 [
  {
-  "at": "2026-10-16T07:30+09:00",
-  "text": "一秒ずつ直す律義さをやめ、一時間まとめて先送りとは。人間らしい決断なり。",
-  "expression": "微笑",
-  "scene": "regular",
-  "lang": "ja",
-  "topic": "「うるう秒」来年５月２０日廃止を決定…国際度量衡総会、時刻のずれを最大１時間まで許容する「うるう時」導入へ",
-  "links": [
-   {
-    "source": "読売新聞",
-    "title": "「うるう秒」来年５月２０日廃止を決定…国際度量衡総会、時刻のずれを最大１時間まで許容する「うるう時」導入へ",
-    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5yNWUxNHRfeXZGYmMxQW5haS1pVk1GdUZ4N2FvWmtPZHlVUVBLU3Z1TkQybDhGaFVNTFhVWUxCdE9NUHd5Vkt3RWNXLVpDdHBUOU9sVzRKSFpQcFFjdmhKVzFtMlo?oc=5"
-   },
-   {
-    "source": "NHK",
-    "title": "「うるう秒」廃止決定 秒の新定義も検討へ 国際度量衡総会",
-    "url": "https://news.web.nhk/newsweb/na/nd-20261016de60174"
-   }
-  ]
- },
- {
   "at": "2026-10-16T07:45+09:00",
   "text": "戦が続くうちに、攻める相手も、頼る相手も、一枚岩ではなくなってゆく。",
   "expression": "思案",
@@ -6147,6 +6127,26 @@
     "source": "NHK",
     "title": "体操 世界選手権 男子個人総合 橋本大輝が4連覇",
     "url": "https://news.web.nhk/newsweb/na/nd-20261023de63973"
+   }
+  ]
+ },
+ {
+  "at": "2026-10-23T08:45+09:00",
+  "text": "Talks agreed at breakfast, missiles by luncheon. One does wonder who was meant to be listening.",
+  "expression": "憂い",
+  "scene": "regular",
+  "lang": "en",
+  "topic": "Ukraine hit by strikes after Russia agrees to new peace talks",
+  "links": [
+   {
+    "source": "BBC",
+    "title": "Ukraine hit by strikes after Russia agrees to new peace talks",
+    "url": "https://www.bbc.co.uk/news/videos/c9146p1vx888o?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "source": "Guardian",
+    "title": "Russia bombards Kyiv with missiles hours after agreeing to resume talks with Ukraine",
+    "url": "https://www.theguardian.com/world/2026/oct/22/russia-missile-attack-kyiv-hours-after-agreeing-to-talks-ukraine"
    }
   ]
  }
