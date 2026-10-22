@@ -1,14 +1,5 @@
 [
  {
-  "at": "2026-10-15T20:30+09:00",
-  "text": "Tea gone lukewarm while I read the same page twice. A perfectly respectable evening.",
-  "expression": "微笑",
-  "scene": "life",
-  "lang": "en",
-  "topic": null,
-  "links": []
- },
- {
   "at": "2026-10-15T20:45+09:00",
   "text": "どこかで金木犀が匂う。姿は見えぬのに、夜道の案内をされている。",
   "expression": "微笑",
@@ -6131,6 +6122,21 @@
     "source": "NHK",
     "title": "ドラフト 織田翔希は巨人 菰田は日本ハムが交渉権【全名簿】",
     "url": "https://news.web.nhk/newsweb/na/nd-20261022de63461"
+   }
+  ]
+ },
+ {
+  "at": "2026-10-22T21:15+09:00",
+  "text": "円が急に持ち直した。株が沈めば、皆そろって安全な軒下へ駆け込む。",
+  "expression": "片眉を上げる",
+  "scene": "regular",
+  "lang": "ja",
+  "topic": "外為17時 円相場、反発 一時156円台に急伸 株安と米債高で",
+  "links": [
+   {
+    "source": "日本経済新聞",
+    "title": "外為17時 円相場、反発 一時156円台に急伸 株安と米債高で",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE82Snh1Tk1IZm1xRVZtVHVNTlUwZlpvaEZtUFU4WEtyNGNZLTVrZXp1RUQtbUNod1FtWFlLVVU0TkFCSE5lNU5WTWRheFNzTjNBaEh0T3ktR1hETjl5NVM2ZGVBb2hrNElZSHYycg?oc=5"
    }
   ]
  }
