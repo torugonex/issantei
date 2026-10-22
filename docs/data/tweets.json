@@ -1,14 +1,5 @@
 [
  {
-  "at": "2026-10-15T18:15+09:00",
-  "text": "鰯雲が茜に染まってきた。傘を杖に、ゆっくり帰るとしよう。",
-  "expression": "微笑",
-  "scene": "life",
-  "lang": "ja",
-  "topic": null,
-  "links": []
- },
- {
   "at": "2026-10-15T18:45+09:00",
   "text": "世界初とは大層な。可愛いと言って場が和むなら、威張らぬ方が人は寄る。",
   "expression": "微笑",
@@ -6119,6 +6110,26 @@
     "source": "BBC",
     "title": "Jackdaw decision 'taken outwith Scotland about Scotland's energy'",
     "url": "https://www.bbc.co.uk/news/videos/c39wzvxxjejxo?at_medium=RSS&at_campaign=rss"
+   }
+  ]
+ },
+ {
+  "at": "2026-10-22T19:15+09:00",
+  "text": "桁があまりに大きく、そろばんの玉が足りぬ。信頼の値札はいくらだろう。",
+  "expression": "思案",
+  "scene": "regular",
+  "lang": "ja",
+  "topic": "メタに約3兆9000億円の制裁金 消費者保護法違反など",
+  "links": [
+   {
+    "source": "NHKニュース",
+    "title": "メタに約3兆9000億円の制裁金 消費者保護法違反など",
+    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1pdUlQdlBVcVV5Rkcza0dQUVNkZ0I1RDYzeHRKaEphYmh5anRiZ0psVFVCdS1RcUVjZWM1UXpXc04wVUJjTU5kZkFfcGpsTWh2N3RIVUV3VzJGcEl5QUg0?oc=5"
+   },
+   {
+    "source": "NHK",
+    "title": "メタに約3兆9000億円の制裁金 消費者保護法違反など",
+    "url": "https://news.web.nhk/newsweb/na/nd-20261022de63349"
    }
   ]
  }
