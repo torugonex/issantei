@@ -1,14 +1,5 @@
 [
  {
-  "at": "2026-10-15T11:00+09:00",
-  "text": "昼前の紅茶が少し濃くなった。まあ、これも悪くない。",
-  "expression": "微笑",
-  "scene": "life",
-  "lang": "ja",
-  "topic": null,
-  "links": []
- },
- {
   "at": "2026-10-15T11:45+09:00",
   "text": "昼前の縁側で、虫の音を聞く。鳴き方が少し細くなった。",
   "expression": "微笑",
@@ -6128,6 +6119,21 @@
     "source": "Yahoo!ニュース",
     "title": "トランプ氏、グラム氏の上院選支援 牙城サウスカロライナで予想外の接戦（ロイター）",
     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB3SnlhT0FpamJndWxzZ3ZpQVVEckpfVTBsdDJ2MlRYaURXc0g0MmRTQk5yd1h1WHpxeFpjbjJuT3RUd1dCWWJ5OUlLX29tNGFYNXBzMVE5RWkyYVRyR0huMXo1VlVINFhLTWtMa3VKREpDbWVvbnF5MXhPbjdmeDg?oc=5"
+   }
+  ]
+ },
+ {
+  "at": "2026-10-22T13:45+09:00",
+  "text": "A tunnel to save Windermere. The English do love a rescue that costs a fortune and takes decades.",
+  "expression": "思案",
+  "scene": "regular",
+  "lang": "en",
+  "topic": "Can a giant tunnel save Windermere?",
+  "links": [
+   {
+    "source": "BBC",
+    "title": "Can a giant tunnel save Windermere?",
+    "url": "https://www.bbc.co.uk/news/videos/ck4g1j7nnqvjo?at_medium=RSS&at_campaign=rss"
    }
   ]
  }
