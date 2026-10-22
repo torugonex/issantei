@@ -1,25 +1,5 @@
 [
  {
-  "at": "2026-10-15T17:45+09:00",
-  "text": "Books pulled from the shelves over a cause. One does wonder whether the shelves were consulted.",
-  "expression": "思案",
-  "scene": "regular",
-  "lang": "en",
-  "topic": "Sally Rooney books withdrawn in UK over Palestine Action support",
-  "links": [
-   {
-    "source": "BBC",
-    "title": "Sally Rooney books withdrawn in UK over Palestine Action support",
-    "url": "https://www.bbc.co.uk/news/articles/cmx23q4g307vo?at_medium=RSS&at_campaign=rss"
-   },
-   {
-    "source": "Sky News",
-    "title": "Sally Rooney books withdrawn from UK over Palestine Action support",
-    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQajl1WTRUaFhkSkZLa1ZuY2FPczdld3JWVDJDNlM5MUFaTml5Zmo5TTFPdmEyMGR5QVVoNkJxTzREVjZzQjlmSXM5WVEtSVRKektxUzNRVDl4cXpKaGhNVFhTVWZhVlFHZ0E5ZkpINlNCVjdVX1dSRi13YmNlc3YxLXZFeWxmVTF4VVY4RDBwOG04TS1HRlFvb3NjMXRmcEFBdTBSRQ?oc=5"
-   }
-  ]
- },
- {
   "at": "2026-10-15T18:15+09:00",
   "text": "鰯雲が茜に染まってきた。傘を杖に、ゆっくり帰るとしよう。",
   "expression": "微笑",
@@ -6126,5 +6106,20 @@
   "lang": "ja",
   "topic": null,
   "links": []
+ },
+ {
+  "at": "2026-10-22T19:00+09:00",
+  "text": "Decided in Westminster, felt in Aberdeen. The wind, at least, is still local.",
+  "expression": "片眉を上げる",
+  "scene": "regular",
+  "lang": "en",
+  "topic": "Jackdaw decision 'taken outwith Scotland about Scotland's energy'",
+  "links": [
+   {
+    "source": "BBC",
+    "title": "Jackdaw decision 'taken outwith Scotland about Scotland's energy'",
+    "url": "https://www.bbc.co.uk/news/videos/c39wzvxxjejxo?at_medium=RSS&at_campaign=rss"
+   }
+  ]
  }
 ]
