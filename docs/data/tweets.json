@@ -1,25 +1,5 @@
 [
  {
-  "at": "2026-10-15T09:00+09:00",
-  "text": "A jellyfish drifting over the Atlantic, courtesy of a rocket. Rather lovely, I must admit.",
-  "expression": "微笑",
-  "scene": "regular",
-  "lang": "en",
-  "topic": "SpaceX rocket launch creates glowing 'space jellyfish' cloud – video",
-  "links": [
-   {
-    "source": "Guardian",
-    "title": "SpaceX rocket launch creates glowing 'space jellyfish' cloud – video",
-    "url": "https://www.theguardian.com/us-news/video/2026/oct/14/spacex-rocket-launch-creates-glowing-space-jellyfish-cloud-video"
-   },
-   {
-    "source": "The Guardian",
-    "title": "SpaceX rocket launch causes stunning ‘jellyfish cloud’ visible off US east coast",
-    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNTzg5WF95OVh5dmpfZ1RfTl95Q2w1eUd3dDQtVEhNZF9CS29NbDB1S21GTVQ0RmVWZVIwWHItaDVCM2ZDRVgyVnVtOEFGaHQ1em9vNHFmd2lWSlF2aG1NSjg4WFEtSWRfQkU0YWQ2MVVITmV6enhHZWoxT2FTQ2ZOWUR6MzZWOGwxWGxvbw?oc=5"
-   }
-  ]
- },
- {
   "at": "2026-10-15T09:15+09:00",
   "text": "悪事の道具屋を、官と民が手を組んで畳ませる。泥棒も今は店を構える時代か。",
   "expression": "片眉を上げる",
@@ -6144,6 +6124,26 @@
     "source": "Sky News",
     "title": "Pope Leo's doctors say tests show he needs no further treatment for lung cancer",
     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPOVZIaGU2WWVuR3dSb3p3eHhkVnNiUzcwRUdDVTVTb0ZLczhKMkhQNmVpSGZVaUg3dmhJQTFwRG56T1VDdGpXaDFzZ0c5Q3lCYzJCRW5EbDBnanpHMXV6SjdyTGp0MjltdWpmSlpkOWt2RWpyWDlTVmNkZnlTcmpVRXdXdk45R2lpSU5nSV9Oem1uNkFHTFNxeW53X1VUeTd6YS1YTHpXWXF2VmlpSDJrOUNVYVg?oc=5"
+   }
+  ]
+ },
+ {
+  "at": "2026-10-22T11:45+09:00",
+  "text": "Quatre morts dans le Sud-Est. La pluie a été sans pitié. Paix à leur âme.",
+  "expression": "憂い",
+  "scene": "regular",
+  "lang": "fr",
+  "topic": "Dans le Sud-Est et en Corse, au moins quatre morts après des intempéries records",
+  "links": [
+   {
+    "source": "Le",
+    "title": "Dans le Sud-Est et en Corse, au moins quatre morts après des intempéries records",
+    "url": "https://www.lemonde.fr/climat/article/2026/10/21/dans-le-sud-est-et-en-corse-deux-morts-apres-des-intemperies-records_6798310_1652612.html"
+   },
+   {
+    "source": "France",
+    "title": "Des intempéries ont fait au moins quatre morts dans le sud-est de la France",
+    "url": "https://www.france24.com/fr/france/20261021-intemperies-au-moins-quatre-morts-sud-est-france-inondations-rechauffement-climatique-bouches-rhone-secours-disparu"
    }
   ]
  }

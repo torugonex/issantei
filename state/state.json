@@ -1,15 +1,14 @@
 {
  "mood": {
-  "valence": 0.161,
-  "arousal": -0.019
+  "valence": -0.219,
+  "arousal": -0.11
  },
- "since_sarcasm": 4,
+ "since_sarcasm": 5,
  "day": "2026-10-22",
  "morning_done": true,
  "goodnight_done": false,
  "sleeptalk_night": "2026-10-21",
  "commented": {
-  "69cc3c60bba0": "2026-10-20T11:45:17.938977+09:00",
   "da78bc37b977": "2026-10-20T12:00:38.647513+09:00",
   "bcc52a61932a": "2026-10-20T12:15:20.162039+09:00",
   "a9da657166dd": "2026-10-20T12:30:25.789816+09:00",
@@ -87,7 +86,8 @@
   "ac4d0b905932": "2026-10-22T10:45:18.590419+09:00",
   "8d1b050ac2dc": "2026-10-22T11:00:37.279470+09:00",
   "5262db1a5128": "2026-10-22T11:15:18.474014+09:00",
-  "e5d19c553f77": "2026-10-22T11:30:29.454621+09:00"
+  "e5d19c553f77": "2026-10-22T11:30:29.454621+09:00",
+  "a00304073caa": "2026-10-22T11:45:18.431878+09:00"
  },
  "commented_titles": [
   {
@@ -249,13 +249,17 @@
   {
    "title": "Pope does not need further treatment after lung cancer surgery",
    "at": "2026-10-22T11:30:29.454621+09:00"
+  },
+  {
+   "title": "Dans le Sud-Est et en Corse, au moins quatre morts après des intempéries records",
+   "at": "2026-10-22T11:45:18.431878+09:00"
   }
  ],
- "last_quake_check": "2026-10-22T11:30:29.454621+09:00",
- "since_english": 1,
- "next_english": 5,
- "last_tick": "2026-10-22T11:30:29.454621+09:00",
+ "last_quake_check": "2026-10-22T11:45:18.431878+09:00",
+ "since_english": 0,
+ "next_english": 4,
+ "last_tick": "2026-10-22T11:45:18.431878+09:00",
  "french_day": "2026-10-22",
- "french_done": false,
+ "french_done": true,
  "french_after": 695
 }
