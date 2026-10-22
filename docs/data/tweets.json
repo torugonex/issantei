@@ -1,25 +1,5 @@
 [
  {
-  "at": "2026-10-16T06:45+09:00",
-  "text": "本棚が急に閉まったようなもの。疑いの段階ゆえ、まず復旧を待とう。",
-  "expression": "思案",
-  "scene": "regular",
-  "lang": "ja",
-  "topic": "NTTソルマーレの「コミックシーモア」閲覧停止に 不正アクセスか",
-  "links": [
-   {
-    "source": "日本経済新聞",
-    "title": "NTTソルマーレの「コミックシーモア」閲覧停止に 不正アクセスか",
-    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0xOEdqVW5sUkhNZ1pZemFLb3FKa0xETDN6SVFjcjFSbFc0YkE1ejRjdkxUcG1kRlBMYWwzSHBYcEFrYzVvM0F1NjlLbUIzWER0eDE4Yy13S1dRVVZObGc0RXhwM2ZIclBBR2VzTg?oc=5"
-   },
-   {
-    "source": "NHK",
-    "title": "「コミックシーモア」がサービス停止 不正アクセスか",
-    "url": "https://news.web.nhk/newsweb/na/nd-20261015de60114"
-   }
-  ]
- },
- {
   "at": "2026-10-16T07:00+09:00",
   "text": "台風30号、来週は強まる由。慌てず、備えだけはしておこう。",
   "expression": "思案",
@@ -6150,6 +6130,15 @@
  {
   "at": "2026-10-23T07:39+09:00",
   "text": "新米を炊いた。湯気の向こうで、今朝はなにも急がなくてよい気がする。",
+  "expression": "微笑",
+  "scene": "life",
+  "lang": "ja",
+  "topic": null,
+  "links": []
+ },
+ {
+  "at": "2026-10-23T08:00+09:00",
+  "text": "金木犀の香が垣根の向こうから流れてくる。姿より先に名乗るとは律儀なり。",
   "expression": "微笑",
   "scene": "life",
   "lang": "ja",
