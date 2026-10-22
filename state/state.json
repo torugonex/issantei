@@ -1,16 +1,14 @@
 {
  "mood": {
-  "valence": -0.457,
-  "arousal": -0.279
+  "valence": -0.418,
+  "arousal": -0.309
  },
- "since_sarcasm": 7,
+ "since_sarcasm": 8,
  "day": "2026-10-22",
  "morning_done": true,
  "goodnight_done": false,
  "sleeptalk_night": "2026-10-21",
  "commented": {
-  "bcc52a61932a": "2026-10-20T12:15:20.162039+09:00",
-  "a9da657166dd": "2026-10-20T12:30:25.789816+09:00",
   "4d9ef14a0c75": "2026-10-20T12:45:16.933372+09:00",
   "6e9c2691e9f0": "2026-10-20T13:00:35.088464+09:00",
   "08a5e763f917": "2026-10-20T13:15:17.810532+09:00",
@@ -90,10 +88,6 @@
   "a410241bfd2e": "2026-10-22T12:15:16.847215+09:00"
  },
  "commented_titles": [
-  {
-   "title": "外務省局長がロシア外務省幹部と会談 記者の即時解放強く要請",
-   "at": "2026-10-21T12:15:18.859266+09:00"
-  },
   {
    "title": "Suspect arrested after historic town hall set alight - French media",
    "at": "2026-10-21T12:30:31.984125+09:00"
@@ -255,10 +249,10 @@
    "at": "2026-10-22T12:15:16.847215+09:00"
   }
  ],
- "last_quake_check": "2026-10-22T12:15:16.847215+09:00",
- "since_english": 2,
+ "last_quake_check": "2026-10-22T12:30:28.511515+09:00",
+ "since_english": 3,
  "next_english": 4,
- "last_tick": "2026-10-22T12:15:16.847215+09:00",
+ "last_tick": "2026-10-22T12:30:28.511515+09:00",
  "french_day": "2026-10-22",
  "french_done": true,
  "french_after": 695
