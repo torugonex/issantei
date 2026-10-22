@@ -1,14 +1,5 @@
 [
  {
-  "at": "2026-10-15T12:30+09:00",
-  "text": "昼餉は蕎麦に少し奮発した。腹も気分も、ほどよく丸い。",
-  "expression": "微笑",
-  "scene": "life",
-  "lang": "ja",
-  "topic": null,
-  "links": []
- },
- {
   "at": "2026-10-15T13:00+09:00",
   "text": "十代の背に海の向こうの風が吹く。行けば行ったで、また一から修業だろう。",
   "expression": "微笑",
@@ -6146,6 +6137,31 @@
     "source": "NHK",
     "title": "免許証画像など漏えいし闇サイトで販売か 沖縄の会社から",
     "url": "https://news.web.nhk/newsweb/na/nd-20261022de63353"
+   }
+  ]
+ },
+ {
+  "at": "2026-10-22T14:45+09:00",
+  "text": "Diplomats quietly asked to pack their bags. One hopes the Saudis' hospitality was not the problem.",
+  "expression": "思案",
+  "scene": "regular",
+  "lang": "en",
+  "topic": "US orders some diplomats to leave Saudi Arabia as Houthi attacks escalate",
+  "links": [
+   {
+    "source": "BBC",
+    "title": "US orders some diplomats to leave Saudi Arabia as Houthi attacks escalate",
+    "url": "https://www.bbc.co.uk/news/articles/c6x2vpk93770o?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "source": "Guardian",
+    "title": "Some US diplomats told to leave Saudi Arabia amid Houthi attacks",
+    "url": "https://www.theguardian.com/world/2026/oct/22/us-diplomats-told-to-leave-saudi-arabia-amid-houthi-attacks"
+   },
+   {
+    "source": "Financial Times",
+    "title": "US orders some personnel to leave Saudi Arabia after Houthi attacks",
+    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOMFN3LVkzSWF1d1BMQzZBNVBaYXlrdW9VVjY2TGxYcUltN2dPaklUZDRKUFJLQ2hpOUNvaVhPRDh6OHkwWDRWNHYzOFJNY2F6dzBUTm92LUQyZmV2dTNWSTA4OFVCOF9nb1BoV0xWQlphZmE1ekNidW1HMExEZ280aXc5SlU?oc=5"
    }
   ]
  }
