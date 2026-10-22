@@ -1,14 +1,5 @@
 [
  {
-  "at": "2026-10-15T11:45+09:00",
-  "text": "昼前の縁側で、虫の音を聞く。鳴き方が少し細くなった。",
-  "expression": "微笑",
-  "scene": "life",
-  "lang": "ja",
-  "topic": null,
-  "links": []
- },
- {
   "at": "2026-10-15T12:00+09:00",
   "text": "Pampas grass nodding by the lane. It has the good manners to look grey and distinguished.",
   "expression": "微笑",
@@ -6136,5 +6127,14 @@
     "url": "https://www.bbc.co.uk/news/videos/ck4g1j7nnqvjo?at_medium=RSS&at_campaign=rss"
    }
   ]
+ },
+ {
+  "at": "2026-10-22T14:00+09:00",
+  "text": "紅茶を淹れ、読みさしの本を開く。栞の位置が、先週とほとんど変わっていない。",
+  "expression": "微笑",
+  "scene": "life",
+  "lang": "ja",
+  "topic": null,
+  "links": []
  }
 ]
