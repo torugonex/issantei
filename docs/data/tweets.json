@@ -1,14 +1,5 @@
 [
  {
-  "at": "2026-10-15T06:00+09:00",
-  "text": "晴。朝晩はくもりとか。傘は持たず、洋傘だけ供につれて出る。",
-  "expression": "微笑",
-  "scene": "morning",
-  "lang": "ja",
-  "topic": null,
-  "links": []
- },
- {
   "at": "2026-10-15T06:15+09:00",
   "text": "Quarter past six, kettle on. At my age, a quiet morning is the one luxury worth defending.",
   "expression": "微笑",
@@ -6138,6 +6129,26 @@
     "source": "The Guardian",
     "title": "Orangutans prefer food associated with sounds of laughter, study suggests",
     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOS1hlVmFBdUt6aE04dFFfRGxHOWVrWHRYQ2dmWTBqdTdyVjFFZldqbnBBYVZQSFJzR01ab2QxdE5rQ1pxRWNqWndTVGVNUHdYVTVrVEJ1eTh3OEdLTzNnWUxhVnFuaUpuVzk1YlFPQjNWVGl3LUJEa0JaeldheXpDSUlQMFBGbkpDUXd1d2lMdEhsRWlfN21V?oc=5"
+   }
+  ]
+ },
+ {
+  "at": "2026-10-22T09:42+09:00",
+  "text": "首相の一日も、来年の星の運行も、紙に刷られて残る。暦とは気の長い楽しみだ。",
+  "expression": "微笑",
+  "scene": "regular",
+  "lang": "ja",
+  "topic": "2027年の天文現象を本、動画、アプリで見る「アストロガイド星空年鑑2027」と、壁掛けカレンダーがセットになった冊子「星空カレンダーBOOK2027」 10月21日発売",
+  "links": [
+   {
+    "source": "Koubo",
+    "title": "2027年の天文現象を本、動画、アプリで見る「アストロガイド星空年鑑2027」と、壁掛けカレンダーがセットになった冊子「星空カレンダーBOOK2027」 10月21日発売",
+    "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE4yLWZSOE1lSzFoLUFDajZQMWpldDliYjFzSFJoYVI2UE1sMFZpazdtUWFDVXZmaTByeWVYZHYxNE5MSjFnOTJNRjNKSnc5MTVtY2xXUFZLU0Q1S25Yamc?oc=5"
+   },
+   {
+    "source": "NHK",
+    "title": "高市首相動静 2026年10月21日",
+    "url": "https://news.web.nhk/newsweb/na/nd-20261022de63313"
    }
   ]
  }
