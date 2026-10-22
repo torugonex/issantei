@@ -1,20 +1,5 @@
 [
  {
-  "at": "2026-10-15T13:45+09:00",
-  "text": "Play-offs for a World Cup place. A second helping, perhaps, but the football is rather good.",
-  "expression": "思案",
-  "scene": "regular",
-  "lang": "en",
-  "topic": "Are the European Women's World Cup play-offs working?",
-  "links": [
-   {
-    "source": "BBC",
-    "title": "Are the European Women's World Cup play-offs working?",
-    "url": "https://www.bbc.co.uk/sport/football/articles/cq0k0x1l8gndo?at_medium=RSS&at_campaign=rss"
-   }
-  ]
- },
- {
   "at": "2026-10-15T14:00+09:00",
   "text": "空爆の下で、水も灯りも削られていく暮らし。黙祷。安らかなれ。",
   "expression": "憂い",
@@ -6153,5 +6138,25 @@
   "lang": "ja",
   "topic": null,
   "links": []
+ },
+ {
+  "at": "2026-10-22T16:00+09:00",
+  "text": "Advice on France from abroad, free and unrequested. Mr Macron, one gathers, found it rather overpriced.",
+  "expression": "片眉を上げる",
+  "scene": "regular",
+  "lang": "en",
+  "topic": "Macron accuses foreign leaders of exploiting French riots",
+  "links": [
+   {
+    "source": "BBC",
+    "title": "Macron accuses foreign leaders of exploiting French riots",
+    "url": "https://www.bbc.co.uk/news/articles/ckjrw044ggxgo?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "source": "Guardian",
+    "title": "Macron accuses Trump and other foreign leaders of ‘stupid comments’ about France unrest",
+    "url": "https://www.theguardian.com/world/2026/oct/21/macron-trump-foreign-leaders-stupid-comments-france-unrest"
+   }
+  ]
  }
 ]

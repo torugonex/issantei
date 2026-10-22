@@ -1,15 +1,14 @@
 {
  "mood": {
-  "valence": -0.215,
-  "arousal": -0.07
+  "valence": -0.211,
+  "arousal": -0.053
  },
- "since_sarcasm": 5,
+ "since_sarcasm": 0,
  "day": "2026-10-22",
  "morning_done": true,
  "goodnight_done": false,
  "sleeptalk_night": "2026-10-21",
  "commented": {
-  "fd69067d4abc": "2026-10-20T16:00:37.300953+09:00",
   "9ba2cd2e1c2f": "2026-10-20T16:30:26.624416+09:00",
   "e3bdde09addf": "2026-10-20T16:45:18.038619+09:00",
   "fc0fdb06e1dc": "2026-10-20T17:15:17.314105+09:00",
@@ -85,13 +84,10 @@
   "adf557327b98": "2026-10-22T14:30:26.344737+09:00",
   "d8345760b696": "2026-10-22T14:45:18.451570+09:00",
   "12db38f01738": "2026-10-22T15:00:37.289185+09:00",
-  "2114e99b8087": "2026-10-22T15:15:19.352490+09:00"
+  "2114e99b8087": "2026-10-22T15:15:19.352490+09:00",
+  "06a9623f354e": "2026-10-22T16:00:47.933202+09:00"
  },
  "commented_titles": [
-  {
-   "title": "【台風最新情報】大型で猛烈な台風30号（チャンパー） 今後の予想進路・シミュレーション 沖縄の南に進み、26日の予報円は朝鮮半島〜種子島・屋久島",
-   "at": "2026-10-21T15:30:30.633176+09:00"
-  },
   {
    "title": "Haitian migrants changed this US town - Trump's deportation drive is reshaping it again",
    "at": "2026-10-21T16:15:19.233508+09:00"
@@ -247,12 +243,16 @@
   {
    "title": "Airbnb hosts can no longer make guests strip beds and wash dishes under new rules",
    "at": "2026-10-22T15:15:19.352490+09:00"
+  },
+  {
+   "title": "Macron accuses foreign leaders of exploiting French riots",
+   "at": "2026-10-22T16:00:47.933202+09:00"
   }
  ],
- "last_quake_check": "2026-10-22T15:30:28.829870+09:00",
- "since_english": 2,
- "next_english": 3,
- "last_tick": "2026-10-22T15:45:17.991442+09:00",
+ "last_quake_check": "2026-10-22T16:00:47.933202+09:00",
+ "since_english": 1,
+ "next_english": 5,
+ "last_tick": "2026-10-22T16:00:47.933202+09:00",
  "french_day": "2026-10-22",
  "french_done": true,
  "french_after": 695
