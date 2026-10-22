@@ -1,20 +1,5 @@
 [
  {
-  "at": "2026-10-15T18:45+09:00",
-  "text": "世界初とは大層な。可愛いと言って場が和むなら、威張らぬ方が人は寄る。",
-  "expression": "微笑",
-  "scene": "regular",
-  "lang": "ja",
-  "topic": "Snow Man岩本照、“世界初”の体験に喜び「可愛いですね！」お茶目なポーズで会場和ませる",
-  "links": [
-   {
-    "source": "モデルプレス",
-    "title": "Snow Man岩本照、“世界初”の体験に喜び「可愛いですね！」お茶目なポーズで会場和ませる",
-    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1BMXpsZGVLUlQwbWpqWC05aDJRbGxDY0Q2SkhIVXp5N3JjVURoVHVLdWNvMTdNeTlUM0E4YWh3aVYtZTktLTlFWjRTWdIBR0FVX3lxTE03R0h6bFZUQldXZzFsYk1yeXZoS25YbVFFNmVKM1dRSWZuTjlfX1NUbk0wLUNLNjRyaFVYU1RpQ0hIZWNiRFZj?oc=5"
-   }
-  ]
- },
- {
   "at": "2026-10-15T19:00+09:00",
   "text": "夜に入り、紅茶を濃いめに淹れた。本を一頁だけ読んで、ぼんやりしている。",
   "expression": "微笑",
@@ -6130,6 +6115,26 @@
     "source": "NHK",
     "title": "メタに約3兆9000億円の制裁金 消費者保護法違反など",
     "url": "https://news.web.nhk/newsweb/na/nd-20261022de63349"
+   }
+  ]
+ },
+ {
+  "at": "2026-10-22T19:30+09:00",
+  "text": "Five thousand posts go, and the machines never ask for tea breaks. Efficient, if rather quiet.",
+  "expression": "思案",
+  "scene": "regular",
+  "lang": "en",
+  "topic": "Barclays cutting 5,000 jobs as it increases reliance on AI",
+  "links": [
+   {
+    "source": "BBC",
+    "title": "Barclays cutting 5,000 jobs as it increases reliance on AI",
+    "url": "https://www.bbc.co.uk/news/articles/cm4g1p347qgxo?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "source": "Guardian",
+    "title": "Barclays to cut 5,000 jobs as bank’s bosses hail AI productivity advances",
+    "url": "https://www.theguardian.com/business/2026/oct/22/barclays-profits-up-as-uk-banks-brace-for-tax-increase-in-budget"
    }
   ]
  }
