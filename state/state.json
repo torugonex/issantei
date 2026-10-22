@@ -1,9 +1,9 @@
 {
  "mood": {
-  "valence": 0.123,
-  "arousal": -0.115
+  "valence": 0.242,
+  "arousal": -0.036
  },
- "since_sarcasm": 0,
+ "since_sarcasm": 1,
  "day": "2026-10-23",
  "morning_done": true,
  "goodnight_done": false,
@@ -86,7 +86,8 @@
   "e37e45c990e9": "2026-10-22T22:00:44.530439+09:00",
   "1d393b5510b9": "2026-10-22T22:30:33.892508+09:00",
   "f722a3f1b5eb": "2026-10-23T06:15:20.958069+09:00",
-  "b1497b777d1d": "2026-10-23T08:15:20.121922+09:00"
+  "b1497b777d1d": "2026-10-23T08:15:20.121922+09:00",
+  "6496fbb2a6a6": "2026-10-23T08:30:29.933498+09:00"
  },
  "commented_titles": [
   {
@@ -256,12 +257,16 @@
   {
    "title": "Trump ordered to answer questions under oath in BBC lawsuit",
    "at": "2026-10-23T08:15:20.121922+09:00"
+  },
+  {
+   "title": "体操｜橋本大輝が世界体操４連覇、内村航平以来の史上２人目…個人総合",
+   "at": "2026-10-23T08:30:29.933498+09:00"
   }
  ],
- "last_quake_check": "2026-10-23T08:15:20.121922+09:00",
- "since_english": 1,
+ "last_quake_check": "2026-10-23T08:30:29.933498+09:00",
+ "since_english": 2,
  "next_english": 3,
- "last_tick": "2026-10-23T08:15:20.121922+09:00",
+ "last_tick": "2026-10-23T08:30:29.933498+09:00",
  "french_day": "2026-10-23",
  "french_done": false,
  "french_after": 687

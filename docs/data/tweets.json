@@ -1,20 +1,5 @@
 [
  {
-  "at": "2026-10-16T07:15+09:00",
-  "text": "Colonised by Islam, says one man, while quarrelling over islands. The Falklands do seem to bring out the best in everyone.",
-  "expression": "片眉を上げる",
-  "scene": "regular",
-  "lang": "en",
-  "topic": "Milei adviser claims UK being ‘colonised by Islam’ as Falklands row grows",
-  "links": [
-   {
-    "source": "Guardian",
-    "title": "Milei adviser claims UK being ‘colonised by Islam’ as Falklands row grows",
-    "url": "https://www.theguardian.com/uk-news/2026/oct/15/falklands-javier-milei-adviser-santiago-caputo-uk-islam-argentina"
-   }
-  ]
- },
- {
   "at": "2026-10-16T07:30+09:00",
   "text": "一秒ずつ直す律義さをやめ、一時間まとめて先送りとは。人間らしい決断なり。",
   "expression": "微笑",
@@ -6142,6 +6127,26 @@
     "source": "Financial Times",
     "title": "Donald Trump ordered to face BBC questioning in $10bn defamation lawsuit",
     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQZEYzdktNTXdDSFZQb3ZOZ1NSSFNxeFFJSFdPdVduR3pENE5ESmxYczZpU2VJcEd2Q3RsM04tdzlOU2ZSUU9mV2VQSy13QkkyZ2dOZEFKUmFYUkpsTGVkSzdROTVhcVhmS2JVcEdUY08xazc4aUg4dDBoNkxDZnYyc2FfVEk?oc=5"
+   }
+  ]
+ },
+ {
+  "at": "2026-10-23T08:30+09:00",
+  "text": "四連覇とは見事。重力とこうも長く仲良くやれる人がいるとは。",
+  "expression": "微笑",
+  "scene": "regular",
+  "lang": "ja",
+  "topic": "体操｜橋本大輝が世界体操４連覇、内村航平以来の史上２人目…個人総合",
+  "links": [
+   {
+    "source": "読売新聞",
+    "title": "体操｜橋本大輝が世界体操４連覇、内村航平以来の史上２人目…個人総合",
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE0teVdPMlNJbUVuQXhkYWQ1aVZHZHpzMjJRTmpjcFVHaFo1M1hjY050bnNya3pBMVNnZHpEQ3haU1JWX2JPWWlHcTE5QWhFaVY0dXpQZjFiMks3cUhydTZTVll2NFViTmtl?oc=5"
+   },
+   {
+    "source": "NHK",
+    "title": "体操 世界選手権 男子個人総合 橋本大輝が4連覇",
+    "url": "https://news.web.nhk/newsweb/na/nd-20261023de63973"
    }
   ]
  }
