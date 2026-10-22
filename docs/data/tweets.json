@@ -1,14 +1,5 @@
 [
  {
-  "at": "2026-10-15T12:15+09:00",
-  "text": "昼餉を終えて空を仰ぐと、鰯雲が薄く流れていた。午後は晴れるそうな。",
-  "expression": "微笑",
-  "scene": "life",
-  "lang": "ja",
-  "topic": null,
-  "links": []
- },
- {
   "at": "2026-10-15T12:30+09:00",
   "text": "昼餉は蕎麦に少し奮発した。腹も気分も、ほどよく丸い。",
   "expression": "微笑",
@@ -6140,6 +6131,21 @@
     "source": "Gizmodo",
     "title": "次世代Xboxはシリーズ過去最高額、発売価格は20万円超え…？",
     "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBZYm1OSDkyZjNaTWhaV1Y0RHdwSTFOZFBUSzM3VEZnQTY0SkVUYWMxOTBYcTY5YlNOTFh3bWItd0hIbnc3MlNER1dxTmNVUTNPUkdjX2JmWUt3WnJtY1RxRTFuQ0Jjbnd6N0EwTDhB?oc=5"
+   }
+  ]
+ },
+ {
+  "at": "2026-10-22T14:30+09:00",
+  "text": "免許証の写しが闇で売られたという。報じられた段階ゆえ断じぬが、顔と住所が値札を付けられるとは、世知辛い。",
+  "expression": "憂い",
+  "scene": "regular",
+  "lang": "ja",
+  "topic": "免許証画像など漏えいし闇サイトで販売か 沖縄の会社から",
+  "links": [
+   {
+    "source": "NHK",
+    "title": "免許証画像など漏えいし闇サイトで販売か 沖縄の会社から",
+    "url": "https://news.web.nhk/newsweb/na/nd-20261022de63353"
    }
   ]
  }
