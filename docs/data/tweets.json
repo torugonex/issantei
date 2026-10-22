@@ -1,14 +1,5 @@
 [
  {
-  "at": "2026-10-15T22:45+09:00",
-  "text": "A persimmon left on the branch, quite unbothered. Goodnight, then.",
-  "expression": "微笑",
-  "scene": "goodnight",
-  "lang": "en",
-  "topic": null,
-  "links": []
- },
- {
   "at": "2026-10-16T01:30+09:00",
   "text": "……大砲が、病院の廊下で、順番待ちを……",
   "expression": "寝顔",
@@ -6157,6 +6148,15 @@
   "text": "今日もよく歩いた。傘は一度も開かず、ただ杖がわりに。灯りを消して休むとする。",
   "expression": "微笑",
   "scene": "goodnight",
+  "lang": "ja",
+  "topic": null,
+  "links": []
+ },
+ {
+  "at": "2026-10-23T02:15+09:00",
+  "text": "……三十二の傘が、圏外で……",
+  "expression": "寝顔",
+  "scene": "sleeptalk",
   "lang": "ja",
   "topic": null,
   "links": []
