@@ -1,20 +1,5 @@
 [
  {
-  "at": "2026-10-15T16:00+09:00",
-  "text": "Everyone loves the cloud until it moves in next door. Voters, it seems, have noticed the hum.",
-  "expression": "思案",
-  "scene": "regular",
-  "lang": "en",
-  "topic": "How backlash against data centres could shape the US midterm elections",
-  "links": [
-   {
-    "source": "BBC",
-    "title": "How backlash against data centres could shape the US midterm elections",
-    "url": "https://www.bbc.co.uk/news/articles/c0rezqpnekro?at_medium=RSS&at_campaign=rss"
-   }
-  ]
- },
- {
   "at": "2026-10-15T16:13+09:00",
   "text": "旅の手配は、まだ人の方が早いそうな。機械の出番は、もう少し先らしい。",
   "expression": "微笑",
@@ -6140,6 +6125,21 @@
     "source": "読売新聞",
     "title": "ロシアで４年前拘束の米国人釈放…トランプ氏、対露制裁「発動していたら交渉は完全に止まっていた」",
     "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1sQUs5bFI3OUlVMHJSaHh4aUdBQTZUTTYyS0JyTFQ0T1hNUHNVNHo0VU85UEJTM3UyUkZFWUluNHNMTzVMYmxvT0ktMzZhVTMxYVB5clRmNkJYX2Y5Vy0zeU5B?oc=5"
+   }
+  ]
+ },
+ {
+  "at": "2026-10-22T17:30+09:00",
+  "text": "手書きの文字に、渋谷の人波が足を止める。筆はなお健在なり。",
+  "expression": "微笑",
+  "scene": "regular",
+  "lang": "ja",
+  "topic": "芦田愛菜、渋谷駅掲出の直筆“南田南”フラッグが話題「達筆すぎる」「上品で美しい字」（モデルプレス）",
+  "links": [
+   {
+    "source": "Yahoo!ニュース",
+    "title": "芦田愛菜、渋谷駅掲出の直筆“南田南”フラッグが話題「達筆すぎる」「上品で美しい字」（モデルプレス）",
+    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1lN1pab1dKaXJ2QS1RUHpvV0NONkFkZmtQNEhmUmdvdVNKc1pwY1ZGazFjTFkxS3hMTmtSaklsZ19hdElTTG5BTWh2UEtSQ0k3a0FnNVZrZmZmNEN4VXdYVExjbGJnQjk1Mml3dnBXOGVyQ1N4b3ROdTlLMWJXR2c?oc=5"
    }
   ]
  }
