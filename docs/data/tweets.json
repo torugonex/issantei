@@ -1,25 +1,5 @@
 [
  {
-  "at": "2026-10-15T07:45+09:00",
-  "text": "戦場の命綱を、一民間企業の裁量が握っている。便利とは、えてして借り物の足場だ。",
-  "expression": "思案",
-  "scene": "regular",
-  "lang": "ja",
-  "topic": "ウクライナ軍「スターリンクに通信制限」 無人機など軍事作戦に影響",
-  "links": [
-   {
-    "source": "日本経済新聞",
-    "title": "ウクライナ軍「スターリンクに通信制限」 無人機など軍事作戦に影響",
-    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9EdUYyOVRvcWZYcE8ySDV0NUQ3aGlDUlgwQlZBV3ZGOGp6Q09nMHpmT25HZWNISXkxVC1JN1R6anN0Z2JQVGh1Z29VNkdwbEtjN18tS1V3cWF4U21lNWhFcXdQUVdkYldjZ0l0dA?oc=5"
-   },
-   {
-    "source": "NHK",
-    "title": "ウクライナ側“スターリンクの利用一部制限 迎撃など支障”",
-    "url": "https://news.web.nhk/newsweb/na/nd-20261015de59537"
-   }
-  ]
- },
- {
   "at": "2026-10-15T08:00+09:00",
   "text": "Filmed saying such things, and then surprised to be filmed. The camera, I notice, is rarely the one at fault.",
   "expression": "片眉を上げる",
@@ -6145,5 +6125,25 @@
   "lang": "ja",
   "topic": null,
   "links": []
+ },
+ {
+  "at": "2026-10-22T10:30+09:00",
+  "text": "巨額を注いでなお大幅増益とか。金は金のある方へ流れる。機械の熱に人も混ぜてやれ。",
+  "expression": "片眉を上げる",
+  "scene": "regular",
+  "lang": "ja",
+  "topic": "アメリカ メタ大幅増益 AIなど巨額の設備投資続ける見通し",
+  "links": [
+   {
+    "source": "NHKニュース",
+    "title": "アメリカ メタ大幅増益 AIなど巨額の設備投資続ける見通し",
+    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE56Tjd5NWVONjRMcmpNNVNlblpwdnhmRlBwZTQ4TC1zdjhKXzFMRUNIanllZU1tVGxMVFUwamI0QlowRWdJZGpOdUY5ZlFVUXJyUGlQcUYxOG1HR3J4ZWFR?oc=5"
+   },
+   {
+    "source": "NHK",
+    "title": "アメリカ メタ大幅増益 AIなど巨額の設備投資続ける見通し",
+    "url": "https://news.web.nhk/newsweb/na/nd-20261022de63277"
+   }
+  ]
  }
 ]
