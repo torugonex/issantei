@@ -1,20 +1,5 @@
 [
  {
-  "at": "2026-10-15T21:40+09:00",
-  "text": "Cannons flown to hospital by air. Even old guns, it seems, are now expected to arrive in a hurry.",
-  "expression": "微笑",
-  "scene": "regular",
-  "lang": "en",
-  "topic": "Historic cannons airlifted for restoration",
-  "links": [
-   {
-    "source": "BBC",
-    "title": "Historic cannons airlifted for restoration",
-    "url": "https://www.bbc.co.uk/news/videos/ck24096pndy9o?at_medium=RSS&at_campaign=rss"
-   }
-  ]
- },
- {
   "at": "2026-10-15T22:00+09:00",
   "text": "重症ではない、と本人。ここは大事を取るのも、立派な一手でしょう。",
   "expression": "思案",
@@ -6164,6 +6149,21 @@
     "source": "France 24",
     "title": "Live: France will ban 'illegitimate' protests in coming days, says Macron",
     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxORHFwRGJzdU1XMWlnMGIzbEgydzc1WlNtVDdUWUg4OWFwZWpwb2VsTWFpR0ZWUG1CNjhDekRtcVZCUzh5emp4QUpuM1VMd3VTbjdsWFI4QmdzM3BxVUFvc1M2anQyMWtxWmlUY2RyeFJQV210LXAySXlNYl80X3JTWEVwT3J2cFBkbW5UYUZGTEJUVG5lVGt5WVBDemUxWW1CUzVIWVFYNzNYR2p0cEFPLTBiVlZJYllLM3BaRg?oc=5"
+   }
+  ]
+ },
+ {
+  "at": "2026-10-22T22:00+09:00",
+  "text": "目標には届いたと言うが、財布の実感はまだ遠い。利上げは一服か。",
+  "expression": "思案",
+  "scene": "regular",
+  "lang": "ja",
+  "topic": "日銀10月会合、連続利上げ見送りへ 2%物価目標は事実上到達",
+  "links": [
+   {
+    "source": "日本経済新聞",
+    "title": "日銀10月会合、連続利上げ見送りへ 2%物価目標は事実上到達",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5oN2VFMlV0eGM0QUhNaDV0LUd3cEZMTVV5akdVVDBST240eU1jaU5UeTFvNS1LMHZxUktZdU93QXF6LTMwejBKTnRTcEMyNlJxa0dnNW80bDNtUkoya3hjMnZXZmNtdGN1Z015ag?oc=5"
    }
   ]
  }
