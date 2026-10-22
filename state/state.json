@@ -1,9 +1,9 @@
 {
  "mood": {
-  "valence": 0.072,
-  "arousal": -0.142
+  "valence": 0.129,
+  "arousal": -0.181
  },
- "since_sarcasm": 5,
+ "since_sarcasm": 6,
  "day": "2026-10-23",
  "morning_done": true,
  "goodnight_done": false,
@@ -90,14 +90,6 @@
   "f722a3f1b5eb": "2026-10-23T06:15:20.958069+09:00"
  },
  "commented_titles": [
-  {
-   "title": "米トランプ大統領“ロシアが拘束していたアメリカ人を解放”",
-   "at": "2026-10-22T07:13:19.934631+09:00"
-  },
-  {
-   "title": "スペースX株は12%高、テスラは4%高 統合協議を好感も反応に格差",
-   "at": "2026-10-22T07:15:19.336008+09:00"
-  },
   {
    "title": "Orionid meteor shower to peak in UK skies into Thursday",
    "at": "2026-10-22T07:45:19.958356+09:00"
@@ -275,10 +267,10 @@
    "at": "2026-10-23T06:15:20.958069+09:00"
   }
  ],
- "last_quake_check": "2026-10-23T07:30:28.190390+09:00",
- "since_english": 2,
+ "last_quake_check": "2026-10-23T07:39:04.074193+09:00",
+ "since_english": 3,
  "next_english": 5,
- "last_tick": "2026-10-23T07:30:28.190390+09:00",
+ "last_tick": "2026-10-23T07:39:04.074193+09:00",
  "french_day": "2026-10-23",
  "french_done": false,
  "french_after": 687

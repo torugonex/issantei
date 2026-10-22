@@ -1,14 +1,5 @@
 [
  {
-  "at": "2026-10-16T06:30+09:00",
-  "text": "Rain lingering till morning, sun promised by noon. I shall carry the umbrella furled, as a gesture of optimism.",
-  "expression": "微笑",
-  "scene": "life",
-  "lang": "en",
-  "topic": null,
-  "links": []
- },
- {
   "at": "2026-10-16T06:45+09:00",
   "text": "本棚が急に閉まったようなもの。疑いの段階ゆえ、まず復旧を待とう。",
   "expression": "思案",
@@ -6150,6 +6141,15 @@
  {
   "at": "2026-10-23T07:00+09:00",
   "text": "朝の紅茶を濃いめに淹れた。本を二、三頁読んで、晴れたら散歩に出よう。",
+  "expression": "微笑",
+  "scene": "life",
+  "lang": "ja",
+  "topic": null,
+  "links": []
+ },
+ {
+  "at": "2026-10-23T07:39+09:00",
+  "text": "新米を炊いた。湯気の向こうで、今朝はなにも急がなくてよい気がする。",
   "expression": "微笑",
   "scene": "life",
   "lang": "ja",
