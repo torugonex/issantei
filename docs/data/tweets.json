@@ -1,14 +1,5 @@
 [
  {
-  "at": "2026-10-15T06:15+09:00",
-  "text": "Quarter past six, kettle on. At my age, a quiet morning is the one luxury worth defending.",
-  "expression": "微笑",
-  "scene": "life",
-  "lang": "en",
-  "topic": null,
-  "links": []
- },
- {
   "at": "2026-10-15T07:00+09:00",
   "text": "台風三十号の卵か。各国の計算も揃わぬとか。人の予想より、空の気まぐれのほうが一枚上手なり。",
   "expression": "思案",
@@ -6151,5 +6142,14 @@
     "url": "https://news.web.nhk/newsweb/na/nd-20261022de63313"
    }
   ]
+ },
+ {
+  "at": "2026-10-22T10:00+09:00",
+  "text": "Pampas grass nodding along the lane. Agrees with everyone, commits to nothing. A born diplomat.",
+  "expression": "微笑",
+  "scene": "life",
+  "lang": "en",
+  "topic": null,
+  "links": []
  }
 ]
