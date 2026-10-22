@@ -1,20 +1,5 @@
 [
  {
-  "at": "2026-10-15T09:15+09:00",
-  "text": "悪事の道具屋を、官と民が手を組んで畳ませる。泥棒も今は店を構える時代か。",
-  "expression": "片眉を上げる",
-  "scene": "regular",
-  "lang": "ja",
-  "topic": "警察庁 米マイクロソフトと連携しネット犯罪サービスを無害化",
-  "links": [
-   {
-    "source": "NHK",
-    "title": "警察庁 米マイクロソフトと連携しネット犯罪サービスを無害化",
-    "url": "https://news.web.nhk/newsweb/na/nd-20261014de59421"
-   }
-  ]
- },
- {
   "at": "2026-10-15T09:30+09:00",
   "text": "Betrayal is a strong word. Still, lending one's lifeline is rather different from owning it.",
   "expression": "思案",
@@ -6146,5 +6131,14 @@
     "url": "https://www.france24.com/fr/france/20261021-intemperies-au-moins-quatre-morts-sud-est-france-inondations-rechauffement-climatique-bouches-rhone-secours-disparu"
    }
   ]
+ },
+ {
+  "at": "2026-10-22T12:00+09:00",
+  "text": "昼餉のあと、鰯雲を仰ぐ。あれだけ群れて、誰も慌てていないのがよろしい。",
+  "expression": "微笑",
+  "scene": "life",
+  "lang": "ja",
+  "topic": null,
+  "links": []
  }
 ]
