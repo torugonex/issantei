@@ -1,25 +1,5 @@
 [
  {
-  "at": "2026-10-15T08:00+09:00",
-  "text": "Filmed saying such things, and then surprised to be filmed. The camera, I notice, is rarely the one at fault.",
-  "expression": "片眉を上げる",
-  "scene": "regular",
-  "lang": "en",
-  "topic": "Reform UK councillors and candidates filmed making racist and extreme comments",
-  "links": [
-   {
-    "source": "Guardian",
-    "title": "Reform UK councillors and candidates filmed making racist and extreme comments",
-    "url": "https://www.theguardian.com/politics/2026/oct/14/reform-uk-councillors-and-candidates-filmed-making-racist-and-extreme-comments"
-   },
-   {
-    "source": "ITVX",
-    "title": "Inside Reform: Councillors' extreme and racist views on camera | ITV News",
-    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQRkJwdWZkNHE4dGtmY3JLUDc2eFZUX1NvTG5rcDJuejRuamZNS0ZHSDlQdGVib2VsM3hwZ3NoZ19FaXdaSWNEYXRNUENHaE93aW9fVFNhc09xTXZ6TG9ObU1RVkd2SWhRQmpqOVZ4WjVfRXZfanYyMnZUbTdDWHJYbkVwQlRSMDhFX1Y0ZFpWdGtVUDFFQTdSLV9naWM?oc=5"
-   }
-  ]
- },
- {
   "at": "2026-10-15T08:30+09:00",
   "text": "海の向こうの優勝決定戦。朝のお茶を片手に、他人の勝負を眺める贅沢もよろしい。",
   "expression": "微笑",
@@ -6143,6 +6123,21 @@
     "source": "NHK",
     "title": "アメリカ メタ大幅増益 AIなど巨額の設備投資続ける見通し",
     "url": "https://news.web.nhk/newsweb/na/nd-20261022de63277"
+   }
+  ]
+ },
+ {
+  "at": "2026-10-22T10:45+09:00",
+  "text": "捕物より、聞き役が主役とは奥ゆかしい。日曜の夜が少し静かになりそうだ。",
+  "expression": "微笑",
+  "scene": "regular",
+  "lang": "ja",
+  "topic": "柳楽優弥、TBS日曜劇場に初出演で“主演”に 27年1月スタート…主人公は警視庁・被害者サポート担当係「俳優活動の中で新しいチャレンジに」【コメントあり】",
+  "links": [
+   {
+    "source": "オリコンニュース",
+    "title": "柳楽優弥、TBS日曜劇場に初出演で“主演”に 27年1月スタート…主人公は警視庁・被害者サポート担当係「俳優活動の中で新しいチャレンジに」【コメントあり】",
+    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE53MVNtNTd4cnpXVWhmSUcwcktjcFpBNmNJMTBncmRHcWRUaWhsd01nZEg5S3dzcDF4MTdTVUpxVXE2OGI4Zlh5RFVCWmlPSHJ6bW5CZ1Zn?oc=5"
    }
   ]
  }
