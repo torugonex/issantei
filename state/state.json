@@ -1,15 +1,14 @@
 {
  "mood": {
-  "valence": 0.197,
-  "arousal": -0.186
+  "valence": 0.123,
+  "arousal": -0.115
  },
- "since_sarcasm": 7,
+ "since_sarcasm": 0,
  "day": "2026-10-23",
  "morning_done": true,
  "goodnight_done": false,
  "sleeptalk_night": "2026-10-22",
  "commented": {
-  "644ee119e6ee": "2026-10-21T08:15:19.932901+09:00",
   "18b74b5e29a1": "2026-10-21T10:00:39.941557+09:00",
   "f90d60a9ed34": "2026-10-21T10:15:26.103892+09:00",
   "a07c4365f9b1": "2026-10-21T10:30:28.987947+09:00",
@@ -86,13 +85,10 @@
   "38b9e5fd97a4": "2026-10-22T21:45:24.854766+09:00",
   "e37e45c990e9": "2026-10-22T22:00:44.530439+09:00",
   "1d393b5510b9": "2026-10-22T22:30:33.892508+09:00",
-  "f722a3f1b5eb": "2026-10-23T06:15:20.958069+09:00"
+  "f722a3f1b5eb": "2026-10-23T06:15:20.958069+09:00",
+  "b1497b777d1d": "2026-10-23T08:15:20.121922+09:00"
  },
  "commented_titles": [
-  {
-   "title": "秋田 子吉川で一時 氾濫特別警報 危険な場所に近づかないで",
-   "at": "2026-10-22T08:15:18.828406+09:00"
-  },
   {
    "title": "Burnham proposes plan to cut standing charges from gas bills",
    "at": "2026-10-22T08:30:43.641904+09:00"
@@ -256,12 +252,16 @@
   {
    "title": "Lula says rival should be disqualified over alleged Meta interference ahead of Brazil vote",
    "at": "2026-10-23T06:15:20.958069+09:00"
+  },
+  {
+   "title": "Trump ordered to answer questions under oath in BBC lawsuit",
+   "at": "2026-10-23T08:15:20.121922+09:00"
   }
  ],
- "last_quake_check": "2026-10-23T08:00:40.789468+09:00",
- "since_english": 4,
- "next_english": 5,
- "last_tick": "2026-10-23T08:00:40.789468+09:00",
+ "last_quake_check": "2026-10-23T08:15:20.121922+09:00",
+ "since_english": 1,
+ "next_english": 3,
+ "last_tick": "2026-10-23T08:15:20.121922+09:00",
  "french_day": "2026-10-23",
  "french_done": false,
  "french_after": 687

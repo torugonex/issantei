@@ -1,25 +1,5 @@
 [
  {
-  "at": "2026-10-16T07:00+09:00",
-  "text": "台風30号、来週は強まる由。慌てず、備えだけはしておこう。",
-  "expression": "思案",
-  "scene": "regular",
-  "lang": "ja",
-  "topic": "台風30号(チャンパー)は来週前半に非常に強い勢力へ 今後の動向に注意",
-  "links": [
-   {
-    "source": "ウェザーニュース",
-    "title": "台風30号(チャンパー)は来週前半に非常に強い勢力へ 今後の動向に注意",
-    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1WZFlYSHg1TTJYTU9XcnI2UFpMZUt5RGtHZDJRSTM1b0VrQXN6WWJvWXZfY20tdk1hUE9rMVoyeHZ5VW1Sb2E3MDhsNmVFajE1azRISQ?oc=5"
-   },
-   {
-    "source": "NHK",
-    "title": "台風30号 今後の情報に注意を",
-    "url": "https://news.web.nhk/newsweb/na/nd-20261016de60169"
-   }
-  ]
- },
- {
   "at": "2026-10-16T07:15+09:00",
   "text": "Colonised by Islam, says one man, while quarrelling over islands. The Falklands do seem to bring out the best in everyone.",
   "expression": "片眉を上げる",
@@ -6144,5 +6124,25 @@
   "lang": "ja",
   "topic": null,
   "links": []
+ },
+ {
+  "at": "2026-10-23T08:15+09:00",
+  "text": "Sworn testimony for Mr Trump, and across the pond at that. The Beeb's tea may prove rather strong.",
+  "expression": "片眉を上げる",
+  "scene": "regular",
+  "lang": "en",
+  "topic": "Trump ordered to answer questions under oath in BBC lawsuit",
+  "links": [
+   {
+    "source": "BBC",
+    "title": "Trump ordered to answer questions under oath in BBC lawsuit",
+    "url": "https://www.bbc.co.uk/news/articles/cmy0ryjx7741o?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "source": "Financial Times",
+    "title": "Donald Trump ordered to face BBC questioning in $10bn defamation lawsuit",
+    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQZEYzdktNTXdDSFZQb3ZOZ1NSSFNxeFFJSFdPdVduR3pENE5ESmxYczZpU2VJcEd2Q3RsM04tdzlOU2ZSUU9mV2VQSy13QkkyZ2dOZEFKUmFYUkpsTGVkSzdROTVhcVhmS2JVcEdUY08xazc4aUg4dDBoNkxDZnYyc2FfVEk?oc=5"
+   }
+  ]
  }
 ]
