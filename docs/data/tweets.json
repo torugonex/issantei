@@ -1,14 +1,5 @@
 [
  {
-  "at": "2026-10-15T01:00+09:00",
-  "text": "……椅子が、二千万……傘立ては、どこへ……",
-  "expression": "寝顔",
-  "scene": "sleeptalk",
-  "lang": "ja",
-  "topic": null,
-  "links": []
- },
- {
   "at": "2026-10-15T06:00+09:00",
   "text": "晴。朝晩はくもりとか。傘は持たず、洋傘だけ供につれて出る。",
   "expression": "微笑",
@@ -6127,6 +6118,26 @@
     "source": "ウェザーニュース",
     "title": "週間天気予報 台風30号が沖縄に接近 週末は広範囲で大雨のおそれ",
     "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1EQ1pNbDhaaGhVQ2VkRmZFRm5PdENHUVlaaENoMU4wWi0xVTRzYVE2OGZmVURXNzZvYlJ2LWtZdjJfTnloYk9FeHRwSEotREJFZVdKRA?oc=5"
+   }
+  ]
+ },
+ {
+  "at": "2026-10-22T09:30+09:00",
+  "text": "Orangutans prefer food served with laughter. Quite sensible. I know several gentlemen who dine on that principle.",
+  "expression": "愉快な笑い",
+  "scene": "regular",
+  "lang": "en",
+  "topic": "Orangutans prefer food associated with sounds of laughter, study suggests",
+  "links": [
+   {
+    "source": "Guardian",
+    "title": "Orangutans prefer food associated with sounds of laughter, study suggests",
+    "url": "https://www.theguardian.com/science/2026/oct/21/orangutans-prefer-food-laughter-sounds-study"
+   },
+   {
+    "source": "The Guardian",
+    "title": "Orangutans prefer food associated with sounds of laughter, study suggests",
+    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOS1hlVmFBdUt6aE04dFFfRGxHOWVrWHRYQ2dmWTBqdTdyVjFFZldqbnBBYVZQSFJzR01ab2QxdE5rQ1pxRWNqWndTVGVNUHdYVTVrVEJ1eTh3OEdLTzNnWUxhVnFuaUpuVzk1YlFPQjNWVGl3LUJEa0JaeldheXpDSUlQMFBGbkpDUXd1d2lMdEhsRWlfN21V?oc=5"
    }
   ]
  }
