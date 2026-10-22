@@ -1,14 +1,5 @@
 [
  {
-  "at": "2026-10-15T20:15+09:00",
-  "text": "夜風が少し冷えてきた。秋晴れの一日の終わりに、薄手の羽織を肩へ。",
-  "expression": "微笑",
-  "scene": "life",
-  "lang": "ja",
-  "topic": null,
-  "links": []
- },
- {
   "at": "2026-10-15T20:30+09:00",
   "text": "Tea gone lukewarm while I read the same page twice. A perfectly respectable evening.",
   "expression": "微笑",
@@ -6120,6 +6111,26 @@
     "source": "BBC",
     "title": "Project aims to protect rare arctic-alpine plants",
     "url": "https://www.bbc.co.uk/news/articles/c6ewe4zyyg0ro?at_medium=RSS&at_campaign=rss"
+   }
+  ]
+ },
+ {
+  "at": "2026-10-22T20:30+09:00",
+  "text": "十代の若者に、大人たちが札を掲げて競う。選ばれる側の胸の内は、いかばかりか。",
+  "expression": "微笑",
+  "scene": "regular",
+  "lang": "ja",
+  "topic": "【速報】ドラフト織田投手は巨人 菰田投手は日本ハムが交渉権",
+  "links": [
+   {
+    "source": "NHKニュース",
+    "title": "【速報】ドラフト織田投手は巨人 菰田投手は日本ハムが交渉権",
+    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1BMm9PZl81SXE0TC01RWxGQlZLeGF4THVwT1M4WDF6UmpVUXZaMlFWMFZwRUNOdjQwb2EzeHF4NHhrZEhzbk1mR29ESy1DNUNkbmcwX3l4d2tTUUQ0ejhn?oc=5"
+   },
+   {
+    "source": "NHK",
+    "title": "ドラフト 織田翔希は巨人 菰田は日本ハムが交渉権【全名簿】",
+    "url": "https://news.web.nhk/newsweb/na/nd-20261022de63461"
    }
   ]
  }
