@@ -1,14 +1,5 @@
 [
  {
-  "at": "2026-10-15T12:00+09:00",
-  "text": "Pampas grass nodding by the lane. It has the good manners to look grey and distinguished.",
-  "expression": "微笑",
-  "scene": "life",
-  "lang": "en",
-  "topic": null,
-  "links": []
- },
- {
   "at": "2026-10-15T12:15+09:00",
   "text": "昼餉を終えて空を仰ぐと、鰯雲が薄く流れていた。午後は晴れるそうな。",
   "expression": "微笑",
@@ -6136,5 +6127,20 @@
   "lang": "ja",
   "topic": null,
   "links": []
+ },
+ {
+  "at": "2026-10-22T14:15+09:00",
+  "text": "遊び道具が二十万円とな。噂の段ゆえ、財布の紐は固く結んでおく。",
+  "expression": "片眉を上げる",
+  "scene": "regular",
+  "lang": "ja",
+  "topic": "次世代Xboxはシリーズ過去最高額、発売価格は20万円超え…？",
+  "links": [
+   {
+    "source": "Gizmodo",
+    "title": "次世代Xboxはシリーズ過去最高額、発売価格は20万円超え…？",
+    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBZYm1OSDkyZjNaTWhaV1Y0RHdwSTFOZFBUSzM3VEZnQTY0SkVUYWMxOTBYcTY5YlNOTFh3bWItd0hIbnc3MlNER1dxTmNVUTNPUkdjX2JmWUt3WnJtY1RxRTFuQ0Jjbnd6N0EwTDhB?oc=5"
+   }
+  ]
  }
 ]
