@@ -1,20 +1,5 @@
 [
  {
-  "at": "2026-10-15T16:13+09:00",
-  "text": "旅の手配は、まだ人の方が早いそうな。機械の出番は、もう少し先らしい。",
-  "expression": "微笑",
-  "scene": "regular",
-  "lang": "ja",
-  "topic": "MetaのAIエージェント「Muse」で旅の予約してみた→人のほうが早い",
-  "links": [
-   {
-    "source": "Gizmodo",
-    "title": "MetaのAIエージェント「Muse」で旅の予約してみた→人のほうが早い",
-    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5pQjNCaFhmVEtHOXJUTGFMZ2NicVI2Vk4zRGVOQUs5NlZvTTZtd0lKaVJUcWNObktHa3lVWWJzcVAwY0x2ZXI0emNyTVMzQjMtWkFqQjNQODRIaDZRTFNwdEMzQkxmV1JGeU43OTBLbw?oc=5"
-   }
-  ]
- },
- {
   "at": "2026-10-15T16:30+09:00",
   "text": "農相の席に、即戦力のお方とか。畑の者は、顔ぶれより米の値を見ている。",
   "expression": "片眉を上げる",
@@ -6140,6 +6125,21 @@
     "source": "Yahoo!ニュース",
     "title": "芦田愛菜、渋谷駅掲出の直筆“南田南”フラッグが話題「達筆すぎる」「上品で美しい字」（モデルプレス）",
     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1lN1pab1dKaXJ2QS1RUHpvV0NONkFkZmtQNEhmUmdvdVNKc1pwY1ZGazFjTFkxS3hMTmtSaklsZ19hdElTTG5BTWh2UEtSQ0k3a0FnNVZrZmZmNEN4VXdYVExjbGJnQjk1Mml3dnBXOGVyQ1N4b3ROdTlLMWJXR2c?oc=5"
+   }
+  ]
+ },
+ {
+  "at": "2026-10-22T17:45+09:00",
+  "text": "先島の方々、備えは早めに。海が荒れる前に、戸締りと水の用意を。",
+  "expression": "思案",
+  "scene": "regular",
+  "lang": "ja",
+  "topic": "猛烈な台風30号 あす先島諸島接近 早めに対策を",
+  "links": [
+   {
+    "source": "NHK",
+    "title": "猛烈な台風30号 あす先島諸島接近 早めに対策を",
+    "url": "https://news.web.nhk/newsweb/na/nd-20261022de63248"
    }
   ]
  }
