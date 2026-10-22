@@ -1,12 +1,12 @@
 {
  "mood": {
-  "valence": -0.125,
-  "arousal": -0.036
+  "valence": -0.069,
+  "arousal": -0.127
  },
- "since_sarcasm": 0,
+ "since_sarcasm": 1,
  "day": "2026-10-22",
  "morning_done": true,
- "goodnight_done": false,
+ "goodnight_done": true,
  "sleeptalk_night": "2026-10-21",
  "commented": {
   "fc261c36a520": "2026-10-21T06:45:19.919351+09:00",
@@ -90,10 +90,6 @@
   "1d393b5510b9": "2026-10-22T22:30:33.892508+09:00"
  },
  "commented_titles": [
-  {
-   "title": "打ち上げ成功のＭＭＸ 太陽電池パドル展開し順調に飛行",
-   "at": "2026-10-21T22:30:34.619642+09:00"
-  },
   {
    "title": "米トランプ大統領“ロシアが拘束していたアメリカ人を解放”",
    "at": "2026-10-22T07:13:19.934631+09:00"
@@ -276,9 +272,9 @@
   }
  ],
  "last_quake_check": "2026-10-22T22:30:33.892508+09:00",
- "since_english": 1,
+ "since_english": 2,
  "next_english": 3,
- "last_tick": "2026-10-22T22:30:33.892508+09:00",
+ "last_tick": "2026-10-22T22:45:20.998797+09:00",
  "french_day": "2026-10-22",
  "french_done": true,
  "french_after": 695

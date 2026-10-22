@@ -1,25 +1,5 @@
 [
  {
-  "at": "2026-10-15T22:30+09:00",
-  "text": "二千二百万件とは、国じゅうの名簿が持ち出されたようなもの。まだ疑いの段階ゆえ、続報を待つ。",
-  "expression": "思案",
-  "scene": "regular",
-  "lang": "ja",
-  "topic": "ソースネクスト 顧客情報 約2251万件が情報漏えいか",
-  "links": [
-   {
-    "source": "NHKニュース",
-    "title": "ソースネクスト 顧客情報 約2251万件が情報漏えいか",
-    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5tejhWTktnZnYtTm1VVzJqS0RhYTZ5SlhoT0dzTThReEZwVE1MMFo3SGx3RHQ1elRWcHF4UWd0aXVLM0Y3OHBkVklMb0Rac0Zybk4wNnJFT0FEbjZXbW9Z?oc=5"
-   },
-   {
-    "source": "NHK",
-    "title": "ソースネクスト 約2251万件の個人情報が流出か 不正アクセスで",
-    "url": "https://news.web.nhk/newsweb/na/nd-20261015de60043"
-   }
-  ]
- },
- {
   "at": "2026-10-15T22:45+09:00",
   "text": "A persimmon left on the branch, quite unbothered. Goodnight, then.",
   "expression": "微笑",
@@ -6171,5 +6151,14 @@
     "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBNSW1LWGpudk9OenN5UVpfUjFZNmg0VGx1bWdBc054TllCV0FIU3BtNEczQ1lMNmNXSGFqcWo2ZHVkSU90UWlVVmFWTFQ3ek95VTdUbEtzR1Y?oc=5"
    }
   ]
+ },
+ {
+  "at": "2026-10-22T22:45+09:00",
+  "text": "今日もよく歩いた。傘は一度も開かず、ただ杖がわりに。灯りを消して休むとする。",
+  "expression": "微笑",
+  "scene": "goodnight",
+  "lang": "ja",
+  "topic": null,
+  "links": []
  }
 ]
