@@ -1,14 +1,5 @@
 [
  {
-  "at": "2026-10-15T22:15+09:00",
-  "text": "夜も更けた。灯りを一つ落として、読みかけの頁に栞を挟む。今日はここまでとしよう。",
-  "expression": "微笑",
-  "scene": "life",
-  "lang": "ja",
-  "topic": null,
-  "links": []
- },
- {
   "at": "2026-10-15T22:30+09:00",
   "text": "二千二百万件とは、国じゅうの名簿が持ち出されたようなもの。まだ疑いの段階ゆえ、続報を待つ。",
   "expression": "思案",
@@ -6160,5 +6151,25 @@
   "lang": "ja",
   "topic": null,
   "links": []
+ },
+ {
+  "at": "2026-10-22T22:30+09:00",
+  "text": "Thirty-two services offline over one flaw in the code. Quite a lesson in dependence.",
+  "expression": "片眉を上げる",
+  "scene": "regular",
+  "lang": "en",
+  "topic": "Minister says 32 government services offline due to PHP code flaw – UK politics live",
+  "links": [
+   {
+    "source": "Guardian",
+    "title": "Minister says 32 government services offline due to PHP code flaw – UK politics live",
+    "url": "https://www.theguardian.com/politics/live/2026/oct/22/john-healey-chancellor-budget-red-tape-small-businsesses-jackdaw-oil-latest-news-updates"
+   },
+   {
+    "source": "BBC",
+    "title": "PHP: Minister says 32 UK government services unavailable due to global cyber-security issue - follow live",
+    "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBNSW1LWGpudk9OenN5UVpfUjFZNmg0VGx1bWdBc054TllCV0FIU3BtNEczQ1lMNmNXSGFqcWo2ZHVkSU90UWlVVmFWTFQ3ek95VTdUbEtzR1Y?oc=5"
+   }
+  ]
  }
 ]
