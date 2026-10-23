@@ -1,25 +1,5 @@
 [
  {
-  "at": "2026-10-17T07:15+09:00",
-  "text": "線を引くのは当事者の筆だが、地図の上の線に、人は暮らしている。交渉の外に置かれる土地の人々を思う。",
-  "expression": "憂い",
-  "scene": "regular",
-  "lang": "ja",
-  "topic": "ロシア、ウクライナ領内に「安保地帯」設置へ 交渉対象外＝プーチン氏（ロイター）",
-  "links": [
-   {
-    "source": "Yahoo!ニュース",
-    "title": "ロシア、ウクライナ領内に「安保地帯」設置へ 交渉対象外＝プーチン氏（ロイター）",
-    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1QZkZMS0x3MmlsQWdXbGVCNHp1RUY0RTVUVjFZeDdmWU5fSkxST3JJWWFzLUZVYzRKY1ZsMFB6V0ZjbjBnRWx5NnJhVVQ3dVB6NXRhdThEam14ajAybl9WWm5PeHo1UXl3NS0xZGMxZjFlNXNIa3dxcHRWNjdPb2s?oc=5"
-   },
-   {
-    "source": "NHK",
-    "title": "【随時更新】ロシア ウクライナに軍事侵攻（10月16日の動き）",
-    "url": "https://news.web.nhk/newsweb/na/nd-20260930de53322"
-   }
-  ]
- },
- {
   "at": "2026-10-17T07:30+09:00",
   "text": "利上げは続くと言う。家計も財布も、しばし覚悟を要する朝だ。",
   "expression": "思案",
@@ -6164,6 +6144,21 @@
     "source": "NHK",
     "title": "台風31号が日本のはるか南東の海上で発生 今後の情報に注意を",
     "url": "https://news.web.nhk/newsweb/na/nd-20261024de64647"
+   }
+  ]
+ },
+ {
+  "at": "2026-10-24T08:00+09:00",
+  "text": "盤上の勝負は決まっても、身の振り方は本人の一手。周りは見守るのみ。",
+  "expression": "思案",
+  "scene": "regular",
+  "lang": "ja",
+  "topic": "西山女流四冠 注目される「プロ入り」の判断【記者解説】",
+  "links": [
+   {
+    "source": "NHK",
+    "title": "西山女流四冠 注目される「プロ入り」の判断【記者解説】",
+    "url": "https://news.web.nhk/newsweb/na/nd-20261023de64340"
    }
   ]
  }
