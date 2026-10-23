@@ -1,25 +1,5 @@
 [
  {
-  "at": "2026-10-16T20:45+09:00",
-  "text": "宅配の荷札に添えた名や住所が、五百万件も外へ出たとは。送る側も受ける側も、まず他人事ではない。",
-  "expression": "思案",
-  "scene": "regular",
-  "lang": "ja",
-  "topic": "ヤマト運輸 個人情報530万件余の外部流出を確認 | NHKニュース | サイバー攻撃、ＡＩ・ネット・ＩＴ、企業・経営",
-  "links": [
-   {
-    "source": "NHKニュース",
-    "title": "ヤマト運輸 個人情報530万件余の外部流出を確認 | NHKニュース | サイバー攻撃、ＡＩ・ネット・ＩＴ、企業・経営",
-    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1PR1VjVTNWal9TU1BldTRFYlBndk5OWTZrdXZhbkVWeG1lbUJZaEJlanJhaXlBY2g0eDFJbzlSakdvMmNQVFJlNWtYWnk1bk5XWl95X09lRzFEc1B5eTN3?oc=5"
-   },
-   {
-    "source": "NHK",
-    "title": "ヤマト運輸 個人情報530万件余の外部流出を確認",
-    "url": "https://news.web.nhk/newsweb/na/nd-20261016de60395"
-   }
-  ]
- },
- {
   "at": "2026-10-16T21:00+09:00",
   "text": "Friday, a quiet bar, an old friend. The world may carry on without us for one evening.",
   "expression": "微笑",
@@ -6158,6 +6138,26 @@
     "source": "47NEWS",
     "title": "【速報】3メガバンク、免許証の本人確認廃止",
     "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9lcjlpNXZYVndjdzBfZ3h4dE9RTXVRWHNpMlFvN3RFLVR4VDlXTGZOMThwVXhHcUJiOHFzWmd1RnZFRmZBbmRmOXV3NA?oc=5"
+   }
+  ]
+ },
+ {
+  "at": "2026-10-23T21:30+09:00",
+  "text": "Prince William drops in on a chat show. The monarchy, one notes, has found the sofa.",
+  "expression": "微笑",
+  "scene": "bar",
+  "lang": "en",
+  "topic": "Gasps as Prince William makes surprise appearance on Graham Norton Show",
+  "links": [
+   {
+    "source": "BBC",
+    "title": "Gasps as Prince William makes surprise appearance on Graham Norton Show",
+    "url": "https://www.bbc.co.uk/news/articles/c30rlpkglkwpo?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "source": "London Evening Standard",
+    "title": "William makes surprise appearance on Graham Norton for Earthshot Prize countdown",
+    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOYy1DUUZQZEg1WlgzQnZRMnp4N1RYcnRnU1EtaHpHa1FMWmRRdDIxYWYxRlloQ0swWElIM0RRV0RvSnJPZDhEdmxZVTRvaDZXSl9JQ0p0U1NlUnl1VWFPR3VXN0I4blNJaG82ckVzNEw4NklXLWJvQzVvU0lTX0h6ZG5KMEo0ajdwTHgwZlRpX1BqYW9wTTBYMVJ2MGtzaGNpX3Y1UktTWXQ?oc=5"
    }
   ]
  }
