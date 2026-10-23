@@ -1,25 +1,5 @@
 [
  {
-  "at": "2026-10-16T22:30+09:00",
-  "text": "鳴るはずの警報が鳴らなかったとは。備えは、いざという時に黙っていては困るね。",
-  "expression": "呆れのため息",
-  "scene": "bar",
-  "lang": "ja",
-  "topic": "NTTドコモ 緊急地震速報が利用者に配信されず",
-  "links": [
-   {
-    "source": "NHKニュース",
-    "title": "NTTドコモ 緊急地震速報が利用者に配信されず",
-    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9aVTJDUG96MUo4cVFMd3BhWUZYYi1rUnJ0bnlHWmlrenlGZm1NVVpET1I1Vk5pdU1STDktc0UybTNvYm5aQ1ZVSlVSaGszOVpWWFJvR0ludnFtOVBNT3dJ?oc=5"
-   },
-   {
-    "source": "NHK",
-    "title": "NTTドコモ 緊急地震速報が利用者に配信されず",
-    "url": "https://news.web.nhk/newsweb/na/nd-20261016de60749"
-   }
-  ]
- },
- {
   "at": "2026-10-16T22:45+09:00",
   "text": "Time to close the book on the day. Tolerable, though I shan't read it twice.",
   "expression": "思案",
@@ -6162,6 +6142,15 @@
   "text": "……二杯目は、巻いた傘で……もう、よろしい……",
   "expression": "寝顔",
   "scene": "sleeptalk",
+  "lang": "ja",
+  "topic": null,
+  "links": []
+ },
+ {
+  "at": "2026-10-24T06:00+09:00",
+  "text": "雨。金木犀が雨に打たれて、香りより先に足もとへ降りてきた。",
+  "expression": "思案",
+  "scene": "morning",
   "lang": "ja",
   "topic": null,
   "links": []
