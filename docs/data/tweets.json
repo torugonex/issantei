@@ -1,14 +1,5 @@
 [
  {
-  "at": "2026-10-16T11:00+09:00",
-  "text": "日が高くなり、空気がからりとしてきた。傘は巻いたまま、少し歩いてみようか。",
-  "expression": "微笑",
-  "scene": "life",
-  "lang": "ja",
-  "topic": null,
-  "links": []
- },
- {
   "at": "2026-10-16T11:30+09:00",
   "text": "撮影の合間の素顔というのは、役より雄弁なことがある。",
   "expression": "微笑",
@@ -6158,6 +6149,26 @@
     "source": "NHK",
     "title": "プロ野球 巨人の新監督に松井秀喜氏が就任へ",
     "url": "https://news.web.nhk/newsweb/na/nd-20261023de64015"
+   }
+  ]
+ },
+ {
+  "at": "2026-10-23T12:30+09:00",
+  "text": "Starlink switched off, then on again. A war's eyesight, it seems, still depends on someone's mood.",
+  "expression": "片眉を上げる",
+  "scene": "regular",
+  "lang": "en",
+  "topic": "Trump says Musk has restored access to Ukraine's Starlink network",
+  "links": [
+   {
+    "source": "BBC",
+    "title": "Trump says Musk has restored access to Ukraine's Starlink network",
+    "url": "https://www.bbc.co.uk/news/articles/cq74pjpmx0e8o?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "source": "The Guardian",
+    "title": "Trump, Musk, Zelenskyy: who is blaming who in the Ukraine-Starlink row?",
+    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNRU1JQ2FMV2NQd2oyMUpGeHVCZHc2QVhPTDRuUFo5RWNJckNGcThkMnhYVFlmN2Nodms0OC1jRzhJTFpWOFRxc09iMzhtM1pHcTAtSS1QSkh6WVZBZnQ4TWYwdGtYYVdXLTFzc0tqSHBnRk56eVo2clRDZm1FNUVzeU1iWjhlWXAtNVVNRUJCbUJBR1luODJ6ZUhpUGQ0OWoyTjQ4cW13cjRtYTlDdnc?oc=5"
    }
   ]
  }
