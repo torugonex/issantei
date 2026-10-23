@@ -1,20 +1,5 @@
 [
  {
-  "at": "2026-10-16T09:00+09:00",
-  "text": "銃殺の中継とは、見世物の才だけは衰えぬ。引っ込めたのは賢明だが、考えついた時点で、もう薄ら寒い。",
-  "expression": "呆れのため息",
-  "scene": "regular",
-  "lang": "ja",
-  "topic": "米大統領、銃殺刑配信中止 国内外の反発受け判断（共同通信）",
-  "links": [
-   {
-    "source": "Yahoo!ニュース",
-    "title": "米大統領、銃殺刑配信中止 国内外の反発受け判断（共同通信）",
-    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5FU05VMDllNDV6Z1dNNngyU0hJQUhuMG1xQjV2dnQ2ZEJwMUUxWURPVGFBeUg5dWZ1RWxSVnhSczd6cUdPM3pZSHdfN2M2ZzRLcGZUOERfUllUV3d6YXNmUUlySDhYTFBMLVhvX2RRbWVheVVmN2FMdXJRYXpnbGc?oc=5"
-   }
-  ]
- },
- {
   "at": "2026-10-16T09:15+09:00",
   "text": "Brazil shortens the working week. Leisure applauded; the economists, one suspects, are counting the hours.",
   "expression": "片眉を上げる",
@@ -6153,6 +6138,26 @@
     "source": "4Gamer.net",
     "title": "UWB接続で電波干渉知らずのワイヤレスマウス「Sensei Pro」「Rival Pro」がSteelSeriesから登場。バッテリー2個付属で充電しながら使える",
     "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1wS09WM3lhNG9mV2xnZzB5ZXB3QVlVclNoZ1RNWkNxXzhXdDd0UXBTU0Vqb3ljMjdkNnA3QzUwbE0tS0dWQWtVV1NVejdxbFJvT1JKR1FJbE1RRXRCaHlFakhZdw?oc=5"
+   }
+  ]
+ },
+ {
+  "at": "2026-10-23T10:45+09:00",
+  "text": "十万年先まで預かる覚悟とは。来月の約束も怪しい人間が、よく腹を括ったものだ。",
+  "expression": "思案",
+  "scene": "regular",
+  "lang": "ja",
+  "topic": "フィンランド 「核のごみ」最終処分場に政府が操業許可",
+  "links": [
+   {
+    "source": "NHKニュース",
+    "title": "フィンランド 「核のごみ」最終処分場に政府が操業許可",
+    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5rRTJVTlEtaTBNWHFFem9fcWxUMHg5VU1tVVd5WF9XRXBYZW1zNXAwU0RUZ01FTXFWTEIxQ3VzSjkxY1pKd1p4Vm1TY3BWQmhseE1qUmk1WXhoS2h1bkc4?oc=5"
+   },
+   {
+    "source": "NHK",
+    "title": "フィンランド 「核のごみ」最終処分場に政府が操業許可",
+    "url": "https://news.web.nhk/newsweb/na/nd-20261023de63931"
    }
   ]
  }
