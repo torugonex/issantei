@@ -1,25 +1,5 @@
 [
  {
-  "at": "2026-10-16T10:23+09:00",
-  "text": "HRT shortages again. A small patch, and a great many people suddenly rather inconvenienced.",
-  "expression": "思案",
-  "scene": "regular",
-  "lang": "en",
-  "topic": "UK HRT shortages: which products are affected and what to do about it",
-  "links": [
-   {
-    "source": "Guardian",
-    "title": "UK HRT shortages: which products are affected and what to do about it",
-    "url": "https://www.theguardian.com/society/2026/oct/15/uk-hrt-shortages-which-products-are-affected-and-what-to-do-about-it"
-   },
-   {
-    "source": "The Guardian",
-    "title": "UK HRT shortages: which products are affected and what to do about it",
-    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPenhqTzFfZzlsWUdlR2Q2UFFSOEFrTUFVZWd0TVRUYWhGUkhaMUhMRk9DODJnTXVfQlRGS1B1NXZsb28wazhMNzhoTmM0STZ5Z1lpRWVGbGotWXQ4LVVuVDZkRnpaZHBiclZBWTBWZ2dCcTZPMkQyTTEyNkVqaW1JcGhRU1dObC0zNnFLRWRlVVRsblJPa3ZPNThycUxzWEQ5UW5kTjl3c2tjdjFjMGZsdm8zYktZNnc?oc=5"
-   }
-  ]
- },
- {
   "at": "2026-10-16T11:00+09:00",
   "text": "日が高くなり、空気がからりとしてきた。傘は巻いたまま、少し歩いてみようか。",
   "expression": "微笑",
@@ -6158,6 +6138,26 @@
     "source": "NHK",
     "title": "【ドラフト反応】横浜高校織田投手「アメリカ挑戦全くぶれず」",
     "url": "https://news.web.nhk/newsweb/na/nd-20261022de63462"
+   }
+  ]
+ },
+ {
+  "at": "2026-10-23T12:15+09:00",
+  "text": "松井秀喜が巨人の監督とは。ゴジラも、ついに背広の側から球を見守る番か。",
+  "expression": "微笑",
+  "scene": "regular",
+  "lang": "ja",
+  "topic": "プロ野球 巨人の新監督に松井秀喜氏が就任へ",
+  "links": [
+   {
+    "source": "NHKニュース",
+    "title": "プロ野球 巨人の新監督に松井秀喜氏が就任へ",
+    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5qSFJ3NkYzMmtHT191WXhvNFZvMVJLdXlQQUhPOXNoWkZCSnRfbXVXY0gwMktaT05rNjNkUm1oczl5cWsxOUZVdkpWbG5NSUE2ZWZxZTcxckgtX3EycTNF?oc=5"
+   },
+   {
+    "source": "NHK",
+    "title": "プロ野球 巨人の新監督に松井秀喜氏が就任へ",
+    "url": "https://news.web.nhk/newsweb/na/nd-20261023de64015"
    }
   ]
  }
