@@ -1,9 +1,9 @@
 {
  "mood": {
-  "valence": -0.084,
-  "arousal": 0.011
+  "valence": -0.013,
+  "arousal": 0.008
  },
- "since_sarcasm": 3,
+ "since_sarcasm": 4,
  "day": "2026-10-23",
  "morning_done": true,
  "goodnight_done": false,
@@ -91,10 +91,6 @@
   "3d6fd8481404": "2026-10-23T08:45:19.855990+09:00"
  },
  "commented_titles": [
-  {
-   "title": "Orangutans prefer food associated with sounds of laughter, study suggests",
-   "at": "2026-10-22T09:30:29.930385+09:00"
-  },
   {
    "title": "2027年の天文現象を本、動画、アプリで見る「アストロガイド星空年鑑2027」と、壁掛けカレンダーがセットになった冊子「星空カレンダーBOOK2027」 10月21日発売",
    "at": "2026-10-22T09:42:03.419064+09:00"
@@ -260,10 +256,10 @@
    "at": "2026-10-23T08:45:19.855990+09:00"
   }
  ],
- "last_quake_check": "2026-10-23T09:15:18.943871+09:00",
- "since_english": 2,
+ "last_quake_check": "2026-10-23T09:30:30.522404+09:00",
+ "since_english": 3,
  "next_english": 5,
- "last_tick": "2026-10-23T09:15:18.943871+09:00",
+ "last_tick": "2026-10-23T09:30:30.522404+09:00",
  "french_day": "2026-10-23",
  "french_done": false,
  "french_after": 687

@@ -1,14 +1,5 @@
 [
  {
-  "at": "2026-10-16T08:00+09:00",
-  "text": "朝の紅茶を淹れた。蒸らす三分が、近ごろ一日でいちばん贅沢な時間だ。",
-  "expression": "微笑",
-  "scene": "life",
-  "lang": "ja",
-  "topic": null,
-  "links": []
- },
- {
   "at": "2026-10-16T08:13+09:00",
   "text": "Seven sailors missing after the tankers burned off Romania. One hopes the sea gives them back. Words fail.",
   "expression": "憂い",
@@ -6133,6 +6124,15 @@
  {
   "at": "2026-10-23T09:00+09:00",
   "text": "すすきの穂が風に傾いでいる。朝の曇りが解けたら、傘は置いて歩こう。",
+  "expression": "微笑",
+  "scene": "life",
+  "lang": "ja",
+  "topic": null,
+  "links": []
+ },
+ {
+  "at": "2026-10-23T09:30+09:00",
+  "text": "霜降の朝。昼には晴れるそうだから、紅葉の兆しを見に歩こうか。",
   "expression": "微笑",
   "scene": "life",
   "lang": "ja",
