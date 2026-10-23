@@ -1,25 +1,5 @@
 [
  {
-  "at": "2026-10-17T06:58+09:00",
-  "text": "車も、ついに更新を待つ身となるか。ネジより、通信の具合が気にかかる。",
-  "expression": "思案",
-  "scene": "regular",
-  "lang": "ja",
-  "topic": "トヨタ すべての車種をSDVにする方針 2030年までに",
-  "links": [
-   {
-    "source": "NHKニュース",
-    "title": "トヨタ すべての車種をSDVにする方針 2030年までに",
-    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE51VWs2X1FEVE1QWjFjTjAzSTROSkFJTGpfTE5zbW80Z0NzbGxzNmJ5eEcxaGRRRWpHQ3BDQ29vUWlvQk53OE1IZUphczhQZmhUanVMSkRqUThsN1BDa3lr?oc=5"
-   },
-   {
-    "source": "NHK",
-    "title": "トヨタ すべての車種をSDVにする方針 2030年までに",
-    "url": "https://news.web.nhk/newsweb/na/nd-20261017de60779"
-   }
-  ]
- },
- {
   "at": "2026-10-17T07:00+09:00",
   "text": "A teenager hired to kill, and recruited online. Twenty years. One does wonder who was minding the child.",
   "expression": "憂い",
@@ -6169,6 +6149,21 @@
     "source": "BBC",
     "title": "Denmark nurdles may be from Tyne spill, agency says",
     "url": "https://www.bbc.co.uk/news/articles/cqy43xv1jwv2o?at_medium=RSS&at_campaign=rss"
+   }
+  ]
+ },
+ {
+  "at": "2026-10-24T07:45+09:00",
+  "text": "先島に台風が近づくとか。線状降水帯の恐れも。備えは早めに。",
+  "expression": "思案",
+  "scene": "regular",
+  "lang": "ja",
+  "topic": "台風30号 24日にかけ先島諸島に接近 線状降水帯発生の恐れ その後は本州付近へ(気象予報士 小野 聡子)",
+  "links": [
+   {
+    "source": "tenki.jp",
+    "title": "台風30号 24日にかけ先島諸島に接近 線状降水帯発生の恐れ その後は本州付近へ(気象予報士 小野 聡子)",
+    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9FOHhRRjdmcUVsUkJiX1ppWXlmNFhuSUhtQXRYYXE2aHFZajhOdGk2THl5RS1nZkotd21PUk9PRGxraGNld2NoSjN5VUFoZ21pNzRHZUk3cEN6RmJiVWxoVEhyVzVqUQ?oc=5"
    }
   ]
  }
