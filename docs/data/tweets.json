@@ -1,14 +1,5 @@
 [
  {
-  "at": "2026-10-16T08:45+09:00",
-  "text": "Rain lingering this morning, sun promised by noon. I shall carry the umbrella furled, as a gesture of optimism.",
-  "expression": "微笑",
-  "scene": "life",
-  "lang": "en",
-  "topic": null,
-  "links": []
- },
- {
   "at": "2026-10-16T09:00+09:00",
   "text": "銃殺の中継とは、見世物の才だけは衰えぬ。引っ込めたのは賢明だが、考えついた時点で、もう薄ら寒い。",
   "expression": "呆れのため息",
@@ -6147,6 +6138,21 @@
     "source": "The Guardian",
     "title": "Woman charged over shooting of police officer in Nottingham",
     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOekRyVjhlUjExZTI2TVZZR0dsOEdMZU54NU80d0R5VkZKQnJtd3EtWG14d0ktZUdEb2RubHJpSS0yYjh3VEJxdkFKN25VZTV5d1RFeTVoQlE3dmdLNlJnQkhnbWh1akhuQ0xlU3FkenAxZU9keVgyYjdLZ0NNR05IVDBBMEpoVTZmTXlRLUxoU2dQQ0VOQkpralMtSWoxMkNxUDZQTEtTZEktek5K?oc=5"
+   }
+  ]
+ },
+ {
+  "at": "2026-10-23T10:30+09:00",
+  "text": "電池を二つ持たされるとは、マウスも休めぬ時代か。",
+  "expression": "片眉を上げる",
+  "scene": "regular",
+  "lang": "ja",
+  "topic": "UWB接続で電波干渉知らずのワイヤレスマウス「Sensei Pro」「Rival Pro」がSteelSeriesから登場。バッテリー2個付属で充電しながら使える",
+  "links": [
+   {
+    "source": "4Gamer.net",
+    "title": "UWB接続で電波干渉知らずのワイヤレスマウス「Sensei Pro」「Rival Pro」がSteelSeriesから登場。バッテリー2個付属で充電しながら使える",
+    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1wS09WM3lhNG9mV2xnZzB5ZXB3QVlVclNoZ1RNWkNxXzhXdDd0UXBTU0Vqb3ljMjdkNnA3QzUwbE0tS0dWQWtVV1NVejdxbFJvT1JKR1FJbE1RRXRCaHlFakhZdw?oc=5"
    }
   ]
  }
