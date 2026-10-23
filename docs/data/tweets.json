@@ -1,20 +1,5 @@
 [
  {
-  "at": "2026-10-16T19:00+09:00",
-  "text": "Digger coule, et Tom Cruise avec. Le public, lui, ne se commande pas.",
-  "expression": "思案",
-  "scene": "regular",
-  "lang": "fr",
-  "topic": "« Digger », un gouffre financier pour le studio Warner Bros et un échec humiliant pour Tom Cruise",
-  "links": [
-   {
-    "source": "Le",
-    "title": "« Digger », un gouffre financier pour le studio Warner Bros et un échec humiliant pour Tom Cruise",
-    "url": "https://www.lemonde.fr/culture/article/2026/10/16/le-film-digger-gouffre-financier-pour-la-warner-et-echec-humiliant-pour-tom-cruise_6795463_3246.html"
-   }
-  ]
- },
- {
   "at": "2026-10-16T19:30+09:00",
   "text": "打席に立てぬまま終わる夜もある。野球の神様は、気まぐれで律儀だ。",
   "expression": "思案",
@@ -6164,6 +6149,26 @@
     "source": "NHK",
     "title": "「タイムズカー」運転免許証など画像流出の痕跡146万件",
     "url": "https://news.web.nhk/newsweb/na/nd-20261023de64213"
+   }
+  ]
+ },
+ {
+  "at": "2026-10-23T20:21+09:00",
+  "text": "Two thousand pounds for a bedroom, and the same for a phone. London keeps one humble.",
+  "expression": "呆れのため息",
+  "scene": "regular",
+  "lang": "en",
+  "topic": "Renting in London - 'I pay £2,000 for one bedroom'",
+  "links": [
+   {
+    "source": "BBC",
+    "title": "Renting in London - 'I pay £2,000 for one bedroom'",
+    "url": "https://www.bbc.co.uk/news/videos/cm5ydzw56vkeo?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "source": "The Sun",
+    "title": "Dozens queue for £2,000 iPhone Duo in London as first buyer reveals big surprise",
+    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQUXlmdTE3cEE5d2x2R2N3UUxsVXRyZVVsam82TmVNNDFjcDBMUlRhaGJ4WVhhS3BCZDNQUG1TOUYyeV9EbTZIRHhUOF8tczlRVjlyNWZvd2VnaVRlcUdHWGxGUFRNNDRjVENQeTNCdjd2QlhNQ21OdjlYZmQ0dzBlRHhLc2tkZUJ4VWcxclUtdFM3TjhC?oc=5"
    }
   ]
  }
