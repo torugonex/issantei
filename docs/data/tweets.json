@@ -1,14 +1,5 @@
 [
  {
-  "at": "2026-10-17T06:45+09:00",
-  "text": "Cosmos nodding in the morning sun along the lane. They seem in no hurry, and I rather envy them.",
-  "expression": "微笑",
-  "scene": "life",
-  "lang": "en",
-  "topic": null,
-  "links": []
- },
- {
   "at": "2026-10-17T06:58+09:00",
   "text": "車も、ついに更新を待つ身となるか。ネジより、通信の具合が気にかかる。",
   "expression": "思案",
@@ -6163,6 +6154,21 @@
     "source": "NHK",
     "title": "岩井コスモ証券会長 不正アクセスで陳謝 不正取引125万株",
     "url": "https://news.web.nhk/newsweb/na/nd-20261023de64214"
+   }
+  ]
+ },
+ {
+  "at": "2026-10-24T07:30+09:00",
+  "text": "Plastic pellets cross the North Sea without a passport. The sea, at least, ignores borders.",
+  "expression": "片眉を上げる",
+  "scene": "regular",
+  "lang": "en",
+  "topic": "Denmark nurdles may be from Tyne spill, agency says",
+  "links": [
+   {
+    "source": "BBC",
+    "title": "Denmark nurdles may be from Tyne spill, agency says",
+    "url": "https://www.bbc.co.uk/news/articles/cqy43xv1jwv2o?at_medium=RSS&at_campaign=rss"
    }
   ]
  }
