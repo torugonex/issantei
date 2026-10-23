@@ -1,20 +1,5 @@
 [
  {
-  "at": "2026-10-16T18:30+09:00",
-  "text": "A scrap of cloth on a schoolgirl's head, and two governments take offence. Quite a lot of cloth.",
-  "expression": "片眉を上げる",
-  "scene": "regular",
-  "lang": "en",
-  "topic": "School headscarf ban sparks rare protests in Azerbaijan and row with Turkey",
-  "links": [
-   {
-    "source": "BBC",
-    "title": "School headscarf ban sparks rare protests in Azerbaijan and row with Turkey",
-    "url": "https://www.bbc.co.uk/news/articles/cwly0g2r4k3po?at_medium=RSS&at_campaign=rss"
-   }
-  ]
- },
- {
   "at": "2026-10-16T19:00+09:00",
   "text": "Digger coule, et Tom Cruise avec. Le public, lui, ne se commande pas.",
   "expression": "思案",
@@ -6161,5 +6146,25 @@
   "lang": "ja",
   "topic": null,
   "links": []
+ },
+ {
+  "at": "2026-10-23T20:15+09:00",
+  "text": "免許証の写真が百四十万も。預けた覚えのない顔が、どこかで並んでいる。",
+  "expression": "思案",
+  "scene": "regular",
+  "lang": "ja",
+  "topic": "「タイムズカー」運転免許証など画像流出の痕跡146万件",
+  "links": [
+   {
+    "source": "NHKニュース",
+    "title": "「タイムズカー」運転免許証など画像流出の痕跡146万件",
+    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1SRlBBTVlDQjc0eThCZmxTRExQejhydWF5S2tKTHdFOWJFRmxyc0ZwaFpyQzY0RjFHSGVTdzdkWWo5Zl9aWWg4SXptdDljYWJqVTI4S3JEdl91bktuaUQ0?oc=5"
+   },
+   {
+    "source": "NHK",
+    "title": "「タイムズカー」運転免許証など画像流出の痕跡146万件",
+    "url": "https://news.web.nhk/newsweb/na/nd-20261023de64213"
+   }
+  ]
  }
 ]
