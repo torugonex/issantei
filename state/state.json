@@ -1,15 +1,14 @@
 {
  "mood": {
-  "valence": -0.03,
-  "arousal": -0.129
+  "valence": -0.073,
+  "arousal": -0.147
  },
- "since_sarcasm": 1,
+ "since_sarcasm": 2,
  "day": "2026-10-23",
  "morning_done": true,
  "goodnight_done": false,
  "sleeptalk_night": "2026-10-22",
  "commented": {
-  "86e09e5af525": "2026-10-21T21:30:32.710316+09:00",
   "b5b06d8930a4": "2026-10-21T22:00:44.534817+09:00",
   "d0f0efe715c5": "2026-10-21T22:15:21.413785+09:00",
   "604071038d7a": "2026-10-21T22:30:34.619642+09:00",
@@ -90,13 +89,10 @@
   "4504ea06c2a4": "2026-10-23T20:30:31.526142+09:00",
   "28d5d70270de": "2026-10-23T20:45:19.500249+09:00",
   "7d7fe0a89269": "2026-10-23T21:15:21.277483+09:00",
-  "889ff6d86777": "2026-10-23T21:30:31.160460+09:00"
+  "889ff6d86777": "2026-10-23T21:30:31.160460+09:00",
+  "f0ec13c9c7cb": "2026-10-23T21:45:20.229777+09:00"
  },
  "commented_titles": [
-  {
-   "title": "ロシアとウクライナが攻撃の応酬、米国の和平努力よそに（ロイター）",
-   "at": "2026-10-22T21:30:31.838488+09:00"
-  },
   {
    "title": "Macron condemns ‘seditious acts’ by ‘ultra-left’ and says he will seek to ban some protests – Europe live",
    "at": "2026-10-22T21:45:24.854766+09:00"
@@ -240,12 +236,16 @@
   {
    "title": "Gasps as Prince William makes surprise appearance on Graham Norton Show",
    "at": "2026-10-23T21:30:31.160460+09:00"
+  },
+  {
+   "title": "NYセントラルパーク観光馬車 安全性へ懸念 再来年に営業終了へ",
+   "at": "2026-10-23T21:45:20.229777+09:00"
   }
  ],
- "last_quake_check": "2026-10-23T21:30:31.160460+09:00",
- "since_english": 1,
+ "last_quake_check": "2026-10-23T21:45:20.229777+09:00",
+ "since_english": 2,
  "next_english": 4,
- "last_tick": "2026-10-23T21:30:31.160460+09:00",
+ "last_tick": "2026-10-23T21:45:20.229777+09:00",
  "french_day": "2026-10-23",
  "french_done": true,
  "french_after": 687
