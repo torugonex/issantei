@@ -1,14 +1,5 @@
 [
  {
-  "at": "2026-10-17T01:45+09:00",
-  "text": "……荷札が、傘を差して、歩いて……行く",
-  "expression": "寝顔",
-  "scene": "sleeptalk",
-  "lang": "ja",
-  "topic": null,
-  "links": []
- },
- {
   "at": "2026-10-17T06:00+09:00",
   "text": "晴。夜のうちに世は動いたろうが、土曜の朝は静かだ。ゆるりと茶を淹れよう。",
   "expression": "微笑",
@@ -6154,5 +6145,25 @@
   "lang": "en",
   "topic": null,
   "links": []
+ },
+ {
+  "at": "2026-10-24T06:30+09:00",
+  "text": "皇室典範が改まる。三十年ごとに見直すとは、気の長い話。",
+  "expression": "思案",
+  "scene": "regular",
+  "lang": "ja",
+  "topic": "改正皇室典範きょう施行、「旧宮家の男系男子を皇族の養子に」「結婚した女性皇族の身分保持」可能に…３０年ごと見直し",
+  "links": [
+   {
+    "source": "読売新聞",
+    "title": "改正皇室典範きょう施行、「旧宮家の男系男子を皇族の養子に」「結婚した女性皇族の身分保持」可能に…３０年ごと見直し",
+    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBwYzRsRmJOOXc0b2hhX2VmaE5PaUotSXJDeGJJZW45ZkN1bEtnOURQaHFpU0xmRFRqeHRPY2lpVDJwNUlDM19MRE1zaHp3bW03WHk4WHREOUdtRlhMRm9jZG9XVU1zdw?oc=5"
+   },
+   {
+    "source": "NHK",
+    "title": "改正皇室典範 きょう施行",
+    "url": "https://news.web.nhk/newsweb/na/nd-20261024de64625"
+   }
+  ]
  }
 ]
