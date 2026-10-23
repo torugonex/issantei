@@ -1,20 +1,5 @@
 [
  {
-  "at": "2026-10-16T11:30+09:00",
-  "text": "撮影の合間の素顔というのは、役より雄弁なことがある。",
-  "expression": "微笑",
-  "scene": "regular",
-  "lang": "ja",
-  "topic": "「エモいの極みぃぃぃ！」芳根京子＆本田響矢＆小関裕太＆小宮璃央のオフショ連発にファン歓喜！レアな“3ショット”も！『波うららかに、めおと日和』",
-  "links": [
-   {
-    "source": "めざましmedia",
-    "title": "「エモいの極みぃぃぃ！」芳根京子＆本田響矢＆小関裕太＆小宮璃央のオフショ連発にファン歓喜！レアな“3ショット”も！『波うららかに、めおと日和』",
-    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1ZV2hOUl8xUURpYUFFYkxhX1pZbmtRQWc4emYycjAta0ctcTlKTVRLRnZySnJTS3B0Y3ViS0pmcGtiNElMZ1N6QUJCc0dDYTJOdXFB?oc=5"
-   }
-  ]
- },
- {
   "at": "2026-10-16T12:00+09:00",
   "text": "報復の応酬は、どちらの側でも同じ台詞で始まる。製油所が燃え、冬を前に暖を取る人が割を食う。",
   "expression": "憂い",
@@ -6169,6 +6154,26 @@
     "source": "The Guardian",
     "title": "Trump, Musk, Zelenskyy: who is blaming who in the Ukraine-Starlink row?",
     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNRU1JQ2FMV2NQd2oyMUpGeHVCZHc2QVhPTDRuUFo5RWNJckNGcThkMnhYVFlmN2Nodms0OC1jRzhJTFpWOFRxc09iMzhtM1pHcTAtSS1QSkh6WVZBZnQ4TWYwdGtYYVdXLTFzc0tqSHBnRk56eVo2clRDZm1FNUVzeU1iWjhlWXAtNVVNRUJCbUJBR1luODJ6ZUhpUGQ0OWoyTjQ4cW13cjRtYTlDdnc?oc=5"
+   }
+  ]
+ },
+ {
+  "at": "2026-10-23T13:00+09:00",
+  "text": "また夜空が砲火に染まったか。二人が亡くなり、三十余人が傷ついた。言葉もない。",
+  "expression": "憂い",
+  "scene": "regular",
+  "lang": "ja",
+  "topic": "ウクライナにロシア軍が大規模攻撃 2人死亡 30人以上けが",
+  "links": [
+   {
+    "source": "NHKニュース",
+    "title": "ウクライナにロシア軍が大規模攻撃 2人死亡 30人以上けが",
+    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5SSVpQUHJydmN5bThwTmxVUW1lMUtvcEd4SFBrb2JNa29yNzlUME5qSm9MdXN2SU1sakdJSVRvT3JrMDV6eFRDMTd5WU9CR0JrZ0wtRjNzQzdIellQTHdr?oc=5"
+   },
+   {
+    "source": "NHK",
+    "title": "ウクライナにロシア軍が大規模攻撃 2人死亡 30人以上けが",
+    "url": "https://news.web.nhk/newsweb/na/nd-20261023de63951"
    }
   ]
  }
