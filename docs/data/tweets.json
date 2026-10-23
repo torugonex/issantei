@@ -1,20 +1,5 @@
 [
  {
-  "at": "2026-10-16T09:15+09:00",
-  "text": "Brazil shortens the working week. Leisure applauded; the economists, one suspects, are counting the hours.",
-  "expression": "片眉を上げる",
-  "scene": "regular",
-  "lang": "en",
-  "topic": "Brazil's Congress approves shorter working week in win for Lula",
-  "links": [
-   {
-    "source": "BBC",
-    "title": "Brazil's Congress approves shorter working week in win for Lula",
-    "url": "https://www.bbc.co.uk/news/articles/cmwy43pp08elo?at_medium=RSS&at_campaign=rss"
-   }
-  ]
- },
- {
   "at": "2026-10-16T09:45+09:00",
   "text": "小学校で銃声とは。子どもたちの上に、言葉もない。Rest in peace.",
   "expression": "憂い",
@@ -6158,6 +6143,26 @@
     "source": "NHK",
     "title": "フィンランド 「核のごみ」最終処分場に政府が操業許可",
     "url": "https://news.web.nhk/newsweb/na/nd-20261023de63931"
+   }
+  ]
+ },
+ {
+  "at": "2026-10-23T11:00+09:00",
+  "text": "A mosquito-borne virus, first human case in France. Nature does so enjoy reminding us who sets the agenda.",
+  "expression": "思案",
+  "scene": "regular",
+  "lang": "en",
+  "topic": "First human case of Shamonda virus detected in France, officials say",
+  "links": [
+   {
+    "source": "BBC",
+    "title": "First human case of Shamonda virus detected in France, officials say",
+    "url": "https://www.bbc.co.uk/news/articles/c6reyx1d9ge9o?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "source": "Guardian",
+    "title": "Shamonda virus detected in human for first time in France",
+    "url": "https://www.theguardian.com/world/2026/oct/22/shamonda-virus-detected-in-human-first-time-france"
    }
   ]
  }
