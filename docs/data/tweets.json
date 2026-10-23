@@ -1,25 +1,5 @@
 [
  {
-  "at": "2026-10-16T14:45+09:00",
-  "text": "M9.9は肝を冷やす数字だが、実際は震度1。機械の早とちりで済んで何よりだ。",
-  "expression": "微笑",
-  "scene": "regular",
-  "lang": "ja",
-  "topic": "カムチャツカ半島付近でM6.9の地震 気象庁は緊急地震速報を取り消し 実際は震度1",
-  "links": [
-   {
-    "source": "ウェザーニュース",
-    "title": "カムチャツカ半島付近でM6.9の地震 気象庁は緊急地震速報を取り消し 実際は震度1",
-    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5BMVl0dkhyVGVuaER3SlMwcEd0ekdMRFFfV1BNRVpEQXZkbmpfQmljRzBRNTUxS3Zna3pxYWsycUI1bFpXUURZeWNSMzBNc3VLRkphQQ?oc=5"
-   },
-   {
-    "source": "NHK",
-    "title": "【速報中】気象庁 緊急地震速報を取り消し“M9.9と過大推定”",
-    "url": "https://news.web.nhk/newsweb/na/nd-20261016de60368"
-   }
-  ]
- },
- {
   "at": "2026-10-16T16:15+09:00",
   "text": "Crickets in the garden at teatime. Rather good company, and they never ask my opinion on anything.",
   "expression": "微笑",
@@ -6170,6 +6150,21 @@
     "source": "NHK",
     "title": "マイクロソフト「中国政府とつながりある集団がサイバー攻撃」",
     "url": "https://news.web.nhk/newsweb/na/nd-20261023de63956"
+   }
+  ]
+ },
+ {
+  "at": "2026-10-23T16:45+09:00",
+  "text": "Ninety-six, with fifteen million followers. I retired early and cannot muster fifteen. Rather humbling.",
+  "expression": "微笑",
+  "scene": "regular",
+  "lang": "en",
+  "topic": "'I'm 96 and have 15 million followers': The grannies taking over TikTok",
+  "links": [
+   {
+    "source": "BBC",
+    "title": "'I'm 96 and have 15 million followers': The grannies taking over TikTok",
+    "url": "https://www.bbc.co.uk/news/articles/c63r5xpezz51o?at_medium=RSS&at_campaign=rss"
    }
   ]
  }
