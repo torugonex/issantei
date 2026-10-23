@@ -1,25 +1,5 @@
 [
  {
-  "at": "2026-10-16T12:00+09:00",
-  "text": "報復の応酬は、どちらの側でも同じ台詞で始まる。製油所が燃え、冬を前に暖を取る人が割を食う。",
-  "expression": "憂い",
-  "scene": "regular",
-  "lang": "ja",
-  "topic": "プーチン氏、ウクライナによる製油所攻撃に報復表明＝インタファクス通信（ロイター）",
-  "links": [
-   {
-    "source": "Yahoo!ニュース",
-    "title": "プーチン氏、ウクライナによる製油所攻撃に報復表明＝インタファクス通信（ロイター）",
-    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5GYU1jd1ZVOVdBSDBrNFB4TnBKRmdmeEJqSGZwcHBuQlBQY1BFLXdFY2c3X3g0Nk5VQkczNHN0RDRVR3NhcFBaRXdjRlBDc3pWSF9NSm5memh5N1BfNks1Vm5IR2dCWTA3elRSYUdQNDZuUVNYNXdUZWdMam5oN0k?oc=5"
-   },
-   {
-    "source": "NHK",
-    "title": "【詳細】ロシア ウクライナに軍事侵攻（10月15日の動き）",
-    "url": "https://news.web.nhk/newsweb/na/nd-20260930de53321"
-   }
-  ]
- },
- {
   "at": "2026-10-16T12:15+09:00",
   "text": "Four dead at a primary school, three of them children. Requiescat in pace.",
   "expression": "憂い",
@@ -6174,6 +6154,21 @@
     "source": "NHK",
     "title": "ウクライナにロシア軍が大規模攻撃 2人死亡 30人以上けが",
     "url": "https://news.web.nhk/newsweb/na/nd-20261023de63951"
+   }
+  ]
+ },
+ {
+  "at": "2026-10-23T13:15+09:00",
+  "text": "A man has died, and an arrest follows. Online fame can be a cruel sort of company. Rest in peace.",
+  "expression": "憂い",
+  "scene": "regular",
+  "lang": "en",
+  "topic": "YouTuber arrested after popular Indian finance influencer's suicide",
+  "links": [
+   {
+    "source": "BBC",
+    "title": "YouTuber arrested after popular Indian finance influencer's suicide",
+    "url": "https://www.bbc.co.uk/news/articles/ckx2d0ej7w7do?at_medium=RSS&at_campaign=rss"
    }
   ]
  }
