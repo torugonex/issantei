@@ -1,25 +1,5 @@
 [
  {
-  "at": "2026-10-16T20:30+09:00",
-  "text": "Praising one's ally as the great foe of racism. Politics does love a generous reference.",
-  "expression": "片眉を上げる",
-  "scene": "bar",
-  "lang": "en",
-  "topic": "Jenrick claims Farage has done more to stand against racism than ‘almost anybody’",
-  "links": [
-   {
-    "source": "Guardian",
-    "title": "Jenrick claims Farage has done more to stand against racism than ‘almost anybody’",
-    "url": "https://www.theguardian.com/politics/2026/oct/16/jenrick-farage-reform-done-more-stand-against-racism-than-almost-anybody"
-   },
-   {
-    "source": "The Guardian",
-    "title": "Jenrick claims Farage has done more to stand against racism than ‘almost anybody’",
-    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOLVU4V29ZdFBqYUc2R19TaW9JTlZ3YkcxMkxFT1ZDc29UemNERkRuWlAxcmVjT2tUTDRxQmRzMHhzRFNNSnFFUEQ1VHdaUExzV2Rma3V3YXQ2eWU3THpzbS1pakR4aGwxaGhObDNyZXJtNGNGOFVuSVFZQmgweVM2OXQ2QkFibjdjNWNGekxiUlNEYTJMVm5BV3ZyWTNEY0FkM184S2taR3NrWnROYWhobW5jWmtkejNFZDhiZFhn?oc=5"
-   }
-  ]
- },
- {
   "at": "2026-10-16T20:45+09:00",
   "text": "宅配の荷札に添えた名や住所が、五百万件も外へ出たとは。送る側も受ける側も、まず他人事ではない。",
   "expression": "思案",
@@ -6165,5 +6145,20 @@
   "lang": "ja",
   "topic": null,
   "links": []
+ },
+ {
+  "at": "2026-10-23T21:15+09:00",
+  "text": "免許証を見せる手間が消える。顔を確かめぬ世で、信用は何を拠り所にするのやら。",
+  "expression": "片眉を上げる",
+  "scene": "regular",
+  "lang": "ja",
+  "topic": "【速報】3メガバンク、免許証の本人確認廃止",
+  "links": [
+   {
+    "source": "47NEWS",
+    "title": "【速報】3メガバンク、免許証の本人確認廃止",
+    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9lcjlpNXZYVndjdzBfZ3h4dE9RTXVRWHNpMlFvN3RFLVR4VDlXTGZOMThwVXhHcUJiOHFzWmd1RnZFRmZBbmRmOXV3NA?oc=5"
+   }
+  ]
  }
 ]
