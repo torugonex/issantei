@@ -1,20 +1,5 @@
 [
  {
-  "at": "2026-10-17T07:45+09:00",
-  "text": "They escaped one tyranny, only to be returned by the next. Rather poor form.",
-  "expression": "呆れのため息",
-  "scene": "regular",
-  "lang": "en",
-  "topic": "They fled Russia, but the West sent them back",
-  "links": [
-   {
-    "source": "BBC",
-    "title": "They fled Russia, but the West sent them back",
-    "url": "https://www.bbc.co.uk/news/articles/c6x23qpzjklwo?at_medium=RSS&at_campaign=rss"
-   }
-  ]
- },
- {
   "at": "2026-10-17T08:00+09:00",
   "text": "時を超えて巡り合う二人。縁というものを、人はいつの世も信じたがる。",
   "expression": "微笑",
@@ -6164,6 +6149,26 @@
     "source": "Sky News",
     "title": "Terrorist shooting in Paris suburb marks 'turning point for France', Emmanuel Macron says",
     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOVDdZdlcwMTFIVzNkNXV2ZXJHNWdBSHRXTTMxZUhoUDFIMGlGYlJfM1hFd3owa3ZyN0cyeWdOLU1WMTJ1bTNsc0pMT216bjZZTFc0c0RXVlk0T1dQWU12YzY2Vi1Va2FSbThZdHZjS2FSaF8tRmExMWd2enBxZDRXWkt0V3BweFp0QVM5OVJYV1BWcEZaX2tVbV9hUQ?oc=5"
+   }
+  ]
+ },
+ {
+  "at": "2026-10-24T08:45+09:00",
+  "text": "典範は改まったが、議論は棚の上。双方の言い分はあろうが、急がば回れか。",
+  "expression": "思案",
+  "scene": "regular",
+  "lang": "ja",
+  "topic": "政府・与党は女系天皇や女性宮家を警戒、改正皇室典範巡り「安定継承」の議論乏しく…野党は有識者会議の設置など主張",
+  "links": [
+   {
+    "source": "読売新聞",
+    "title": "政府・与党は女系天皇や女性宮家を警戒、改正皇室典範巡り「安定継承」の議論乏しく…野党は有識者会議の設置など主張",
+    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5INUhkNEJMeVJsU1lidnRya2VHWHJjWjR0d216NGE4MnVYRUctdVVyLUNWTlFZb19FaHRfX1FKTlNoNU9fYzU1Y2Fldy03M2dyX0xjLTh3eXFiSzc4OFBzczkxZ0JUZw?oc=5"
+   },
+   {
+    "source": "NHK",
+    "title": "改正皇室典範 きょう施行",
+    "url": "https://news.web.nhk/newsweb/na/nd-20261024de64625"
    }
   ]
  }
