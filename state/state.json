@@ -1,15 +1,14 @@
 {
  "mood": {
-  "valence": -0.056,
-  "arousal": -0.169
+  "valence": -0.005,
+  "arousal": -0.202
  },
- "since_sarcasm": 0,
+ "since_sarcasm": 1,
  "day": "2026-10-23",
  "morning_done": true,
  "goodnight_done": false,
  "sleeptalk_night": "2026-10-22",
  "commented": {
-  "47b1f92bb564": "2026-10-21T20:00:41.509445+09:00",
   "86f538e35a2f": "2026-10-21T20:15:20.516216+09:00",
   "07b425a394de": "2026-10-21T20:30:32.092409+09:00",
   "15c944fe6715": "2026-10-21T21:00:43.475189+09:00",
@@ -91,10 +90,6 @@
   "c471e4caca92": "2026-10-23T19:45:20.415124+09:00"
  },
  "commented_titles": [
-  {
-   "title": "カプコン、1177万件漏えい 不正アクセスで",
-   "at": "2026-10-22T20:00:42.344924+09:00"
-  },
   {
    "title": "Project aims to protect rare arctic-alpine plants",
    "at": "2026-10-22T20:15:20.276564+09:00"
@@ -232,10 +227,10 @@
    "at": "2026-10-23T19:45:20.415124+09:00"
   }
  ],
- "last_quake_check": "2026-10-23T19:45:20.415124+09:00",
- "since_english": 1,
+ "last_quake_check": "2026-10-23T20:00:42.643452+09:00",
+ "since_english": 2,
  "next_english": 4,
- "last_tick": "2026-10-23T19:45:20.415124+09:00",
+ "last_tick": "2026-10-23T20:00:42.643452+09:00",
  "french_day": "2026-10-23",
  "french_done": true,
  "french_after": 687
