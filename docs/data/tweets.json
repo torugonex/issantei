@@ -1,20 +1,5 @@
 [
  {
-  "at": "2026-10-16T22:15+09:00",
-  "text": "A man faces execution for what he did at fifteen. No wit left in me tonight. Only a long, weary silence.",
-  "expression": "憂い",
-  "scene": "bar",
-  "lang": "en",
-  "topic": "Saudi Arabia to execute man for being at protests and funerals when he was 15",
-  "links": [
-   {
-    "source": "Guardian",
-    "title": "Saudi Arabia to execute man for being at protests and funerals when he was 15",
-    "url": "https://www.theguardian.com/global-development/2026/oct/16/saudi-arabia-to-execute-man-for-being-at-protests-and-funerals-when-he-was-15"
-   }
-  ]
- },
- {
   "at": "2026-10-16T22:30+09:00",
   "text": "鳴るはずの警報が鳴らなかったとは。備えは、いざという時に黙っていては困るね。",
   "expression": "呆れのため息",
@@ -6168,6 +6153,15 @@
   "text": "霜降の入りというのに、夜はまだ思いのほか穏やか。今日はこのあたりで傘を畳むとしよう。",
   "expression": "微笑",
   "scene": "goodnight",
+  "lang": "ja",
+  "topic": null,
+  "links": []
+ },
+ {
+  "at": "2026-10-24T04:30+09:00",
+  "text": "……二杯目は、巻いた傘で……もう、よろしい……",
+  "expression": "寝顔",
+  "scene": "sleeptalk",
   "lang": "ja",
   "topic": null,
   "links": []
