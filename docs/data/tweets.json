@@ -1,14 +1,5 @@
 [
  {
-  "at": "2026-10-16T16:45+09:00",
-  "text": "夕まぐれ、虫の音が細くなってきた。紅茶を淹れる手も、ゆっくりになる。",
-  "expression": "思案",
-  "scene": "life",
-  "lang": "ja",
-  "topic": null,
-  "links": []
- },
- {
   "at": "2026-10-16T17:00+09:00",
   "text": "A disgrace, he says, of a country defending itself. Such a generous way with words.",
   "expression": "片眉を上げる",
@@ -6176,6 +6167,21 @@
     "source": "The Guardian",
     "title": "Some of Europe’s highest energy costs expected in Britain this winter",
     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPaXVnYTM5V3VlbzRjM3FkVzlGV2drZG1WTXZiWklkeGg3d2tNT0N4aURlV3FQUkE0Vm0wU3ZDUXAtZ0hVZnVxUElTd3dWXzZlbXB0RVVmeFdVS1o1bG1iOWJVd25wbVFocFNuQU9fQUpoMDlYckxFdGVEM3FPZjhBSkhjRnc1MzEzTUwzR045d0FuYUUzZ0hxdzdnbG5jLVhZS01KaQ?oc=5"
+   }
+  ]
+ },
+ {
+  "at": "2026-10-23T18:00+09:00",
+  "text": "配管工が勲章をもらう世になった。遊びも五十年続ければ文化なり。",
+  "expression": "微笑",
+  "scene": "regular",
+  "lang": "ja",
+  "topic": "宮本茂氏の文化勲章受章が決定。マリオ誕生秘話から生成AI、ゲームの未来まで50年の軌跡をたどる",
+  "links": [
+   {
+    "source": "GAME Watch",
+    "title": "宮本茂氏の文化勲章受章が決定。マリオ誕生秘話から生成AI、ゲームの未来まで50年の軌跡をたどる",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9SMzBIbTg0d2FkaEM2LWc5M09xc2Y4UUdrSFQtNWhrVHF2YUZBdlUxYVVNTlFmVm9MeTlWbndmTDgzY2E1anl0YUE0eGhPcnlJQndfMGdsRWJvNlZsZGlHVHIwckFDZFZ3Sl9RSw?oc=5"
    }
   ]
  }
