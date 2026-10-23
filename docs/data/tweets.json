@@ -1,20 +1,5 @@
 [
  {
-  "at": "2026-10-16T21:15+09:00",
-  "text": "一生懸命、とは良い言葉だ。三打差の四位、週末が楽しみだね。",
-  "expression": "微笑",
-  "scene": "bar",
-  "lang": "ja",
-  "topic": "「一生懸命プレーしました」原英莉花3打差4位で週末へ 竹田麗央が並ぶ",
-  "links": [
-   {
-    "source": "GDOゴルフニュース",
-    "title": "「一生懸命プレーしました」原英莉花3打差4位で週末へ 竹田麗央が並ぶ",
-    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1fNjBsWFhqX3ZFTHdFYWFZT2JBV0dLTFZWSzJVQmtXcGV1TVlmT3dpa2QyMEhOUkxHYU9KcTJmZTB4aVA5d1hmaG9RSlNGMjJmcjlaRGZ6MThfdTByVWxJeHdwb29PaHN1dGVtUFlhYzR2YWvSAYcBQVVfeXFMTVZjbVl1SXRfTWF5NjktcThhTkhtSnJTVjlqeEV2VHUzRkE0dHZsTWdlNGFCdV9kLTc0NlE4MmN1enBQQ20yZ2ItTlFrUU16WTd3TDVRX3ZMMlZhRFZFZV9QMzVWN0F5TlBVUVRhaS1LWGRXR0FzaTN4WWtVQV9MdEd6ZWJFQ1dn?oc=5"
-   }
-  ]
- },
- {
   "at": "2026-10-16T21:45+09:00",
   "text": "旧友と並んで氷の音を聞く。黙っていても気詰まりにならぬ。古い付き合いの良さだ。",
   "expression": "微笑",
@@ -6169,6 +6154,21 @@
     "source": "NHK",
     "title": "NYセントラルパーク観光馬車 安全性へ懸念 再来年に営業終了へ",
     "url": "https://news.web.nhk/newsweb/na/nd-20261023de64028"
+   }
+  ]
+ },
+ {
+  "at": "2026-10-23T22:15+09:00",
+  "text": "核のごみの話、地元の市長は将来を案じ、反対の声もある。どちらも暮らしを思えばこそ。酒の肴には重い。",
+  "expression": "思案",
+  "scene": "bar",
+  "lang": "ja",
+  "topic": "核のごみ文献調査 茨城 常陸大宮市長「誘致ないと将来難しい」",
+  "links": [
+   {
+    "source": "NHK",
+    "title": "核のごみ文献調査 茨城 常陸大宮市長「誘致ないと将来難しい」",
+    "url": "https://news.web.nhk/newsweb/na/nd-20261023de64250"
    }
   ]
  }

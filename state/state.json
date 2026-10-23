@@ -1,15 +1,14 @@
 {
  "mood": {
-  "valence": -0.073,
-  "arousal": -0.147
+  "valence": -0.105,
+  "arousal": -0.135
  },
- "since_sarcasm": 2,
+ "since_sarcasm": 3,
  "day": "2026-10-23",
  "morning_done": true,
  "goodnight_done": false,
  "sleeptalk_night": "2026-10-22",
  "commented": {
-  "b5b06d8930a4": "2026-10-21T22:00:44.534817+09:00",
   "d0f0efe715c5": "2026-10-21T22:15:21.413785+09:00",
   "604071038d7a": "2026-10-21T22:30:34.619642+09:00",
   "c4a5f0ece723": "2026-10-22T07:13:19.934631+09:00",
@@ -90,17 +89,10 @@
   "28d5d70270de": "2026-10-23T20:45:19.500249+09:00",
   "7d7fe0a89269": "2026-10-23T21:15:21.277483+09:00",
   "889ff6d86777": "2026-10-23T21:30:31.160460+09:00",
-  "f0ec13c9c7cb": "2026-10-23T21:45:20.229777+09:00"
+  "f0ec13c9c7cb": "2026-10-23T21:45:20.229777+09:00",
+  "943638fef2b6": "2026-10-23T22:15:20.350789+09:00"
  },
  "commented_titles": [
-  {
-   "title": "Macron condemns ‘seditious acts’ by ‘ultra-left’ and says he will seek to ban some protests – Europe live",
-   "at": "2026-10-22T21:45:24.854766+09:00"
-  },
-  {
-   "title": "日銀10月会合、連続利上げ見送りへ 2%物価目標は事実上到達",
-   "at": "2026-10-22T22:00:44.530439+09:00"
-  },
   {
    "title": "Minister says 32 government services offline due to PHP code flaw – UK politics live",
    "at": "2026-10-22T22:30:33.892508+09:00"
@@ -240,12 +232,16 @@
   {
    "title": "NYセントラルパーク観光馬車 安全性へ懸念 再来年に営業終了へ",
    "at": "2026-10-23T21:45:20.229777+09:00"
+  },
+  {
+   "title": "核のごみ文献調査 茨城 常陸大宮市長「誘致ないと将来難しい」",
+   "at": "2026-10-23T22:15:20.350789+09:00"
   }
  ],
- "last_quake_check": "2026-10-23T21:45:20.229777+09:00",
- "since_english": 2,
+ "last_quake_check": "2026-10-23T22:15:20.350789+09:00",
+ "since_english": 3,
  "next_english": 4,
- "last_tick": "2026-10-23T22:00:42.747101+09:00",
+ "last_tick": "2026-10-23T22:15:20.350789+09:00",
  "french_day": "2026-10-23",
  "french_done": true,
  "french_after": 687
