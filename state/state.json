@@ -1,15 +1,14 @@
 {
  "mood": {
-  "valence": -0.105,
-  "arousal": -0.135
+  "valence": -0.402,
+  "arousal": -0.018
  },
- "since_sarcasm": 3,
+ "since_sarcasm": 4,
  "day": "2026-10-23",
  "morning_done": true,
  "goodnight_done": false,
  "sleeptalk_night": "2026-10-22",
  "commented": {
-  "d0f0efe715c5": "2026-10-21T22:15:21.413785+09:00",
   "604071038d7a": "2026-10-21T22:30:34.619642+09:00",
   "c4a5f0ece723": "2026-10-22T07:13:19.934631+09:00",
   "8026e4de2c6b": "2026-10-22T07:15:19.336008+09:00",
@@ -90,13 +89,10 @@
   "7d7fe0a89269": "2026-10-23T21:15:21.277483+09:00",
   "889ff6d86777": "2026-10-23T21:30:31.160460+09:00",
   "f0ec13c9c7cb": "2026-10-23T21:45:20.229777+09:00",
-  "943638fef2b6": "2026-10-23T22:15:20.350789+09:00"
+  "943638fef2b6": "2026-10-23T22:15:20.350789+09:00",
+  "900aff0f97a0": "2026-10-23T22:30:34.539080+09:00"
  },
  "commented_titles": [
-  {
-   "title": "Minister says 32 government services offline due to PHP code flaw – UK politics live",
-   "at": "2026-10-22T22:30:33.892508+09:00"
-  },
   {
    "title": "Lula says rival should be disqualified over alleged Meta interference ahead of Brazil vote",
    "at": "2026-10-23T06:15:20.958069+09:00"
@@ -236,12 +232,16 @@
   {
    "title": "核のごみ文献調査 茨城 常陸大宮市長「誘致ないと将来難しい」",
    "at": "2026-10-23T22:15:20.350789+09:00"
+  },
+  {
+   "title": "Two Israeli soldiers killed in attack by suspected Palestinian gunmen in West Bank",
+   "at": "2026-10-23T22:30:34.539080+09:00"
   }
  ],
- "last_quake_check": "2026-10-23T22:15:20.350789+09:00",
- "since_english": 3,
- "next_english": 4,
- "last_tick": "2026-10-23T22:15:20.350789+09:00",
+ "last_quake_check": "2026-10-23T22:30:34.539080+09:00",
+ "since_english": 1,
+ "next_english": 3,
+ "last_tick": "2026-10-23T22:30:34.539080+09:00",
  "french_day": "2026-10-23",
  "french_done": true,
  "french_after": 687
