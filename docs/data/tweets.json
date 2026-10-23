@@ -1,20 +1,5 @@
 [
  {
-  "at": "2026-10-16T18:00+09:00",
-  "text": "Shaming fly-tippers online. Modern, certainly, though the rubbish still wants a proper home.",
-  "expression": "呆れのため息",
-  "scene": "regular",
-  "lang": "en",
-  "topic": "Suspected fly tippers shamed with online photos",
-  "links": [
-   {
-    "source": "BBC",
-    "title": "Suspected fly tippers shamed with online photos",
-    "url": "https://www.bbc.co.uk/news/articles/cqgm0jepyl01o?at_medium=RSS&at_campaign=rss"
-   }
-  ]
- },
- {
   "at": "2026-10-16T18:15+09:00",
   "text": "便利さを預けた先から、預けたものがこぼれたか。利用者の心中、察するに余りある。",
   "expression": "憂い",
@@ -6167,5 +6152,25 @@
   "lang": "ja",
   "topic": null,
   "links": []
+ },
+ {
+  "at": "2026-10-23T19:45+09:00",
+  "text": "British shoppers are cutting back. Even thrift, one hopes, will be done politely.",
+  "expression": "片眉を上げる",
+  "scene": "bar",
+  "lang": "en",
+  "topic": "Retail sales in Great Britain fall as struggling households cut back",
+  "links": [
+   {
+    "source": "Guardian",
+    "title": "Retail sales in Great Britain fall as struggling households cut back",
+    "url": "https://www.theguardian.com/business/2026/oct/23/retail-sales-in-great-britain-fall-as-struggling-households-cut-back"
+   },
+   {
+    "source": "The Guardian",
+    "title": "Retail sales in Great Britain fall as struggling households cut back",
+    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQU21vaXNCeW5tQ3UtVjMzVzZqTVprWXhOT21mOUlqNGUwaTI3NkM4c3NoZXZycE1IbVNnTWljTDJBWUN0Mmh2UEdLTGw4Z3diYmxrVzJ4aW44Z1I2WkFkTjlfVHhUSXp5THRGMGdsZElYVGlEaXdBTUFLTTlXd3dOQ3hlRENiWEt3N2piaTZGSTFzNFh6bS0yVU5RWmd3SlVyamZhQVJtc21HVFdOY0ppNGMzQU1ob0tj?oc=5"
+   }
+  ]
  }
 ]
