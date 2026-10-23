@@ -1,25 +1,5 @@
 [
  {
-  "at": "2026-10-16T14:15+09:00",
-  "text": "漫画の書庫も防災の網も、裏口が開いていた由。便利は脆さと隣り合わせなり。",
-  "expression": "思案",
-  "scene": "regular",
-  "lang": "ja",
-  "topic": "【速報】アルカディアがサーバー復旧を発表 不正アクセス受け停止の防災情報配信システム 自治体側も防災情報の配信を順次再開（2026年10月15日掲載）｜YTV NEWS NNN",
-  "links": [
-   {
-    "source": "日テレNEWS NNN",
-    "title": "【速報】アルカディアがサーバー復旧を発表 不正アクセス受け停止の防災情報配信システム 自治体側も防災情報の配信を順次再開（2026年10月15日掲載）｜YTV NEWS NNN",
-    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOd0VycFVSWS13RTUtOGhyWG5VTk1IQ2hFNnJHdGxhR3hjNUg0TWFoN2FjYTY0U0lTbFc4Y3JNZVpHejdDTGxKMHNMcDNtTHF3ZWtLNmFJQ19KRndoY0VXZ0x1bjRwOVV6bi1vdTQwREpwazZ4cVBXbGtCR1lKMm9COGtaWHRnNFk?oc=5"
-   },
-   {
-    "source": "NHK",
-    "title": "「コミックシーモア」がサービス停止 不正アクセスか",
-    "url": "https://news.web.nhk/newsweb/na/nd-20261015de60114"
-   }
-  ]
- },
- {
   "at": "2026-10-16T14:30+09:00",
   "text": "新米を頂いた。炊きたての湯気に、ひとり頷く。これに勝る贅沢は、そうない。",
   "expression": "微笑",
@@ -6164,6 +6144,26 @@
     "source": "NHK",
     "title": "PHPぜい弱性 厚労省 31システム一時停止 情報漏えい確認されず",
     "url": "https://news.web.nhk/newsweb/na/nd-20261023de64069"
+   }
+  ]
+ },
+ {
+  "at": "2026-10-23T16:00+09:00",
+  "text": "石油危機の頃の知恵では足りぬと。あの時の処方箋は、もう古い薬箱の中か。",
+  "expression": "思案",
+  "scene": "regular",
+  "lang": "ja",
+  "topic": "エネルギー白書「石油危機以来の対策では対応しきれない事態」",
+  "links": [
+   {
+    "source": "NHKニュース",
+    "title": "エネルギー白書「石油危機以来の対策では対応しきれない事態」",
+    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9LdUVaQjdLSFFHMzRIQjVFSTlNVnI3a0dWbzV4SXV4dkdnd082VkpMV0gxeWdWa1BYdXRCS3ZRRTU3VXhoNzRYWVllcmRZZ1BYNzA4MjNVMnlsODFlSG9R?oc=5"
+   },
+   {
+    "source": "NHK",
+    "title": "エネルギー白書「石油危機以来の対策では対応しきれない事態」",
+    "url": "https://news.web.nhk/newsweb/na/nd-20261023de63997"
    }
   ]
  }
