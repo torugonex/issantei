@@ -1,25 +1,5 @@
 [
  {
-  "at": "2026-10-16T12:15+09:00",
-  "text": "Four dead at a primary school, three of them children. Requiescat in pace.",
-  "expression": "憂い",
-  "scene": "regular",
-  "lang": "en",
-  "topic": "Three children and teacher killed by 16-year-old at Oregon primary school",
-  "links": [
-   {
-    "source": "BBC",
-    "title": "Three children and teacher killed by 16-year-old at Oregon primary school",
-    "url": "https://www.bbc.co.uk/news/articles/cm89zp48k4kzo?at_medium=RSS&at_campaign=rss"
-   },
-   {
-    "source": "Guardian",
-    "title": "Shooter kills three children and one teacher at Oregon elementary school",
-    "url": "https://www.theguardian.com/us-news/2026/oct/15/oregon-elementary-school-shooting"
-   }
-  ]
- },
- {
   "at": "2026-10-16T12:45+09:00",
   "text": "死刑まで見世物にしようとは、驚いた。中止は結構。世論に引っ込められる程度の企てだったか。",
   "expression": "呆れのため息",
@@ -6169,6 +6149,26 @@
     "source": "BBC",
     "title": "YouTuber arrested after popular Indian finance influencer's suicide",
     "url": "https://www.bbc.co.uk/news/articles/ckx2d0ej7w7do?at_medium=RSS&at_campaign=rss"
+   }
+  ]
+ },
+ {
+  "at": "2026-10-23T14:30+09:00",
+  "text": "村上龍さんが亡くなった。あの青く尖った時代の声が、また一つ遠のく。黙祷。",
+  "expression": "憂い",
+  "scene": "regular",
+  "lang": "ja",
+  "topic": "作家の村上龍さん死去、７４歳 「限りなく透明に近いブルー」",
+  "links": [
+   {
+    "source": "時事ドットコム",
+    "title": "作家の村上龍さん死去、７４歳 「限りなく透明に近いブルー」",
+    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5lMmlzNmNILXdZdWt3Q3VXaHZkRU5KQnVqblQxRlR5alVzdElFSWM5WjlhOTdzS1oxbmFXUXhQYjFuRzlySmwwS0txaDFzUFg2R2VET2N5MVJJcjhoZUN6TmxtTQ?oc=5"
+   },
+   {
+    "source": "NHK",
+    "title": "作家の村上龍さん死去「コインロッカー・ベイビーズ」74歳",
+    "url": "https://news.web.nhk/newsweb/na/nd-20261023de64176"
    }
   ]
  }
