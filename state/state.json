@@ -1,9 +1,9 @@
 {
  "mood": {
-  "valence": -0.261,
-  "arousal": 0.013
+  "valence": -0.246,
+  "arousal": 0.047
  },
- "since_sarcasm": 3,
+ "since_sarcasm": 4,
  "day": "2026-10-23",
  "morning_done": true,
  "goodnight_done": false,
@@ -89,17 +89,10 @@
   "581f81272c0f": "2026-10-23T10:30:29.778333+09:00",
   "47ce23d15abd": "2026-10-23T10:45:18.152569+09:00",
   "7dc2443b86a9": "2026-10-23T11:00:39.927611+09:00",
-  "7199b7ee735b": "2026-10-23T11:15:19.830668+09:00"
+  "7199b7ee735b": "2026-10-23T11:15:19.830668+09:00",
+  "5bce45fe13cd": "2026-10-23T11:45:18.474332+09:00"
  },
  "commented_titles": [
-  {
-   "title": "Pope does not need further treatment after lung cancer surgery",
-   "at": "2026-10-22T11:30:29.454621+09:00"
-  },
-  {
-   "title": "Dans le Sud-Est et en Corse, au moins quatre morts après des intempéries records",
-   "at": "2026-10-22T11:45:18.431878+09:00"
-  },
   {
    "title": "乳児遺体遺棄した疑い 24歳女逮捕",
    "at": "2026-10-22T12:15:16.847215+09:00"
@@ -259,13 +252,17 @@
   {
    "title": "ウクライナ衛星制限 トランプ大統領「マスク氏が元に戻した」",
    "at": "2026-10-23T11:15:19.830668+09:00"
+  },
+  {
+   "title": "Tempête Austen : quinze départements en vigilance orange vent vendredi",
+   "at": "2026-10-23T11:45:18.474332+09:00"
   }
  ],
- "last_quake_check": "2026-10-23T11:15:19.830668+09:00",
- "since_english": 2,
+ "last_quake_check": "2026-10-23T11:45:18.474332+09:00",
+ "since_english": 0,
  "next_english": 3,
- "last_tick": "2026-10-23T11:30:29.748177+09:00",
+ "last_tick": "2026-10-23T11:45:18.474332+09:00",
  "french_day": "2026-10-23",
- "french_done": false,
+ "french_done": true,
  "french_after": 687
 }
