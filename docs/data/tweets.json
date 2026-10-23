@@ -1,20 +1,5 @@
 [
  {
-  "at": "2026-10-16T17:45+09:00",
-  "text": "鍵は掛けたつもりでも、裏口は案外開いている。人の世の常なり。",
-  "expression": "思案",
-  "scene": "regular",
-  "lang": "ja",
-  "topic": "【QA】サイバー攻撃で情報流出 なぜ相次ぐ？背景や対策を解説",
-  "links": [
-   {
-    "source": "NHK",
-    "title": "【QA】サイバー攻撃で情報流出 なぜ相次ぐ？背景や対策を解説",
-    "url": "https://news.web.nhk/newsweb/na/nd-20261016de60258"
-   }
-  ]
- },
- {
   "at": "2026-10-16T18:00+09:00",
   "text": "Shaming fly-tippers online. Modern, certainly, though the rubbish still wants a proper home.",
   "expression": "呆れのため息",
@@ -6171,6 +6156,15 @@
   "expression": "微笑",
   "scene": "bar",
   "lang": "en",
+  "topic": null,
+  "links": []
+ },
+ {
+  "at": "2026-10-23T19:30+09:00",
+  "text": "旧友と氷の音を聞いている。世の中の騒ぎは、琥珀色の底に沈めておこう。",
+  "expression": "微笑",
+  "scene": "bar",
+  "lang": "ja",
   "topic": null,
   "links": []
  }

@@ -1,9 +1,9 @@
 {
  "mood": {
-  "valence": -0.078,
-  "arousal": -0.112
+  "valence": -0.008,
+  "arousal": -0.159
  },
- "since_sarcasm": 6,
+ "since_sarcasm": 7,
  "day": "2026-10-23",
  "morning_done": true,
  "goodnight_done": false,
@@ -91,10 +91,6 @@
   "dd846edd4b5e": "2026-10-23T18:30:32.120705+09:00"
  },
  "commented_titles": [
-  {
-   "title": "Barclays cutting 5,000 jobs as it increases reliance on AI",
-   "at": "2026-10-22T19:30:29.134588+09:00"
-  },
   {
    "title": "経産省「ホワイトハッカー」のチーム立ち上げへ",
    "at": "2026-10-22T19:30:47.114210+09:00"
@@ -236,10 +232,10 @@
    "at": "2026-10-23T18:30:32.120705+09:00"
   }
  ],
- "last_quake_check": "2026-10-23T19:15:21.381173+09:00",
- "since_english": 1,
+ "last_quake_check": "2026-10-23T19:30:29.892832+09:00",
+ "since_english": 2,
  "next_english": 3,
- "last_tick": "2026-10-23T19:15:21.381173+09:00",
+ "last_tick": "2026-10-23T19:30:29.892832+09:00",
  "french_day": "2026-10-23",
  "french_done": true,
  "french_after": 687
