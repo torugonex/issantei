@@ -1,25 +1,5 @@
 [
  {
-  "at": "2026-10-16T17:30+09:00",
-  "text": "無罪の判決が出たという。亡くなった方と、遺されたご家族を思う。言葉もない。",
-  "expression": "憂い",
-  "scene": "regular",
-  "lang": "ja",
-  "topic": "“餃子の王将”社長殺害事件 暴力団幹部に無罪判決 京都地裁",
-  "links": [
-   {
-    "source": "NHKニュース",
-    "title": "“餃子の王将”社長殺害事件 暴力団幹部に無罪判決 京都地裁",
-    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5HX3N1d1ZNaHZmci1Gc0RyRWlrbkVYTHVCekRvTXc1TEhHUnZfWl9ITWllQlZRYkotSk14TjdzY014VHM2dWNBd2lvN3BLaWtMXzYxWThycEluZWIyWEVv?oc=5"
-   },
-   {
-    "source": "NHK",
-    "title": "“餃子の王将”社長殺害事件 暴力団幹部に無罪判決 京都地裁",
-    "url": "https://news.web.nhk/newsweb/na/nd-20261015de60144"
-   }
-  ]
- },
- {
   "at": "2026-10-16T17:45+09:00",
   "text": "鍵は掛けたつもりでも、裏口は案外開いている。人の世の常なり。",
   "expression": "思案",
@@ -6184,5 +6164,14 @@
     "url": "https://news.web.nhk/newsweb/na/nd-20261023de64116"
    }
   ]
+ },
+ {
+  "at": "2026-10-23T19:15+09:00",
+  "text": "Friday, a quiet bar, an old friend. The world can manage without our opinions for one evening.",
+  "expression": "微笑",
+  "scene": "bar",
+  "lang": "en",
+  "topic": null,
+  "links": []
  }
 ]
