@@ -1,25 +1,5 @@
 [
  {
-  "at": "2026-10-16T17:00+09:00",
-  "text": "A disgrace, he says, of a country defending itself. Such a generous way with words.",
-  "expression": "片眉を上げる",
-  "scene": "regular",
-  "lang": "en",
-  "topic": "Trump calls Ukraine’s resumption of strikes on Russian oil refineries a ‘disgrace’",
-  "links": [
-   {
-    "source": "Guardian",
-    "title": "Trump calls Ukraine’s resumption of strikes on Russian oil refineries a ‘disgrace’",
-    "url": "https://www.theguardian.com/world/2026/oct/16/trump-calls-ukraines-resumption-of-strikes-on-russian-oil-refineries-a-disgrace"
-   },
-   {
-    "source": "The Guardian",
-    "title": "Trump calls Ukraine’s resumption of strikes on Russian oil refineries a ‘disgrace’",
-    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOT2hmbUgxV3ZHTlhUYk52eFhKVWhfV29MWDFzTzRXX2VxUWhZaF9qSXhtUUp5dlNpVTVlX2ZWY3RWWXNjUWYxT0lFU3JXYWNweWRCNlYxNTVVczZWZ2lNbFlGeGhLWklFMk9rUmNUcHVGMWMtX2JkdWtSODZrcktraDRzVkllclQ2c3hmaDZVWW0xUFhvdW5CM24tcUVPTlI5cTBTVXdPZ1lWSG1hQkpnRnEzcTZILU12cjZMdloxS0E0SFk?oc=5"
-   }
-  ]
- },
- {
   "at": "2026-10-16T17:30+09:00",
   "text": "無罪の判決が出たという。亡くなった方と、遺されたご家族を思う。言葉もない。",
   "expression": "憂い",
@@ -6182,6 +6162,26 @@
     "source": "GAME Watch",
     "title": "宮本茂氏の文化勲章受章が決定。マリオ誕生秘話から生成AI、ゲームの未来まで50年の軌跡をたどる",
     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9SMzBIbTg0d2FkaEM2LWc5M09xc2Y4UUdrSFQtNWhrVHF2YUZBdlUxYVVNTlFmVm9MeTlWbndmTDgzY2E1anl0YUE0eGhPcnlJQndfMGdsRWJvNlZsZGlHVHIwckFDZFZ3Sl9RSw?oc=5"
+   }
+  ]
+ },
+ {
+  "at": "2026-10-23T18:30+09:00",
+  "text": "奈良の子ジカの件、疑いの段階ゆえ断定は控える。胸が痛む。合掌。",
+  "expression": "憂い",
+  "scene": "regular",
+  "lang": "ja",
+  "topic": "奈良公園周辺 子ジカ死骸4体見つかる 危害加えられた疑いも",
+  "links": [
+   {
+    "source": "NHKニュース",
+    "title": "奈良公園周辺 子ジカ死骸4体見つかる 危害加えられた疑いも",
+    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1fbWJKQklGaFFrY1ppS3V1LVBsZk5ya3pMVTUtai1PWTFjS3BFWFI5RkhnRU5oM0dfYUpzbXRManotV2NoTkpmUTctTjcyblZsWS1NcXQ5QWZRQ0tNZTdn?oc=5"
+   },
+   {
+    "source": "NHK",
+    "title": "奈良公園周辺 子ジカ死骸4体見つかる 危害加えられた疑いも",
+    "url": "https://news.web.nhk/newsweb/na/nd-20261023de64116"
    }
   ]
  }
