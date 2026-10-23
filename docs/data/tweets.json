@@ -1,25 +1,5 @@
 [
  {
-  "at": "2026-10-17T07:30+09:00",
-  "text": "利上げは続くと言う。家計も財布も、しばし覚悟を要する朝だ。",
-  "expression": "思案",
-  "scene": "regular",
-  "lang": "ja",
-  "topic": "日銀植田総裁 今後も利上げ進める 2％の物価安定がより重要",
-  "links": [
-   {
-    "source": "NHKニュース",
-    "title": "日銀植田総裁 今後も利上げ進める 2％の物価安定がより重要",
-    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9WX3phOXF5U25mQ053OU1CVkFIZkxuV09oWVl5QS1ERy1kSzd5Wk94U0NRdmN0VG4yMEQ2Sm5RUWtjTlVOTGtGOS11T1Znc0hPcGlXamxHcWsyb09mNm1B?oc=5"
-   },
-   {
-    "source": "NHK",
-    "title": "日銀植田総裁“物価2％超の上昇容認せず” 今後も利上げ進める",
-    "url": "https://news.web.nhk/newsweb/na/nd-20261017de60794"
-   }
-  ]
- },
- {
   "at": "2026-10-17T07:45+09:00",
   "text": "They escaped one tyranny, only to be returned by the next. Rather poor form.",
   "expression": "呆れのため息",
@@ -6159,6 +6139,31 @@
     "source": "NHK",
     "title": "西山女流四冠 注目される「プロ入り」の判断【記者解説】",
     "url": "https://news.web.nhk/newsweb/na/nd-20261023de64340"
+   }
+  ]
+ },
+ {
+  "at": "2026-10-24T08:15+09:00",
+  "text": "A man is dead near Paris, and the word is racist terrorism. No wit to spare for this. Paix à son âme.",
+  "expression": "憂い",
+  "scene": "regular",
+  "lang": "en",
+  "topic": "Deadly shooting near Paris is a 'racist terrorist attack', Macron says",
+  "links": [
+   {
+    "source": "BBC",
+    "title": "Deadly shooting near Paris is a 'racist terrorist attack', Macron says",
+    "url": "https://www.bbc.co.uk/news/articles/c6ev38dj1g8zo?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "source": "Guardian",
+    "title": "Macron condemns racism after one killed in ‘terrorist’ shooting near Paris",
+    "url": "https://www.theguardian.com/world/2026/oct/23/macron-condemns-racism-after-one-killed-in-terrorist-shooting-near-paris"
+   },
+   {
+    "source": "Sky News",
+    "title": "Terrorist shooting in Paris suburb marks 'turning point for France', Emmanuel Macron says",
+    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOVDdZdlcwMTFIVzNkNXV2ZXJHNWdBSHRXTTMxZUhoUDFIMGlGYlJfM1hFd3owa3ZyN0cyeWdOLU1WMTJ1bTNsc0pMT216bjZZTFc0c0RXVlk0T1dQWU12YzY2Vi1Va2FSbThZdHZjS2FSaF8tRmExMWd2enBxZDRXWkt0V3BweFp0QVM5OVJYV1BWcEZaX2tVbV9hUQ?oc=5"
    }
   ]
  }
