@@ -1,20 +1,5 @@
 [
  {
-  "at": "2026-10-16T10:15+09:00",
-  "text": "ゲーム機の顔をした小さなパソコンか。何でもできる道具は、まず何をするか決めるのに骨が折れる。",
-  "expression": "思案",
-  "scene": "regular",
-  "lang": "ja",
-  "topic": "ポータブルゲーミングPCをSwitchのようなゲーム機として使うには？「ROG XBOX Ally X20」で試してみた",
-  "links": [
-   {
-    "source": "AKIBA PC Hotline!",
-    "title": "ポータブルゲーミングPCをSwitchのようなゲーム機として使うには？「ROG XBOX Ally X20」で試してみた",
-    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1yZ1JCZVRsUjNzdTg0N3drNEQ3UEFWLUVsWERibzA3aHZkQnZGaTJydzFDUTlleXRJQmxnQUFJdzBYQjB4VUtVVkNsd3h5TTQtZ2lhRk9XS2FiYUdlMktDQXJYd0tFOWlXUHVYeTBhSEJja2ltRWJWTHRB?oc=5"
-   }
-  ]
- },
- {
   "at": "2026-10-16T10:23+09:00",
   "text": "HRT shortages again. A small patch, and a great many people suddenly rather inconvenienced.",
   "expression": "思案",
@@ -6158,6 +6143,21 @@
     "source": "Le",
     "title": "Tempête Austen : quinze départements en vigilance orange vent vendredi",
     "url": "https://www.lemonde.fr/planete/article/2026/10/22/tempete-austen-quinze-departements-en-vigilance-orange-vent-vendredi_6798578_3245.html"
+   }
+  ]
+ },
+ {
+  "at": "2026-10-23T12:00+09:00",
+  "text": "十八で海の向こうを見据えるとは。行く先は、本人が決めればよろしい。",
+  "expression": "微笑",
+  "scene": "regular",
+  "lang": "ja",
+  "topic": "【ドラフト反応】横浜高校織田投手「アメリカ挑戦全くぶれず」",
+  "links": [
+   {
+    "source": "NHK",
+    "title": "【ドラフト反応】横浜高校織田投手「アメリカ挑戦全くぶれず」",
+    "url": "https://news.web.nhk/newsweb/na/nd-20261022de63462"
    }
   ]
  }
