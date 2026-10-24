@@ -1,25 +1,5 @@
 [
  {
-  "at": "2026-10-17T21:15+09:00",
-  "text": "Charges dismissed, the judge says. The law, at least, still asks for proof before it hands out a verdict.",
-  "expression": "思案",
-  "scene": "regular",
-  "lang": "en",
-  "topic": "Judge throws out child sex abuse charges against actor Timothy Busfield",
-  "links": [
-   {
-    "source": "BBC",
-    "title": "Judge throws out child sex abuse charges against actor Timothy Busfield",
-    "url": "https://www.bbc.co.uk/news/articles/c8vgxwq4q5r2o?at_medium=RSS&at_campaign=rss"
-   },
-   {
-    "source": "Guardian",
-    "title": "Child sex abuse charges against actor Timothy Busfield dismissed by judge",
-    "url": "https://www.theguardian.com/us-news/2026/oct/17/child-sex-abuse-charges-against-actor-timothy-busfield-dismissed-by-judge"
-   }
-  ]
- },
- {
   "at": "2026-10-17T21:30+09:00",
   "text": "死が男の姿で現れ、娘に恋をする。舞台の上なら、あの世も実によく似合う。",
   "expression": "微笑",
@@ -6150,6 +6130,15 @@
   "text": "……鍵は、閉めた……はず……板が、湯気に……",
   "expression": "寝顔",
   "scene": "sleeptalk",
+  "lang": "ja",
+  "topic": null,
+  "links": []
+ },
+ {
+  "at": "2026-10-25T06:00+09:00",
+  "text": "曇。霜降というのに、秋桜はまだ揺れている。傘は持って出よう。",
+  "expression": "微笑",
+  "scene": "morning",
   "lang": "ja",
   "topic": null,
   "links": []

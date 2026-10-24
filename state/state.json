@@ -1,12 +1,12 @@
 {
  "mood": {
-  "valence": 0.031,
-  "arousal": -0.381
+  "valence": 0.137,
+  "arousal": -0.242
  },
- "since_sarcasm": 7,
- "day": "2026-10-24",
+ "since_sarcasm": 8,
+ "day": "2026-10-25",
  "morning_done": true,
- "goodnight_done": true,
+ "goodnight_done": false,
  "sleeptalk_night": "2026-10-24",
  "commented": {
   "f722a3f1b5eb": "2026-10-23T06:15:20.958069+09:00",
@@ -234,9 +234,9 @@
   }
  ],
  "last_quake_check": "2026-10-24T22:30:27.295528+09:00",
- "since_english": 1,
+ "since_english": 2,
  "next_english": 4,
- "last_tick": "2026-10-25T05:45:18.439082+09:00",
+ "last_tick": "2026-10-25T06:00:37.495137+09:00",
  "french_day": "2026-10-25",
  "french_done": false,
  "french_after": 1055
