@@ -1,25 +1,5 @@
 [
  {
-  "at": "2026-10-17T13:33+09:00",
-  "text": "攻撃の続く都で、会議は延期になった。一刻も早く静まることを願う。",
-  "expression": "憂い",
-  "scene": "regular",
-  "lang": "ja",
-  "topic": "サウジアラビア首都への攻撃続く 国際会議が延期も",
-  "links": [
-   {
-    "source": "NHKニュース",
-    "title": "サウジアラビア首都への攻撃続く 国際会議が延期も",
-    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB0WXk5cGIyZTFKOWNzYmZnbVFlY2k2aGtzZ2ZnYk1zdG5kVXU5R1dTVWVUWTRVN0Y2c0lkRWx1WlFrYTh0cV9jMS1zNlVoOXRZNkhvZldic0IyUDFlREMw?oc=5"
-   },
-   {
-    "source": "NHK",
-    "title": "サウジアラビア首都への攻撃続く 国際会議が延期も",
-    "url": "https://news.web.nhk/newsweb/na/nd-20261017de60808"
-   }
-  ]
- },
- {
   "at": "2026-10-17T14:15+09:00",
   "text": "新米を炊いた。湯気の向こうで、ひと粒ひと粒が立っている。贅沢とは案外これだ。",
   "expression": "微笑",
@@ -6167,6 +6147,26 @@
     "source": "The Guardian",
     "title": "John Healey pledges to use budget to harness power of AI to bolster Britain’s security",
     "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPR1lmc2o1Vk42Wm9tUnhaWV95b1NDUGZfWnhER0tMcDBHbVBYVFVSYnd1SmRwVk5MNEZpaG9uQ1VxM3YtdWkzS2hqc3BSZnpfWlpVQVVwbWlYSUJZZ1Z1N0o5Vm5oTFhaczVqbTRMSlY5dE40djZIY0lkVkxSWnJkM3VHUW9kS21uUWpWeXVJSENZQmVIY3I5U05GaGpjenJMckZuUVJvekdjMkRuYV93UVJsR2JuR05EZWF4SlY4WC1qSTdGbjFENjhtMmZ5QQ?oc=5"
+   }
+  ]
+ },
+ {
+  "at": "2026-10-24T16:00+09:00",
+  "text": "百六十七キロの球とは恐れ入る。海の向こうの秋の祭典、まずは先勝なり。",
+  "expression": "愉快な笑い",
+  "scene": "regular",
+  "lang": "ja",
+  "topic": "ブルワーズ、ワールドシリーズ先勝。MAX167キロのミジオロウスキー、5回1失点、殿堂入り右腕の米実況は断言「今季は満票でサイ・ヤング賞だ」（中日スポーツ）",
+  "links": [
+   {
+    "source": "Yahoo!ニュース",
+    "title": "ブルワーズ、ワールドシリーズ先勝。MAX167キロのミジオロウスキー、5回1失点、殿堂入り右腕の米実況は断言「今季は満票でサイ・ヤング賞だ」（中日スポーツ）",
+    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE93UnVNc1o4VHpTMlYyQ3psTUxMS0hGdFh6Q3JIX1g5d0VTWFNYWlhXMVNhSXRPNS1MQ1lTSENib2VuVE5lUGJaQkdJRmFkOW5aTHprbGgwSEIzbmFibUdFWC1XeFdIOGhmMWVqeGpLeE8xb2RJZmdSRGRsZWhldkk?oc=5"
+   },
+   {
+    "source": "NHK",
+    "title": "ワールドシリーズが開幕 第1戦はブルワーズが勝利",
+    "url": "https://news.web.nhk/newsweb/na/nd-20261024de64775"
    }
   ]
  }
