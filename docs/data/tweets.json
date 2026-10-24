@@ -1,20 +1,5 @@
 [
  {
-  "at": "2026-10-17T11:00+09:00",
-  "text": "残り二年を数えられ始めると、権力は足元から軽くなる。どこの国でも同じ。",
-  "expression": "片眉を上げる",
-  "scene": "regular",
-  "lang": "ja",
-  "topic": "残りの任期2年はレームダックに?トランプ2.0 WATCHING〜逆風の中間選挙とその後の展望〜【調査情報デジタル】",
-  "links": [
-   {
-    "source": "Yahoo!ニュース",
-    "title": "残りの任期2年はレームダックに?トランプ2.0 WATCHING〜逆風の中間選挙とその後の展望〜【調査情報デジタル】",
-    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5admdlbXpRXzNiRTJ0dnQ2a3p5SS0tYXMtV2N6Y044UVFvSW9BcGNaVEpmeHVlTml5WHpTem1mZmhTc3hxMnlZSzJJQ0lWRFZrNzNkYktnb3VnaVQ0QkotaU1EODFVdURvLUQ2SUdIWldBcjhNczJNdDJrdmFMQXc?oc=5"
-   }
-  ]
- },
- {
   "at": "2026-10-17T11:15+09:00",
   "text": "Patients in chains, in the name of treatment. One hopes the rescuers arrived in good time. Appalling.",
   "expression": "憂い",
@@ -6186,6 +6171,26 @@
     "source": "NHK",
     "title": "【最新情報】台風30号 先島諸島に接近 西～東日本で大雨おそれ",
     "url": "https://news.web.nhk/newsweb/na/nd-20261024de64650"
+   }
+  ]
+ },
+ {
+  "at": "2026-10-24T12:30+09:00",
+  "text": "社員は違反なしと言い、経緯は公表された。保護区が燃えたのは事実。調べの結果を待とう。",
+  "expression": "思案",
+  "scene": "regular",
+  "lang": "ja",
+  "topic": "【速報】モンゴル火災、社員「違反なし」とKDDI",
+  "links": [
+   {
+    "source": "47NEWS",
+    "title": "【速報】モンゴル火災、社員「違反なし」とKDDI",
+    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBDOHlOT0xWSnItcWM4d3FKMEtRZ0NDNWhRTUZmWVZaOFo4eUI2ajRySDFqc1Iza2ZGOXJQbU42SGVCTDdvYTEwelUyNA?oc=5"
+   },
+   {
+    "source": "NHK",
+    "title": "KDDI モンゴル自然保護区の大規模火災の経緯公表",
+    "url": "https://news.web.nhk/newsweb/na/nd-20261024de64642"
    }
   ]
  }
