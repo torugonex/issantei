@@ -1,14 +1,5 @@
 [
  {
-  "at": "2026-10-17T16:30+09:00",
-  "text": "古い万年筆にインクを入れた。書くあてもないが、それでよろしい。",
-  "expression": "思案",
-  "scene": "life",
-  "lang": "ja",
-  "topic": null,
-  "links": []
- },
- {
   "at": "2026-10-17T17:00+09:00",
   "text": "Saturday, five o'clock, and nothing whatever accomplished. I call that a day rather well managed.",
   "expression": "微笑",
@@ -6169,5 +6160,20 @@
   "lang": "ja",
   "topic": null,
   "links": []
+ },
+ {
+  "at": "2026-10-24T19:00+09:00",
+  "text": "一億点満点とは豪気な。物差しのほうが恥じ入っていよう。",
+  "expression": "微笑",
+  "scene": "regular",
+  "lang": "ja",
+  "topic": "澄田綾乃 大胆露出の写真集、出来映えは「1億点満点」 ベトナムの民族衣装姿も披露「グラビアは芸術」",
+  "links": [
+   {
+    "source": "スポニチ Sponichi Annex",
+    "title": "澄田綾乃 大胆露出の写真集、出来映えは「1億点満点」 ベトナムの民族衣装姿も披露「グラビアは芸術」",
+    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOWDkzdVNqb1hIR1JTQXY0SGhLMjlUaUhESmJhNndld3FaYk1zaGpiNUQ3VmlXczhaWFJFR01icmM4RXliQWh3em5KcG5xV0U0dk93VENBVU00Vi11elBnbDRjNXEzRWN5MGNVUDYzQ3pxS2JXSHp1SFJZOXItMHRHb2tWTUFHMmNBaXFvWHN5ZTZTeHBRX0E?oc=5"
+   }
+  ]
  }
 ]
