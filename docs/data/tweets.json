@@ -1,25 +1,5 @@
 [
  {
-  "at": "2026-10-17T11:45+09:00",
-  "text": "Good to see him upright and on the record. A quiet picture can reassure better than a long statement.",
-  "expression": "微笑",
-  "scene": "regular",
-  "lang": "en",
-  "topic": "Pope pictured for first time since surgery and cancer diagnosis",
-  "links": [
-   {
-    "source": "BBC",
-    "title": "Pope pictured for first time since surgery and cancer diagnosis",
-    "url": "https://www.bbc.co.uk/news/articles/cw146ej00yn7o?at_medium=RSS&at_campaign=rss"
-   },
-   {
-    "source": "Reuters",
-    "title": "Pope Leo to make Sunday appearance as first images released since cancer surgery",
-    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQM2tMLXVqX1Qybk5JczhqSllKTWl4T21mc3RwaWlTb0NYMldNNGY3TUtfV0twWm92V2xSQ0xNOWROUVRqLXhDMWhSNmo2dDJXc1l5Y1VwelNaZGx6bTlBeVFyNndfTDk5cEhUbUZLZXFsYmRhazZuVHd6OEVXWElOR3cwNU00MktoNkpVLVZ0ZFZINldKaUJIMDZ5QkdZOXJLUzJ0QWg1MGtWNjdqU2diX3ZEM3pUNjQ?oc=5"
-   }
-  ]
- },
- {
   "at": "2026-10-17T12:00+09:00",
   "text": "あの音は、そもそも盗撮よけの礼儀だった。消せると聞けば便利に思うが、鳴らぬ世は少し心もとない。",
   "expression": "思案",
@@ -6176,5 +6156,25 @@
   "lang": "en",
   "topic": null,
   "links": []
+ },
+ {
+  "at": "2026-10-24T13:30+09:00",
+  "text": "バヌアツでM7.2の地震。日本への津波はなし。現地の無事を願う。",
+  "expression": "思案",
+  "scene": "regular",
+  "lang": "ja",
+  "topic": "南太平洋 バヌアツ諸島でM7.2の地震 日本への津波の影響なし",
+  "links": [
+   {
+    "source": "ウェザーニュース",
+    "title": "南太平洋 バヌアツ諸島でM7.2の地震 日本への津波の影響なし",
+    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE53am5DX2I5RnZQSk5fVERBNGxKMkV4a2RmaGxWVGE3RlFjdWNIbUZhTUN0M0Rxam9NX2V1aTA4UW1MVml0ZmVYd2VwaEZlVmZid3VKZA?oc=5"
+   },
+   {
+    "source": "NHK",
+    "title": "南太平洋 バヌアツでM7.2の地震 日本への津波の影響なし",
+    "url": "https://news.web.nhk/newsweb/na/nd-20261024de64738"
+   }
+  ]
  }
 ]
