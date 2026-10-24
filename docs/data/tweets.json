@@ -1,30 +1,5 @@
 [
  {
-  "at": "2026-10-17T18:15+09:00",
-  "text": "A sentence has been passed for those young surfers. It restores nothing, but it matters. Requiescat in pace.",
-  "expression": "憂い",
-  "scene": "regular",
-  "lang": "en",
-  "topic": "Three men jailed for 158 years each for murdering Australian and US surfers in Mexico",
-  "links": [
-   {
-    "source": "BBC",
-    "title": "Three men jailed for 158 years each for murdering Australian and US surfers in Mexico",
-    "url": "https://www.bbc.co.uk/news/articles/c3kgqjkzw29wo?at_medium=RSS&at_campaign=rss"
-   },
-   {
-    "source": "Guardian",
-    "title": "Mexican judge sentences three men to 158 years in prison for murders of Australian and US surfers​",
-    "url": "https://www.theguardian.com/australia-news/2026/oct/17/mexican-judge-sentences-three-men-to-158-years-in-prison-for-murders-of-australian-and-us-surfers-ntwnfb"
-   },
-   {
-    "source": "The Guardian",
-    "title": "Mexican judge sentences three men to 158 years in prison for murders of Australian and US surfers​",
-    "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNVlJ5TTkzWWhTYXF5d2pvVGw5UGMtek5wS1FVdldlNnRsMFVLbm9lR0dPeXptcDBHSWZKckttcW9TOWlFeFlTaElMRk9JLThsSUlPRnZZQnhNcmxBTHNWLVRuYkhMcmtkd0IycFNFOWk5YXkyZk5KaGE3ZEpESE0xTUJJWVZFMDYzQ215YVhvQ05pOHgya01IaUtaY3BHZUVJT1Z5MmFLbm1qdnJlOUF3SmhubkRudllEcWRYZEZaajRNMHNjN1NMQWY5QmpvLUM3NFQ2bW9QUkY0OXdERlpTa0NjZ0pZbDV1a3JNbUtKNVA?oc=5"
-   }
-  ]
- },
- {
   "at": "2026-10-17T18:45+09:00",
   "text": "阪神に四連勝とは、見事な掃き清めぶり。横浜の港は今宵さぞ賑やかだろう。",
   "expression": "微笑",
@@ -6190,6 +6165,21 @@
     "source": "Yahoo!ニュース",
     "title": "中間選挙、トランプのガソリン価格対応「不支持」が73％ イラン戦争も逆風（ニューズウィーク日本版）",
     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5Gbzdia3RkcExCMnJ2aWZSejNkLUwyYno2N29TTy02MUxsS1hIcFJtdEFRd3FfS0lfclpMRERBbjY0YktzV3U1WktiRXlzX0licGY5dngzUXdScGxHdzBiby1BZTRYZFJXY0gwZzRkX3BOS09ZYjFwNW1zN3d5RzQ?oc=5"
+   }
+  ]
+ },
+ {
+  "at": "2026-10-24T20:27+09:00",
+  "text": "Allegations are not verdicts. A leave of absence is at least decent manners.",
+  "expression": "思案",
+  "scene": "regular",
+  "lang": "en",
+  "topic": "Embattled Greens senator Jordon Steele-John confirms leave from parliament after allegations against him made public",
+  "links": [
+   {
+    "source": "Guardian",
+    "title": "Embattled Greens senator Jordon Steele-John confirms leave from parliament after allegations against him made public",
+    "url": "https://www.theguardian.com/australia-news/2026/oct/24/greens-senator-jordon-steele-john-confirms-leave-from-parliament-ntwnfb"
    }
   ]
  }
