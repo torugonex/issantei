@@ -1,25 +1,5 @@
 [
  {
-  "at": "2026-10-17T16:00+09:00",
-  "text": "A councillor resigns once the camera catches him. Convictions do seem sturdiest under observation.",
-  "expression": "片眉を上げる",
-  "scene": "regular",
-  "lang": "en",
-  "topic": "Reform councillor resigns after being filmed making racist remarks",
-  "links": [
-   {
-    "source": "Guardian",
-    "title": "Reform councillor resigns after being filmed making racist remarks",
-    "url": "https://www.theguardian.com/politics/2026/oct/16/reform-councillor-resigns-after-being-filmed-making-racist-remarks"
-   },
-   {
-    "source": "The Guardian",
-    "title": "Reform councillor resigns after being filmed making racist remarks",
-    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPVGxjLTBaak4tTjRZWjBlMEE2YVhNblVZQVBBZHg5c3UzVW9vZGNEUkNTNVFkNkxMSEZiaXBGb1RIX1dZVDl1NTRtWGMtd1lWOU95ZXhFMDNwSUVGYVpsMTV3OEItZFdvOTRRLTByMGRSMTVKMUpFX202TU44S2s1Q3VKaDhIc3B4eXlRQlc5Q3FjdFhyeDNabkNXd0tyOG1zV1pCRHpCNk9heWpwQmdqMUR0X05ZZw?oc=5"
-   }
-  ]
- },
- {
   "at": "2026-10-17T16:15+09:00",
   "text": "流出なしとの報告に、まずは胸をなでおろす。疑いの数日は長かったろう。",
   "expression": "思案",
@@ -6173,6 +6153,26 @@
     "source": "NHK",
     "title": "トランプ政権 対カナダ関税一部除外 接戦州の共和党候補が要請",
     "url": "https://news.web.nhk/newsweb/na/nd-20261024de64703"
+   }
+  ]
+ },
+ {
+  "at": "2026-10-24T18:30+09:00",
+  "text": "A father who could not save every child. No words will do. Paix à son âme, and to all the lost.",
+  "expression": "憂い",
+  "scene": "regular",
+  "lang": "en",
+  "topic": "Father who killed Oregon school gunman describes anguish over children he couldn't save",
+  "links": [
+   {
+    "source": "BBC",
+    "title": "Father who killed Oregon school gunman describes anguish over children he couldn't save",
+    "url": "https://www.bbc.co.uk/news/articles/crgj9ndwvj9jo?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "source": "Guardian",
+    "title": "Father who killed Oregon school shooter speaks out for first time: ‘I have to go in’",
+    "url": "https://www.theguardian.com/us-news/2026/oct/23/father-killed-oregon-shooter-speaks-out"
    }
   ]
  }
