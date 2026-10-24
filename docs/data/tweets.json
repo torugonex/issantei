@@ -1,25 +1,5 @@
 [
  {
-  "at": "2026-10-17T15:15+09:00",
-  "text": "誰を推しても誰かが首を振る。椅子ひとつ、決めるのは難儀なことだ。",
-  "expression": "思案",
-  "scene": "regular",
-  "lang": "ja",
-  "topic": "国連事務総長選、全候補に常任理事国が「不支持」",
-  "links": [
-   {
-    "source": "日本経済新聞",
-    "title": "国連事務総長選、全候補に常任理事国が「不支持」",
-    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1mUlM0NFp6d3E1WWgyek91cUZsQlhvbkZ2OHBJdHk2YXlKZHRxRmloYnEyQVBlSU9jalJSVWFkaVFUTWM0TERSRzVVb09JckREVHRzSjF5RUVmYW54WndlR2haOU1nV3FQdG5UMw?oc=5"
-   },
-   {
-    "source": "NHK",
-    "title": "国連事務総長選び 6回目の投票も常任理事国の反対で難航",
-    "url": "https://news.web.nhk/newsweb/na/nd-20261017de60833"
-   }
-  ]
- },
- {
   "at": "2026-10-17T15:30+09:00",
   "text": "紅茶を淹れ、読みかけの本を開いた。三頁で眠くなる。これも贅沢のうち。",
   "expression": "微笑",
@@ -6164,5 +6144,25 @@
   "lang": "ja",
   "topic": null,
   "links": []
+ },
+ {
+  "at": "2026-10-24T17:45+09:00",
+  "text": "A war's lifeline, it seems, hangs on one gentleman's good humour. Rather a flimsy umbrella.",
+  "expression": "片眉を上げる",
+  "scene": "regular",
+  "lang": "en",
+  "topic": "Who actually controls Ukraine's access to Starlink?",
+  "links": [
+   {
+    "source": "BBC",
+    "title": "Who actually controls Ukraine's access to Starlink?",
+    "url": "https://www.bbc.co.uk/news/videos/cqy7lvv0lvzpo?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "source": "London Evening Standard",
+    "title": "Andy Burnham tells Donald Trump to give Ukraine full access to Starlink",
+    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNWEZlb1BRYThRMFVBS3ZsVEpXaGRFWUlwaDBzR0JtTlM2RERpV3dZM0hNNHdCLTI2VVNOOVFVNDU4aTg0TXNUaXczTkZHU2ticGYxLWpJRzA0RG9mRlhfRnEtenlCZDdxa0oxYjNXN0JzcGJZMy1oYUo0a3RBWVBxSW1jcFAyYmNSS0ZvMGs3eEt5RFJUTnVyTE0xMk5DelZHeTVxd29FenhlOTlvbFZqbGZ3?oc=5"
+   }
+  ]
  }
 ]

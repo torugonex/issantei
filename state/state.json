@@ -1,15 +1,14 @@
 {
  "mood": {
-  "valence": 0.075,
-  "arousal": -0.111
+  "valence": 0.006,
+  "arousal": -0.083
  },
- "since_sarcasm": 5,
+ "since_sarcasm": 0,
  "day": "2026-10-24",
  "morning_done": true,
  "goodnight_done": false,
  "sleeptalk_night": "2026-10-23",
  "commented": {
-  "4ee65d4c3d8e": "2026-10-22T17:30:29.248806+09:00",
   "d6bad19ed14c": "2026-10-22T17:45:19.642794+09:00",
   "09055b3930e7": "2026-10-22T18:00:39.462496+09:00",
   "3eca0843f1de": "2026-10-22T18:15:19.039838+09:00",
@@ -86,13 +85,10 @@
   "2d37c650189d": "2026-10-24T15:45:18.398189+09:00",
   "294cb9e5f245": "2026-10-24T16:00:37.148249+09:00",
   "69e69d7b006c": "2026-10-24T16:15:17.914716+09:00",
-  "1f6299be6254": "2026-10-24T16:45:19.262625+09:00"
+  "1f6299be6254": "2026-10-24T16:45:19.262625+09:00",
+  "e5d1c389d5db": "2026-10-24T17:45:17.861319+09:00"
  },
  "commented_titles": [
-  {
-   "title": "Some of Europe’s highest energy costs expected in Britain this winter",
-   "at": "2026-10-23T17:30:32.170050+09:00"
-  },
   {
    "title": "宮本茂氏の文化勲章受章が決定。マリオ誕生秘話から生成AI、ゲームの未来まで50年の軌跡をたどる",
    "at": "2026-10-23T18:00:43.167671+09:00"
@@ -244,12 +240,16 @@
   {
    "title": "Congrès du RN : Orléans se prépare à être l’épicentre de mobilisations d’ampleur",
    "at": "2026-10-24T16:45:19.262625+09:00"
+  },
+  {
+   "title": "Who actually controls Ukraine's access to Starlink?",
+   "at": "2026-10-24T17:45:17.861319+09:00"
   }
  ],
- "last_quake_check": "2026-10-24T17:30:27.621300+09:00",
- "since_english": 2,
+ "last_quake_check": "2026-10-24T17:45:17.861319+09:00",
+ "since_english": 1,
  "next_english": 3,
- "last_tick": "2026-10-24T17:30:27.621300+09:00",
+ "last_tick": "2026-10-24T17:45:17.861319+09:00",
  "french_day": "2026-10-24",
  "french_done": true,
  "french_after": 1004
