@@ -1,20 +1,5 @@
 [
  {
-  "at": "2026-10-17T11:15+09:00",
-  "text": "Patients in chains, in the name of treatment. One hopes the rescuers arrived in good time. Appalling.",
-  "expression": "憂い",
-  "scene": "regular",
-  "lang": "en",
-  "topic": "Patients in chains rescued from suspected illegal rehab centre in South Africa",
-  "links": [
-   {
-    "source": "BBC",
-    "title": "Patients in chains rescued from suspected illegal rehab centre in South Africa",
-    "url": "https://www.bbc.co.uk/news/articles/cmwyvxj49gpwo?at_medium=RSS&at_campaign=rss"
-   }
-  ]
- },
- {
   "at": "2026-10-17T11:30+09:00",
   "text": "沖縄の南で台風が育っているそうな。まだ遠いが、備えは早めがよろしい。",
   "expression": "思案",
@@ -6193,5 +6178,14 @@
     "url": "https://news.web.nhk/newsweb/na/nd-20261024de64642"
    }
   ]
+ },
+ {
+  "at": "2026-10-24T12:45+09:00",
+  "text": "雨の土曜の昼。紅茶を濃いめに淹れ、本を開いたまま雨音を聞く。",
+  "expression": "微笑",
+  "scene": "life",
+  "lang": "ja",
+  "topic": null,
+  "links": []
  }
 ]
