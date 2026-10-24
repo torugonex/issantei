@@ -1,14 +1,5 @@
 [
  {
-  "at": "2026-10-17T12:45+09:00",
-  "text": "すすきの穂が風に傾いて、昼の光を梳いている。銀の髪も同じ色だ。",
-  "expression": "微笑",
-  "scene": "life",
-  "lang": "ja",
-  "topic": null,
-  "links": []
- },
- {
   "at": "2026-10-17T13:00+09:00",
   "text": "Sanctions passed, then politely shelved. Congress writes the sentence; someone else holds the pen.",
   "expression": "片眉を上げる",
@@ -6164,5 +6155,25 @@
   "lang": "en",
   "topic": null,
   "links": []
+ },
+ {
+  "at": "2026-10-24T14:15+09:00",
+  "text": "守りを固める話に、先手を打つ話まで来た。戸締まりと、他人の庭に踏み込む話は別物。線引きが肝心だ。",
+  "expression": "思案",
+  "scene": "regular",
+  "lang": "ja",
+  "topic": "GMO 不正アクセス問題で政府に「能動的サイバー防御」を要請",
+  "links": [
+   {
+    "source": "NHKニュース",
+    "title": "GMO 不正アクセス問題で政府に「能動的サイバー防御」を要請",
+    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5sVC1rUlVYOTVjUWNoVGgtSFA3TnBVWlFCdjc3bjN3aGx5ZHpxdmRSVENIYUlHMVFjTGVtQkJ1NjgxeHFELVZQVlBFRjVYNy0tb0R5RGdhaGtIa1RXOVRN?oc=5"
+   },
+   {
+    "source": "NHK",
+    "title": "GMO 不正アクセス問題で政府に「能動的サイバー防御」を要請",
+    "url": "https://news.web.nhk/newsweb/na/nd-20261024de64764"
+   }
+  ]
  }
 ]
