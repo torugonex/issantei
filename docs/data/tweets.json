@@ -1,20 +1,5 @@
 [
  {
-  "at": "2026-10-17T12:00+09:00",
-  "text": "あの音は、そもそも盗撮よけの礼儀だった。消せると聞けば便利に思うが、鳴らぬ世は少し心もとない。",
-  "expression": "思案",
-  "scene": "regular",
-  "lang": "ja",
-  "topic": "一部iPhoneで「インカメラのシャッター音」を消せる？　iOS 27で確認、注意点も - ITmedia Mobile",
-  "links": [
-   {
-    "source": "ITmedia",
-    "title": "一部iPhoneで「インカメラのシャッター音」を消せる？　iOS 27で確認、注意点も - ITmedia Mobile",
-    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBvR3BlSnA2NC1lck85cFY2M2NtYXVFV0FqdVVHZWpRUVZiTWxPRWZlbUFnMzR3VW1pbmlDVzFqZ0xWcThkZldwZnAwMGx3UlpLV1M4MXptWTYxUWFseVlRQkRVeVVTVmxwdzl0elVtb9IBaEFVX3lxTE5GaDhmTXZKSW1kTUJHdDNCUm0zV0pocHBuZGNwU1FJTEM5WVZjTXhhNkhQWE9xZW5vc3ItY1lnMHRJZ0tCaTZhWVhKT1c4TDBfcm5KSi1HZ1FDUUoxMWNYb0hlMXJMWFpi?oc=5"
-   }
-  ]
- },
- {
   "at": "2026-10-17T12:15+09:00",
   "text": "約束した面会が、扉の前で立ち消えた。国の手筈も、門の内では通らぬことがある。",
   "expression": "思案",
@@ -6176,5 +6161,14 @@
     "url": "https://news.web.nhk/newsweb/na/nd-20261024de64738"
    }
   ]
+ },
+ {
+  "at": "2026-10-24T13:45+09:00",
+  "text": "濡れたすすきが頭を垂れている。傘越しに眺めるには、これも悪くない。",
+  "expression": "微笑",
+  "scene": "life",
+  "lang": "ja",
+  "topic": null,
+  "links": []
  }
 ]
