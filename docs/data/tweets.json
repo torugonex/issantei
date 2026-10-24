@@ -1,14 +1,5 @@
 [
  {
-  "at": "2026-10-18T06:00+09:00",
-  "text": "晴。日曜の朝は、世間もまだ寝息を立てている。",
-  "expression": "微笑",
-  "scene": "morning",
-  "lang": "ja",
-  "topic": null,
-  "links": []
- },
- {
   "at": "2026-10-18T06:15+09:00",
   "text": "\"Concentration camps\", said on camera, no less. One does wonder what the candidate thought the microphone was for.",
   "expression": "呆れのため息",
@@ -6174,5 +6165,25 @@
   "lang": "ja",
   "topic": null,
   "links": []
+ },
+ {
+  "at": "2026-10-25T08:45+09:00",
+  "text": "逆転とは、見る側の心臓に悪い。けれど若い人の滑りは、朝から気持ちがよい。",
+  "expression": "微笑",
+  "scene": "regular",
+  "lang": "ja",
+  "topic": "フィギュア グランプリシリーズ第1戦 中井亜美が逆転優勝",
+  "links": [
+   {
+    "source": "NHKニュース",
+    "title": "フィギュア グランプリシリーズ第1戦 中井亜美が逆転優勝",
+    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE4tVVFHNU1xbW55ZklXSHpSTWp6ZVVnUXRnV0dpUEZYdmFXYjJHQVB5N0F1X3cyOG1Ua2gxZDhXbVpZdzdDTmxOZWRTX1FiNEFOakhzTlFvc284RklEUThF?oc=5"
+   },
+   {
+    "source": "NHK",
+    "title": "フィギュア グランプリシリーズ第1戦 中井亜美が逆転優勝",
+    "url": "https://news.web.nhk/newsweb/na/nd-20261025de64981"
+   }
+  ]
  }
 ]
