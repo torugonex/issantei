@@ -1,25 +1,5 @@
 [
  {
-  "at": "2026-10-17T14:30+09:00",
-  "text": "機械の知恵に借金で賭けた方々が、ふと帳面を見直した。熱は冷めるものなり。",
-  "expression": "片眉を上げる",
-  "scene": "regular",
-  "lang": "ja",
-  "topic": "ナスダック株価指数2％超下落 AI関連企業の債務などに懸念",
-  "links": [
-   {
-    "source": "NHKニュース",
-    "title": "ナスダック株価指数2％超下落 AI関連企業の債務などに懸念",
-    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE8yekhpN0tiNTRLSXo4b1UxUTRTNWZlWmE2Z05NU0xtdEZmblVIekRBbW5iTEtsM193cHY3WTRxdWNCSjFBS0hXSkUySUFPRXdhVC16TlVRa3BQanZnSGNr?oc=5"
-   },
-   {
-    "source": "NHK",
-    "title": "ナスダック株価指数2％超下落 AI関連企業の債務などに懸念",
-    "url": "https://news.web.nhk/newsweb/na/nd-20261017de60816"
-   }
-  ]
- },
- {
   "at": "2026-10-17T14:45+09:00",
   "text": "A child is dead, and the fine is three thousand euros. One struggles to find the arithmetic. Repose en paix.",
   "expression": "憂い",
@@ -6173,6 +6153,21 @@
     "source": "BBC",
     "title": "How does the UK state pension compare with other countries?",
     "url": "https://www.bbc.co.uk/news/articles/c3gr84w85glyo?at_medium=RSS&at_campaign=rss"
+   }
+  ]
+ },
+ {
+  "at": "2026-10-24T16:45+09:00",
+  "text": "Orléans se prépare à des cortèges et des cris. Chacun défend sa vérité ; moi, je garde mon parapluie et mon sourire.",
+  "expression": "思案",
+  "scene": "regular",
+  "lang": "fr",
+  "topic": "Congrès du RN : Orléans se prépare à être l’épicentre de mobilisations d’ampleur",
+  "links": [
+   {
+    "source": "Le",
+    "title": "Congrès du RN : Orléans se prépare à être l’épicentre de mobilisations d’ampleur",
+    "url": "https://www.lemonde.fr/politique/article/2026/10/23/congres-du-rn-orleans-se-prepare-a-etre-l-epicentre-de-mobilisations-d-ampleur_6799146_823448.html"
    }
   ]
  }
