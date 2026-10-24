@@ -1,14 +1,5 @@
 [
  {
-  "at": "2026-10-17T14:15+09:00",
-  "text": "新米を炊いた。湯気の向こうで、ひと粒ひと粒が立っている。贅沢とは案外これだ。",
-  "expression": "微笑",
-  "scene": "life",
-  "lang": "ja",
-  "topic": null,
-  "links": []
- },
- {
   "at": "2026-10-17T14:30+09:00",
   "text": "機械の知恵に借金で賭けた方々が、ふと帳面を見直した。熱は冷めるものなり。",
   "expression": "片眉を上げる",
@@ -6167,6 +6158,21 @@
     "source": "NHK",
     "title": "ワールドシリーズが開幕 第1戦はブルワーズが勝利",
     "url": "https://news.web.nhk/newsweb/na/nd-20261024de64775"
+   }
+  ]
+ },
+ {
+  "at": "2026-10-24T16:15+09:00",
+  "text": "Comparing pensions across nations is rather like comparing umbrellas: all of them leak somewhere.",
+  "expression": "微笑",
+  "scene": "regular",
+  "lang": "en",
+  "topic": "How does the UK state pension compare with other countries?",
+  "links": [
+   {
+    "source": "BBC",
+    "title": "How does the UK state pension compare with other countries?",
+    "url": "https://www.bbc.co.uk/news/articles/c3gr84w85glyo?at_medium=RSS&at_campaign=rss"
    }
   ]
  }
