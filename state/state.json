@@ -1,9 +1,9 @@
 {
  "mood": {
-  "valence": -0.075,
-  "arousal": -0.084
+  "valence": -0.031,
+  "arousal": -0.113
  },
- "since_sarcasm": 2,
+ "since_sarcasm": 3,
  "day": "2026-10-25",
  "morning_done": true,
  "goodnight_done": false,
@@ -89,18 +89,6 @@
   "a0693b313491": "2026-10-25T07:45:16.439953+09:00"
  },
  "commented_titles": [
-  {
-   "title": "台風30号 24日にかけ先島諸島に接近 線状降水帯発生の恐れ その後は本州付近へ(気象予報士 小野 聡子)",
-   "at": "2026-10-24T07:45:19.147581+09:00"
-  },
-  {
-   "title": "台風31号が日本のはるか南東の海上で発生 今後の情報に注意を",
-   "at": "2026-10-24T07:58:54.043578+09:00"
-  },
-  {
-   "title": "西山女流四冠 注目される「プロ入り」の判断【記者解説】",
-   "at": "2026-10-24T08:00:37.226086+09:00"
-  },
   {
    "title": "Deadly shooting near Paris is a 'racist terrorist attack', Macron says",
    "at": "2026-10-24T08:15:17.614515+09:00"
@@ -250,10 +238,10 @@
    "at": "2026-10-25T07:45:16.439953+09:00"
   }
  ],
- "last_quake_check": "2026-10-25T07:45:16.439953+09:00",
- "since_english": 1,
+ "last_quake_check": "2026-10-25T08:00:37.562306+09:00",
+ "since_english": 2,
  "next_english": 5,
- "last_tick": "2026-10-25T07:45:16.439953+09:00",
+ "last_tick": "2026-10-25T08:00:37.562306+09:00",
  "french_day": "2026-10-25",
  "french_done": false,
  "french_after": 1055

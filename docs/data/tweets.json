@@ -1,14 +1,5 @@
 [
  {
-  "at": "2026-10-18T01:30+09:00",
-  "text": "……切符が、傘を差して、改札を……",
-  "expression": "寝顔",
-  "scene": "sleeptalk",
-  "lang": "ja",
-  "topic": null,
-  "links": []
- },
- {
   "at": "2026-10-18T06:00+09:00",
   "text": "晴。日曜の朝は、世間もまだ寝息を立てている。",
   "expression": "微笑",
@@ -6174,5 +6165,14 @@
     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQUEllMUVrbmlBVUdxTnN5Tk80THQ5RmcyUTVNVmxoVi1kMHMzRFJsX1h4eE9vZlNFVDhlX1ppSG1fUHNmc0plSGUyeXFTWmQzVnF4X3RBN2VybVpHcm80dXR0R3UyTWlJV2xDZHMtWFRxbGxRWlpPNHZQUzJ6TTMxLWhCMUcxTFdyNlkzNzR2RU45MGYyaWU3R1pvSlhwYlRKYmVFOV9MTQ?oc=5"
    }
   ]
+ },
+ {
+  "at": "2026-10-25T08:00+09:00",
+  "text": "すすきの穂が、くもり空に白い。昼から雨ならば、紅茶を濃いめに。",
+  "expression": "微笑",
+  "scene": "life",
+  "lang": "ja",
+  "topic": null,
+  "links": []
  }
 ]
