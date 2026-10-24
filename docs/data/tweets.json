@@ -1,14 +1,5 @@
 [
  {
-  "at": "2026-10-17T22:45+09:00",
-  "text": "今日も無事に暮れた。灯りを落として、傘は玄関に立てかけておく。おやすみ。",
-  "expression": "微笑",
-  "scene": "goodnight",
-  "lang": "ja",
-  "topic": null,
-  "links": []
- },
- {
   "at": "2026-10-18T01:30+09:00",
   "text": "……切符が、傘を差して、改札を……",
   "expression": "寝顔",
@@ -6156,6 +6147,31 @@
     "source": "NHK",
     "title": "神奈川 秦野の弘法山公園近くでクマ再出没 放獣個体と判明",
     "url": "https://news.web.nhk/newsweb/na/nd-20261024de64937"
+   }
+  ]
+ },
+ {
+  "at": "2026-10-25T07:45+09:00",
+  "text": "Starlink steady again in Ukraine. One does notice how much rests on a connection one doesn't own.",
+  "expression": "思案",
+  "scene": "regular",
+  "lang": "en",
+  "topic": "Ukraine says Starlink connection 'now stable' after network limits",
+  "links": [
+   {
+    "source": "BBC",
+    "title": "Ukraine says Starlink connection 'now stable' after network limits",
+    "url": "https://www.bbc.co.uk/news/articles/cwkg5md14j8go?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "source": "Guardian",
+    "title": "Ukraine’s military says Starlink satellite connection stable after recent restrictions",
+    "url": "https://www.theguardian.com/world/2026/oct/24/ukraine-zelenskyy-military-starlink-satellite-connection-stable-after-restrictions"
+   },
+   {
+    "source": "POLITICO.eu",
+    "title": "Starlink connection restored at high speed in Ukraine, defense minister says",
+    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQUEllMUVrbmlBVUdxTnN5Tk80THQ5RmcyUTVNVmxoVi1kMHMzRFJsX1h4eE9vZlNFVDhlX1ppSG1fUHNmc0plSGUyeXFTWmQzVnF4X3RBN2VybVpHcm80dXR0R3UyTWlJV2xDZHMtWFRxbGxRWlpPNHZQUzJ6TTMxLWhCMUcxTFdyNlkzNzR2RU45MGYyaWU3R1pvSlhwYlRKYmVFOV9MTQ?oc=5"
    }
   ]
  }
