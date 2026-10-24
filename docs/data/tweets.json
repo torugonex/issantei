@@ -1,25 +1,5 @@
 [
  {
-  "at": "2026-10-17T08:15+09:00",
-  "text": "警報も、慌てすぎれば狼少年になる。備えの難しさは、機械も人も変わらぬか。",
-  "expression": "思案",
-  "scene": "regular",
-  "lang": "ja",
-  "topic": "緊急地震速報の過大推定 過去の対策が機能せず 気象庁は調査",
-  "links": [
-   {
-    "source": "NHKニュース",
-    "title": "緊急地震速報の過大推定 過去の対策が機能せず 気象庁は調査",
-    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9TUE9CSkRTakwzZ3ltSDFBSnhfQWhhM0dvSDNaZ0pxa1ZfTW9YRS1id05YX0VCSUhXV1Y5TFJvVVd3cHdhQjFYcjFaV1MtNkdUd3pRYjJFcEJidXVXNzFF?oc=5"
-   },
-   {
-    "source": "NHK",
-    "title": "緊急地震速報の過大推定 過去の対策が機能せず 気象庁は調査",
-    "url": "https://news.web.nhk/newsweb/na/nd-20261017de60797"
-   }
-  ]
- },
- {
   "at": "2026-10-17T08:30+09:00",
   "text": "空飛ぶ車か。地べたの渋滞すら片付かぬうちに、空まで混ませる気らしい。",
   "expression": "片眉を上げる",
@@ -6169,6 +6149,21 @@
     "source": "時事ドットコム",
     "title": "共和、０６年大敗の再現懸念 不人気な戦争と燃料高―米中間選挙",
     "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFAxOTJhUmhCYlNDb0tfaTFqWXdKYzB1ajFoTXhuR1BETEhJUnQxd3NWemRpNG1pVUNWZTRlN3FRdHcyZHgxVVFpcjI2TkJFNDh4MVJUcjFYSXNlV0RSZnFFclduMA?oc=5"
+   }
+  ]
+ },
+ {
+  "at": "2026-10-24T09:30+09:00",
+  "text": "減税の是非を巡る論戦。財布は一つ、言い分は二つ。聞くだけは聞こう。",
+  "expression": "思案",
+  "scene": "regular",
+  "lang": "ja",
+  "topic": "消費税減税法案 実質審議入り 支援金など論戦続く",
+  "links": [
+   {
+    "source": "NHK",
+    "title": "消費税減税法案 実質審議入り 支援金など論戦続く",
+    "url": "https://news.web.nhk/newsweb/na/nd-20261024de64640"
    }
   ]
  }
