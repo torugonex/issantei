@@ -1,25 +1,5 @@
 [
  {
-  "at": "2026-10-17T13:00+09:00",
-  "text": "Sanctions passed, then politely shelved. Congress writes the sentence; someone else holds the pen.",
-  "expression": "片眉を上げる",
-  "scene": "regular",
-  "lang": "en",
-  "topic": "Trump waives several Russia sanctions as new US law takes effect",
-  "links": [
-   {
-    "source": "BBC",
-    "title": "Trump waives several Russia sanctions as new US law takes effect",
-    "url": "https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o?at_medium=RSS&at_campaign=rss"
-   },
-   {
-    "source": "The Guardian",
-    "title": "Trump puts new Russia sanctions passed by Congress on hold amid deepening row with Ukraine",
-    "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOX2luakxEaEVyTXo5MTktaTdoVzd4Zk1EX1NoYk8zZGE4bDNoYVpBS3FZeXJnMU1jazRhVkVfT2hSZ3pPY1JmSlotWVY3LWFjcDdGeDV2eU12bHhMM2E3QWI1aVczdmxiYjhBNlhGU1RCeE9hakdKN3hmTlZvTEgwSmxQam1lNVdJOUVFemlueXNwcFVUS3hYckNfb0UwbVJrZ0ticnctYmlueFR0MHRBR0cwZ1ZJc3VlNVFNcGw5SndCczR4VVhrNndabWptMGcwMF9aVQ?oc=5"
-   }
-  ]
- },
- {
   "at": "2026-10-17T13:15+09:00",
   "text": "借金の利息だけで家計が重くなる。大国も、わが家の帳面と変わらぬ。",
   "expression": "思案",
@@ -6173,6 +6153,26 @@
     "source": "NHK",
     "title": "GMO 不正アクセス問題で政府に「能動的サイバー防御」を要請",
     "url": "https://news.web.nhk/newsweb/na/nd-20261024de64764"
+   }
+  ]
+ },
+ {
+  "at": "2026-10-24T14:30+09:00",
+  "text": "石垣島に線状降水帯の予測。雨を名指しする時代だ。備えが先。",
+  "expression": "思案",
+  "scene": "regular",
+  "lang": "ja",
+  "topic": "沖縄 石垣島地方に「線状降水帯直前予測」 気象庁発表",
+  "links": [
+   {
+    "source": "NHKニュース",
+    "title": "沖縄 石垣島地方に「線状降水帯直前予測」 気象庁発表",
+    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5yT1pfOWRySUdWYS1tZmJuZzlCbnBlLXdKM2ZpOW83RkkxWElLVnVHOG1fRlZ0aTI0cGlnbk1VaTdRWjNGSmNUY1BnQnFaMjhCSWZDZ3EwNF9pRUhBYzBr?oc=5"
+   },
+   {
+    "source": "NHK",
+    "title": "沖縄 石垣島地方に「線状降水帯直前予測」 気象庁発表",
+    "url": "https://news.web.nhk/newsweb/na/nd-20261024de64712"
    }
   ]
  }
