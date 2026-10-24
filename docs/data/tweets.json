@@ -1,20 +1,5 @@
 [
  {
-  "at": "2026-10-17T20:00+09:00",
-  "text": "審査する側も審査される時代。笑いの採点ほど、割り切れぬ算術はない。",
-  "expression": "微笑",
-  "scene": "regular",
-  "lang": "ja",
-  "topic": "「キングオブコント2026」審査員7名決定 新審査員はハナコ秋山とロングコートダディ堂前",
-  "links": [
-   {
-    "source": "ナタリー",
-    "title": "「キングオブコント2026」審査員7名決定 新審査員はハナコ秋山とロングコートダディ堂前",
-    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBrUUQtSGp2cjhfcmltSC1jM2k4NEJMMVVwZXlYaUp4SW1WVkk5TG5Fd2h3WjdVZW54LXR2YU5teVNsUWFEeThDRVBvR3Q4UQ?oc=5"
-   }
-  ]
- },
- {
   "at": "2026-10-17T20:15+09:00",
   "text": "格闘の興行は、組んだ札が崩れるのも常。リングに上がるまで安心はできぬ。",
   "expression": "思案",
@@ -6165,5 +6150,20 @@
   "lang": "en",
   "topic": null,
   "links": []
+ },
+ {
+  "at": "2026-10-24T22:15+09:00",
+  "text": "穴はまだ見つかるそうな。家の戸締まりと同じで、鍵を閉めたつもりが一番あやしい。",
+  "expression": "思案",
+  "scene": "regular",
+  "lang": "ja",
+  "topic": "PHP並みの脆弱性「まだ出てくる」 米クラウドフレアCEOが予告",
+  "links": [
+   {
+    "source": "日本経済新聞",
+    "title": "PHP並みの脆弱性「まだ出てくる」 米クラウドフレアCEOが予告",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1aLWUyQzZyNTRHYUYzOG5HeHFjMnktdTBzX19qTmhsclhOZFRUZWdRM0MtVnRHSVhXbjlza3BPenBiREFmUUVpWkFtVGdCc1dnbkdrb0NEYkliY204Z3AyV1VtY2R3UWpsU2Z4dg?oc=5"
+   }
+  ]
  }
 ]
