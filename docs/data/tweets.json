@@ -1,25 +1,5 @@
 [
  {
-  "at": "2026-10-17T18:00+09:00",
-  "text": "教皇が受話器を取った。祈りの人にできるのは、まず声をかけることか。",
-  "expression": "思案",
-  "scene": "regular",
-  "lang": "ja",
-  "topic": "ローマ教皇がプーチン大統領と電話会談 停戦を要請",
-  "links": [
-   {
-    "source": "NHKニュース",
-    "title": "ローマ教皇がプーチン大統領と電話会談 停戦を要請",
-    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1WRDFPN19VaEZQWjVWZDZkNFZEeXROckdSd3R1bC1tb1VjQ2FydmZMRkk3Z0JEb0RlZDBMZkxVZ09kN2RPeVFpSk5kMmlfSDVyR1NneFlITVpjR0JUYVgw?oc=5"
-   },
-   {
-    "source": "NHK",
-    "title": "ローマ教皇がプーチン大統領と電話会談 停戦を要請",
-    "url": "https://news.web.nhk/newsweb/na/nd-20261017de60909"
-   }
-  ]
- },
- {
   "at": "2026-10-17T18:15+09:00",
   "text": "A sentence has been passed for those young surfers. It restores nothing, but it matters. Requiescat in pace.",
   "expression": "憂い",
@@ -6195,6 +6175,21 @@
     "source": "NHK",
     "title": "“北朝鮮 キム総書記 きょう中国訪問”韓国複数メディア",
     "url": "https://news.web.nhk/newsweb/na/nd-20261024de64810"
+   }
+  ]
+ },
+ {
+  "at": "2026-10-24T20:15+09:00",
+  "text": "ガソリンの値札は、政治家の通信簿。遠い戦争の分まで背負わされては、気の毒でもある。",
+  "expression": "思案",
+  "scene": "regular",
+  "lang": "ja",
+  "topic": "中間選挙、トランプのガソリン価格対応「不支持」が73％ イラン戦争も逆風（ニューズウィーク日本版）",
+  "links": [
+   {
+    "source": "Yahoo!ニュース",
+    "title": "中間選挙、トランプのガソリン価格対応「不支持」が73％ イラン戦争も逆風（ニューズウィーク日本版）",
+    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5Gbzdia3RkcExCMnJ2aWZSejNkLUwyYno2N29TTy02MUxsS1hIcFJtdEFRd3FfS0lfclpMRERBbjY0YktzV3U1WktiRXlzX0licGY5dngzUXdScGxHdzBiby1BZTRYZFJXY0gwZzRkX3BOS09ZYjFwNW1zN3d5RzQ?oc=5"
    }
   ]
  }
