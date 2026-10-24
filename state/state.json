@@ -1,9 +1,9 @@
 {
  "mood": {
-  "valence": -0.064,
-  "arousal": -0.151
+  "valence": -0.023,
+  "arousal": -0.138
  },
- "since_sarcasm": 11,
+ "since_sarcasm": 0,
  "day": "2026-10-25",
  "morning_done": true,
  "goodnight_done": false,
@@ -83,7 +83,8 @@
   "bba8ce7b37df": "2026-10-24T22:15:19.665740+09:00",
   "a3193e17ddd9": "2026-10-25T06:15:18.360002+09:00",
   "b1c5486be9a7": "2026-10-25T06:30:27.667096+09:00",
-  "cff3a611a92a": "2026-10-25T07:00:38.856224+09:00"
+  "cff3a611a92a": "2026-10-25T07:00:38.856224+09:00",
+  "9fe5974e9367": "2026-10-25T07:15:17.397870+09:00"
  },
  "commented_titles": [
   {
@@ -241,12 +242,16 @@
   {
    "title": "【独自】外来カミキリ被害、拡大の恐れ 50年、本州・四国全域に（共同通信）",
    "at": "2026-10-25T07:00:38.856224+09:00"
+  },
+  {
+   "title": "Northern Olympics campaign to get £7m in Healey’s budget",
+   "at": "2026-10-25T07:15:17.397870+09:00"
   }
  ],
- "last_quake_check": "2026-10-25T07:00:38.856224+09:00",
- "since_english": 2,
+ "last_quake_check": "2026-10-25T07:15:17.397870+09:00",
+ "since_english": 1,
  "next_english": 3,
- "last_tick": "2026-10-25T07:00:38.856224+09:00",
+ "last_tick": "2026-10-25T07:15:17.397870+09:00",
  "french_day": "2026-10-25",
  "french_done": false,
  "french_after": 1055
