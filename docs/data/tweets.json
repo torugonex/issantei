@@ -1,20 +1,5 @@
 [
  {
-  "at": "2026-10-17T14:45+09:00",
-  "text": "A child is dead, and the fine is three thousand euros. One struggles to find the arithmetic. Repose en paix.",
-  "expression": "憂い",
-  "scene": "regular",
-  "lang": "en",
-  "topic": "British man fined €3,000 for causing two-year-old son’s death in Cyprus",
-  "links": [
-   {
-    "source": "Guardian",
-    "title": "British man fined €3,000 for causing two-year-old son’s death in Cyprus",
-    "url": "https://www.theguardian.com/world/2026/oct/16/british-man-joshua-foster-fined-son-death-cyprus"
-   }
-  ]
- },
- {
   "at": "2026-10-17T15:00+09:00",
   "text": "秋桜が風に揺れていた。足を止めると、こちらまで少し傾いてしまう。",
   "expression": "微笑",
@@ -6170,5 +6155,14 @@
     "url": "https://www.lemonde.fr/politique/article/2026/10/23/congres-du-rn-orleans-se-prepare-a-etre-l-epicentre-de-mobilisations-d-ampleur_6799146_823448.html"
    }
   ]
+ },
+ {
+  "at": "2026-10-24T17:15+09:00",
+  "text": "雨の夕暮れ。紅茶を淹れ直して、暮れかける庭を眺める。急ぐ用はない。",
+  "expression": "微笑",
+  "scene": "life",
+  "lang": "ja",
+  "topic": null,
+  "links": []
  }
 ]
