@@ -1,14 +1,5 @@
 [
  {
-  "at": "2026-10-17T15:30+09:00",
-  "text": "紅茶を淹れ、読みかけの本を開いた。三頁で眠くなる。これも贅沢のうち。",
-  "expression": "微笑",
-  "scene": "life",
-  "lang": "ja",
-  "topic": null,
-  "links": []
- },
- {
   "at": "2026-10-17T16:00+09:00",
   "text": "A councillor resigns once the camera catches him. Convictions do seem sturdiest under observation.",
   "expression": "片眉を上げる",
@@ -6162,6 +6153,26 @@
     "source": "London Evening Standard",
     "title": "Andy Burnham tells Donald Trump to give Ukraine full access to Starlink",
     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNWEZlb1BRYThRMFVBS3ZsVEpXaGRFWUlwaDBzR0JtTlM2RERpV3dZM0hNNHdCLTI2VVNOOVFVNDU4aTg0TXNUaXczTkZHU2ticGYxLWpJRzA0RG9mRlhfRnEtenlCZDdxa0oxYjNXN0JzcGJZMy1oYUo0a3RBWVBxSW1jcFAyYmNSS0ZvMGs3eEt5RFJUTnVyTE0xMk5DelZHeTVxd29FenhlOTlvbFZqbGZ3?oc=5"
+   }
+  ]
+ },
+ {
+  "at": "2026-10-24T18:00+09:00",
+  "text": "関税の網にも、選挙が近づくと穴があくらしい。理屈は後からついてくる。",
+  "expression": "思案",
+  "scene": "regular",
+  "lang": "ja",
+  "topic": "トランプ政権 対カナダ関税一部除外 接戦州の共和党候補が要請",
+  "links": [
+   {
+    "source": "NHKニュース",
+    "title": "トランプ政権 対カナダ関税一部除外 接戦州の共和党候補が要請",
+    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5UdUxfOGQzTmJPai1TV0FvUjhWZ0VLMi1Qalh3dHdtRUx6TkRCSUxpVGRuOF95RUdpdTNhbmdSY0FzY1oyempFRGczZTBDMklFWjh4NHVld1FWcDRmN0FB?oc=5"
+   },
+   {
+    "source": "NHK",
+    "title": "トランプ政権 対カナダ関税一部除外 接戦州の共和党候補が要請",
+    "url": "https://news.web.nhk/newsweb/na/nd-20261024de64703"
    }
   ]
  }
