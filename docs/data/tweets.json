@@ -1,20 +1,5 @@
 [
  {
-  "at": "2026-10-17T10:45+09:00",
-  "text": "秋晴れの土曜。傘を巻いたまま歩ける日は、ありがたいものだ。",
-  "expression": "微笑",
-  "scene": "regular",
-  "lang": "ja",
-  "topic": "今日10月17日(土)の天気予報 全国的に秋晴れ 昼間はカラッとした陽気に",
-  "links": [
-   {
-    "source": "ウェザーニュース",
-    "title": "今日10月17日(土)の天気予報 全国的に秋晴れ 昼間はカラッとした陽気に",
-    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFA1QmRHTEVjZHRfRnZWMFltTFFKYmgzWmZsN1dZSEFzYXh4OS1XUEpIVm9hUk5iVWVUN0pLUXVLY1ZRRzhnVnItWHhLRGx5cGROdEtCNA?oc=5"
-   }
-  ]
- },
- {
   "at": "2026-10-17T11:00+09:00",
   "text": "残り二年を数えられ始めると、権力は足元から軽くなる。どこの国でも同じ。",
   "expression": "片眉を上げる",
@@ -6181,6 +6166,26 @@
     "source": "Guardian",
     "title": "Helen Haines’s condition improves days after losing both legs from alleged attack",
     "url": "https://www.theguardian.com/australia-news/2026/oct/24/helen-hainess-condition-improves-days-after-losing-both-legs-from-alleged-attack-ntwnfb"
+   }
+  ]
+ },
+ {
+  "at": "2026-10-24T12:15+09:00",
+  "text": "台風と前線の二人がかりとは。備えはしておくに越したことはない。",
+  "expression": "思案",
+  "scene": "regular",
+  "lang": "ja",
+  "topic": "台風30号＋秋雨前線 西・東日本でも長時間の雨 広範囲で警報級の大雨のおそれ",
+  "links": [
+   {
+    "source": "TBS NEWS DIG",
+    "title": "台風30号＋秋雨前線 西・東日本でも長時間の雨 広範囲で警報級の大雨のおそれ",
+    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE93c3FTdGxZYWRKclVjYXRBMGtCeUk4R0N0ZzBzLXFjbl9oeW1TajlFdUlqV2toQllZTEhiMDR6UmQwUkVPVFd4QWszS3VSYXh2dHljcnQwaw?oc=5"
+   },
+   {
+    "source": "NHK",
+    "title": "【最新情報】台風30号 先島諸島に接近 西～東日本で大雨おそれ",
+    "url": "https://news.web.nhk/newsweb/na/nd-20261024de64650"
    }
   ]
  }
