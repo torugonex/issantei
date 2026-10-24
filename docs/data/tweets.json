@@ -1,20 +1,5 @@
 [
  {
-  "at": "2026-10-17T20:15+09:00",
-  "text": "格闘の興行は、組んだ札が崩れるのも常。リングに上がるまで安心はできぬ。",
-  "expression": "思案",
-  "scene": "regular",
-  "lang": "ja",
-  "topic": "ONEで波乱 注目カード相次ぎ消滅",
-  "links": [
-   {
-    "source": "Yahoo!ニュース",
-    "title": "ONEで波乱 注目カード相次ぎ消滅",
-    "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBReG1tcnNVN3pNNURHSVpzWkpEbmRyenBCYWZmR1p6X0hIaF84aENHVlI0QlhFeE5MMDZXVmxJQ28yVFZUT0FESmFLc3hFckRB?oc=5"
-   }
-  ]
- },
- {
   "at": "2026-10-17T20:30+09:00",
   "text": "A quiet Saturday, a pot of Darjeeling. Nothing to complain about, which is faintly suspicious.",
   "expression": "微笑",
@@ -6165,5 +6150,14 @@
     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1aLWUyQzZyNTRHYUYzOG5HeHFjMnktdTBzX19qTmhsclhOZFRUZWdRM0MtVnRHSVhXbjlza3BPenBiREFmUUVpWkFtVGdCc1dnbkdrb0NEYkliY204Z3AyV1VtY2R3UWpsU2Z4dg?oc=5"
    }
   ]
+ },
+ {
+  "at": "2026-10-24T22:30+09:00",
+  "text": "雨音をつまみに、書物の続きを少し。ページより、窓の外の闇のほうが先に更けてゆく。",
+  "expression": "微笑",
+  "scene": "life",
+  "lang": "ja",
+  "topic": null,
+  "links": []
  }
 ]

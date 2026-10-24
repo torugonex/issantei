@@ -1,9 +1,9 @@
 {
  "mood": {
-  "valence": -0.034,
-  "arousal": -0.238
+  "valence": -0.001,
+  "arousal": -0.278
  },
- "since_sarcasm": 4,
+ "since_sarcasm": 5,
  "day": "2026-10-24",
  "morning_done": true,
  "goodnight_done": false,
@@ -85,10 +85,6 @@
   "bba8ce7b37df": "2026-10-24T22:15:19.665740+09:00"
  },
  "commented_titles": [
-  {
-   "title": "核のごみ文献調査 茨城 常陸大宮市長「誘致ないと将来難しい」",
-   "at": "2026-10-23T22:15:20.350789+09:00"
-  },
   {
    "title": "Two Israeli soldiers killed in attack by suspected Palestinian gunmen in West Bank",
    "at": "2026-10-23T22:30:34.539080+09:00"
@@ -242,10 +238,10 @@
    "at": "2026-10-24T22:15:19.665740+09:00"
   }
  ],
- "last_quake_check": "2026-10-24T22:15:19.665740+09:00",
- "since_english": 2,
+ "last_quake_check": "2026-10-24T22:30:27.295528+09:00",
+ "since_english": 3,
  "next_english": 4,
- "last_tick": "2026-10-24T22:15:19.665740+09:00",
+ "last_tick": "2026-10-24T22:30:27.295528+09:00",
  "french_day": "2026-10-24",
  "french_done": true,
  "french_after": 1004
