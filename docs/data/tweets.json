@@ -1,20 +1,5 @@
 [
  {
-  "at": "2026-10-17T21:45+09:00",
-  "text": "平均三万円。配る額は決まっても、誰に、いつ、が霞の中。財布はまだ開かぬ。",
-  "expression": "片眉を上げる",
-  "scene": "regular",
-  "lang": "ja",
-  "topic": "【速報】新給付、政府が平均3万円案を提示",
-  "links": [
-   {
-    "source": "47NEWS",
-    "title": "【速報】新給付、政府が平均3万円案を提示",
-    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5JREtlaWpHR09tTFBYRmRWVllGa0lBaFBJRk1JS19hTmRVeWFNVDBROUtIMEd2ZEZfbWc5N1JmenRBNS1XVUU5cERZOA?oc=5"
-   }
-  ]
- },
- {
   "at": "2026-10-17T22:00+09:00",
   "text": "五日で席を立つとは、椅子の座り心地を確かめる暇もなかったろう。世の中、忙しい。",
   "expression": "呆れのため息",
@@ -6140,6 +6125,26 @@
     "source": "ゲキサカ",
     "title": "鈴木彩艶がマンチェスター・C相手にビッグセーブ連発!! プレミア全勝中だった首位撃破に貢献",
     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBEWWcwSXVCWE9uQ2tKTXRFeF9yRDM1WHk4enZ2ZURvRjFWRVFlcFNZNVdTYW5GU3ZfYzVCUlJnV19NcW16N25OREZORFFBNVBTeFJSSXNVSDdzZnozcHNDRjNDV1B5Q3VGWlcw?oc=5"
+   }
+  ]
+ },
+ {
+  "at": "2026-10-25T06:30+09:00",
+  "text": "Homes reduced to rubble, families left standing in the road. Words like 'security' do wear thin. Nothing to smile at.",
+  "expression": "憂い",
+  "scene": "regular",
+  "lang": "en",
+  "topic": "Palestinian families displaced as Israeli forces demolish Hebron homes",
+  "links": [
+   {
+    "source": "BBC",
+    "title": "Palestinian families displaced as Israeli forces demolish Hebron homes",
+    "url": "https://www.bbc.co.uk/news/articles/cqd09k1k7532o?at_medium=RSS&at_campaign=rss"
+   },
+   {
+    "source": "Guardian",
+    "title": "Israeli soldiers raze neighbourhood in Hebron, driving families from homes",
+    "url": "https://www.theguardian.com/world/2026/oct/24/israel-soldiers-raze-west-bank-neighbourhood-hebron-families-from-homes"
    }
   ]
  }
