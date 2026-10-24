@@ -1,16 +1,14 @@
 {
  "mood": {
-  "valence": -0.211,
-  "arousal": -0.083
+  "valence": -0.083,
+  "arousal": -0.162
  },
- "since_sarcasm": 0,
+ "since_sarcasm": 1,
  "day": "2026-10-24",
  "morning_done": true,
  "goodnight_done": false,
  "sleeptalk_night": "2026-10-23",
  "commented": {
-  "569302e08503": "2026-10-22T20:30:37.600090+09:00",
-  "e90e1c7ae21d": "2026-10-22T21:15:19.943623+09:00",
   "8b662d56307a": "2026-10-22T21:30:31.838488+09:00",
   "38b9e5fd97a4": "2026-10-22T21:45:24.854766+09:00",
   "e37e45c990e9": "2026-10-22T22:00:44.530439+09:00",
@@ -89,18 +87,6 @@
   "f5119ffe0603": "2026-10-24T20:30:26.401308+09:00"
  },
  "commented_titles": [
-  {
-   "title": "滋賀銀行・池田泉州HD、経営統合へ 「関西最大地銀」都市部で広域連合",
-   "at": "2026-10-23T20:30:31.526142+09:00"
-  },
-  {
-   "title": "Detective raped by fellow officer David Carrick calls on Met chief to resign",
-   "at": "2026-10-23T20:45:19.500249+09:00"
-  },
-  {
-   "title": "【速報】3メガバンク、免許証の本人確認廃止",
-   "at": "2026-10-23T21:15:21.277483+09:00"
-  },
   {
    "title": "Gasps as Prince William makes surprise appearance on Graham Norton Show",
    "at": "2026-10-23T21:30:31.160460+09:00"
@@ -262,10 +248,10 @@
    "at": "2026-10-24T20:30:26.401308+09:00"
   }
  ],
- "last_quake_check": "2026-10-24T21:15:17.985599+09:00",
- "since_english": 2,
+ "last_quake_check": "2026-10-24T21:30:27.889551+09:00",
+ "since_english": 3,
  "next_english": 5,
- "last_tick": "2026-10-24T21:15:17.985599+09:00",
+ "last_tick": "2026-10-24T21:30:27.889551+09:00",
  "french_day": "2026-10-24",
  "french_done": true,
  "french_after": 1004

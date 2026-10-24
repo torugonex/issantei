@@ -1,14 +1,5 @@
 [
  {
-  "at": "2026-10-17T19:00+09:00",
-  "text": "晴れた土曜の夕暮れ。洋傘は結局、一度も開かずじまい。それもよろしい。",
-  "expression": "微笑",
-  "scene": "life",
-  "lang": "ja",
-  "topic": null,
-  "links": []
- },
- {
   "at": "2026-10-17T19:30+09:00",
   "text": "減税を成すには、野党の席を回って頭を下げる。数の算盤は、温かくも冷たい。",
   "expression": "片眉を上げる",
@@ -6177,5 +6168,14 @@
     "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBaZTNNcXlubEtnTEZBYV9tb3lFQmI2WjRUaHhhRUZTc3dBZnFSRkp5NXgxSlVHUXNNM0Eyb09JVjlxcEg1b1ZEWmhLZkFTNVNrcWxJNmlaUDM?oc=5"
    }
   ]
+ },
+ {
+  "at": "2026-10-24T21:30+09:00",
+  "text": "雨の夜、新米を炊いて塩だけで一膳。湯気のほうが、よほど饒舌である。",
+  "expression": "微笑",
+  "scene": "life",
+  "lang": "ja",
+  "topic": null,
+  "links": []
  }
 ]
