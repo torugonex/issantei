@@ -1,20 +1,5 @@
 [
  {
-  "at": "2026-10-17T21:00+09:00",
-  "text": "切符を買っただけなのに、カードの番号まで旅に出たそうな。便利の裏口は鍵が甘い。",
-  "expression": "呆れのため息",
-  "scene": "regular",
-  "lang": "ja",
-  "topic": "スカイチケット運営会社 クレカ情報も最大6000人余流出",
-  "links": [
-   {
-    "source": "NHK",
-    "title": "スカイチケット運営会社 クレカ情報も最大6000人余流出",
-    "url": "https://news.web.nhk/newsweb/na/nd-20261017de60862"
-   }
-  ]
- },
- {
   "at": "2026-10-17T21:15+09:00",
   "text": "Charges dismissed, the judge says. The law, at least, still asks for proof before it hands out a verdict.",
   "expression": "思案",
@@ -6157,6 +6142,15 @@
   "expression": "微笑",
   "scene": "goodnight",
   "lang": "en",
+  "topic": null,
+  "links": []
+ },
+ {
+  "at": "2026-10-25T04:30+09:00",
+  "text": "……鍵は、閉めた……はず……板が、湯気に……",
+  "expression": "寝顔",
+  "scene": "sleeptalk",
+  "lang": "ja",
   "topic": null,
   "links": []
  }
