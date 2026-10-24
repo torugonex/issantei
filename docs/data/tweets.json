@@ -1,14 +1,5 @@
 [
  {
-  "at": "2026-10-17T17:45+09:00",
-  "text": "Crickets tuning up in the hedge at dusk. Quite the best orchestra, and no interval.",
-  "expression": "微笑",
-  "scene": "life",
-  "lang": "en",
-  "topic": null,
-  "links": []
- },
- {
   "at": "2026-10-17T18:00+09:00",
   "text": "教皇が受話器を取った。祈りの人にできるのは、まず声をかけることか。",
   "expression": "思案",
@@ -6186,5 +6177,25 @@
   "lang": "ja",
   "topic": null,
   "links": []
+ },
+ {
+  "at": "2026-10-24T20:00+09:00",
+  "text": "橋は渡るためにある。だが渡る人によって、重さがまるで違ってくる。",
+  "expression": "思案",
+  "scene": "regular",
+  "lang": "ja",
+  "topic": "北朝鮮の金正恩氏が中国訪問 韓国メディアが報道 中朝新鴨緑江大橋通り丹東に到着",
+  "links": [
+   {
+    "source": "産経ニュース",
+    "title": "北朝鮮の金正恩氏が中国訪問 韓国メディアが報道 中朝新鴨緑江大橋通り丹東に到着",
+    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1WcTBNYThuYlpTVU13WU42cUZZZnFPMWJVeC0weS1PRHJudjlOMXh5eW0tWEN3dGtlUEV0V3h2UUtsZVJ5cWlUOGRqVG8xRzJvaGJsdFFVVlliVXYtNFBpNzZpRmFMTDhMbm1JT2M2QWNGX1RZR3c?oc=5"
+   },
+   {
+    "source": "NHK",
+    "title": "“北朝鮮 キム総書記 きょう中国訪問”韓国複数メディア",
+    "url": "https://news.web.nhk/newsweb/na/nd-20261024de64810"
+   }
+  ]
  }
 ]
