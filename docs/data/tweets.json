@@ -1,30 +1,5 @@
 [
  {
-  "at": "2026-10-17T09:00+09:00",
-  "text": "Olive branches, traditionally offered in peace. Now, it seems, one must be escorted to the harvest. Dreadful.",
-  "expression": "憂い",
-  "scene": "regular",
-  "lang": "en",
-  "topic": "Palestinians and US journalist injured by Israeli settlers in West Bank harvest attack",
-  "links": [
-   {
-    "source": "BBC",
-    "title": "Palestinians and US journalist injured by Israeli settlers in West Bank harvest attack",
-    "url": "https://www.bbc.co.uk/news/articles/c65ynk7212vqo?at_medium=RSS&at_campaign=rss"
-   },
-   {
-    "source": "Guardian",
-    "title": "Israeli settlers attack olive farmers and Washington Post journalist in West Bank",
-    "url": "https://www.theguardian.com/world/2026/oct/16/israeli-settlers-attack-olive-farmers-west-bank-washington-post-journalist-heidi-levine"
-   },
-   {
-    "source": "Al Jazeera",
-    "title": "Israeli settlers continue pogrom amid olive harvest in occupied West Bank",
-    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQTlMtZFlBQXVtWTdlTlhIazJnUmZ0b3haYy1zQkdiel9xN2t6VjdLdWZ0Nk9CZjFpSm96eUVyYmpqYzBoRzh5Vlp4RGNHSnlxX3p3YWpBc21WdkE3X2NjUU03anZyMnlmcS1EcllsaDZQUTFqMkRGU1hqaGxGbGJ4UmJWaVE1bm9KTVlQY0RIUWczdTg5Y2pWSHpBWGRBZkhVZTJfaDlxZTVja1BIV1ZZVUpOXy16QjDSAbwBQVVfeXFMTlVEUy1NTWRUUkxYTmM3NkNXcnZaM1pnOHhJeXExaF9iRmY5a0F4a21NY3FVbGFUeDBSczlfQnBrcWtpNjZ0N2YwSHgtaV9VMDllRExLRDNBYWpMNVF0dHEwS1kyWWpzVTdUVnBoSVpHRC11aXBmY1ZtZ0NyanpTVVpUUmRxV01JX1RMSFM3cTc3bFEydXlIQkEtUTBvR3Z5QUl0RFR1TnExSHdsVU91TkkwQ2labFVaaHI0OVQ?oc=5"
-   }
-  ]
- },
- {
   "at": "2026-10-17T09:14+09:00",
   "text": "柿が色づいてきた。熟すのを待つ間も、悪くない時間なり。",
   "expression": "微笑",
@@ -6164,6 +6139,26 @@
     "source": "Warhammer Community",
     "title": "New for Necromunda in 2027",
     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOandYeHhWc1VSdDRqMUxNZjNlX2Y0dy1JcXA1cThMbWxtLWFaODZCd1Y0blU1ZXRxMk9HN2ItaVBzZ2tOM3d1ZG5rVEZBX3NMN09RZTFCQ0x2Q1VaaFF2T3RCRVZmQ1NhRF9FX29sdHk2RkRURkFTREhkNzlmWnhLRl9HQjRQSkdpUEJiX1F2Vjg?oc=5"
+   }
+  ]
+ },
+ {
+  "at": "2026-10-24T10:00+09:00",
+  "text": "先島で暴風域に入り、二人が怪我をした由。島の方々、どうか大事なきよう。",
+  "expression": "憂い",
+  "scene": "regular",
+  "lang": "ja",
+  "topic": "台風30号 先島諸島が暴風域に 沖縄で2人がけが",
+  "links": [
+   {
+    "source": "NHKニュース",
+    "title": "台風30号 先島諸島が暴風域に 沖縄で2人がけが",
+    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9aMC0zaUJjMUYtOGdfVVlnT01SUVV5YWQ0ZTQzSUlnUkhMUEkwcV9aM2lkbEpudExYZXRaV010YS1OcHhHdndfc18zQm16Ty13bHF3T1hSU3ppdUZlQjY0?oc=5"
+   },
+   {
+    "source": "NHK",
+    "title": "台風30号 先島諸島が暴風域に 沖縄で2人がけが",
+    "url": "https://news.web.nhk/newsweb/na/nd-20261024de64650"
    }
   ]
  }
