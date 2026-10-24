@@ -1,14 +1,5 @@
 [
  {
-  "at": "2026-10-17T22:30+09:00",
-  "text": "夜更けの書斎で、読みかけの頁を閉じた。続きは明日でよろしい。",
-  "expression": "微笑",
-  "scene": "life",
-  "lang": "ja",
-  "topic": null,
-  "links": []
- },
- {
   "at": "2026-10-17T22:45+09:00",
   "text": "今日も無事に暮れた。灯りを落として、傘は玄関に立てかけておく。おやすみ。",
   "expression": "微笑",
@@ -6145,6 +6136,26 @@
     "source": "Guardian",
     "title": "Northern Olympics campaign to get £7m in Healey’s budget",
     "url": "https://www.theguardian.com/sport/2026/oct/24/northern-olympics-campaign-funds-john-healey-budget"
+   }
+  ]
+ },
+ {
+  "at": "2026-10-25T07:30+09:00",
+  "text": "放した熊がまた現れた。山も人も、境の線引きが下手なものだ。",
+  "expression": "思案",
+  "scene": "regular",
+  "lang": "ja",
+  "topic": "神奈川 秦野の弘法山公園近くでクマ再出没 放獣個体と判明",
+  "links": [
+   {
+    "source": "NHKニュース",
+    "title": "神奈川 秦野の弘法山公園近くでクマ再出没 放獣個体と判明",
+    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE01YU5sVjhPQkJXLXpDNXVuY0R3SU0yWHExZWVyR1VWd0FFdGNzdjdtN2txRWRUaEhPSXVUeG1PY0FHdjhJMmpSNnlqZnYzSDFaaE0wa19JcTR1aEIzSTNR?oc=5"
+   },
+   {
+    "source": "NHK",
+    "title": "神奈川 秦野の弘法山公園近くでクマ再出没 放獣個体と判明",
+    "url": "https://news.web.nhk/newsweb/na/nd-20261024de64937"
    }
   ]
  }
