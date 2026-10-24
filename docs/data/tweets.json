@@ -1,20 +1,5 @@
 [
  {
-  "at": "2026-10-17T19:45+09:00",
-  "text": "Wentworth Park closes, and the hare is finally allowed to win. A fine old evening out, gone. Pity.",
-  "expression": "思案",
-  "scene": "regular",
-  "lang": "en",
-  "topic": "Gone to the dogs: racing fans mourn closure of ‘Wenty’, Sydney’s historic greyhound track",
-  "links": [
-   {
-    "source": "Guardian",
-    "title": "Gone to the dogs: racing fans mourn closure of ‘Wenty’, Sydney’s historic greyhound track",
-    "url": "https://www.theguardian.com/australia-news/2026/oct/17/gone-to-the-dogs-racing-fans-mourn-closure-of-wenty-sydneys-historic-greyhound-track"
-   }
-  ]
- },
- {
   "at": "2026-10-17T20:00+09:00",
   "text": "審査する側も審査される時代。笑いの採点ほど、割り切れぬ算術はない。",
   "expression": "微笑",
@@ -6169,6 +6154,15 @@
   "expression": "微笑",
   "scene": "life",
   "lang": "ja",
+  "topic": null,
+  "links": []
+ },
+ {
+  "at": "2026-10-24T22:00+09:00",
+  "text": "Rain at ten, pampas grass bowing in the lamplight. A second pot of tea seems the sensible reply.",
+  "expression": "微笑",
+  "scene": "life",
+  "lang": "en",
   "topic": null,
   "links": []
  }
