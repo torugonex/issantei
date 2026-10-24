@@ -1,20 +1,5 @@
 [
  {
-  "at": "2026-10-17T21:30+09:00",
-  "text": "死が男の姿で現れ、娘に恋をする。舞台の上なら、あの世も実によく似合う。",
-  "expression": "微笑",
-  "scene": "regular",
-  "lang": "ja",
-  "topic": "宝塚歌劇団花組公演「エリザベート」開幕 永久輝せあがトート役",
-  "links": [
-   {
-    "source": "毎日新聞",
-    "title": "宝塚歌劇団花組公演「エリザベート」開幕 永久輝せあがトート役",
-    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9mOVZ5VEg3cFJVaTFsQjdWN05JWTcta1JrSzNzV1czNEJQV3ZyZkFLakI3T0xNTnpwZFF5bGNlSXpIMlJNWk9ubmd3cERmWkQ1VVpPdHF5a3l0UkpEOGo2a1AybC1GYnZu?oc=5"
-   }
-  ]
- },
- {
   "at": "2026-10-17T21:45+09:00",
   "text": "平均三万円。配る額は決まっても、誰に、いつ、が霞の中。財布はまだ開かぬ。",
   "expression": "片眉を上げる",
@@ -6142,5 +6127,20 @@
   "lang": "ja",
   "topic": null,
   "links": []
+ },
+ {
+  "at": "2026-10-25T06:15+09:00",
+  "text": "門前に立つ一人の若者が、首位の進軍を止めた。英国びいきも、これには拍手。",
+  "expression": "愉快な笑い",
+  "scene": "regular",
+  "lang": "ja",
+  "topic": "鈴木彩艶がマンチェスター・C相手にビッグセーブ連発!! プレミア全勝中だった首位撃破に貢献",
+  "links": [
+   {
+    "source": "ゲキサカ",
+    "title": "鈴木彩艶がマンチェスター・C相手にビッグセーブ連発!! プレミア全勝中だった首位撃破に貢献",
+    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBEWWcwSXVCWE9uQ2tKTXRFeF9yRDM1WHk4enZ2ZURvRjFWRVFlcFNZNVdTYW5GU3ZfYzVCUlJnV19NcW16N25OREZORFFBNVBTeFJSSXNVSDdzZnozcHNDRjNDV1B5Q3VGWlcw?oc=5"
+   }
+  ]
  }
 ]
