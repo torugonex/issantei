@@ -1,15 +1,14 @@
 {
  "mood": {
-  "valence": -0.001,
-  "arousal": -0.278
+  "valence": 0.024,
+  "arousal": -0.308
  },
- "since_sarcasm": 5,
+ "since_sarcasm": 6,
  "day": "2026-10-24",
  "morning_done": true,
- "goodnight_done": false,
+ "goodnight_done": true,
  "sleeptalk_night": "2026-10-23",
  "commented": {
-  "1d393b5510b9": "2026-10-22T22:30:33.892508+09:00",
   "f722a3f1b5eb": "2026-10-23T06:15:20.958069+09:00",
   "b1497b777d1d": "2026-10-23T08:15:20.121922+09:00",
   "6496fbb2a6a6": "2026-10-23T08:30:29.933498+09:00",
@@ -85,10 +84,6 @@
   "bba8ce7b37df": "2026-10-24T22:15:19.665740+09:00"
  },
  "commented_titles": [
-  {
-   "title": "Two Israeli soldiers killed in attack by suspected Palestinian gunmen in West Bank",
-   "at": "2026-10-23T22:30:34.539080+09:00"
-  },
   {
    "title": "改正皇室典範きょう施行、「旧宮家の男系男子を皇族の養子に」「結婚した女性皇族の身分保持」可能に…３０年ごと見直し",
    "at": "2026-10-24T06:30:28.564915+09:00"
@@ -239,9 +234,9 @@
   }
  ],
  "last_quake_check": "2026-10-24T22:30:27.295528+09:00",
- "since_english": 3,
+ "since_english": 1,
  "next_english": 4,
- "last_tick": "2026-10-24T22:30:27.295528+09:00",
+ "last_tick": "2026-10-24T22:45:18.404524+09:00",
  "french_day": "2026-10-24",
  "french_done": true,
  "french_after": 1004

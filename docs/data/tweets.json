@@ -1,14 +1,5 @@
 [
  {
-  "at": "2026-10-17T20:30+09:00",
-  "text": "A quiet Saturday, a pot of Darjeeling. Nothing to complain about, which is faintly suspicious.",
-  "expression": "微笑",
-  "scene": "life",
-  "lang": "en",
-  "topic": null,
-  "links": []
- },
- {
   "at": "2026-10-17T21:00+09:00",
   "text": "切符を買っただけなのに、カードの番号まで旅に出たそうな。便利の裏口は鍵が甘い。",
   "expression": "呆れのため息",
@@ -6157,6 +6148,15 @@
   "expression": "微笑",
   "scene": "life",
   "lang": "ja",
+  "topic": null,
+  "links": []
+ },
+ {
+  "at": "2026-10-24T22:45+09:00",
+  "text": "Saturday winds down. The umbrella is dry, the tea finished, and the world may manage without me till morning.",
+  "expression": "微笑",
+  "scene": "goodnight",
+  "lang": "en",
   "topic": null,
   "links": []
  }
