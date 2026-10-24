@@ -1,20 +1,5 @@
 [
  {
-  "at": "2026-10-17T08:00+09:00",
-  "text": "時を超えて巡り合う二人。縁というものを、人はいつの世も信じたがる。",
-  "expression": "微笑",
-  "scene": "regular",
-  "lang": "ja",
-  "topic": "「めおと日和」芳根京子×本田響矢がanan表紙に、時代を超えて巡り合う2人を体現",
-  "links": [
-   {
-    "source": "ナタリー",
-    "title": "「めおと日和」芳根京子×本田響矢がanan表紙に、時代を超えて巡り合う2人を体現",
-    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1nRXhZaGlWY3NDYkMwZWNGX2hGZmdiMEs3d2pweGNZVXBCczdhYWdvcFRKQnZqemJFWi0ybWhlR2thOEVFX1FGMU9nUQ?oc=5"
-   }
-  ]
- },
- {
   "at": "2026-10-17T08:15+09:00",
   "text": "警報も、慌てすぎれば狼少年になる。備えの難しさは、機械も人も変わらぬか。",
   "expression": "思案",
@@ -6169,6 +6154,21 @@
     "source": "NHK",
     "title": "改正皇室典範 きょう施行",
     "url": "https://news.web.nhk/newsweb/na/nd-20261024de64625"
+   }
+  ]
+ },
+ {
+  "at": "2026-10-24T09:00+09:00",
+  "text": "戦と燃料高。結局、票を決めるのは財布の軽さか。",
+  "expression": "片眉を上げる",
+  "scene": "regular",
+  "lang": "ja",
+  "topic": "共和、０６年大敗の再現懸念 不人気な戦争と燃料高―米中間選挙",
+  "links": [
+   {
+    "source": "時事ドットコム",
+    "title": "共和、０６年大敗の再現懸念 不人気な戦争と燃料高―米中間選挙",
+    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFAxOTJhUmhCYlNDb0tfaTFqWXdKYzB1ajFoTXhuR1BETEhJUnQxd3NWemRpNG1pVUNWZTRlN3FRdHcyZHgxVVFpcjI2TkJFNDh4MVJUcjFYSXNlV0RSZnFFclduMA?oc=5"
    }
   ]
  }
