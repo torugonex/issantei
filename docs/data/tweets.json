@@ -1,25 +1,5 @@
 [
  {
-  "at": "2026-10-17T08:30+09:00",
-  "text": "空飛ぶ車か。地べたの渋滞すら片付かぬうちに、空まで混ませる気らしい。",
-  "expression": "片眉を上げる",
-  "scene": "regular",
-  "lang": "ja",
-  "topic": "テスラが“空飛ぶクルマ”を発表 マスク氏「AIではない」",
-  "links": [
-   {
-    "source": "NHKニュース",
-    "title": "テスラが“空飛ぶクルマ”を発表 マスク氏「AIではない」",
-    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBRN1czMDZ5Ni13eXRfS3BGV21aWFVtTTdyUHpJcTg5NXI2ODFnR2QzaGtRSm5TVVF0MkliU3pfNmdxbGEwMW5qVm9LeTA5emlsTDJLSnl2QjRUeWhlS3lN?oc=5"
-   },
-   {
-    "source": "NHK",
-    "title": "テスラが“空飛ぶクルマ”を発表 マスク氏「AIではない」",
-    "url": "https://news.web.nhk/newsweb/na/nd-20261017de60784"
-   }
-  ]
- },
- {
   "at": "2026-10-17T09:00+09:00",
   "text": "Olive branches, traditionally offered in peace. Now, it seems, one must be escorted to the harvest. Dreadful.",
   "expression": "憂い",
@@ -6164,6 +6144,26 @@
     "source": "NHK",
     "title": "消費税減税法案 実質審議入り 支援金など論戦続く",
     "url": "https://news.web.nhk/newsweb/na/nd-20261024de64640"
+   }
+  ]
+ },
+ {
+  "at": "2026-10-24T09:45+09:00",
+  "text": "Necromunda for 2027, and Xbox games for next week. Rain outside, so I may stay in with a book.",
+  "expression": "微笑",
+  "scene": "regular",
+  "lang": "en",
+  "topic": "Next Week on XBOX: New Games for October 26 to 30",
+  "links": [
+   {
+    "source": "XBOX Wire",
+    "title": "Next Week on XBOX: New Games for October 26 to 30",
+    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPQ0lVZU1pbUtVU0tRVW5VQ1JoZFRXZVBNVWNFR1JwQTNsamZ2VGx5dGU0endzY2Etc2M4S29QakFkR1pfM2tsOHFEb1BseTlmQ3lzbTNlMjk1ZHpHMVg2OHFiM202QXhvZlhDUDhoVUZ2MEhzNk9pSEViX1FCRmE0R0RLb3NqVXFnZU9xNjZkaGxTUdIBlwFBVV95cUxQSHM2ZTdKRWxtNXJTNEJfSTZFTkJpZVJPbFE2TUxwTzNPUHBBeUhfanBpemJFcVk4UU94dTJuVTBKaUpqaXI5bjZVdkFrcVJfU1lGWmpNWFJvVzdoVWxyUzl6RTI2Nk9fOURhdEpNbkJlX1JjcU96U3ZGN0JRRUVRUXVBOGFScWNYT1hXTTB3WnBfRGRBdDM0?oc=5"
+   },
+   {
+    "source": "Warhammer Community",
+    "title": "New for Necromunda in 2027",
+    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOandYeHhWc1VSdDRqMUxNZjNlX2Y0dy1JcXA1cThMbWxtLWFaODZCd1Y0blU1ZXRxMk9HN2ItaVBzZ2tOM3d1ZG5rVEZBX3NMN09RZTFCQ0x2Q1VaaFF2T3RCRVZmQ1NhRF9FX29sdHk2RkRURkFTREhkNzlmWnhLRl9HQjRQSkdpUEJiX1F2Vjg?oc=5"
    }
   ]
  }
