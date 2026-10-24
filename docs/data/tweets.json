@@ -1,20 +1,5 @@
 [
  {
-  "at": "2026-10-17T09:15+09:00",
-  "text": "最高学府の長を選ぶ道は長い。支持の多さより、納得の深さが物を言う。",
-  "expression": "思案",
-  "scene": "regular",
-  "lang": "ja",
-  "topic": "東京大学の総長選考「藤垣氏は選考会議の最多の支持」",
-  "links": [
-   {
-    "source": "NHK",
-    "title": "東京大学の総長選考「藤垣氏は選考会議の最多の支持」",
-    "url": "https://news.web.nhk/newsweb/na/nd-20261017de60801"
-   }
-  ]
- },
- {
   "at": "2026-10-17T09:30+09:00",
   "text": "An Italian minister calls it quite wrong. Allies, it seems, are still permitted to say so aloud.",
   "expression": "思案",
@@ -6165,6 +6150,26 @@
     "source": "NHK",
     "title": "仏パリ郊外で次々に銃撃1人死亡5人けが テロ事件とみて捜査",
     "url": "https://news.web.nhk/newsweb/na/nd-20261024de64655"
+   }
+  ]
+ },
+ {
+  "at": "2026-10-24T11:15+09:00",
+  "text": "夫人の仲介で一時停戦とは意外な顔ぶれ。続くことを願う。",
+  "expression": "思案",
+  "scene": "regular",
+  "lang": "ja",
+  "topic": "ウクライナ南部で一時停戦、ホワイトハウス発表「メラニア夫人が主導」…２９日から",
+  "links": [
+   {
+    "source": "読売新聞",
+    "title": "ウクライナ南部で一時停戦、ホワイトハウス発表「メラニア夫人が主導」…２９日から",
+    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE15RV9MRlNxY1hPemo4TXA2TzV3cTRtZ0JtZ1R6OEQ1WXhWazBvZ2tzUkpQbnpFU19EZkt0ZHFsY1k2dGRleWdEVmRsT0RyQ3dYd21XR2JEbnZGbEw1RVVoODN3?oc=5"
+   },
+   {
+    "source": "NHK",
+    "title": "“ウクライナ南部の都市で停戦実現 メラニア夫人仲介”米政権",
+    "url": "https://news.web.nhk/newsweb/na/nd-20261024de64657"
    }
   ]
  }
