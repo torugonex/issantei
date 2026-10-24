@@ -1,9 +1,9 @@
 {
  "mood": {
-  "valence": -0.411,
-  "arousal": -0.243
+  "valence": -0.258,
+  "arousal": -0.257
  },
- "since_sarcasm": 2,
+ "since_sarcasm": 3,
  "day": "2026-10-24",
  "morning_done": true,
  "goodnight_done": false,
@@ -88,10 +88,6 @@
   "c4d6c15a9091": "2026-10-24T18:30:26.484231+09:00"
  },
  "commented_titles": [
-  {
-   "title": "奈良公園周辺 子ジカ死骸4体見つかる 危害加えられた疑いも",
-   "at": "2026-10-23T18:30:32.120705+09:00"
-  },
   {
    "title": "Retail sales in Great Britain fall as struggling households cut back",
    "at": "2026-10-23T19:45:20.415124+09:00"
@@ -249,10 +245,10 @@
    "at": "2026-10-24T18:30:26.484231+09:00"
   }
  ],
- "last_quake_check": "2026-10-24T18:30:26.484231+09:00",
- "since_english": 1,
+ "last_quake_check": "2026-10-24T18:45:18.538952+09:00",
+ "since_english": 2,
  "next_english": 5,
- "last_tick": "2026-10-24T18:30:26.484231+09:00",
+ "last_tick": "2026-10-24T18:45:18.538952+09:00",
  "french_day": "2026-10-24",
  "french_done": true,
  "french_after": 1004

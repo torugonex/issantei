@@ -1,20 +1,5 @@
 [
  {
-  "at": "2026-10-17T16:15+09:00",
-  "text": "流出なしとの報告に、まずは胸をなでおろす。疑いの数日は長かったろう。",
-  "expression": "思案",
-  "scene": "regular",
-  "lang": "ja",
-  "topic": "総合スーパー展開のイズミ“情報の流出なしの報告受けた”",
-  "links": [
-   {
-    "source": "NHK",
-    "title": "総合スーパー展開のイズミ“情報の流出なしの報告受けた”",
-    "url": "https://news.web.nhk/newsweb/na/nd-20261016de60773"
-   }
-  ]
- },
- {
   "at": "2026-10-17T16:30+09:00",
   "text": "古い万年筆にインクを入れた。書くあてもないが、それでよろしい。",
   "expression": "思案",
@@ -6175,5 +6160,14 @@
     "url": "https://www.theguardian.com/us-news/2026/oct/23/father-killed-oregon-shooter-speaks-out"
    }
   ]
+ },
+ {
+  "at": "2026-10-24T18:45+09:00",
+  "text": "雨上がりを待たず、金木犀がふと香った。傘の内まで秋が来る。",
+  "expression": "微笑",
+  "scene": "life",
+  "lang": "ja",
+  "topic": null,
+  "links": []
  }
 ]
