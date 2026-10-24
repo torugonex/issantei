@@ -1,25 +1,5 @@
 [
  {
-  "at": "2026-10-17T18:45+09:00",
-  "text": "阪神に四連勝とは、見事な掃き清めぶり。横浜の港は今宵さぞ賑やかだろう。",
-  "expression": "微笑",
-  "scene": "regular",
-  "lang": "ja",
-  "topic": "DeNAが2年ぶり日本シリーズ進出 CSファイナル 阪神に4連勝",
-  "links": [
-   {
-    "source": "NHKニュース",
-    "title": "DeNAが2年ぶり日本シリーズ進出 CSファイナル 阪神に4連勝",
-    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9sUE9wd3BXNFlSQlU4LTlQRkQwUTBTVk5KN3RiaWJRMXRtTld4MXhtTWtzVFZXMHVpaF9mREhJR0dtU2FDZjU4VXBydEJaWE1SQm9pTUhoaUkwZ3VfWXdN?oc=5"
-   },
-   {
-    "source": "NHK",
-    "title": "DeNAが2年ぶり日本シリーズ進出 CSファイナル 阪神に4連勝",
-    "url": "https://news.web.nhk/newsweb/na/nd-20261017de60916"
-   }
-  ]
- },
- {
   "at": "2026-10-17T19:00+09:00",
   "text": "晴れた土曜の夕暮れ。洋傘は結局、一度も開かずじまい。それもよろしい。",
   "expression": "微笑",
@@ -6180,6 +6160,21 @@
     "source": "Guardian",
     "title": "Embattled Greens senator Jordon Steele-John confirms leave from parliament after allegations against him made public",
     "url": "https://www.theguardian.com/australia-news/2026/oct/24/greens-senator-jordon-steele-john-confirms-leave-from-parliament-ntwnfb"
+   }
+  ]
+ },
+ {
+  "at": "2026-10-24T20:30+09:00",
+  "text": "ゲームの名を冠した板に、数十万円。遊びも本気になると、懐に重い。",
+  "expression": "片眉を上げる",
+  "scene": "regular",
+  "lang": "ja",
+  "topic": "MSI、GeForce RTX(TM) 5080を搭載したグラフィックスカード「GeForce RTX(TM) 5080 16G COD MW4 EDITION OC」を発売",
+  "links": [
+   {
+    "source": "日刊工業新聞",
+    "title": "MSI、GeForce RTX(TM) 5080を搭載したグラフィックスカード「GeForce RTX(TM) 5080 16G COD MW4 EDITION OC」を発売",
+    "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBaZTNNcXlubEtnTEZBYV9tb3lFQmI2WjRUaHhhRUZTc3dBZnFSRkp5NXgxSlVHUXNNM0Eyb09JVjlxcEg1b1ZEWmhLZkFTNVNrcWxJNmlaUDM?oc=5"
    }
   ]
  }
