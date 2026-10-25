@@ -1,9 +1,9 @@
 {
  "mood": {
-  "valence": 0.102,
-  "arousal": 0.001
+  "valence": 0.076,
+  "arousal": -0.049
  },
- "since_sarcasm": 4,
+ "since_sarcasm": 5,
  "day": "2026-10-25",
  "morning_done": true,
  "goodnight_done": false,
@@ -85,13 +85,10 @@
   "6a7eb92ee405": "2026-10-25T10:45:17.090846+09:00",
   "5f57b8dd33d5": "2026-10-25T11:00:36.861689+09:00",
   "quake-202610251110": "2026-10-25T11:15:18.282409+09:00",
-  "cf8fe2128b4b": "2026-10-25T11:30:26.388045+09:00"
+  "cf8fe2128b4b": "2026-10-25T11:30:26.388045+09:00",
+  "ba57a2c7943e": "2026-10-25T11:45:18.348341+09:00"
  },
  "commented_titles": [
-  {
-   "title": "Seven shot dead by gunmen at church funeral in Jordan, officials say",
-   "at": "2026-10-24T11:30:28.605277+09:00"
-  },
   {
    "title": "的川博士の銀河教室 912 世界初のフォボス・サンプルリターンへ／上",
    "at": "2026-10-24T11:45:21.062076+09:00"
@@ -235,12 +232,16 @@
   {
    "title": "Andy Burnham says he wants ‘honest discussion’ about freedom of movement with EU",
    "at": "2026-10-25T11:30:26.388045+09:00"
+  },
+  {
+   "title": "原沢市政誕生の舞台裏 ３位に沈んだ山中氏 開票日の夜、絞り出した言葉は 横浜市長選挙 決戦を振り返る（４）",
+   "at": "2026-10-25T11:45:18.348341+09:00"
   }
  ],
- "last_quake_check": "2026-10-25T11:30:26.388045+09:00",
- "since_english": 1,
+ "last_quake_check": "2026-10-25T11:45:18.348341+09:00",
+ "since_english": 2,
  "next_english": 3,
- "last_tick": "2026-10-25T11:30:26.388045+09:00",
+ "last_tick": "2026-10-25T11:45:18.348341+09:00",
  "french_day": "2026-10-25",
  "french_done": false,
  "french_after": 1055
