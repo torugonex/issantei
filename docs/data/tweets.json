@@ -1,20 +1,5 @@
 [
  {
-  "at": "2026-10-18T07:30+09:00",
-  "text": "お大事に、が言える知らせは何よりだ。退院なさったそうな。ご無理なさらぬよう。",
-  "expression": "微笑",
-  "scene": "regular",
-  "lang": "ja",
-  "topic": "肺腺がんで入院中だったローマ教皇が退院 術後の経過は順調 (2026年10月17日掲載)",
-  "links": [
-   {
-    "source": "ライブドアニュース",
-    "title": "肺腺がんで入院中だったローマ教皇が退院 術後の経過は順調 (2026年10月17日掲載)",
-    "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1HSzE2T3MxbmYwVkxOdDltaUhXY1NhNWhLRW1WOFBqUjJOdXdYWkhrYWRSV1NYT3F5T0xBQVJDVTNpRkdmcHRaamh0MVhQcG5TSlJZV3ZXYXpmeU1GclE?oc=5"
-   }
-  ]
- },
- {
   "at": "2026-10-18T07:45+09:00",
   "text": "Tirana and Paris, both in an uproar. Each side is sure it is the other who isn't listening.",
   "expression": "呆れのため息",
@@ -6167,6 +6152,15 @@
   "expression": "微笑",
   "scene": "life",
   "lang": "en",
+  "topic": null,
+  "links": []
+ },
+ {
+  "at": "2026-10-25T09:45+09:00",
+  "text": "日曜の朝。昼から雨と聞けば、読みかけの本をひらき、湯を沸かす。外出せぬ口実があるのは、気楽でよい。",
+  "expression": "微笑",
+  "scene": "life",
+  "lang": "ja",
   "topic": null,
   "links": []
  }
