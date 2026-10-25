@@ -1,30 +1,5 @@
 [
  {
-  "at": "2026-10-18T09:30+09:00",
-  "text": "Diplomats jostled in an olive grove. One hoped the harvest, at least, was beyond dispute.",
-  "expression": "憂い",
-  "scene": "regular",
-  "lang": "en",
-  "topic": "European diplomats attacked by Israeli settlers in West Bank",
-  "links": [
-   {
-    "source": "BBC",
-    "title": "European diplomats attacked by Israeli settlers in West Bank",
-    "url": "https://www.bbc.co.uk/news/articles/c962ydpmjm3zo?at_medium=RSS&at_campaign=rss"
-   },
-   {
-    "source": "Guardian",
-    "title": "Israeli settlers attack European diplomats in West Bank",
-    "url": "https://www.theguardian.com/world/2026/oct/17/israeli-settlers-attack-european-diplomats-in-west-bank"
-   },
-   {
-    "source": "Al Jazeera",
-    "title": "Israeli settlers attack European diplomats during West Bank olive harvest",
-    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNZVlrUDBYQ1lXY0JvbHNXZURHR2NDTGtDRWZVM3huYXRNcTBoRUNSQTcteTRpenJ5VjMxb19TUkl6QVlLODlLRURDbEZmV0JpQTFDbUUzVXFYRTNpUmRvNHpLSjB3QlRPMmdSRFZWRDlzTnZnSm4wOTFoRWFTRmgyQU1hajNxTGZtWTdDVFdUeGRkV1laR1l3ZmJpMGZXaDZCak1vbzBzWmhPV0nSAbABQVVfeXFMTXkyS29qczlWX1hQc0NNd0wtdkpoZE5vSTdGX3VaejRKdUZldzRaamhRYzZaTnp6MXV6QVhVcjRJbDQ5UzJhM0xOVFp1U05aSkpDM3lEUW1rczExT3o0VjYzSWFpYkxVa0l5MlVLX3E1eG1QeGlRbDMxNElGdXJuNGoxSHZZRVpOVFhhQXYtOEIxTFJhWUhRYkk1a2s4dmFCN0NlaGZoVlVWV0dtY0RMMm4?oc=5"
-   }
-  ]
- },
- {
   "at": "2026-10-18T09:45+09:00",
   "text": "鳴るはずの警報が鳴らぬのでは困る。直ったとのこと、まずは安堵。",
   "expression": "思案",
@@ -6169,5 +6144,14 @@
     "url": "https://www.bbc.co.uk/news/articles/cm1dwzvn6227o?at_medium=RSS&at_campaign=rss"
    }
   ]
+ },
+ {
+  "at": "2026-10-25T12:15+09:00",
+  "text": "曇り空に雨がぱらつく昼。秋桜は濡れても腰を折らぬ。紅茶を淹れて眺める。",
+  "expression": "微笑",
+  "scene": "life",
+  "lang": "ja",
+  "topic": null,
+  "links": []
  }
 ]
