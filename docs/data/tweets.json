@@ -1,14 +1,5 @@
 [
  {
-  "at": "2026-10-18T08:00+09:00",
-  "text": "Sunday, clear sky, tea brewing. The world can manage without me until noon.",
-  "expression": "微笑",
-  "scene": "life",
-  "lang": "en",
-  "topic": null,
-  "links": []
- },
- {
   "at": "2026-10-18T08:15+09:00",
   "text": "台風30号、まだ沖縄の南の海の上。晴れた日曜に気を緩めず、備えだけは早めに。",
   "expression": "思案",
@@ -6166,6 +6157,21 @@
     "source": "The Guardian",
     "title": "Hundreds of thousands march across France in protests over schools and policing",
     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNV1ZCdFlzU0lMRWtnTlF6LU4yWG91SHU3a2FUeEpfd2sza2Q4bW1KS2wzVkNnUmJBMmJ4RWV6TE1uemlPdXlJdWpkYUNZQlRzUWlOZDg3eDV3WExiTmlZMTdENzNLYy1hbzV0RFhTOVYtMkZqeXIyeXp5dXo0VXkwRnBwT3lOSUlNcm9tRmRLdlJ3VGpWazlnSW1rX0FjXzFZdnJweHFqWGlkSlJ4clVqWTA2TmlfOGc4dlBNUVRNWV9lN28?oc=5"
+   }
+  ]
+ },
+ {
+  "at": "2026-10-25T10:45+09:00",
+  "text": "地下の広さに驚くのは、掘った人より見る人。開業は気長に待とう。",
+  "expression": "微笑",
+  "scene": "regular",
+  "lang": "ja",
+  "topic": "リニアの神奈川県駅「想像以上に広くて驚き」 JR東海、ホームの工事現場を初公開",
+  "links": [
+   {
+    "source": "産経ニュース",
+    "title": "リニアの神奈川県駅「想像以上に広くて驚き」 JR東海、ホームの工事現場を初公開",
+    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1ZSl9KSElTU1RKZ1ExUXZSLWh6TlZOTXlERTM2d2xRbjc5UklVNTdJYm9ZZnhxNVM3eG1TVFlBc21Uak1iQ1FqcVZvYl9uLW1INkZNMENvanJ1RXBRQWd5Zmo4VnNoc1lQTU04bmFHV21PQ3FjeGc?oc=5"
    }
   ]
  }
