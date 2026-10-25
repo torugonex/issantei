@@ -1,15 +1,14 @@
 {
  "mood": {
-  "valence": 0.103,
+  "valence": 0.102,
   "arousal": 0.001
  },
- "since_sarcasm": 3,
+ "since_sarcasm": 4,
  "day": "2026-10-25",
  "morning_done": true,
  "goodnight_done": false,
  "sleeptalk_night": "2026-10-24",
  "commented": {
-  "7199b7ee735b": "2026-10-23T11:15:19.830668+09:00",
   "5bce45fe13cd": "2026-10-23T11:45:18.474332+09:00",
   "a074c09a8067": "2026-10-23T12:00:43.991655+09:00",
   "a4008fb12835": "2026-10-23T12:15:19.755904+09:00",
@@ -85,13 +84,10 @@
   "1dd33e111145": "2026-10-25T10:15:18.316748+09:00",
   "6a7eb92ee405": "2026-10-25T10:45:17.090846+09:00",
   "5f57b8dd33d5": "2026-10-25T11:00:36.861689+09:00",
-  "quake-202610251110": "2026-10-25T11:15:18.282409+09:00"
+  "quake-202610251110": "2026-10-25T11:15:18.282409+09:00",
+  "cf8fe2128b4b": "2026-10-25T11:30:26.388045+09:00"
  },
  "commented_titles": [
-  {
-   "title": "ウクライナ南部で一時停戦、ホワイトハウス発表「メラニア夫人が主導」…２９日から",
-   "at": "2026-10-24T11:15:18.295148+09:00"
-  },
   {
    "title": "Seven shot dead by gunmen at church funeral in Jordan, officials say",
    "at": "2026-10-24T11:30:28.605277+09:00"
@@ -235,12 +231,16 @@
   {
    "title": "で地震",
    "at": "2026-10-25T11:15:18.282409+09:00"
+  },
+  {
+   "title": "Andy Burnham says he wants ‘honest discussion’ about freedom of movement with EU",
+   "at": "2026-10-25T11:30:26.388045+09:00"
   }
  ],
- "last_quake_check": "2026-10-25T11:15:18.282409+09:00",
- "since_english": 2,
+ "last_quake_check": "2026-10-25T11:30:26.388045+09:00",
+ "since_english": 1,
  "next_english": 3,
- "last_tick": "2026-10-25T11:15:18.282409+09:00",
+ "last_tick": "2026-10-25T11:30:26.388045+09:00",
  "french_day": "2026-10-25",
  "french_done": false,
  "french_after": 1055

@@ -1,14 +1,5 @@
 [
  {
-  "at": "2026-10-18T08:45+09:00",
-  "text": "Clear Sunday morning. Read the same page twice, and the second reading was no wiser. Tea, then.",
-  "expression": "思案",
-  "scene": "life",
-  "lang": "en",
-  "topic": null,
-  "links": []
- },
- {
   "at": "2026-10-18T09:00+09:00",
   "text": "家ごと楽器にするとは、ご執心も極まる。ご近所への挨拶は一曲ごとに要るだろう。",
   "expression": "愉快な笑い",
@@ -6163,5 +6154,25 @@
   "lang": "ja",
   "topic": "で地震",
   "links": []
+ },
+ {
+  "at": "2026-10-25T11:30+09:00",
+  "text": "An honest discussion about Europe. Splendid, so long as everyone agrees to stay honest afterwards.",
+  "expression": "思案",
+  "scene": "regular",
+  "lang": "en",
+  "topic": "Andy Burnham says he wants ‘honest discussion’ about freedom of movement with EU",
+  "links": [
+   {
+    "source": "Guardian",
+    "title": "Andy Burnham says he wants ‘honest discussion’ about freedom of movement with EU",
+    "url": "https://www.theguardian.com/politics/2026/oct/25/andy-burnham-says-he-wants-honest-discussion-about-freedom-of-movement-with-eu"
+   },
+   {
+    "source": "BBC",
+    "title": "Burnham open to 'honest discussion' on EU free movement",
+    "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFA0WFF3azFUTkZwM2JRcE03dEZ5cXQyYjVVWkwxNVdsbHhqYmdvMzJJYXFmU1c4dThORVZlWlBWVFE1dE5vRmNBdUFSY0hPR0lBQTVqWXBmVlRWd3FIN3c?oc=5"
+   }
+  ]
  }
 ]
