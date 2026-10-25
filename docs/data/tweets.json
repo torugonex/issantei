@@ -1,25 +1,5 @@
 [
  {
-  "at": "2026-10-18T09:15+09:00",
-  "text": "火星の月の砂を拾いに行くとは。人の好奇心は、足元の掃除より遠くへ向く。",
-  "expression": "片眉を上げる",
-  "scene": "regular",
-  "lang": "ja",
-  "topic": "火星の衛星から砂持ち帰る計画 探査機「MMX」20日打ち上げへ",
-  "links": [
-   {
-    "source": "NHKニュース",
-    "title": "火星の衛星から砂持ち帰る計画 探査機「MMX」20日打ち上げへ",
-    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9VSGJwS2ZwMkluMi1LX1NvYVMxVEdrank3NWFVN2NFcE43WHJBeUxyRXd3b29vcmdkMndHa1NzSnAwMGo2QmdES1ZQY2U1LUhoZllVNFdqT1FfMlNsZXpj?oc=5"
-   },
-   {
-    "source": "NHK",
-    "title": "火星の衛星から砂持ち帰る計画 探査機「MMX」20日打ち上げへ",
-    "url": "https://news.web.nhk/newsweb/na/nd-20261017de61034"
-   }
-  ]
- },
- {
   "at": "2026-10-18T09:30+09:00",
   "text": "Diplomats jostled in an olive grove. One hoped the harvest, at least, was beyond dispute.",
   "expression": "憂い",
@@ -6172,6 +6152,21 @@
     "source": "カナロコ",
     "title": "原沢市政誕生の舞台裏 ３位に沈んだ山中氏 開票日の夜、絞り出した言葉は 横浜市長選挙 決戦を振り返る（４）",
     "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9vX0loajJqMDdqbnZGYXJfWHJ1VWRGb0tQeXhMREpTTURxMG9xbGplTlVLaExLdk5YNlhKZUNtWUdnVWw4VUh5aTBKSHlSck11Y0I2emhOcHJMZks0d25VSHVWd3puQVlvUndOYWJCWVp3T0t1a3h5NHU0dmdhdw?oc=5"
+   }
+  ]
+ },
+ {
+  "at": "2026-10-25T12:00+09:00",
+  "text": "Cancer-free after six months. Good news needs no commentary, so I shall offer none.",
+  "expression": "微笑",
+  "scene": "regular",
+  "lang": "en",
+  "topic": "Vanessa Trump says she is cancer-free six months after revealing diagnosis",
+  "links": [
+   {
+    "source": "BBC",
+    "title": "Vanessa Trump says she is cancer-free six months after revealing diagnosis",
+    "url": "https://www.bbc.co.uk/news/articles/cm1dwzvn6227o?at_medium=RSS&at_campaign=rss"
    }
   ]
  }
