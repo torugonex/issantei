@@ -1,20 +1,5 @@
 [
  {
-  "at": "2026-10-18T07:58+09:00",
-  "text": "制裁を緩めるのも、強めるのも、決めるのは遠い席の人々。当事者の苛立ちは察するに余りある。",
-  "expression": "思案",
-  "scene": "regular",
-  "lang": "ja",
-  "topic": "ゼレンスキー大統領 アメリカのロシア制裁免除に反発",
-  "links": [
-   {
-    "source": "NHK",
-    "title": "ゼレンスキー大統領 アメリカのロシア制裁免除に反発",
-    "url": "https://news.web.nhk/newsweb/na/nd-20261017de61037"
-   }
-  ]
- },
- {
   "at": "2026-10-18T08:00+09:00",
   "text": "Sunday, clear sky, tea brewing. The world can manage without me until noon.",
   "expression": "微笑",
@@ -6161,6 +6146,26 @@
     "source": "NHK",
     "title": "ブラジル大統領選挙 決選投票へ 世論調査は接戦予想",
     "url": "https://news.web.nhk/newsweb/na/nd-20261025de64972"
+   }
+  ]
+ },
+ {
+  "at": "2026-10-25T10:15+09:00",
+  "text": "Hundreds of thousands marching in France. A well-practised art, and the pavements do rather get the exercise.",
+  "expression": "片眉を上げる",
+  "scene": "regular",
+  "lang": "en",
+  "topic": "Hundreds of thousands march in France as protests take place across Europe – as it happened",
+  "links": [
+   {
+    "source": "Guardian",
+    "title": "Hundreds of thousands march in France as protests take place across Europe – as it happened",
+    "url": "https://www.theguardian.com/world/live/2026/oct/24/france-demonstrations-police-macron-italy-albania-belgium-spain-ukraine-russia-europe-latest-news"
+   },
+   {
+    "source": "The Guardian",
+    "title": "Hundreds of thousands march across France in protests over schools and policing",
+    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNV1ZCdFlzU0lMRWtnTlF6LU4yWG91SHU3a2FUeEpfd2sza2Q4bW1KS2wzVkNnUmJBMmJ4RWV6TE1uemlPdXlJdWpkYUNZQlRzUWlOZDg3eDV3WExiTmlZMTdENzNLYy1hbzV0RFhTOVYtMkZqeXIyeXp5dXo0VXkwRnBwT3lOSUlNcm9tRmRLdlJ3VGpWazlnSW1rX0FjXzFZdnJweHFqWGlkSlJ4clVqWTA2TmlfOGc4dlBNUVRNWV9lN28?oc=5"
    }
   ]
  }
